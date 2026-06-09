@@ -83,7 +83,7 @@ class CrystalDiffusionNetwork:
         outputs = jax.vmap(process_single_atom)(noisy_atoms)
         
         # CLIPPING GLOBAL: Protege contra activaciones lineales explosivas
-        pred_noise_lattice = jnp.clip(jnp.mean(outputs[:, :6], axis=0), -5.0, 5.0) 
-        pred_noise_atoms = jnp.clip(outputs[:, 6:], -5.0, 5.0) 
+        pred_noise_lattice = jnp.mean(outputs[:, :6], axis=0)
+        pred_noise_atoms = outputs[:, 6:]
         
         return pred_noise_lattice, pred_noise_atoms

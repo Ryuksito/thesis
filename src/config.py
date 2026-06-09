@@ -28,22 +28,22 @@ INPUT_DIM = (MAX_ELEMENTS * ELEM_FEATURES) + CRYSTAL_EMBED + CRYSTAL_PROPS  # 11
 OUTPUT_DIM = 6 + (MAX_ATOMS * 4)  # Lattice(6) + 64 * (Z, x, y, z) = 262
 
 #===============================Neat===============================
-POPSIZE = 64
+POPSIZE = 112
 SPECIES_SIZE = 20
-SURVIVAL_THRESHOLD = 0.3
+SURVIVAL_THRESHOLD = 0.1
 MAX_NODES = 200
 MAX_CONNS = 2200
-CONN_ADD_PROB = 0.6
+CONN_ADD_PROB = 0.15
 CONN_DELETE_PROB = 0.3
-NODE_ADD_PROB = 0.3
+NODE_ADD_PROB = 0.05
 NODE_DELETE_PROB = 0.05
 
 #===============================Structure===============================
 STRUCTURE_DIM = MAX_ATOMS * 4
 
 #===============================Training Loop===============================
-BATCH_SIZE = 8
-N_GENERATIONS = 50
+BATCH_SIZE = 24
+N_GENERATIONS = 300
 GRAD_STEPS_PER_GEN = 10
 GRAD_LR = 0.005
 LR_MAX = 0.005
