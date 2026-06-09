@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Tb3Hg2BiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18295614
+_cell_length_b   7.18295751
+_cell_length_c   10.07902435
+_cell_angle_alpha   58.76318371
+_cell_angle_beta   58.76317853
+_cell_angle_gamma   29.52697470
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Hg2BiO8
+_chemical_formula_sum   'Tb3 Hg2 Bi1 O8'
+_cell_volume   216.31551723
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.61831921  0.61831921  0.53780444  1
+  Tb  Tb1  1  0.15924793  0.15924793  0.19996413  1
+  Tb  Tb2  1  0.84164997  0.84164997  0.80384307  1
+  Hg  Hg3  1  0.88613574  0.88613574  0.15846109  1
+  Hg  Hg4  1  0.11606727  0.11606727  0.83914567  1
+  Bi  Bi5  1  0.38305874  0.38305874  0.46299091  1
+  O  O6  1  0.21938807  0.21938807  0.38570861  1
+  O  O7  1  0.79386764  0.79386764  0.05886588  1
+  O  O8  1  0.03419314  0.03419314  0.72369205  1
+  O  O9  1  0.57965977  0.57965977  0.34759903  1
+  O  O10  1  0.42161285  0.42161285  0.65310651  1
+  O  O11  1  0.97270402  0.97270402  0.26513054  1
+  O  O12  1  0.20882656  0.20882656  0.93959150  1
+  O  O13  1  0.76527110  0.76527110  0.62409557  1

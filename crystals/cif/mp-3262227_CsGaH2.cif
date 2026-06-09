@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CsGaH2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55698215
+_cell_length_b   7.87230201
+_cell_length_c   10.06249383
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsGaH2
+_chemical_formula_sum   'Cs4 Ga4 H8'
+_cell_volume   360.98129756
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.75000000  0.37626848  0.67624396  1
+  Cs  Cs1  1  0.75000000  0.87626848  0.82375604  1
+  Cs  Cs2  1  0.25000000  0.12373152  0.17624396  1
+  Cs  Cs3  1  0.25000000  0.62373152  0.32375604  1
+  Ga  Ga4  1  0.25000000  0.05972490  0.53032159  1
+  Ga  Ga5  1  0.25000000  0.55972490  0.96967841  1
+  Ga  Ga6  1  0.75000000  0.44027510  0.03032159  1
+  Ga  Ga7  1  0.75000000  0.94027510  0.46967841  1
+  H  H8  1  0.75000000  0.73870947  0.52056362  1
+  H  H9  1  0.25000000  0.09795895  0.69179639  1
+  H  H10  1  0.25000000  0.59795895  0.80820361  1
+  H  H11  1  0.75000000  0.23870947  0.97943638  1
+  H  H12  1  0.25000000  0.76129053  0.02056362  1
+  H  H13  1  0.75000000  0.40204105  0.19179639  1
+  H  H14  1  0.75000000  0.90204105  0.30820361  1
+  H  H15  1  0.25000000  0.26129053  0.47943638  1

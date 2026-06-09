@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba2Sr3(TiN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.51479169
+_cell_length_b   9.28802813
+_cell_length_c   9.52818361
+_cell_angle_alpha   104.25243762
+_cell_angle_beta   105.43862479
+_cell_angle_gamma   107.09674160
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Sr3(TiN3)2
+_chemical_formula_sum   'Ba4 Sr6 Ti4 N12'
+_cell_volume   497.15546065
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.79540970  0.55308757  0.60549849  1
+  Ba  Ba1  1  0.20459030  0.44691243  0.39450151  1
+  Ba  Ba2  1  0.19070627  0.98331534  0.86507658  1
+  Ba  Ba3  1  0.80929373  0.01668466  0.13492342  1
+  Sr  Sr4  1  0.80153229  0.11738805  0.55430179  1
+  Sr  Sr5  1  0.19846671  0.88261095  0.44569721  1
+  Sr  Sr6  1  0.43034741  0.58610830  0.87664064  1
+  Sr  Sr7  1  0.56965159  0.41389270  0.12335936  1
+  Sr  Sr8  1  0.98014367  0.29309141  0.95165043  1
+  Sr  Sr9  1  0.01985633  0.70690859  0.04835057  1
+  Ti  Ti10  1  0.44595313  0.15629334  0.29559249  1
+  Ti  Ti11  1  0.55404587  0.84370666  0.70440651  1
+  Ti  Ti12  1  0.46314032  0.24471144  0.71571299  1
+  Ti  Ti13  1  0.53685968  0.75528956  0.28428601  1
+  N  N14  1  0.40708681  0.21609429  0.49608180  1
+  N  N15  1  0.59291319  0.78390471  0.50391820  1
+  N  N16  1  0.55830659  0.06753021  0.74762925  1
+  N  N17  1  0.44169441  0.93246979  0.25237075  1
+  N  N18  1  0.20409765  0.24612343  0.77678646  1
+  N  N19  1  0.79590135  0.75387557  0.22321254  1
+  N  N20  1  0.71570395  0.43740636  0.84945966  1
+  N  N21  1  0.28429805  0.56259364  0.15054134  1
+  N  N22  1  0.23274694  0.18893377  0.14380342  1
+  N  N23  1  0.76725106  0.81106623  0.85619658  1
+  N  N24  1  0.74693980  0.29634367  0.32040127  1
+  N  N25  1  0.25306220  0.70365733  0.67959873  1

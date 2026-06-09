@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na4AlGa3Sn8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.16050168
+_cell_length_b   6.46083433
+_cell_length_c   10.85606817
+_cell_angle_alpha   90.08188173
+_cell_angle_beta   89.99979932
+_cell_angle_gamma   89.81179063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4AlGa3Sn8
+_chemical_formula_sum   'Na4 Al1 Ga3 Sn8'
+_cell_volume   432.09024408
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.76995385  0.73151487  0.09911058  1
+  Na  Na1  1  0.73723126  0.26418386  0.59956493  1
+  Na  Na2  1  0.26906407  0.77697815  0.89877921  1
+  Na  Na3  1  0.23177778  0.23097220  0.40277059  1
+  Al  Al4  1  0.40610285  0.39723568  0.11889751  1
+  Ga  Ga5  1  0.59130089  0.90005405  0.38115376  1
+  Ga  Ga6  1  0.90725678  0.09954660  0.88057182  1
+  Ga  Ga7  1  0.09177632  0.59894092  0.61906429  1
+  Sn  Sn8  1  0.76951260  0.74308669  0.76930654  1
+  Sn  Sn9  1  0.72998746  0.25728924  0.27242469  1
+  Sn  Sn10  1  0.26888668  0.75824611  0.22939106  1
+  Sn  Sn11  1  0.23126927  0.24245294  0.72969036  1
+  Sn  Sn12  1  0.91763469  0.62542631  0.39044547  1
+  Sn  Sn13  1  0.58394040  0.37715582  0.88880377  1
+  Sn  Sn14  1  0.41609279  0.87369884  0.60940292  1
+  Sn  Sn15  1  0.07821032  0.12321972  0.11062250  1

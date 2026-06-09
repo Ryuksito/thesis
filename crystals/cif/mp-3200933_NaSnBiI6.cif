@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_NaSnBiI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.58115125
+_cell_length_b   8.56678511
+_cell_length_c   8.57282698
+_cell_angle_alpha   54.34424252
+_cell_angle_beta   54.28361802
+_cell_angle_gamma   54.31888044
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSnBiI6
+_chemical_formula_sum   'Na1 Sn1 Bi1 I6'
+_cell_volume   386.52974843
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.66705765  0.66718002  0.66687036  1
+  Sn  Sn1  1  0.33306127  0.33308608  0.33290523  1
+  Bi  Bi2  1  0.99999537  0.99979671  0.00008780  1
+  I  I3  1  0.24068485  0.59485307  0.91638725  1
+  I  I4  1  0.59605816  0.91599884  0.24005935  1
+  I  I5  1  0.91702261  0.23959548  0.59564312  1
+  I  I6  1  0.75689231  0.40454017  0.08620491  1
+  I  I7  1  0.40333605  0.08683511  0.75771452  1
+  I  I8  1  0.08589272  0.75811550  0.40412847  1

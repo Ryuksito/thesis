@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Er5MnFeO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65795633
+_cell_length_b   6.65795647
+_cell_length_c   7.05723521
+_cell_angle_alpha   74.55201609
+_cell_angle_beta   74.55201716
+_cell_angle_gamma   50.33624991
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er5MnFeO12
+_chemical_formula_sum   'Er5 Mn1 Fe1 O12'
+_cell_volume   230.15660121
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.30145952  0.30524540  0.35790403  1
+  Er  Er1  1  0.69475460  0.69854048  0.64209597  1
+  Er  Er2  1  0.30809427  0.30575269  0.83441952  1
+  Er  Er3  1  0.69424731  0.69190573  0.16558048  1
+  Er  Er4  1  0.99612345  0.00387655  0.50000000  1
+  Mn  Mn5  1  0.24736554  0.75263446  1.00000000  1
+  Fe  Fe6  1  0.75931838  0.24068162  0.00000000  1
+  O  O7  1  0.90029103  0.41590511  0.92026526  1
+  O  O8  1  0.42122839  0.90206037  0.92011711  1
+  O  O9  1  0.09793963  0.57877161  0.07988289  1
+  O  O10  1  0.58409489  0.09970897  0.07973474  1
+  O  O11  1  0.09657952  0.59905792  0.57617229  1
+  O  O12  1  0.59733878  0.09886761  0.57384136  1
+  O  O13  1  0.90113239  0.40266122  0.42615864  1
+  O  O14  1  0.40094208  0.90342048  0.42382771  1
+  O  O15  1  0.99467229  0.00584162  0.82329908  1
+  O  O16  1  0.99415838  0.00532771  0.17670092  1
+  O  O17  1  0.50530863  0.49505008  0.82084146  1
+  O  O18  1  0.50494992  0.49469137  0.17915854  1

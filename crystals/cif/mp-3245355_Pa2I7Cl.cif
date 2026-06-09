@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Pa2I7Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.91423610
+_cell_length_b   7.76075833
+_cell_length_c   7.76075899
+_cell_angle_alpha   102.70451715
+_cell_angle_beta   110.18447804
+_cell_angle_gamma   105.40213675
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa2I7Cl
+_chemical_formula_sum   'Pa2 I7 Cl1'
+_cell_volume   507.28897556
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.68224912  0.20199074  0.48025938  1
+  Pa  Pa1  1  0.57519070  0.54936142  0.02582928  1
+  I  I2  1  0.48457208  0.76189253  0.34161729  1
+  I  I3  1  0.39763707  0.22964280  0.16799427  1
+  I  I4  1  0.85837799  0.51968876  0.33869023  1
+  I  I5  1  0.77496349  0.98685813  0.16771005  1
+  I  I6  1  0.77496349  0.60725344  0.78810537  1
+  I  I7  1  0.30751260  0.57236626  0.73514633  1
+  I  I8  1  0.48457208  0.14295479  0.72268055  1
+  Cl  Cl9  1  0.90996038  0.17799213  0.73196825  1

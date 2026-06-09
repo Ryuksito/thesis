@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Tb2(CN2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41416108
+_cell_length_b   7.41416217
+_cell_length_c   5.23346287
+_cell_angle_alpha   84.15094545
+_cell_angle_beta   84.15094182
+_cell_angle_gamma   29.62305760
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2(CN2)3
+_chemical_formula_sum   'Tb2 C3 N6'
+_cell_volume   141.40679554
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.86587938  0.86587938  0.57010913  1
+  Tb  Tb1  1  0.13412062  0.13412062  0.42989087  1
+  C  C2  1  0.32839584  0.32839584  0.09375182  1
+  C  C3  1  0.67160416  0.67160416  0.90624818  1
+  C  C4  1  0.00000000  0.00000000  0.00000000  1
+  N  N5  1  0.98848679  0.98848679  0.23530841  1
+  N  N6  1  0.01151321  0.01151321  0.76469159  1
+  N  N7  1  0.68975117  0.68975117  0.66890262  1
+  N  N8  1  0.31024883  0.31024883  0.33109738  1
+  N  N9  1  0.65684429  0.65684429  0.13836612  1
+  N  N10  1  0.34315571  0.34315571  0.86163388  1

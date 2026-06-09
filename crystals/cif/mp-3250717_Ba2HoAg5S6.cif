@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba2HoAg5S6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18519243
+_cell_length_b   7.29129514
+_cell_length_c   11.22415315
+_cell_angle_alpha   95.01677456
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   106.67839432
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2HoAg5S6
+_chemical_formula_sum   'Ba2 Ho1 Ag5 S6'
+_cell_volume   326.73123454
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25460519  0.50921039  0.70326694  1
+  Ba  Ba1  1  0.74539481  0.49078961  0.29673306  1
+  Ho  Ho2  1  0.50000000  0.00000000  0.50000000  1
+  Ag  Ag3  1  0.01761266  0.03522632  0.25178905  1
+  Ag  Ag4  1  0.98238734  0.96477368  0.74821095  1
+  Ag  Ag5  1  0.35587719  0.71175637  0.04260565  1
+  Ag  Ag6  1  0.64412281  0.28824363  0.95739435  1
+  Ag  Ag7  1  0.00000000  0.00000000  0.00000000  1
+  S  S8  1  0.12363146  0.24726093  0.45289551  1
+  S  S9  1  0.87636854  0.75273907  0.54710449  1
+  S  S10  1  0.15832310  0.31664520  0.09984960  1
+  S  S11  1  0.84167690  0.68335480  0.90015040  1
+  S  S12  1  0.41296697  0.82593394  0.26846108  1
+  S  S13  1  0.58703303  0.17406606  0.73153892  1

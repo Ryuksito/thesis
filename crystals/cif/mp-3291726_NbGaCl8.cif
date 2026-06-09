@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NbGaCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.59181620
+_cell_length_b   9.59181628
+_cell_length_c   8.34656939
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   130.14715721
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbGaCl8
+_chemical_formula_sum   'Nb2 Ga2 Cl16'
+_cell_volume   586.98265867
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.61055911  0.38944089  0.25000000  1
+  Nb  Nb1  1  0.38944089  0.61055911  0.75000000  1
+  Ga  Ga2  1  0.81670790  0.18329210  0.25000000  1
+  Ga  Ga3  1  0.18329210  0.81670790  0.75000000  1
+  Cl  Cl4  1  0.52230127  0.06393293  0.25000000  1
+  Cl  Cl5  1  0.06393293  0.52230127  0.75000000  1
+  Cl  Cl6  1  0.47769873  0.93606707  0.75000000  1
+  Cl  Cl7  1  0.93606707  0.47769873  0.25000000  1
+  Cl  Cl8  1  0.63177228  0.36822772  0.97544084  1
+  Cl  Cl9  1  0.36822772  0.63177228  0.02455916  1
+  Cl  Cl10  1  0.63177228  0.36822772  0.52455916  1
+  Cl  Cl11  1  0.36822772  0.63177228  0.47544084  1
+  Cl  Cl12  1  0.31179939  0.25335594  0.25000000  1
+  Cl  Cl13  1  0.25335594  0.31179939  0.75000000  1
+  Cl  Cl14  1  0.68820061  0.74664406  0.75000000  1
+  Cl  Cl15  1  0.74664406  0.68820061  0.25000000  1
+  Cl  Cl16  1  0.88170849  0.11829151  0.46641878  1
+  Cl  Cl17  1  0.11829151  0.88170849  0.53358122  1
+  Cl  Cl18  1  0.88170849  0.11829151  0.03358122  1
+  Cl  Cl19  1  0.11829151  0.88170849  0.96641878  1

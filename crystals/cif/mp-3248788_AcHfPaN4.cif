@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_AcHfPaN4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.89195955
+_cell_length_b   6.79635656
+_cell_length_c   6.89187659
+_cell_angle_alpha   119.54257516
+_cell_angle_beta   88.37307268
+_cell_angle_gamma   119.54225066
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcHfPaN4
+_chemical_formula_sum   'Ac2 Hf2 Pa2 N8'
+_cell_volume   234.29646484
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.99608870  0.99998683  0.00388561  1
+  Ac  Ac1  1  0.75389766  0.50001356  0.24612777  1
+  Hf  Hf2  1  0.37499942  0.75000202  0.62499925  1
+  Hf  Hf3  1  0.37500021  0.24999819  0.62499952  1
+  Pa  Pa4  1  0.37499779  0.74999812  0.12499744  1
+  Pa  Pa5  1  0.87500182  0.25000114  0.62500162  1
+  N  N6  1  0.60409903  0.20890571  0.39590865  1
+  N  N7  1  0.18795384  0.79676350  0.40557456  1
+  N  N8  1  0.60409862  0.79110228  0.39590853  1
+  N  N9  1  0.15557712  0.29676110  0.43794921  1
+  N  N10  1  0.59444055  0.20325047  0.81206136  1
+  N  N11  1  0.14590218  0.70890749  0.85408589  1
+  N  N12  1  0.14590504  0.29108194  0.85408778  1
+  N  N13  1  0.56203801  0.70322565  0.84441081  1

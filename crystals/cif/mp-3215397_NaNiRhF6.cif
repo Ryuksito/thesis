@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_NaNiRhF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.23802307
+_cell_length_b   5.23791742
+_cell_length_c   9.54312742
+_cell_angle_alpha   90.00128205
+_cell_angle_beta   89.99830264
+_cell_angle_gamma   119.99695734
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaNiRhF6
+_chemical_formula_sum   'Na2 Ni2 Rh2 F12'
+_cell_volume   226.75701048
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.99999932  0.00000296  0.24999844  1
+  Na  Na1  1  0.99999765  0.99999767  0.74999633  1
+  Ni  Ni2  1  0.66665342  0.33331349  0.99998970  1
+  Ni  Ni3  1  0.33336203  0.66671317  0.50000530  1
+  Rh  Rh4  1  0.33328968  0.66668578  0.99999401  1
+  Rh  Rh5  1  0.66668043  0.33331133  0.50000129  1
+  F  F6  1  0.00251871  0.35394661  0.11078674  1
+  F  F7  1  0.64604289  0.64853061  0.11079805  1
+  F  F8  1  0.35146059  0.99749532  0.11078604  1
+  F  F9  1  0.64854078  0.00250025  0.38921353  1
+  F  F10  1  0.35396257  0.35146686  0.38921214  1
+  F  F11  1  0.99748178  0.64604216  0.38921348  1
+  F  F12  1  0.35389950  0.00250300  0.61076834  1
+  F  F13  1  0.99752002  0.35141721  0.61076757  1
+  F  F14  1  0.64859128  0.64608762  0.61077006  1
+  F  F15  1  0.35142497  0.35392228  0.88923478  1
+  F  F16  1  0.00248001  0.64857766  0.88923543  1
+  F  F17  1  0.64609340  0.99748202  0.88923277  1

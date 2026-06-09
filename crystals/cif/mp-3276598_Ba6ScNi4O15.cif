@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba6ScNi4O15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.17617788
+_cell_length_b   7.19295879
+_cell_length_c   7.24316628
+_cell_angle_alpha   88.29330980
+_cell_angle_beta   88.84831685
+_cell_angle_gamma   88.92572017
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba6ScNi4O15
+_chemical_formula_sum   'Ba6 Sc1 Ni4 O15'
+_cell_volume   373.57443059
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.33767036  0.66791781  0.99856852  1
+  Ba  Ba1  1  0.99542269  0.33707438  0.66189176  1
+  Ba  Ba2  1  0.66864036  0.99160150  0.33233154  1
+  Ba  Ba3  1  0.13756797  0.85448138  0.50130019  1
+  Ba  Ba4  1  0.49920413  0.14024892  0.85681253  1
+  Ba  Ba5  1  0.85500976  0.49804446  0.13431729  1
+  Sc  Sc6  1  0.50757670  0.50245879  0.49856847  1
+  Ni  Ni7  1  0.29157633  0.29047183  0.29033859  1
+  Ni  Ni8  1  0.70804096  0.70991658  0.70990742  1
+  Ni  Ni9  1  0.09721434  0.09653508  0.09525668  1
+  Ni  Ni10  1  0.90178322  0.90593773  0.90941203  1
+  O  O11  1  0.14223572  0.00234470  0.85842321  1
+  O  O12  1  0.85990510  0.14392521  0.00042873  1
+  O  O13  1  0.00456703  0.85909804  0.14291106  1
+  O  O14  1  0.04093633  0.19441032  0.32790553  1
+  O  O15  1  0.32911080  0.04189454  0.19749407  1
+  O  O16  1  0.19795670  0.33017647  0.04122063  1
+  O  O17  1  0.80088312  0.96268252  0.67698482  1
+  O  O18  1  0.66882991  0.81643421  0.98723537  1
+  O  O19  1  0.95754982  0.67331699  0.80807540  1
+  O  O20  1  0.37298093  0.23497210  0.52867971  1
+  O  O21  1  0.52989301  0.36961831  0.23333061  1
+  O  O22  1  0.23854028  0.53064052  0.37007503  1
+  O  O23  1  0.76687301  0.61762245  0.44933089  1
+  O  O24  1  0.46423308  0.76281035  0.62492732  1
+  O  O25  1  0.62579633  0.46536480  0.76427259  1

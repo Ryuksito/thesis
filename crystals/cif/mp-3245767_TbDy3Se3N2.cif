@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TbDy3Se3N2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.92333826
+_cell_length_b   6.92333874
+_cell_length_c   10.26115614
+_cell_angle_alpha   52.28579339
+_cell_angle_beta   52.28578975
+_cell_angle_gamma   32.89514075
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbDy3Se3N2
+_chemical_formula_sum   'Tb1 Dy3 Se3 N2'
+_cell_volume   205.73279335
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.24425079  0.24425079  0.63923793  1
+  Dy  Dy1  1  0.44301884  0.44301884  0.84808908  1
+  Dy  Dy2  1  0.55732979  0.55732979  0.15182622  1
+  Dy  Dy3  1  0.75663425  0.75663425  0.35998958  1
+  Se  Se4  1  0.83401030  0.83401030  0.77379016  1
+  Se  Se5  1  0.99978354  0.99978354  0.00022427  1
+  Se  Se6  1  0.16496334  0.16496334  0.22859224  1
+  N  N7  1  0.35195148  0.35195148  0.36127361  1
+  N  N8  1  0.64805767  0.64805767  0.63697790  1

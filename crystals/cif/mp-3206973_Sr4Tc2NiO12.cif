@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Sr4Tc2NiO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49678695
+_cell_length_b   5.49678677
+_cell_length_c   9.42105784
+_cell_angle_alpha   73.03851406
+_cell_angle_beta   106.96148489
+_cell_angle_gamma   119.99999660
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4Tc2NiO12
+_chemical_formula_sum   'Sr4 Tc2 Ni1 O12'
+_cell_volume   232.10996469
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.70728410  0.29271490  0.12185530  1
+  Sr  Sr1  1  0.13012583  0.86987317  0.39037749  1
+  Sr  Sr2  1  0.86987317  0.13012483  0.60962251  1
+  Sr  Sr3  1  0.29271490  0.70728410  0.87814570  1
+  Tc  Tc4  1  0.42117947  0.57882053  0.26353741  1
+  Tc  Tc5  1  0.57882153  0.42117847  0.73646259  1
+  Ni  Ni6  1  0.00000000  0.00000000  0.00000000  1
+  O  O7  1  0.21591186  0.30157249  0.13025023  1
+  O  O8  1  0.69842651  0.78408814  0.13025023  1
+  O  O9  1  0.21591186  0.78408814  0.13025023  1
+  O  O10  1  0.13230825  0.38108982  0.37012861  1
+  O  O11  1  0.61891118  0.38109082  0.37012861  1
+  O  O12  1  0.61891118  0.86769275  0.37012861  1
+  O  O13  1  0.38108982  0.13230925  0.62987139  1
+  O  O14  1  0.86769275  0.61891018  0.62987139  1
+  O  O15  1  0.38108982  0.61891118  0.62987139  1
+  O  O16  1  0.78408714  0.21591086  0.86974877  1
+  O  O17  1  0.30157149  0.21591086  0.86974877  1
+  O  O18  1  0.78408714  0.69842651  0.86974877  1

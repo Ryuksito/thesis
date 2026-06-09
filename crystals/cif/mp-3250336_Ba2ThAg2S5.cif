@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2ThAg2S5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25806577
+_cell_length_b   7.32577288
+_cell_length_c   9.39443258
+_cell_angle_alpha   99.74584436
+_cell_angle_beta   103.09858262
+_cell_angle_gamma   106.89521086
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2ThAg2S5
+_chemical_formula_sum   'Ba2 Th1 Ag2 S5'
+_cell_volume   264.26634840
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.45511717  0.62332329  0.28691104  1
+  Ba  Ba1  1  0.54488283  0.37667671  0.71308896  1
+  Th  Th2  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag3  1  0.74121270  0.16541147  0.31701393  1
+  Ag  Ag4  1  0.25878730  0.83458853  0.68298607  1
+  S  S5  1  0.66927767  0.28020646  0.05834987  1
+  S  S6  1  0.12896600  0.96366470  0.29426630  1
+  S  S7  1  0.00000100  0.50000100  0.50000000  1
+  S  S8  1  0.87103400  0.03633530  0.70573470  1
+  S  S9  1  0.33072333  0.71979554  0.94165013  1

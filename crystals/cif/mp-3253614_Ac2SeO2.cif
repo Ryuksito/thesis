@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ac2SeO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.24139552
+_cell_length_b   4.24141045
+_cell_length_c   7.41454566
+_cell_angle_alpha   89.99998190
+_cell_angle_beta   90.00001892
+_cell_angle_gamma   120.00010922
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ac2SeO2
+_chemical_formula_sum   'Ac2 Se1 O2'
+_cell_volume   115.51377415
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.33333200  0.66666700  0.28665363  1
+  Ac  Ac1  1  0.66666800  0.33333400  0.71334637  1
+  Se  Se2  1  0.00000100  0.00000000  0.00000000  1
+  O  O3  1  0.66666600  0.33333400  0.37632032  1
+  O  O4  1  0.33333500  0.66666700  0.62368068  1

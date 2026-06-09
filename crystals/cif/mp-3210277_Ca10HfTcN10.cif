@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ca10HfTcN10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.94359055
+_cell_length_b   6.94358997
+_cell_length_c   8.92161340
+_cell_angle_alpha   80.45629126
+_cell_angle_beta   80.45628275
+_cell_angle_gamma   59.77849489
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca10HfTcN10
+_chemical_formula_sum   'Ca10 Hf1 Tc1 N10'
+_cell_volume   364.81970879
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.87661532  0.35266329  0.82774816  1
+  Ca  Ca1  1  0.87443336  0.87443336  0.81858438  1
+  Ca  Ca2  1  0.73864045  0.73864045  0.53305184  1
+  Ca  Ca3  1  0.75016914  0.25021332  0.50944333  1
+  Ca  Ca4  1  0.63032322  0.13686553  0.14886789  1
+  Ca  Ca5  1  0.35266329  0.87661532  0.82774816  1
+  Ca  Ca6  1  0.25021332  0.75016914  0.50944333  1
+  Ca  Ca7  1  0.24138607  0.24138607  0.50003263  1
+  Ca  Ca8  1  0.14049431  0.14049431  0.15770312  1
+  Ca  Ca9  1  0.13686553  0.63032322  0.14886789  1
+  Hf  Hf10  1  0.36967453  0.36967453  0.77824360  1
+  Tc  Tc11  1  0.63230287  0.63230287  0.22902974  1
+  N  N12  1  0.90117198  0.47514187  0.31616134  1
+  N  N13  1  0.99570047  0.99570047  0.01509666  1
+  N  N14  1  0.67528085  0.67528085  0.02719205  1
+  N  N15  1  0.54207273  0.54207273  0.68881621  1
+  N  N16  1  0.47514187  0.90117198  0.31616134  1
+  N  N17  1  0.54318833  0.07658685  0.67242751  1
+  N  N18  1  0.47812023  0.47812023  0.29594718  1
+  N  N19  1  0.31933965  0.31933965  0.00873195  1
+  N  N20  1  0.06190462  0.06190462  0.64408314  1
+  N  N21  1  0.07658685  0.54318833  0.67242751  1

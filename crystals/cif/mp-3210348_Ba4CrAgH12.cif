@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba4CrAgH12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.04143161
+_cell_length_b   8.04143220
+_cell_length_c   5.96544636
+_cell_angle_alpha   90.00724315
+_cell_angle_beta   90.00724900
+_cell_angle_gamma   136.44522789
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4CrAgH12
+_chemical_formula_sum   'Ba4 Cr1 Ag1 H12'
+_cell_volume   265.80244718
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.35488720  0.64511280  1.00000000  1
+  Ba  Ba1  1  0.85443026  0.14556974  0.50000000  1
+  Ba  Ba2  1  0.64511280  0.35488720  0.00000000  1
+  Ba  Ba3  1  0.14556974  0.85443026  0.50000000  1
+  Cr  Cr4  1  0.50000000  0.50000000  0.50000000  1
+  Ag  Ag5  1  0.00000000  0.00000000  0.00000000  1
+  H  H6  1  0.99996807  0.49974287  0.24878927  1
+  H  H7  1  0.50025713  0.00003193  0.75121073  1
+  H  H8  1  0.00003193  0.50025713  0.75121073  1
+  H  H9  1  0.49974287  0.99996807  0.24878927  1
+  H  H10  1  0.11563207  0.88436793  0.00000000  1
+  H  H11  1  0.61616306  0.38383694  0.50000000  1
+  H  H12  1  0.88436793  0.11563207  1.00000000  1
+  H  H13  1  0.38383694  0.61616306  0.50000000  1
+  H  H14  1  0.70869853  0.70869853  0.29298674  1
+  H  H15  1  0.29130147  0.29130147  0.70701326  1
+  H  H16  1  0.70678453  0.70678453  0.70908392  1
+  H  H17  1  0.29321547  0.29321547  0.29091608  1

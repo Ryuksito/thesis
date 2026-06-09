@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Cs2Cd(HgSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.22346468
+_cell_length_b   10.22346426
+_cell_length_c   10.22346514
+_cell_angle_alpha   142.73261792
+_cell_angle_beta   106.81754388
+_cell_angle_gamma   85.11574398
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Cd(HgSe2)2
+_chemical_formula_sum   'Cs4 Cd2 Hg4 Se8'
+_cell_volume   599.64847363
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.62151320  0.22929744  0.85081063  1
+  Cs  Cs1  1  0.37848680  0.77070256  0.14918937  1
+  Cs  Cs2  1  0.12151320  0.27070256  0.39221676  1
+  Cs  Cs3  1  0.87848680  0.72929744  0.60778324  1
+  Cd  Cd4  1  0.75000000  0.75000000  0.00000000  1
+  Cd  Cd5  1  0.25000000  0.25000000  0.00000000  1
+  Hg  Hg6  1  0.08796415  0.75000000  0.33796415  1
+  Hg  Hg7  1  0.41203585  0.75000000  0.66203585  1
+  Hg  Hg8  1  0.91203585  0.25000000  0.66203585  1
+  Hg  Hg9  1  0.58796415  0.25000000  0.33796415  1
+  Se  Se10  1  0.98934291  0.64105460  0.91323075  1
+  Se  Se11  1  0.72782285  0.07611116  0.08676925  1
+  Se  Se12  1  0.77217715  0.85894540  0.34828831  1
+  Se  Se13  1  0.51065709  0.42388884  0.65171169  1
+  Se  Se14  1  0.01065709  0.35894540  0.08676925  1
+  Se  Se15  1  0.27217715  0.92388884  0.91323075  1
+  Se  Se16  1  0.22782285  0.14105460  0.65171169  1
+  Se  Se17  1  0.48934291  0.57611116  0.34828831  1

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_CsPaBr4O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.26748727
+_cell_length_b   7.26748814
+_cell_length_c   8.75765282
+_cell_angle_alpha   108.90533312
+_cell_angle_beta   108.90533700
+_cell_angle_gamma   33.45533627
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsPaBr4O
+_chemical_formula_sum   'Cs1 Pa1 Br4 O1'
+_cell_volume   239.95928347
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.00065774  0.99934326  1.00000000  1
+  Pa  Pa1  1  0.49942125  0.50057875  0.50000000  1
+  Br  Br2  1  0.35065600  0.35041480  0.19523844  1
+  Br  Br3  1  0.64254413  0.64254936  0.34538911  1
+  Br  Br4  1  0.35744964  0.35745587  0.65461089  1
+  Br  Br5  1  0.64958520  0.64934400  0.80476056  1
+  O  O6  1  0.99912704  0.00087296  0.50000000  1

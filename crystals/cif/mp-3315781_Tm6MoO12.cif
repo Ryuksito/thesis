@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Tm6MoO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32314872
+_cell_length_b   6.32314940
+_cell_length_c   6.32314895
+_cell_angle_alpha   98.72263622
+_cell_angle_beta   98.72263631
+_cell_angle_gamma   98.72264316
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm6MoO12
+_chemical_formula_sum   'Tm6 Mo1 O12'
+_cell_volume   243.02073486
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.68277480  0.85624380  0.38861043  1
+  Tm  Tm1  1  0.38861043  0.68277480  0.85624380  1
+  Tm  Tm2  1  0.85624380  0.38861043  0.68277480  1
+  Tm  Tm3  1  0.31722520  0.14375620  0.61138957  1
+  Tm  Tm4  1  0.61138957  0.31722520  0.14375620  1
+  Tm  Tm5  1  0.14375620  0.61138957  0.31722520  1
+  Mo  Mo6  1  0.00000000  0.00000000  0.00000000  1
+  O  O7  1  0.42980649  0.58947001  0.17724472  1
+  O  O8  1  0.17724472  0.42980649  0.58947001  1
+  O  O9  1  0.58947001  0.17724472  0.42980649  1
+  O  O10  1  0.57019351  0.41052999  0.82275528  1
+  O  O11  1  0.82275528  0.57019351  0.41052999  1
+  O  O12  1  0.41052999  0.82275528  0.57019351  1
+  O  O13  1  0.92092885  0.03513459  0.70163053  1
+  O  O14  1  0.96486541  0.29836947  0.07907115  1
+  O  O15  1  0.29836947  0.07907115  0.96486541  1
+  O  O16  1  0.07907115  0.96486541  0.29836947  1
+  O  O17  1  0.03513459  0.70163053  0.92092885  1
+  O  O18  1  0.70163053  0.92092885  0.03513459  1

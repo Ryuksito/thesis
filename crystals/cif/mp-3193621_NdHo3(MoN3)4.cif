@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NdHo3(MoN3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.14544233
+_cell_length_b   7.14544121
+_cell_length_c   6.09994258
+_cell_angle_alpha   76.09874234
+_cell_angle_beta   76.09873272
+_cell_angle_gamma   82.26631162
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdHo3(MoN3)4
+_chemical_formula_sum   'Nd1 Ho3 Mo4 N12'
+_cell_volume   292.49255454
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.31440968  0.68559032  0.75000000  1
+  Ho  Ho1  1  0.91039095  0.08960905  0.75000000  1
+  Ho  Ho2  1  0.69202318  0.30797682  0.25000000  1
+  Ho  Ho3  1  0.08313387  0.91686613  0.25000000  1
+  Mo  Mo4  1  0.80458565  0.61553992  0.75007509  1
+  Mo  Mo5  1  0.19671395  0.38221043  0.25394897  1
+  Mo  Mo6  1  0.61778957  0.80328605  0.24605103  1
+  Mo  Mo7  1  0.38446008  0.19541435  0.74992491  1
+  N  N8  1  0.21699394  0.00405885  0.85326807  1
+  N  N9  1  0.34383508  0.37974580  0.48185191  1
+  N  N10  1  0.66447608  0.62074985  0.51399815  1
+  N  N11  1  0.62174590  0.10271114  0.64527440  1
+  N  N12  1  0.99594115  0.78300606  0.64673193  1
+  N  N13  1  0.77549569  0.00498750  0.14686857  1
+  N  N14  1  0.10713435  0.62093781  0.15747883  1
+  N  N15  1  0.89728886  0.37825410  0.85472560  1
+  N  N16  1  0.99501250  0.22450431  0.35313143  1
+  N  N17  1  0.37925015  0.33552392  0.98600185  1
+  N  N18  1  0.62025420  0.65616492  0.01814809  1
+  N  N19  1  0.37906219  0.89286565  0.34252117  1

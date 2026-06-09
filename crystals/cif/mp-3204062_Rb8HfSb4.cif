@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Rb8HfSb4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.98279808
+_cell_length_b   11.98278676
+_cell_length_c   11.98280179
+_cell_angle_alpha   59.99995582
+_cell_angle_beta   59.99998707
+_cell_angle_gamma   59.99994622
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb8HfSb4
+_chemical_formula_sum   'Rb16 Hf2 Sb8'
+_cell_volume   1216.63158151
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.62500000  0.12500000  0.62500000  1
+  Rb  Rb1  1  0.62500000  0.62500000  0.12500000  1
+  Rb  Rb2  1  0.12500000  0.62500000  0.62500000  1
+  Rb  Rb3  1  0.62500000  0.62500000  0.62500000  1
+  Rb  Rb4  1  0.02675495  0.02675495  0.47324505  1
+  Rb  Rb5  1  0.77675595  0.22324505  0.22324405  1
+  Rb  Rb6  1  0.22324505  0.77675495  0.77675495  1
+  Rb  Rb7  1  0.77675595  0.77675495  0.22324505  1
+  Rb  Rb8  1  0.77675595  0.22324505  0.77675495  1
+  Rb  Rb9  1  0.22324505  0.77675495  0.22324505  1
+  Rb  Rb10  1  0.47324405  0.02675495  0.47324505  1
+  Rb  Rb11  1  0.47324405  0.02675495  0.02675595  1
+  Rb  Rb12  1  0.02675495  0.47324505  0.47324505  1
+  Rb  Rb13  1  0.02675495  0.47324505  0.02675495  1
+  Rb  Rb14  1  0.22324505  0.22324505  0.77675495  1
+  Rb  Rb15  1  0.47324405  0.47324505  0.02675495  1
+  Hf  Hf16  1  0.75000000  0.75000000  0.75000000  1
+  Hf  Hf17  1  0.50000000  0.50000000  0.50000000  1
+  Sb  Sb18  1  0.40224771  0.79325688  0.40224771  1
+  Sb  Sb19  1  0.84775229  0.84775229  0.45674412  1
+  Sb  Sb20  1  0.45674412  0.84775229  0.84775229  1
+  Sb  Sb21  1  0.84775229  0.84775229  0.84775229  1
+  Sb  Sb22  1  0.79325588  0.40224771  0.40224771  1
+  Sb  Sb23  1  0.40224771  0.40224771  0.40224771  1
+  Sb  Sb24  1  0.40224771  0.40224771  0.79325588  1
+  Sb  Sb25  1  0.84775229  0.45674312  0.84775229  1

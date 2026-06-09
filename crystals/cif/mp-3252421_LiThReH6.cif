@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LiThReH6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01846477
+_cell_length_b   5.01845880
+_cell_length_c   5.01849601
+_cell_angle_alpha   59.99993277
+_cell_angle_beta   60.00038122
+_cell_angle_gamma   60.00037181
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiThReH6
+_chemical_formula_sum   'Li1 Th1 Re1 H6'
+_cell_volume   89.37212383
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.75001080  0.75000785  0.75001554  1
+  Th  Th1  1  0.24998448  0.25001289  0.24997486  1
+  Re  Re2  1  0.99998700  0.99997834  0.00001529  1
+  H  H3  1  0.75194757  0.75194456  0.24806886  1
+  H  H4  1  0.75197690  0.24803113  0.24803692  1
+  H  H5  1  0.24803271  0.75197118  0.24804367  1
+  H  H6  1  0.24807404  0.75193281  0.75193748  1
+  H  H7  1  0.75193745  0.24807195  0.75194684  1
+  H  H8  1  0.24804205  0.24805130  0.75196655  1

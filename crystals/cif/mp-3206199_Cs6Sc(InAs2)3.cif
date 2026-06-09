@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cs6Sc(InAs2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.49977739
+_cell_length_b   8.29847436
+_cell_length_c   11.41133633
+_cell_angle_alpha   70.34846550
+_cell_angle_beta   90.03614341
+_cell_angle_gamma   89.79522776
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs6Sc(InAs2)3
+_chemical_formula_sum   'Cs6 Sc1 In3 As6'
+_cell_volume   579.65254250
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.25472578  0.44878552  0.41416188  1
+  Cs  Cs1  1  0.74607775  0.14665390  0.93334184  1
+  Cs  Cs2  1  0.74773221  0.46985079  0.14798041  1
+  Cs  Cs3  1  0.25767790  0.52434523  0.85527741  1
+  Cs  Cs4  1  0.74567339  0.55370796  0.58318056  1
+  Cs  Cs5  1  0.24721457  0.85946871  0.06541070  1
+  Sc  Sc6  1  0.00009034  0.98393538  0.65045313  1
+  In  In7  1  0.99989919  0.01527993  0.34424285  1
+  In  In8  1  0.50104085  0.98291313  0.66238759  1
+  In  In9  1  0.49948900  0.01633762  0.34146803  1
+  As  As10  1  0.25075282  0.81796729  0.53649750  1
+  As  As11  1  0.75019178  0.18138806  0.46790978  1
+  As  As12  1  0.24638417  0.23246072  0.17862949  1
+  As  As13  1  0.76095766  0.77026843  0.82039805  1
+  As  As14  1  0.24041414  0.16784384  0.74124081  1
+  As  As15  1  0.75167845  0.82879249  0.25741896  1

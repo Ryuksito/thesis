@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ca5(InAs3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28933141
+_cell_length_b   11.48706344
+_cell_length_c   13.44226147
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca5(InAs3)2
+_chemical_formula_sum   'Ca10 In4 As12'
+_cell_volume   662.32471455
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.67894846  0.98836876  1
+  Ca  Ca1  1  0.00000000  0.82105154  0.48836876  1
+  Ca  Ca2  1  0.00000000  0.40970921  0.75042008  1
+  Ca  Ca3  1  0.00000000  0.90970921  0.74957992  1
+  Ca  Ca4  1  0.00000000  0.59029079  0.24957992  1
+  Ca  Ca5  1  0.00000000  0.17894846  0.51163124  1
+  Ca  Ca6  1  0.00000000  0.09029079  0.25042008  1
+  Ca  Ca7  1  0.00000000  0.00000000  0.00000000  1
+  Ca  Ca8  1  0.00000000  0.32105154  0.01163124  1
+  Ca  Ca9  1  0.00000000  0.50000000  0.50000000  1
+  In  In10  1  0.50000000  0.66455416  0.78486674  1
+  In  In11  1  0.50000000  0.16455416  0.71513326  1
+  In  In12  1  0.50000000  0.83544584  0.28486674  1
+  In  In13  1  0.50000000  0.33544584  0.21513326  1
+  As  As14  1  0.50000000  0.96967653  0.58963995  1
+  As  As15  1  0.50000000  0.84782909  0.90327645  1
+  As  As16  1  0.00000000  0.66032135  0.67215158  1
+  As  As17  1  0.50000000  0.46967653  0.91036005  1
+  As  As18  1  0.50000000  0.65217091  0.40327645  1
+  As  As19  1  0.50000000  0.15217091  0.09672355  1
+  As  As20  1  0.50000000  0.03032347  0.41036005  1
+  As  As21  1  0.00000000  0.16032135  0.82784842  1
+  As  As22  1  0.00000000  0.83967865  0.17215158  1
+  As  As23  1  0.50000000  0.53032347  0.08963995  1
+  As  As24  1  0.50000000  0.34782909  0.59672355  1
+  As  As25  1  0.00000000  0.33967865  0.32784842  1

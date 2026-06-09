@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_AcTaN2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74691713
+_cell_length_b   5.74691733
+_cell_length_c   5.79439384
+_cell_angle_alpha   119.14850883
+_cell_angle_beta   119.14850393
+_cell_angle_gamma   90.99738788
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcTaN2O
+_chemical_formula_sum   'Ac2 Ta2 N4 O2'
+_cell_volume   137.59534494
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.25075262  0.25075262  0.00156373  1
+  Ac  Ac1  1  0.74924838  0.74924838  0.99843627  1
+  Ta  Ta2  1  0.50000100  0.00000000  0.50000000  1
+  Ta  Ta3  1  0.00000000  0.50000100  0.50000000  1
+  N  N4  1  0.75079628  0.24920272  0.00000000  1
+  N  N5  1  0.24920272  0.75079628  1.00000000  1
+  N  N6  1  0.70675745  0.70675745  0.49840524  1
+  N  N7  1  0.29324255  0.29324255  0.50159576  1
+  O  O8  1  0.79323869  0.20676131  0.50000000  1
+  O  O9  1  0.20676131  0.79323869  0.50000000  1

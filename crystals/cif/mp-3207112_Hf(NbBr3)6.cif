@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Hf(NbBr3)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.56596328
+_cell_length_b   10.56596382
+_cell_length_c   10.56596348
+_cell_angle_alpha   56.08665273
+_cell_angle_beta   56.08664940
+_cell_angle_gamma   56.08665200
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf(NbBr3)6
+_chemical_formula_sum   'Hf1 Nb6 Br18'
+_cell_volume   758.49941147
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.00000000  0.00000000  0.00000000  1
+  Nb  Nb1  1  0.40841152  0.31252899  0.64402414  1
+  Nb  Nb2  1  0.35597586  0.59158848  0.68747101  1
+  Nb  Nb3  1  0.68747101  0.35597586  0.59158848  1
+  Nb  Nb4  1  0.31252899  0.64402414  0.40841152  1
+  Nb  Nb5  1  0.64402414  0.40841152  0.31252899  1
+  Nb  Nb6  1  0.59158848  0.68747101  0.35597586  1
+  Br  Br7  1  0.56515956  0.15595052  0.44578254  1
+  Br  Br8  1  0.21346179  0.37746210  0.91155592  1
+  Br  Br9  1  0.91155592  0.21346179  0.37746210  1
+  Br  Br10  1  0.37746210  0.91155592  0.21346179  1
+  Br  Br11  1  0.78653821  0.62253790  0.08844408  1
+  Br  Br12  1  0.08844408  0.78653821  0.62253790  1
+  Br  Br13  1  0.71670091  0.96795241  0.14711440  1
+  Br  Br14  1  0.96795241  0.14711440  0.71670091  1
+  Br  Br15  1  0.14711440  0.71670091  0.96795241  1
+  Br  Br16  1  0.28329909  0.03204759  0.85288560  1
+  Br  Br17  1  0.03204759  0.85288560  0.28329909  1
+  Br  Br18  1  0.85288560  0.28329909  0.03204759  1
+  Br  Br19  1  0.55421746  0.43484044  0.84404948  1
+  Br  Br20  1  0.15595052  0.44578254  0.56515956  1
+  Br  Br21  1  0.44578254  0.56515956  0.15595052  1
+  Br  Br22  1  0.43484044  0.84404948  0.55421746  1
+  Br  Br23  1  0.84404948  0.55421746  0.43484044  1
+  Br  Br24  1  0.62253790  0.08844408  0.78653821  1

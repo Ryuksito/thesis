@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ba3LiAs2H
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71593730
+_cell_length_b   12.82977356
+_cell_length_c   13.36282087
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3LiAs2H
+_chemical_formula_sum   'Ba12 Li4 As8 H4'
+_cell_volume   808.50956101
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25000000  0.06375065  0.62138945  1
+  Ba  Ba1  1  0.25000000  0.56375065  0.87861055  1
+  Ba  Ba2  1  0.75000000  0.93624935  0.37861055  1
+  Ba  Ba3  1  0.75000000  0.43624935  0.12138945  1
+  Ba  Ba4  1  0.25000000  0.20138737  0.30045780  1
+  Ba  Ba5  1  0.25000000  0.70138737  0.19954220  1
+  Ba  Ba6  1  0.75000000  0.79861263  0.69954220  1
+  Ba  Ba7  1  0.75000000  0.29861263  0.80045780  1
+  Ba  Ba8  1  0.25000000  0.37233180  0.56058599  1
+  Ba  Ba9  1  0.25000000  0.87233180  0.93941401  1
+  Ba  Ba10  1  0.75000000  0.62766820  0.43941401  1
+  Ba  Ba11  1  0.75000000  0.12766820  0.06058599  1
+  Li  Li12  1  0.25000000  0.13902594  0.85397375  1
+  Li  Li13  1  0.25000000  0.63902594  0.64602625  1
+  Li  Li14  1  0.75000000  0.86097406  0.14602625  1
+  Li  Li15  1  0.75000000  0.36097406  0.35397375  1
+  As  As16  1  0.25000000  0.30845536  0.98653996  1
+  As  As17  1  0.25000000  0.80845536  0.51346004  1
+  As  As18  1  0.75000000  0.69154464  0.01346004  1
+  As  As19  1  0.75000000  0.19154464  0.48653996  1
+  As  As20  1  0.25000000  0.46795660  0.32435502  1
+  As  As21  1  0.25000000  0.96795660  0.17564498  1
+  As  As22  1  0.75000000  0.53204340  0.67564498  1
+  As  As23  1  0.75000000  0.03204340  0.82435502  1
+  H  H24  1  0.25000000  0.23428707  0.73265425  1
+  H  H25  1  0.25000000  0.73428707  0.76734575  1
+  H  H26  1  0.75000000  0.76571293  0.26734575  1
+  H  H27  1  0.75000000  0.26571293  0.23265425  1

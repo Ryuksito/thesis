@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb4As4PdPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.10156518
+_cell_length_b   8.10156487
+_cell_length_c   6.23486508
+_cell_angle_alpha   89.77866049
+_cell_angle_beta   90.22133903
+_cell_angle_gamma   130.96669000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb4As4PdPt
+_chemical_formula_sum   'Rb4 As4 Pd1 Pt1'
+_cell_volume   309.00122833
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.79390786  0.20609214  0.24971722  1
+  Rb  Rb1  1  0.20609214  0.79390786  0.75028278  1
+  Rb  Rb2  1  0.41726814  0.58273186  0.24716478  1
+  Rb  Rb3  1  0.58273186  0.41726814  0.75283522  1
+  As  As4  1  0.92666396  0.71462540  0.24999722  1
+  As  As5  1  0.07333604  0.28537460  0.75000278  1
+  As  As6  1  0.28537460  0.07333604  0.24999722  1
+  As  As7  1  0.71462540  0.92666396  0.75000278  1
+  Pd  Pd8  1  0.00000000  0.00000000  0.50000000  1
+  Pt  Pt9  1  0.00000000  0.00000000  0.00000000  1

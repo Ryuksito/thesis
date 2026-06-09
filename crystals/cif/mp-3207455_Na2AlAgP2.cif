@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2AlAgP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.00270411
+_cell_length_b   8.00270334
+_cell_length_c   8.00270450
+_cell_angle_alpha   136.51497828
+_cell_angle_beta   137.73088555
+_cell_angle_gamma   62.25429886
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2AlAgP2
+_chemical_formula_sum   'Na4 Al2 Ag2 P4'
+_cell_volume   234.39340420
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.10457191  0.82207579  0.28249512  1
+  Na  Na1  1  0.53958167  0.32207579  0.21750488  1
+  Na  Na2  1  0.46041833  0.67792421  0.78249512  1
+  Na  Na3  1  0.89542809  0.17792421  0.71750488  1
+  Al  Al4  1  0.00000000  0.25000000  0.25000000  1
+  Al  Al5  1  0.00000000  0.75000000  0.75000000  1
+  Ag  Ag6  1  0.50000000  0.75000000  0.25000000  1
+  Ag  Ag7  1  0.50000000  0.25000000  0.75000000  1
+  P  P8  1  0.09976090  0.39188000  0.70788089  1
+  P  P9  1  0.90023910  0.60812000  0.29211911  1
+  P  P10  1  0.68399911  0.89188000  0.79211911  1
+  P  P11  1  0.31600089  0.10812000  0.20788089  1

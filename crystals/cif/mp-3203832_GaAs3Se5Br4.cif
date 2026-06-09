@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_GaAs3Se5Br4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.39579036
+_cell_length_b   6.88836283
+_cell_length_c   12.49614805
+_cell_angle_alpha   73.17349356
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaAs3Se5Br4
+_chemical_formula_sum   'Ga2 As6 Se10 Br8'
+_cell_volume   856.53651659
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.75000000  0.51192397  0.70272182  1
+  Ga  Ga1  1  0.25000000  0.48807603  0.29727818  1
+  As  As2  1  0.07962803  0.02805234  0.68413264  1
+  As  As3  1  0.57962803  0.97194766  0.31586736  1
+  As  As4  1  0.92037197  0.97194766  0.31586736  1
+  As  As5  1  0.75000000  0.02232156  0.03441731  1
+  As  As6  1  0.25000000  0.97767844  0.96558269  1
+  As  As7  1  0.42037197  0.02805234  0.68413264  1
+  Se  Se8  1  0.43633386  0.88019604  0.88085977  1
+  Se  Se9  1  0.75000000  0.70421456  0.31810644  1
+  Se  Se10  1  0.75000000  0.66661151  0.14125349  1
+  Se  Se11  1  0.56366614  0.11980396  0.11914023  1
+  Se  Se12  1  0.25000000  0.29578544  0.68189356  1
+  Se  Se13  1  0.25000000  0.84836371  0.62314667  1
+  Se  Se14  1  0.25000000  0.33338849  0.85874651  1
+  Se  Se15  1  0.75000000  0.15163629  0.37685333  1
+  Se  Se16  1  0.06366614  0.88019604  0.88085977  1
+  Se  Se17  1  0.93633386  0.11980396  0.11914023  1
+  Br  Br18  1  0.25000000  0.44007152  0.11999964  1
+  Br  Br19  1  0.75000000  0.17025939  0.71046814  1
+  Br  Br20  1  0.75000000  0.55992848  0.88000036  1
+  Br  Br21  1  0.25000000  0.82974061  0.28953186  1
+  Br  Br22  1  0.93578721  0.65845828  0.60399520  1
+  Br  Br23  1  0.56421279  0.65845828  0.60399520  1
+  Br  Br24  1  0.06421279  0.34154172  0.39600480  1
+  Br  Br25  1  0.43578721  0.34154172  0.39600480  1

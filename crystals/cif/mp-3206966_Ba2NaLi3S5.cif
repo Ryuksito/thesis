@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ba2NaLi3S5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.88039382
+_cell_length_b   8.88039389
+_cell_length_c   10.55271707
+_cell_angle_alpha   81.84128101
+_cell_angle_beta   81.84128105
+_cell_angle_gamma   36.72884238
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2NaLi3S5
+_chemical_formula_sum   'Ba4 Na2 Li6 S10'
+_cell_volume   492.08524389
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.76169806  0.76169806  0.69485225  1
+  Ba  Ba1  1  0.23830194  0.23830194  0.30514775  1
+  Ba  Ba2  1  0.45879865  0.45879865  0.70767724  1
+  Ba  Ba3  1  0.54120135  0.54120135  0.29232276  1
+  Na  Na4  1  0.10581776  0.10581776  0.76433381  1
+  Na  Na5  1  0.89418224  0.89418224  0.23566619  1
+  Li  Li6  1  0.75408183  0.24591817  0.00000000  1
+  Li  Li7  1  0.24591817  0.75408183  0.00000000  1
+  Li  Li8  1  0.91977515  0.41553689  0.00833086  1
+  Li  Li9  1  0.41553689  0.91977515  0.00833086  1
+  Li  Li10  1  0.08022485  0.58446311  0.99166914  1
+  Li  Li11  1  0.58446311  0.08022485  0.99166914  1
+  S  S12  1  0.43536258  0.81230853  0.52962372  1
+  S  S13  1  0.81230853  0.43536258  0.52962372  1
+  S  S14  1  0.56463742  0.18769147  0.47037628  1
+  S  S15  1  0.18769147  0.56463742  0.47037628  1
+  S  S16  1  0.59703807  0.59703807  0.88131089  1
+  S  S17  1  0.40296193  0.40296193  0.11868911  1
+  S  S18  1  0.06928238  0.06928238  0.14553137  1
+  S  S19  1  0.93071762  0.93071762  0.85446863  1
+  S  S20  1  0.26055432  0.26055432  0.85579682  1
+  S  S21  1  0.73944568  0.73944568  0.14420318  1

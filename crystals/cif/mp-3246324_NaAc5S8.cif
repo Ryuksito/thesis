@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaAc5S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.82132861
+_cell_length_b   7.82132913
+_cell_length_c   7.82132815
+_cell_angle_alpha   109.52303086
+_cell_angle_beta   109.52302910
+_cell_angle_gamma   109.36765358
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAc5S8
+_chemical_formula_sum   'Na1 Ac5 S8'
+_cell_volume   368.31434716
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.75000000  0.25000000  0.50000000  1
+  Ac  Ac1  1  0.12824368  0.01149389  0.38043527  1
+  Ac  Ac2  1  0.50000000  0.50000000  0.00000000  1
+  Ac  Ac3  1  0.98850611  0.36894138  0.11674979  1
+  Ac  Ac4  1  0.63105862  0.74780941  0.61956473  1
+  Ac  Ac5  1  0.25219059  0.87175632  0.88325021  1
+  S  S6  1  0.87104614  0.62294546  0.89825494  1
+  S  S7  1  0.36347846  0.75965150  0.24434959  1
+  S  S8  1  0.88087113  0.63652154  0.39617404  1
+  S  S9  1  0.02720880  0.12895386  0.75189932  1
+  S  S10  1  0.51530192  0.11912887  0.75565041  1
+  S  S11  1  0.24034850  0.48469808  0.60382596  1
+  S  S12  1  0.37705454  0.27530948  0.24810068  1
+  S  S13  1  0.72469052  0.97279120  0.10174506  1

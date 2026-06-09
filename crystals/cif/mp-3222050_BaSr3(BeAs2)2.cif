@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaSr3(BeAs2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.84800863
+_cell_length_b   7.85082257
+_cell_length_c   7.85082261
+_cell_angle_alpha   133.37884656
+_cell_angle_beta   130.42444428
+_cell_angle_gamma   70.41823504
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSr3(BeAs2)2
+_chemical_formula_sum   'Ba1 Sr3 Be2 As4'
+_cell_volume   262.27956436
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.04571384  0.35782502  0.68788782  1
+  Sr  Sr1  1  0.65684869  0.86107075  0.79577795  1
+  Sr  Sr2  1  0.33658503  0.13717752  0.19940651  1
+  Sr  Sr3  1  0.94030930  0.63767592  0.30263438  1
+  Be  Be4  1  0.50245974  0.25079382  0.75277408  1
+  Be  Be5  1  0.50245974  0.74968466  0.25166592  1
+  As  As6  1  0.42178663  0.61122560  0.81056002  1
+  As  As7  1  0.58687162  0.39650103  0.19037158  1
+  As  As8  1  0.20789077  0.89820862  0.30968215  1
+  As  As9  1  0.79907664  0.09983905  0.69923759  1

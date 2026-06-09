@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Nb3SeBr6Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.17538495
+_cell_length_b   7.16459605
+_cell_length_c   6.65322832
+_cell_angle_alpha   90.00000100
+_cell_angle_beta   89.47995804
+_cell_angle_gamma   119.95027530
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb3SeBr6Cl
+_chemical_formula_sum   'Nb3 Se1 Br6 Cl1'
+_cell_volume   296.34222282
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.60375275  0.80187688  0.21943180  1
+  Nb  Nb1  1  0.19684602  0.39629415  0.21969999  1
+  Nb  Nb2  1  0.19684602  0.80055088  0.21969999  1
+  Se  Se3  1  0.33055634  0.66527817  0.50398828  1
+  Br  Br4  1  0.50314561  0.00438291  0.96336620  1
+  Br  Br5  1  0.00055908  0.00027954  0.00274974  1
+  Br  Br6  1  0.33207825  0.16603962  0.43398723  1
+  Br  Br7  1  0.82960986  0.16671357  0.43600402  1
+  Br  Br8  1  0.82960986  0.66289829  0.43600402  1
+  Br  Br9  1  0.50314561  0.49876270  0.96336620  1
+  Cl  Cl10  1  0.00718360  0.50359030  0.98660454  1

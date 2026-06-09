@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Na4Sr2SnAs4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.75870440
+_cell_length_b   9.75870382
+_cell_length_c   7.54243433
+_cell_angle_alpha   89.40981512
+_cell_angle_beta   89.40981903
+_cell_angle_gamma   120.10519799
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4Sr2SnAs4
+_chemical_formula_sum   'Na8 Sr4 Sn2 As8'
+_cell_volume   621.25893979
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.46938787  0.93359201  0.37981226  1
+  Na  Na1  1  0.93359201  0.46938787  0.87981226  1
+  Na  Na2  1  0.86322834  0.71869552  0.18651866  1
+  Na  Na3  1  0.29559783  0.13713696  0.23184314  1
+  Na  Na4  1  0.84707420  0.14095680  0.21512124  1
+  Na  Na5  1  0.13713696  0.29559783  0.73184314  1
+  Na  Na6  1  0.71869552  0.86322834  0.68651866  1
+  Na  Na7  1  0.14095680  0.84707420  0.71512124  1
+  Sr  Sr8  1  0.05070735  0.52893325  0.38371599  1
+  Sr  Sr9  1  0.48180502  0.53193038  0.37798664  1
+  Sr  Sr10  1  0.52893325  0.05070735  0.88371599  1
+  Sr  Sr11  1  0.53193038  0.48180502  0.87798664  1
+  Sn  Sn12  1  0.66019209  0.32398810  0.50149624  1
+  Sn  Sn13  1  0.32398810  0.66019209  0.00149624  1
+  As  As14  1  0.18960823  0.36797834  0.12037069  1
+  As  As15  1  0.62731850  0.81364257  0.09217231  1
+  As  As16  1  0.19272490  0.81945363  0.10745902  1
+  As  As17  1  0.81364257  0.62731850  0.59217231  1
+  As  As18  1  0.36797834  0.18960823  0.62037069  1
+  As  As19  1  0.81945363  0.19272490  0.60745902  1
+  As  As20  1  0.66648315  0.33958197  0.15162981  1
+  As  As21  1  0.33958197  0.66648315  0.65162981  1

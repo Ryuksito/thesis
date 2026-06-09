@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Cs6ScTe4Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.13520615
+_cell_length_b   12.13520594
+_cell_length_c   8.99768572
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000327
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs6ScTe4Cl
+_chemical_formula_sum   'Cs12 Sc2 Te8 Cl2'
+_cell_volume   1147.50806474
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.12654582  0.87345418  0.51324565  1
+  Cs  Cs1  1  0.74690735  0.87345418  0.51324565  1
+  Cs  Cs2  1  0.94586201  0.47293050  0.31664611  1
+  Cs  Cs3  1  0.52706950  0.47293050  0.31664611  1
+  Cs  Cs4  1  0.87345418  0.74690735  0.01324565  1
+  Cs  Cs5  1  0.25309265  0.12654582  0.01324565  1
+  Cs  Cs6  1  0.52706950  0.05413799  0.31664611  1
+  Cs  Cs7  1  0.12654582  0.25309265  0.51324565  1
+  Cs  Cs8  1  0.87345418  0.12654582  0.01324565  1
+  Cs  Cs9  1  0.05413799  0.52706950  0.81664611  1
+  Cs  Cs10  1  0.47293050  0.94586201  0.81664611  1
+  Cs  Cs11  1  0.47293050  0.52706950  0.81664611  1
+  Sc  Sc12  1  0.66666700  0.33333300  0.71390299  1
+  Sc  Sc13  1  0.33333300  0.66666700  0.21390299  1
+  Te  Te14  1  0.41411939  0.20706019  0.61322935  1
+  Te  Te15  1  0.58588061  0.79293981  0.11322935  1
+  Te  Te16  1  0.66666700  0.33333300  0.02538714  1
+  Te  Te17  1  0.79293981  0.58588061  0.61322935  1
+  Te  Te18  1  0.20706019  0.41411939  0.11322935  1
+  Te  Te19  1  0.33333300  0.66666700  0.52538714  1
+  Te  Te20  1  0.20706019  0.79293981  0.11322935  1
+  Te  Te21  1  0.79293981  0.20706019  0.61322935  1
+  Cl  Cl22  1  0.00000000  0.00000000  0.27194954  1
+  Cl  Cl23  1  0.00000000  0.00000000  0.77194954  1

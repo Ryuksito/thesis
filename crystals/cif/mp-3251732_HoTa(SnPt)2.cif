@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoTa(SnPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40661484
+_cell_length_b   4.50902945
+_cell_length_c   9.04525087
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoTa(SnPt)2
+_chemical_formula_sum   'Ho2 Ta2 Sn4 Pt4'
+_cell_volume   261.29572491
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00464459  0.00000000  0.37687710  1
+  Ho  Ho1  1  0.50464559  0.50000100  0.62312390  1
+  Ta  Ta2  1  0.49645150  0.50000100  0.12243240  1
+  Ta  Ta3  1  0.99645250  0.00000000  0.87756660  1
+  Sn  Sn4  1  0.98465849  0.50000100  0.12594745  1
+  Sn  Sn5  1  0.51133191  0.00000000  0.37226479  1
+  Sn  Sn6  1  0.01133191  0.50000100  0.62773721  1
+  Sn  Sn7  1  0.48465949  0.00000000  0.87405455  1
+  Pt  Pt8  1  0.73469086  0.00000000  0.10998289  1
+  Pt  Pt9  1  0.26821765  0.50000100  0.35491909  1
+  Pt  Pt10  1  0.76821865  0.00000000  0.64508191  1
+  Pt  Pt11  1  0.23469086  0.50000100  0.89001811  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsNdMnTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.82290239
+_cell_length_b   8.82290250
+_cell_length_c   12.10686979
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   149.90146646
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNdMnTe3
+_chemical_formula_sum   'Cs2 Nd2 Mn2 Te6'
+_cell_volume   472.62412417
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.75562707  0.24437093  0.25000000  1
+  Cs  Cs1  1  0.24437093  0.75562707  0.75000000  1
+  Nd  Nd2  1  0.49999900  0.49999900  0.00000000  1
+  Nd  Nd3  1  0.49999900  0.49999900  0.50000000  1
+  Mn  Mn4  1  0.03698483  0.96301317  0.25000000  1
+  Mn  Mn5  1  0.96301317  0.03698483  0.75000000  1
+  Te  Te6  1  0.12284833  0.87714967  0.06149647  1
+  Te  Te7  1  0.44073860  0.55925940  0.25000000  1
+  Te  Te8  1  0.12284833  0.87714967  0.43850353  1
+  Te  Te9  1  0.87714967  0.12284833  0.56149647  1
+  Te  Te10  1  0.55925940  0.44073860  0.75000000  1
+  Te  Te11  1  0.87714967  0.12284833  0.93850353  1

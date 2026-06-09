@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Na2PtCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.84290768
+_cell_length_b   6.52686566
+_cell_length_c   11.30808633
+_cell_angle_alpha   56.37980388
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2PtCl6
+_chemical_formula_sum   'Na4 Pt2 Cl12'
+_cell_volume   420.56842103
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.59023497  0.70795689  0.26190178  1
+  Na  Na1  1  0.40976503  0.29204311  0.73809822  1
+  Na  Na2  1  0.90976503  0.70795689  0.76190178  1
+  Na  Na3  1  0.09023497  0.29204311  0.23809822  1
+  Pt  Pt4  1  0.50000000  0.00000000  0.50000000  1
+  Pt  Pt5  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl6  1  0.28670959  0.76993538  0.05415216  1
+  Cl  Cl7  1  0.81534540  0.65781387  0.05318489  1
+  Cl  Cl8  1  0.21329041  0.76993538  0.55415216  1
+  Cl  Cl9  1  0.78670959  0.23006462  0.44584784  1
+  Cl  Cl10  1  0.68465460  0.65781387  0.55318489  1
+  Cl  Cl11  1  0.31534540  0.34218613  0.44681511  1
+  Cl  Cl12  1  0.97423625  0.87855292  0.23610710  1
+  Cl  Cl13  1  0.18465460  0.34218613  0.94681511  1
+  Cl  Cl14  1  0.02576375  0.12144708  0.76389290  1
+  Cl  Cl15  1  0.71329041  0.23006462  0.94584784  1
+  Cl  Cl16  1  0.47423625  0.12144708  0.26389290  1
+  Cl  Cl17  1  0.52576375  0.87855292  0.73610710  1

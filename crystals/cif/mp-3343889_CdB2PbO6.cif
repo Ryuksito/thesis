@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CdB2PbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06535405
+_cell_length_b   6.06535413
+_cell_length_c   6.06535383
+_cell_angle_alpha   48.13459527
+_cell_angle_beta   48.13459011
+_cell_angle_gamma   48.13459632
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdB2PbO6
+_chemical_formula_sum   'Cd1 B2 Pb1 O6'
+_cell_volume   113.40561102
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00000000  0.00000000  0.00000000  1
+  B  B1  1  0.24446754  0.24446754  0.24446754  1
+  B  B2  1  0.75553246  0.75553246  0.75553246  1
+  Pb  Pb3  1  0.50000000  0.50000000  0.50000000  1
+  O  O4  1  0.48028107  0.74528475  0.03699416  1
+  O  O5  1  0.96300484  0.51972093  0.25471525  1
+  O  O6  1  0.74528375  0.03699516  0.48028007  1
+  O  O7  1  0.25471625  0.96300484  0.51971993  1
+  O  O8  1  0.03699516  0.48027907  0.74528475  1
+  O  O9  1  0.51971893  0.25471525  0.96300584  1

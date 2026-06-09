@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Tb2FeCoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22332230
+_cell_length_b   5.50704057
+_cell_length_c   7.49515000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.35439491
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2FeCoO6
+_chemical_formula_sum   'Tb4 Fe2 Co2 O12'
+_cell_volume   215.59422363
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.51770924  0.56830338  0.24976090  1
+  Tb  Tb1  1  0.98229076  0.06830338  0.25023910  1
+  Tb  Tb2  1  0.48229076  0.43169662  0.75023910  1
+  Tb  Tb3  1  0.01770924  0.93169662  0.74976090  1
+  Fe  Fe4  1  0.00000000  0.50000000  0.00000000  1
+  Fe  Fe5  1  0.50000000  0.00000000  0.50000000  1
+  Co  Co6  1  0.00000000  0.50000000  0.50000000  1
+  Co  Co7  1  0.50000000  0.00000000  0.00000000  1
+  O  O8  1  0.40117437  0.97190775  0.24589719  1
+  O  O9  1  0.09882563  0.47190775  0.25410281  1
+  O  O10  1  0.59882563  0.02809225  0.75410281  1
+  O  O11  1  0.90117437  0.52809225  0.74589719  1
+  O  O12  1  0.80014118  0.80411331  0.05044621  1
+  O  O13  1  0.69985882  0.30411331  0.44955379  1
+  O  O14  1  0.19103863  0.20288287  0.55114665  1
+  O  O15  1  0.30896137  0.70288287  0.94885335  1
+  O  O16  1  0.19985882  0.19588669  0.94955379  1
+  O  O17  1  0.30014118  0.69588669  0.55044621  1
+  O  O18  1  0.80896137  0.79711713  0.44885335  1
+  O  O19  1  0.69103863  0.29711713  0.05114665  1

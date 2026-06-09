@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sm3Dy(Br3N)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.92324626
+_cell_length_b   8.92324732
+_cell_length_c   11.37626271
+_cell_angle_alpha   121.20951478
+_cell_angle_beta   121.20952099
+_cell_angle_gamma   25.62227003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm3Dy(Br3N)2
+_chemical_formula_sum   'Sm3 Dy1 Br6 N2'
+_cell_volume   331.82855686
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.41838746  0.41838746  0.04284776  1
+  Sm  Sm1  1  0.13578165  0.13578165  0.28536921  1
+  Sm  Sm2  1  0.86577359  0.86577359  0.71396086  1
+  Dy  Dy3  1  0.57840649  0.57840649  0.95867716  1
+  Br  Br4  1  0.22049486  0.22049486  0.11391275  1
+  Br  Br5  1  0.95400692  0.95400692  0.25679661  1
+  Br  Br6  1  0.33778163  0.33778163  0.48744999  1
+  Br  Br7  1  0.66389267  0.66389267  0.51105181  1
+  Br  Br8  1  0.04860921  0.04860921  0.75186957  1
+  Br  Br9  1  0.77554623  0.77554623  0.87875510  1
+  N  N10  1  0.57370770  0.57370770  0.15112250  1
+  N  N11  1  0.42761259  0.42761259  0.84818568  1

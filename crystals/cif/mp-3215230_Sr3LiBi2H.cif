@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Sr3LiBi2H
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.81686965
+_cell_length_b   12.94051795
+_cell_length_c   13.22643026
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3LiBi2H
+_chemical_formula_sum   'Sr12 Li4 Bi8 H4'
+_cell_volume   824.44027654
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.25000000  0.06071735  0.62376197  1
+  Sr  Sr1  1  0.25000000  0.56071735  0.87623803  1
+  Sr  Sr2  1  0.75000000  0.93928265  0.37623803  1
+  Sr  Sr3  1  0.75000000  0.43928265  0.12376197  1
+  Sr  Sr4  1  0.25000000  0.21510953  0.29028560  1
+  Sr  Sr5  1  0.25000000  0.71510953  0.20971440  1
+  Sr  Sr6  1  0.75000000  0.78489047  0.70971440  1
+  Sr  Sr7  1  0.75000000  0.28489047  0.79028560  1
+  Sr  Sr8  1  0.25000000  0.36597721  0.56221677  1
+  Sr  Sr9  1  0.25000000  0.86597721  0.93778323  1
+  Sr  Sr10  1  0.75000000  0.63402279  0.43778323  1
+  Sr  Sr11  1  0.75000000  0.13402279  0.06221677  1
+  Li  Li12  1  0.25000000  0.13813737  0.85580693  1
+  Li  Li13  1  0.25000000  0.63813737  0.64419307  1
+  Li  Li14  1  0.75000000  0.86186263  0.14419307  1
+  Li  Li15  1  0.75000000  0.36186263  0.35580693  1
+  Bi  Bi16  1  0.25000000  0.31281932  0.98794751  1
+  Bi  Bi17  1  0.25000000  0.81281932  0.51205249  1
+  Bi  Bi18  1  0.75000000  0.68718068  0.01205249  1
+  Bi  Bi19  1  0.75000000  0.18718068  0.48794751  1
+  Bi  Bi20  1  0.25000000  0.48001092  0.32233994  1
+  Bi  Bi21  1  0.25000000  0.98001092  0.17766006  1
+  Bi  Bi22  1  0.75000000  0.51998908  0.67766006  1
+  Bi  Bi23  1  0.75000000  0.01998908  0.82233994  1
+  H  H24  1  0.25000000  0.23138154  0.72511184  1
+  H  H25  1  0.25000000  0.73138154  0.77488816  1
+  H  H26  1  0.75000000  0.76861846  0.27488816  1
+  H  H27  1  0.75000000  0.26861846  0.22511184  1

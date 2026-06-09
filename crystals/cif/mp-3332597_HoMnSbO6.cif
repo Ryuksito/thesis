@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_HoMnSbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06613349
+_cell_length_b   5.06609849
+_cell_length_c   4.84506619
+_cell_angle_alpha   90.01957261
+_cell_angle_beta   90.01902436
+_cell_angle_gamma   119.97505456
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoMnSbO6
+_chemical_formula_sum   'Ho1 Mn1 Sb1 O6'
+_cell_volume   107.71833138
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.51747605  0.48252695  0.50000500  1
+  Mn  Mn1  1  0.85070010  0.14930690  0.00000100  1
+  Sb  Sb2  1  0.18409347  0.81590553  0.00000200  1
+  O  O3  1  0.15034238  0.12699175  0.22009163  1
+  O  O4  1  0.52913215  0.85047103  0.22058836  1
+  O  O5  1  0.87381904  0.47139340  0.22050139  1
+  O  O6  1  0.52861160  0.12618596  0.77950561  1
+  O  O7  1  0.14952797  0.47086985  0.77941864  1
+  O  O8  1  0.87301125  0.84965562  0.77991537  1

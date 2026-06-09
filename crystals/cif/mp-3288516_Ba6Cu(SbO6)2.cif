@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Ba6Cu(SbO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.31449850
+_cell_length_b   9.31449793
+_cell_length_c   7.21379345
+_cell_angle_alpha   67.34196292
+_cell_angle_beta   67.34196472
+_cell_angle_gamma   36.79649267
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba6Cu(SbO6)2
+_chemical_formula_sum   'Ba6 Cu1 Sb2 O12'
+_cell_volume   342.59479397
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.20570042  0.20570042  0.70906126  1
+  Ba  Ba1  1  0.88950741  0.88950741  0.70657116  1
+  Ba  Ba2  1  0.54728197  0.54728197  0.71982469  1
+  Ba  Ba3  1  0.79429958  0.79429958  0.29093874  1
+  Ba  Ba4  1  0.45271803  0.45271803  0.28017531  1
+  Ba  Ba5  1  0.11049259  0.11049259  0.29342884  1
+  Cu  Cu6  1  0.00000000  0.00000000  0.00000000  1
+  Sb  Sb7  1  0.66816674  0.66816674  0.00157924  1
+  Sb  Sb8  1  0.33183326  0.33183326  0.99842076  1
+  O  O9  1  0.27746870  0.27746870  0.30092907  1
+  O  O10  1  0.94997168  0.94997168  0.30322529  1
+  O  O11  1  0.62207611  0.62207611  0.30413035  1
+  O  O12  1  0.72253130  0.72253130  0.69907093  1
+  O  O13  1  0.37792389  0.37792389  0.69586965  1
+  O  O14  1  0.05002832  0.05002832  0.69677471  1
+  O  O15  1  0.00000000  0.50000000  0.00000000  1
+  O  O16  1  0.64687745  0.17365246  0.99994435  1
+  O  O17  1  0.35312255  0.82634754  0.00005565  1
+  O  O18  1  0.50000000  0.00000000  0.00000000  1
+  O  O19  1  0.17365246  0.64687745  0.99994435  1
+  O  O20  1  0.82634754  0.35312255  0.00005565  1

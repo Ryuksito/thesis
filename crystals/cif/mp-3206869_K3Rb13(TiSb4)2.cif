@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_K3Rb13(TiSb4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.84989222
+_cell_length_b   11.84989202
+_cell_length_c   11.84989259
+_cell_angle_alpha   59.70522027
+_cell_angle_beta   59.70522292
+_cell_angle_gamma   59.70521953
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Rb13(TiSb4)2
+_chemical_formula_sum   'K3 Rb13 Ti2 Sb8'
+_cell_volume   1168.72017646
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.62500000  0.12500000  0.62500000  1
+  K  K1  1  0.62500000  0.62500000  0.12500000  1
+  K  K2  1  0.12500000  0.62500000  0.62500000  1
+  Rb  Rb3  1  0.62500000  0.62500000  0.62500000  1
+  Rb  Rb4  1  0.02650731  0.02650731  0.47312787  1
+  Rb  Rb5  1  0.77687213  0.22349269  0.22349269  1
+  Rb  Rb6  1  0.22280919  0.77647125  0.77647125  1
+  Rb  Rb7  1  0.77647125  0.77647125  0.22280919  1
+  Rb  Rb8  1  0.77647125  0.22280919  0.77647125  1
+  Rb  Rb9  1  0.22349269  0.77687213  0.22349269  1
+  Rb  Rb10  1  0.47352875  0.02719081  0.47352875  1
+  Rb  Rb11  1  0.47312787  0.02650731  0.02650731  1
+  Rb  Rb12  1  0.02719081  0.47352875  0.47352875  1
+  Rb  Rb13  1  0.02650731  0.47312787  0.02650731  1
+  Rb  Rb14  1  0.22349269  0.22349269  0.77687213  1
+  Rb  Rb15  1  0.47352875  0.47352875  0.02719081  1
+  Ti  Ti16  1  0.75059487  0.75059487  0.75059487  1
+  Ti  Ti17  1  0.49940513  0.49940513  0.49940513  1
+  Sb  Sb18  1  0.40290132  0.78724527  0.40290132  1
+  Sb  Sb19  1  0.84709868  0.84709868  0.46275473  1
+  Sb  Sb20  1  0.46275473  0.84709868  0.84709868  1
+  Sb  Sb21  1  0.84577694  0.84577694  0.84577694  1
+  Sb  Sb22  1  0.78724527  0.40290132  0.40290132  1
+  Sb  Sb23  1  0.40422306  0.40422306  0.40422306  1
+  Sb  Sb24  1  0.40290132  0.40290132  0.78724527  1
+  Sb  Sb25  1  0.84709868  0.46275473  0.84709868  1

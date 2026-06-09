@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_DyTcMo5S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55030569
+_cell_length_b   6.55452218
+_cell_length_c   6.51800619
+_cell_angle_alpha   89.48255015
+_cell_angle_beta   92.62295277
+_cell_angle_gamma   92.33397312
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyTcMo5S8
+_chemical_formula_sum   'Dy1 Tc1 Mo5 S8'
+_cell_volume   279.31258566
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.07716465  0.94329502  0.98680737  1
+  Tc  Tc1  1  0.76263365  0.59139558  0.44531185  1
+  Mo  Mo2  1  0.43979308  0.77121970  0.57954332  1
+  Mo  Mo3  1  0.58269015  0.44623079  0.77168155  1
+  Mo  Mo4  1  0.22480452  0.41380972  0.55596536  1
+  Mo  Mo5  1  0.54961054  0.23638303  0.42065644  1
+  Mo  Mo6  1  0.41048019  0.56194383  0.23222362  1
+  S  S7  1  0.76715922  0.77193451  0.76231095  1
+  S  S8  1  0.21984352  0.23986073  0.23339628  1
+  S  S9  1  0.26202260  0.61490966  0.86829159  1
+  S  S10  1  0.86598592  0.27559390  0.63186936  1
+  S  S11  1  0.62310737  0.87935894  0.26387908  1
+  S  S12  1  0.72482820  0.38749629  0.13859272  1
+  S  S13  1  0.11965151  0.74277396  0.36662008  1
+  S  S14  1  0.37022588  0.12379532  0.74285342  1

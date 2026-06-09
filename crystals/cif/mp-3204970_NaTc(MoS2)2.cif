@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaTc(MoS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76381456
+_cell_length_b   6.59773002
+_cell_length_c   6.74598910
+_cell_angle_alpha   97.29053884
+_cell_angle_beta   90.73507352
+_cell_angle_gamma   96.45418494
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTc(MoS2)2
+_chemical_formula_sum   'Na2 Tc2 Mo4 S8'
+_cell_volume   296.60677356
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.01117015  0.70664044  0.91290857  1
+  Na  Na1  1  0.98882985  0.29335956  0.08709143  1
+  Tc  Tc2  1  0.24006818  0.90103650  0.55479265  1
+  Tc  Tc3  1  0.75993182  0.09896350  0.44520735  1
+  Mo  Mo4  1  0.54832674  0.73457914  0.40380872  1
+  Mo  Mo5  1  0.45167326  0.26542086  0.59619128  1
+  Mo  Mo6  1  0.58756436  0.96356309  0.75717313  1
+  Mo  Mo7  1  0.41243564  0.03643691  0.24282687  1
+  S  S8  1  0.77384969  0.30579221  0.76156371  1
+  S  S9  1  0.22615031  0.69420779  0.23843629  1
+  S  S10  1  0.71394175  0.88731215  0.12005764  1
+  S  S11  1  0.28605825  0.11268785  0.87994236  1
+  S  S12  1  0.86286339  0.80946639  0.58758919  1
+  S  S13  1  0.13713661  0.19053361  0.41241081  1
+  S  S14  1  0.37950582  0.63416027  0.71171668  1
+  S  S15  1  0.62049418  0.36583973  0.28828332  1

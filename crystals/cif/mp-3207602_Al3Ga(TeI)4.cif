@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Al3Ga(TeI)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.38097513
+_cell_length_b   8.03409303
+_cell_length_c   8.51828557
+_cell_angle_alpha   63.59580075
+_cell_angle_beta   89.71713015
+_cell_angle_gamma   89.86375088
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al3Ga(TeI)4
+_chemical_formula_sum   'Al3 Ga1 Te4 I4'
+_cell_volume   452.42851201
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.80587837  0.58741547  0.05713042  1
+  Al  Al1  1  0.30560208  0.91214567  0.94345824  1
+  Al  Al2  1  0.19351436  0.41186337  0.94497751  1
+  Ga  Ga3  1  0.69295976  0.08969405  0.05303312  1
+  Te  Te4  1  0.65352739  0.91172367  0.85382156  1
+  Te  Te5  1  0.15230133  0.58786086  0.14624789  1
+  Te  Te6  1  0.34588732  0.08608375  0.14657627  1
+  Te  Te7  1  0.84705608  0.41396302  0.85351884  1
+  I  I8  1  0.63937003  0.39752049  0.33795081  1
+  I  I9  1  0.14116246  0.10151819  0.66223561  1
+  I  I10  1  0.36161933  0.60140149  0.66415581  1
+  I  I11  1  0.86112350  0.89880997  0.33689293  1

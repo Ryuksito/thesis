@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr5Ce(BiO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96829255
+_cell_length_b   6.15179305
+_cell_length_c   8.50918555
+_cell_angle_alpha   89.93387013
+_cell_angle_beta   89.92937514
+_cell_angle_gamma   90.00171437
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5Ce(BiO6)2
+_chemical_formula_sum   'Sr5 Ce1 Bi2 O12'
+_cell_volume   312.42026351
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1
+  Sr  Sr1  1  0.98726567  0.44781569  0.24126469  1
+  Sr  Sr2  1  0.51428150  0.95133130  0.24256573  1
+  Sr  Sr3  1  0.48571850  0.04866870  0.75743427  1
+  Sr  Sr4  1  0.01273433  0.55218431  0.75873531  1
+  Ce  Ce5  1  0.50000000  0.50000000  0.50000000  1
+  Bi  Bi6  1  0.50000000  0.50000000  0.00000000  1
+  Bi  Bi7  1  0.00000000  0.00000000  0.50000000  1
+  O  O8  1  0.89098987  0.95643041  0.72717971  1
+  O  O9  1  0.79811241  0.71739242  0.43756822  1
+  O  O10  1  0.78839557  0.67630251  0.04652240  1
+  O  O11  1  0.71591355  0.20706886  0.44483980  1
+  O  O12  1  0.67144582  0.21390725  0.05149284  1
+  O  O13  1  0.59780274  0.46182366  0.75038761  1
+  O  O14  1  0.40219726  0.53817634  0.24961239  1
+  O  O15  1  0.32855418  0.78609275  0.94850716  1
+  O  O16  1  0.28408645  0.79293114  0.55516020  1
+  O  O17  1  0.21160443  0.32369749  0.95347760  1
+  O  O18  1  0.20188759  0.28260758  0.56243178  1
+  O  O19  1  0.10901013  0.04356959  0.27282029  1

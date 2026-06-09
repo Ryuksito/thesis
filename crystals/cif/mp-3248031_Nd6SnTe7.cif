@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Nd6SnTe7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.27577753
+_cell_length_b   8.27577708
+_cell_length_c   8.31187742
+_cell_angle_alpha   109.55960974
+_cell_angle_beta   109.55960862
+_cell_angle_gamma   109.38268582
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd6SnTe7
+_chemical_formula_sum   'Nd6 Sn1 Te7'
+_cell_volume   437.74372961
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.86625389  0.24794712  0.11360848  1
+  Nd  Nd1  1  0.13537487  0.87708144  0.26066445  1
+  Nd  Nd2  1  0.38169323  0.63374611  0.74735459  1
+  Nd  Nd3  1  0.25205288  0.11830677  0.86566136  1
+  Nd  Nd4  1  0.74170657  0.36462513  0.62528957  1
+  Nd  Nd5  1  0.62291856  0.75829343  0.38358301  1
+  Sn  Sn6  1  0.50000000  0.00000000  0.65590000  1
+  Te  Te7  1  0.14892024  0.50046935  0.99868959  1
+  Te  Te8  1  0.35154910  0.35107976  0.34976935  1
+  Te  Te9  1  0.99953065  0.14845090  0.49821925  1
+  Te  Te10  1  0.85238932  0.85279337  0.85222658  1
+  Te  Te11  1  0.00040405  0.64761068  0.49983726  1
+  Te  Te12  1  0.50000000  0.00000000  0.14976131  1
+  Te  Te13  1  0.64720663  0.49959595  0.99943320  1

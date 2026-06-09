@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na16SiSnAs8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.74741736
+_cell_length_b   9.74741876
+_cell_length_c   9.74741784
+_cell_angle_alpha   59.99636476
+_cell_angle_beta   59.99635570
+_cell_angle_gamma   59.99635844
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na16SiSnAs8
+_chemical_formula_sum   'Na16 Si1 Sn1 As8'
+_cell_volume   654.81395162
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.62812832  0.62812832  0.11559368  1
+  Na  Na1  1  0.62812832  0.11559268  0.62812832  1
+  Na  Na2  1  0.11559368  0.62812832  0.62812832  1
+  Na  Na3  1  0.62816219  0.62816219  0.62816219  1
+  Na  Na4  1  0.02393394  0.47608625  0.47608725  1
+  Na  Na5  1  0.77315418  0.22685038  0.22685038  1
+  Na  Na6  1  0.47608725  0.02393294  0.47608725  1
+  Na  Na7  1  0.47608725  0.47608725  0.02393294  1
+  Na  Na8  1  0.02390994  0.02390994  0.47608518  1
+  Na  Na9  1  0.02390994  0.47608518  0.02390894  1
+  Na  Na10  1  0.47608518  0.02390994  0.02390994  1
+  Na  Na11  1  0.77314536  0.22684399  0.77314536  1
+  Na  Na12  1  0.22685138  0.77315418  0.22685138  1
+  Na  Na13  1  0.22685038  0.22685038  0.77315418  1
+  Na  Na14  1  0.77314536  0.77314536  0.22684399  1
+  Na  Na15  1  0.22684299  0.77314536  0.77314636  1
+  Si  Si16  1  0.75000779  0.75000779  0.75000779  1
+  Sn  Sn17  1  0.49998971  0.49999071  0.49998971  1
+  As  As18  1  0.85232837  0.85232837  0.44301541  1
+  As  As19  1  0.85232837  0.44301541  0.85232837  1
+  As  As20  1  0.38920310  0.38920310  0.83240260  1
+  As  As21  1  0.38920310  0.83240260  0.38920310  1
+  As  As22  1  0.83240260  0.38920310  0.38920310  1
+  As  As23  1  0.85232516  0.85232516  0.85232516  1
+  As  As24  1  0.44301541  0.85232837  0.85232837  1
+  As  As25  1  0.38918172  0.38918172  0.38918172  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyTa(SnPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41767088
+_cell_length_b   4.51450695
+_cell_length_c   9.05954200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyTa(SnPt)2
+_chemical_formula_sum   'Dy2 Ta2 Sn4 Pt4'
+_cell_volume   262.47866574
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.00464500  0.00000000  0.37695609  1
+  Dy  Dy1  1  0.50464600  0.50000100  0.62304491  1
+  Ta  Ta2  1  0.49642428  0.50000100  0.12212062  1
+  Ta  Ta3  1  0.99642528  0.00000000  0.87787838  1
+  Sn  Sn4  1  0.98423659  0.50000100  0.12554453  1
+  Sn  Sn5  1  0.51130566  0.00000000  0.37156092  1
+  Sn  Sn6  1  0.01130566  0.50000100  0.62844108  1
+  Sn  Sn7  1  0.48423759  0.00000000  0.87445747  1
+  Pt  Pt8  1  0.73436005  0.00000000  0.10955045  1
+  Pt  Pt9  1  0.26902342  0.50000100  0.35388667  1
+  Pt  Pt10  1  0.76902442  0.00000000  0.64611433  1
+  Pt  Pt11  1  0.23436005  0.50000100  0.89045055  1

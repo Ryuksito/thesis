@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba5SrP6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.41601696
+_cell_length_b   8.48961223
+_cell_length_c   6.38221900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.71365218
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba5SrP6
+_chemical_formula_sum   'Ba5 Sr1 P6'
+_cell_volume   396.04332576
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00135773  0.63832208  0.50000000  1
+  Ba  Ba1  1  0.36303565  0.36167792  0.50000000  1
+  Ba  Ba2  1  0.63761178  1.00000000  0.50000000  1
+  Ba  Ba3  1  0.00158042  0.30244341  0.00000000  1
+  Ba  Ba4  1  0.69913602  0.69755659  0.00000000  1
+  Sr  Sr5  1  0.30571417  0.00000000  0.00000000  1
+  P  P6  1  0.65627196  0.32428325  0.17890797  1
+  P  P7  1  0.65627196  0.32428325  0.82109203  1
+  P  P8  1  0.33198772  0.67571675  0.82109203  1
+  P  P9  1  0.33198772  0.67571675  0.17890797  1
+  P  P10  1  0.00752193  0.00000000  0.67632011  1
+  P  P11  1  0.00752193  0.00000000  0.32367989  1

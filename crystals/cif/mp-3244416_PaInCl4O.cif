@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_PaInCl4O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65980731
+_cell_length_b   6.65980735
+_cell_length_c   7.79207025
+_cell_angle_alpha   107.29150374
+_cell_angle_beta   107.29150297
+_cell_angle_gamma   36.40140999
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaInCl4O
+_chemical_formula_sum   'Pa1 In1 Cl4 O1'
+_cell_volume   194.79585646
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.49869108  0.50130992  0.50000000  1
+  In  In1  1  0.01546616  0.98453284  1.00000000  1
+  Cl  Cl2  1  0.35075834  0.35747712  0.17746563  1
+  Cl  Cl3  1  0.64181079  0.64847390  0.32509033  1
+  Cl  Cl4  1  0.35152610  0.35818821  0.67490867  1
+  Cl  Cl5  1  0.64252288  0.64924166  0.82253337  1
+  O  O6  1  0.99853665  0.00146435  0.50000000  1

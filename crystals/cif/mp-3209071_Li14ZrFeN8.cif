@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li14ZrFeN8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.86854598
+_cell_length_b   6.86854598
+_cell_length_c   4.88459244
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li14ZrFeN8
+_chemical_formula_sum   'Li14 Zr1 Fe1 N8'
+_cell_volume   230.44004576
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.00000000  0.51731166  1
+  Li  Li1  1  0.24010122  0.75989878  0.00000000  1
+  Li  Li2  1  0.00000000  0.50000000  0.94870960  1
+  Li  Li3  1  0.75989878  0.24010122  0.00000000  1
+  Li  Li4  1  0.26962923  0.73037077  0.50000000  1
+  Li  Li5  1  0.00000000  0.00000000  0.00000000  1
+  Li  Li6  1  0.50000000  0.00000000  0.05129040  1
+  Li  Li7  1  0.73037077  0.73037077  0.50000000  1
+  Li  Li8  1  0.26962923  0.26962923  0.50000000  1
+  Li  Li9  1  0.24010122  0.24010122  0.00000000  1
+  Li  Li10  1  0.75989878  0.75989878  0.00000000  1
+  Li  Li11  1  0.73037077  0.26962923  0.50000000  1
+  Li  Li12  1  0.00000000  0.50000000  0.48268834  1
+  Li  Li13  1  0.50000000  0.50000000  0.50000000  1
+  Zr  Zr14  1  0.00000000  0.00000000  0.50000000  1
+  Fe  Fe15  1  0.50000000  0.50000000  0.00000000  1
+  N  N16  1  0.00000000  0.25115877  0.73149641  1
+  N  N17  1  0.29104678  0.50000000  0.21049920  1
+  N  N18  1  0.50000000  0.29104678  0.78950080  1
+  N  N19  1  0.00000000  0.74884123  0.73149641  1
+  N  N20  1  0.50000000  0.70895322  0.78950080  1
+  N  N21  1  0.74884123  0.00000000  0.26850359  1
+  N  N22  1  0.70895322  0.50000000  0.21049920  1
+  N  N23  1  0.25115877  0.00000000  0.26850359  1

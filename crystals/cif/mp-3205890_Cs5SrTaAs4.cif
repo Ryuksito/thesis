@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Cs5SrTaAs4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.14140661
+_cell_length_b   11.14140741
+_cell_length_c   8.32474271
+_cell_angle_alpha   87.06641823
+_cell_angle_beta   87.06642430
+_cell_angle_gamma   120.95301034
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs5SrTaAs4
+_chemical_formula_sum   'Cs10 Sr2 Ta2 As8'
+_cell_volume   881.40480988
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.46506386  0.52480607  0.49085982  1
+  Cs  Cs1  1  0.06379162  0.52914787  0.49885687  1
+  Cs  Cs2  1  0.52480607  0.46506386  0.99085982  1
+  Cs  Cs3  1  0.52914787  0.06379162  0.99885687  1
+  Cs  Cs4  1  0.86630163  0.13943136  0.68554238  1
+  Cs  Cs5  1  0.29577029  0.15245672  0.74419391  1
+  Cs  Cs6  1  0.85758758  0.72055282  0.64096200  1
+  Cs  Cs7  1  0.13943136  0.86630163  0.18554238  1
+  Cs  Cs8  1  0.72055282  0.85758758  0.14096200  1
+  Cs  Cs9  1  0.15245672  0.29577029  0.24419391  1
+  Sr  Sr10  1  0.46377196  0.93669432  0.49344659  1
+  Sr  Sr11  1  0.93669432  0.46377196  0.99344659  1
+  Ta  Ta12  1  0.67272772  0.32471825  0.39190712  1
+  Ta  Ta13  1  0.32471825  0.67272772  0.89190712  1
+  As  As14  1  0.69460816  0.34422099  0.68769209  1
+  As  As15  1  0.34422099  0.69460816  0.18769209  1
+  As  As16  1  0.78523067  0.19652201  0.28699458  1
+  As  As17  1  0.41824725  0.18599672  0.34262559  1
+  As  As18  1  0.79599470  0.56635341  0.25120803  1
+  As  As19  1  0.19652201  0.78523067  0.78699458  1
+  As  As20  1  0.56635341  0.79599470  0.75120803  1
+  As  As21  1  0.18599672  0.41824725  0.84262559  1

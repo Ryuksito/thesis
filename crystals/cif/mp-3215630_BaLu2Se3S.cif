@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_BaLu2Se3S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07802282
+_cell_length_b   12.57421621
+_cell_length_c   14.75540538
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLu2Se3S
+_chemical_formula_sum   'Ba4 Lu8 Se12 S4'
+_cell_volume   756.62680201
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25000000  0.75479282  0.66456907  1
+  Ba  Ba1  1  0.75000000  0.74520718  0.16456907  1
+  Ba  Ba2  1  0.25000000  0.25479282  0.83543093  1
+  Ba  Ba3  1  0.75000000  0.24520718  0.33543093  1
+  Lu  Lu4  1  0.25000000  0.44014092  0.60360251  1
+  Lu  Lu5  1  0.75000000  0.05985908  0.10360251  1
+  Lu  Lu6  1  0.25000000  0.94014092  0.89639749  1
+  Lu  Lu7  1  0.75000000  0.55985908  0.39639749  1
+  Lu  Lu8  1  0.25000000  0.42060452  0.10018208  1
+  Lu  Lu9  1  0.75000000  0.07939548  0.60018208  1
+  Lu  Lu10  1  0.25000000  0.92060452  0.39981792  1
+  Lu  Lu11  1  0.75000000  0.57939548  0.89981792  1
+  Se  Se12  1  0.25000000  0.52342216  0.78180056  1
+  Se  Se13  1  0.75000000  0.97657784  0.28180056  1
+  Se  Se14  1  0.25000000  0.02342216  0.71819944  1
+  Se  Se15  1  0.75000000  0.47657784  0.21819944  1
+  Se  Se16  1  0.25000000  0.12429109  0.47527155  1
+  Se  Se17  1  0.75000000  0.37570891  0.97527155  1
+  Se  Se18  1  0.25000000  0.62429109  0.02472845  1
+  Se  Se19  1  0.75000000  0.87570891  0.52472845  1
+  Se  Se20  1  0.25000000  0.20499135  0.15541511  1
+  Se  Se21  1  0.75000000  0.29500865  0.65541511  1
+  Se  Se22  1  0.25000000  0.70499135  0.34458489  1
+  Se  Se23  1  0.75000000  0.79500865  0.84458489  1
+  S  S24  1  0.25000000  0.42186751  0.42562031  1
+  S  S25  1  0.75000000  0.07813249  0.92562031  1
+  S  S26  1  0.25000000  0.92186751  0.07437969  1
+  S  S27  1  0.75000000  0.57813249  0.57437969  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Hf6BeI12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.17477453
+_cell_length_b   9.17477498
+_cell_length_c   9.17477505
+_cell_angle_alpha   107.08576737
+_cell_angle_beta   107.08577122
+_cell_angle_gamma   107.08575467
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf6BeI12
+_chemical_formula_sum   'Hf6 Be1 I12'
+_cell_volume   641.66844569
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.97120673  0.72279775  0.90853525  1
+  Hf  Hf1  1  0.27720225  0.09146475  0.02879327  1
+  Hf  Hf2  1  0.09146475  0.02879327  0.27720225  1
+  Hf  Hf3  1  0.90853525  0.97120673  0.72279775  1
+  Hf  Hf4  1  0.72279775  0.90853525  0.97120673  1
+  Hf  Hf5  1  0.02879327  0.27720225  0.09146475  1
+  Be  Be6  1  0.00000000  0.00000000  0.00000000  1
+  I  I7  1  0.92247617  0.30955174  0.77560169  1
+  I  I8  1  0.69044826  0.22439831  0.07752383  1
+  I  I9  1  0.44486374  0.14355860  0.36988395  1
+  I  I10  1  0.85644140  0.63011605  0.55513626  1
+  I  I11  1  0.22439831  0.07752383  0.69044826  1
+  I  I12  1  0.63011605  0.55513626  0.85644140  1
+  I  I13  1  0.36988395  0.44486374  0.14355860  1
+  I  I14  1  0.77560169  0.92247617  0.30955174  1
+  I  I15  1  0.14355860  0.36988395  0.44486374  1
+  I  I16  1  0.55513626  0.85644140  0.63011605  1
+  I  I17  1  0.30955174  0.77560169  0.92247617  1
+  I  I18  1  0.07752383  0.69044826  0.22439831  1

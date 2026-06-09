@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CaThN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.17838599
+_cell_length_b   6.17838597
+_cell_length_c   6.17838536
+_cell_angle_alpha   34.49518851
+_cell_angle_beta   34.49518432
+_cell_angle_gamma   34.49519963
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaThN2
+_chemical_formula_sum   'Ca1 Th1 N2'
+_cell_volume   67.48330053
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.00000000  0.00000000  1
+  Th  Th1  1  0.50000000  0.50000000  0.50000000  1
+  N  N2  1  0.24145371  0.24145371  0.24145371  1
+  N  N3  1  0.75854629  0.75854629  0.75854629  1

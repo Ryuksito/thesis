@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_SrCa3(NiH6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.16155576
+_cell_length_b   7.16155703
+_cell_length_c   5.11527177
+_cell_angle_alpha   89.99225285
+_cell_angle_beta   89.99224479
+_cell_angle_gamma   138.17277866
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCa3(NiH6)2
+_chemical_formula_sum   'Sr1 Ca3 Ni2 H12'
+_cell_volume   174.95867705
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.14448157  0.85551843  0.50000000  1
+  Ca  Ca1  1  0.65009387  0.34990613  1.00000000  1
+  Ca  Ca2  1  0.35626516  0.64373484  0.00000000  1
+  Ca  Ca3  1  0.85495294  0.14504706  0.50000000  1
+  Ni  Ni4  1  0.99799007  0.00200993  0.00000000  1
+  Ni  Ni5  1  0.49753237  0.50246763  0.50000000  1
+  H  H6  1  0.88447518  0.11552482  0.00000000  1
+  H  H7  1  0.11293158  0.88706842  1.00000000  1
+  H  H8  1  0.61246718  0.38753282  0.50000000  1
+  H  H9  1  0.38347339  0.61652661  0.50000000  1
+  H  H10  1  0.99936068  0.49016263  0.24387613  1
+  H  H11  1  0.99785679  0.48860612  0.75665930  1
+  H  H12  1  0.50983737  0.00063932  0.75612387  1
+  H  H13  1  0.51139388  0.00214321  0.24334070  1
+  H  H14  1  0.22387143  0.23042670  0.22325707  1
+  H  H15  1  0.76957330  0.77612857  0.77674293  1
+  H  H16  1  0.27348992  0.28005066  0.72781472  1
+  H  H17  1  0.71994934  0.72651008  0.27218528  1

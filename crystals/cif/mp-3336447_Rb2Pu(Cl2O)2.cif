@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Rb2Pu(Cl2O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69873453
+_cell_length_b   6.90559926
+_cell_length_c   6.91787929
+_cell_angle_alpha   65.29118086
+_cell_angle_beta   86.72532258
+_cell_angle_gamma   89.20420117
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Pu(Cl2O)2
+_chemical_formula_sum   'Rb2 Pu1 Cl4 O2'
+_cell_volume   246.89643088
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.25061314  0.13780656  0.16879038  1
+  Rb  Rb1  1  0.74938686  0.86219344  0.83120962  1
+  Pu  Pu2  1  0.00000000  0.50000000  0.50000000  1
+  Cl  Cl3  1  0.76581892  0.35640937  0.87769063  1
+  Cl  Cl4  1  0.23418108  0.64359063  0.12230937  1
+  Cl  Cl5  1  0.26169246  0.15142367  0.65622971  1
+  Cl  Cl6  1  0.73830754  0.84857633  0.34377029  1
+  O  O7  1  0.81879460  0.34754168  0.41723707  1
+  O  O8  1  0.18120540  0.65245832  0.58276293  1

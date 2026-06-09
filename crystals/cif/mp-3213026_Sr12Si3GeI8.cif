@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sr12Si3GeI8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   15.71761412
+_cell_length_b   14.98432880
+_cell_length_c   8.32423048
+_cell_angle_alpha   79.19199658
+_cell_angle_beta   69.46121302
+_cell_angle_gamma   31.32669852
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr12Si3GeI8
+_chemical_formula_sum   'Sr12 Si3 Ge1 I8'
+_cell_volume   928.82771025
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.36644359  0.94941057  0.58802577  1
+  Sr  Sr1  1  0.58804484  0.09615393  0.36641417  1
+  Sr  Sr2  1  0.30093156  0.88356788  0.15402476  1
+  Sr  Sr3  1  0.94941057  0.36644359  0.09612108  1
+  Sr  Sr4  1  0.45269635  0.04740803  0.04716273  1
+  Sr  Sr5  1  0.88356788  0.30093156  0.66147380  1
+  Sr  Sr6  1  0.09615393  0.58804484  0.94938806  1
+  Sr  Sr7  1  0.66182379  0.15377390  0.88374838  1
+  Sr  Sr8  1  0.79726339  0.20252860  0.20270177  1
+  Sr  Sr9  1  0.20252860  0.79726339  0.79750524  1
+  Sr  Sr10  1  0.15377390  0.66182379  0.30065393  1
+  Sr  Sr11  1  0.04740803  0.45269635  0.45273289  1
+  Si  Si12  1  0.91573203  0.91573203  0.08426797  1
+  Si  Si13  1  0.16599554  0.16599554  0.33400446  1
+  Si  Si14  1  0.33411907  0.33411907  0.16588093  1
+  Ge  Ge15  1  0.08414354  0.08414354  0.91585646  1
+  I  I16  1  0.67326367  0.67326367  0.82673633  1
+  I  I17  1  0.74402077  0.74402077  0.25597923  1
+  I  I18  1  0.25609976  0.25609976  0.74390024  1
+  I  I19  1  0.57705218  0.57705218  0.42294782  1
+  I  I20  1  0.99387750  0.99387750  0.50612250  1
+  I  I21  1  0.82693573  0.82693573  0.67306427  1
+  I  I22  1  0.42293971  0.42293971  0.57706029  1
+  I  I23  1  0.50577405  0.50577405  0.99422595  1

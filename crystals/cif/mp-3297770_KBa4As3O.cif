@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KBa4As3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.02886504
+_cell_length_b   10.02886542
+_cell_length_c   10.02886625
+_cell_angle_alpha   130.07601677
+_cell_angle_beta   130.07601669
+_cell_angle_gamma   73.28526824
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBa4As3O
+_chemical_formula_sum   'K2 Ba8 As6 O2'
+_cell_volume   576.56973351
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.50000000  0.00000000  1
+  K  K1  1  0.00000000  0.00000000  0.00000000  1
+  Ba  Ba2  1  0.81588148  0.98470714  0.50000000  1
+  Ba  Ba3  1  0.48470714  0.31588148  0.50000000  1
+  Ba  Ba4  1  0.98470714  0.48470714  0.16882567  1
+  Ba  Ba5  1  0.18411852  0.01529286  0.50000000  1
+  Ba  Ba6  1  0.68411852  0.18411852  0.16882567  1
+  Ba  Ba7  1  0.01529286  0.51529286  0.83117433  1
+  Ba  Ba8  1  0.31588148  0.81588148  0.83117433  1
+  Ba  Ba9  1  0.51529286  0.68411852  0.50000000  1
+  As  As10  1  0.89407283  0.60592717  0.50000000  1
+  As  As11  1  0.25000000  0.25000000  0.00000000  1
+  As  As12  1  0.39407283  0.89407283  0.28814666  1
+  As  As13  1  0.60592717  0.10592717  0.71185334  1
+  As  As14  1  0.10592717  0.39407283  0.50000000  1
+  As  As15  1  0.75000000  0.75000000  0.00000000  1
+  O  O16  1  0.25000000  0.75000000  0.50000000  1
+  O  O17  1  0.75000000  0.25000000  0.50000000  1

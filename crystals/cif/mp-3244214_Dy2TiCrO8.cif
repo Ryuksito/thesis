@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Dy2TiCrO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96926955
+_cell_length_b   5.96926870
+_cell_length_c   5.96926980
+_cell_angle_alpha   106.24399768
+_cell_angle_beta   106.24399472
+_cell_angle_gamma   116.13854945
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2TiCrO8
+_chemical_formula_sum   'Dy2 Ti1 Cr1 O8'
+_cell_volume   162.05336654
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.75000000  0.25000000  0.50000000  1
+  Dy  Dy1  1  0.50000000  0.50000000  0.00000000  1
+  Ti  Ti2  1  0.25000000  0.75000000  0.50000000  1
+  Cr  Cr3  1  0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.83930595  0.01932087  0.18001492  1
+  O  O5  1  0.86771501  0.55638652  0.31132949  1
+  O  O6  1  0.24505703  0.55638652  0.68867051  1
+  O  O7  1  0.83930595  0.65929103  0.81998508  1
+  O  O8  1  0.34070897  0.16069405  0.18001492  1
+  O  O9  1  0.44361348  0.75494297  0.31132949  1
+  O  O10  1  0.44361348  0.13228499  0.68867051  1
+  O  O11  1  0.98067913  0.16069405  0.81998508  1

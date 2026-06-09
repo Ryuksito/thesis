@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_K6InSe4Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.72081972
+_cell_length_b   10.72082020
+_cell_length_c   7.87673776
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000442
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K6InSe4Br
+_chemical_formula_sum   'K12 In2 Se8 Br2'
+_cell_volume   784.03058450
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.13491185  0.86508815  0.51002533  1
+  K  K1  1  0.73017630  0.86508815  0.51002533  1
+  K  K2  1  0.94354237  0.47177069  0.32300700  1
+  K  K3  1  0.52822931  0.47177069  0.32300700  1
+  K  K4  1  0.86508815  0.73017630  0.01002533  1
+  K  K5  1  0.26982370  0.13491185  0.01002533  1
+  K  K6  1  0.52822931  0.05645763  0.32300700  1
+  K  K7  1  0.13491185  0.26982370  0.51002533  1
+  K  K8  1  0.86508815  0.13491185  0.01002533  1
+  K  K9  1  0.05645763  0.52822931  0.82300700  1
+  K  K10  1  0.47177069  0.94354237  0.82300700  1
+  K  K11  1  0.47177069  0.52822931  0.82300700  1
+  In  In12  1  0.66666700  0.33333300  0.71038548  1
+  In  In13  1  0.33333300  0.66666700  0.21038548  1
+  Se  Se14  1  0.40203669  0.20101884  0.60584765  1
+  Se  Se15  1  0.59796331  0.79898116  0.10584765  1
+  Se  Se16  1  0.66666700  0.33333300  0.04536299  1
+  Se  Se17  1  0.79898116  0.59796331  0.60584765  1
+  Se  Se18  1  0.20101884  0.40203669  0.10584765  1
+  Se  Se19  1  0.33333300  0.66666700  0.54536299  1
+  Se  Se20  1  0.20101884  0.79898116  0.10584765  1
+  Se  Se21  1  0.79898116  0.20101884  0.60584765  1
+  Br  Br22  1  0.00000000  0.00000000  0.26821355  1
+  Br  Br23  1  0.00000000  0.00000000  0.76821355  1

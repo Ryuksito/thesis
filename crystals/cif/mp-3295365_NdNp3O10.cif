@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NdNp3O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69610862
+_cell_length_b   5.69610887
+_cell_length_c   8.10149838
+_cell_angle_alpha   69.55987569
+_cell_angle_beta   69.55987689
+_cell_angle_gamma   70.96879831
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdNp3O10
+_chemical_formula_sum   'Nd1 Np3 O10'
+_cell_volume   224.47669854
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.95415765  0.04584235  0.25000000  1
+  Np  Np1  1  0.50098884  0.50576252  0.99756436  1
+  Np  Np2  1  0.49423748  0.49901116  0.50243564  1
+  Np  Np3  1  0.03750793  0.96249207  0.75000000  1
+  O  O4  1  0.39730156  0.60269844  0.75000000  1
+  O  O5  1  0.25658381  0.20096000  0.63060975  1
+  O  O6  1  0.71450459  0.73786741  0.38487983  1
+  O  O7  1  0.26213259  0.28549541  0.11512017  1
+  O  O8  1  0.59163225  0.40836775  0.25000000  1
+  O  O9  1  0.79904000  0.74341619  0.86939025  1
+  O  O10  1  0.21605751  0.81292943  0.02422682  1
+  O  O11  1  0.79314211  0.20435690  0.54395414  1
+  O  O12  1  0.79564310  0.20685789  0.95604586  1
+  O  O13  1  0.18707057  0.78394249  0.47577318  1

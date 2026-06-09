@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LuH2Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.21751871
+_cell_length_b   11.21751867
+_cell_length_c   11.21751761
+_cell_angle_alpha   18.68040671
+_cell_angle_beta   18.68040574
+_cell_angle_gamma   18.68040921
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuH2Br
+_chemical_formula_sum   'Lu2 H4 Br2'
+_cell_volume   126.51282496
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.87985914  0.87985914  0.87985914  1
+  Lu  Lu1  1  0.12014086  0.12014086  0.12014086  1
+  H  H2  1  0.81557444  0.81557444  0.81557444  1
+  H  H3  1  0.18442556  0.18442556  0.18442556  1
+  H  H4  1  0.54091128  0.54091128  0.54091128  1
+  H  H5  1  0.45908872  0.45908872  0.45908872  1
+  Br  Br6  1  0.72903789  0.72903789  0.72903789  1
+  Br  Br7  1  0.27096211  0.27096211  0.27096211  1

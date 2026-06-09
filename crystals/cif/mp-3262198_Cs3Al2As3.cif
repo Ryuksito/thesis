@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cs3Al2As3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.09851974
+_cell_length_b   8.19088532
+_cell_length_c   11.02068502
+_cell_angle_alpha   70.39177578
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3Al2As3
+_chemical_formula_sum   'Cs6 Al4 As6'
+_cell_volume   518.58393205
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.25000000  0.45661278  0.40933530  1
+  Cs  Cs1  1  0.75000000  0.14763280  0.93299002  1
+  Cs  Cs2  1  0.75000000  0.47065325  0.14737938  1
+  Cs  Cs3  1  0.25000000  0.52934675  0.85262062  1
+  Cs  Cs4  1  0.75000000  0.54338722  0.59066470  1
+  Cs  Cs5  1  0.25000000  0.85236720  0.06700998  1
+  Al  Al6  1  0.99964187  0.01297748  0.35094545  1
+  Al  Al7  1  0.49964187  0.98702252  0.64905455  1
+  Al  Al8  1  0.50035813  0.01297748  0.35094545  1
+  Al  Al9  1  0.00035813  0.98702252  0.64905455  1
+  As  As10  1  0.25000000  0.82912199  0.53370060  1
+  As  As11  1  0.75000000  0.17087801  0.46629940  1
+  As  As12  1  0.25000000  0.20986204  0.19188024  1
+  As  As13  1  0.75000000  0.79013796  0.80811976  1
+  As  As14  1  0.25000000  0.16092922  0.73054991  1
+  As  As15  1  0.75000000  0.83907078  0.26945009  1

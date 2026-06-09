@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Rb3GeIrBr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.40392014
+_cell_length_b   10.29446473
+_cell_length_c   10.15826961
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3GeIrBr8
+_chemical_formula_sum   'Rb6 Ge2 Ir2 Br16'
+_cell_volume   878.83110885
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.93781177  0.24198108  0.36776791  1
+  Rb  Rb1  1  0.43781177  0.25801892  0.63223209  1
+  Rb  Rb2  1  0.93781177  0.75801892  0.36776791  1
+  Rb  Rb3  1  0.98824946  0.00000000  0.86587865  1
+  Rb  Rb4  1  0.48824946  0.50000000  0.13412135  1
+  Rb  Rb5  1  0.43781177  0.74198108  0.63223209  1
+  Ge  Ge6  1  0.51624993  0.00000000  0.11175600  1
+  Ge  Ge7  1  0.01624993  0.50000000  0.88824400  1
+  Ir  Ir8  1  0.85737955  0.50000000  0.69784203  1
+  Ir  Ir9  1  0.35737955  0.00000000  0.30215797  1
+  Br  Br10  1  0.59927429  0.50000000  0.82037389  1
+  Br  Br11  1  0.19516173  0.67678398  0.92221618  1
+  Br  Br12  1  0.69516173  0.17678398  0.07778382  1
+  Br  Br13  1  0.19220563  0.00000000  0.52214309  1
+  Br  Br14  1  0.69220563  0.50000000  0.47785691  1
+  Br  Br15  1  0.84750212  0.74403638  0.69288749  1
+  Br  Br16  1  0.09927429  0.00000000  0.17962611  1
+  Br  Br17  1  0.11190906  0.50000000  0.56388701  1
+  Br  Br18  1  0.69516173  0.82321602  0.07778382  1
+  Br  Br19  1  0.40497984  0.00000000  0.89140120  1
+  Br  Br20  1  0.19516173  0.32321602  0.92221618  1
+  Br  Br21  1  0.61190906  0.00000000  0.43611299  1
+  Br  Br22  1  0.90497984  0.50000000  0.10859880  1
+  Br  Br23  1  0.84750212  0.25596362  0.69288749  1
+  Br  Br24  1  0.34750212  0.75596362  0.30711251  1
+  Br  Br25  1  0.34750212  0.24403638  0.30711251  1

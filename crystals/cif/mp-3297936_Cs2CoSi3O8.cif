@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cs2CoSi3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31482203
+_cell_length_b   6.98756218
+_cell_length_c   7.19545649
+_cell_angle_alpha   79.52680086
+_cell_angle_beta   67.81111839
+_cell_angle_gamma   67.34987527
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2CoSi3O8
+_chemical_formula_sum   'Cs2 Co1 Si3 O8'
+_cell_volume   228.14275596
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.94847806  0.28507848  0.82646232  1
+  Cs  Cs1  1  0.04874089  0.69698046  0.19120479  1
+  Co  Co2  1  0.68342687  0.88811921  0.77427290  1
+  Si  Si3  1  0.31540921  0.08552323  0.25593211  1
+  Si  Si4  1  0.64119628  0.27798480  0.41437010  1
+  Si  Si5  1  0.36023822  0.71344649  0.59220443  1
+  O  O6  1  0.98310659  0.24934713  0.28120480  1
+  O  O7  1  0.62691792  0.68641973  0.65897157  1
+  O  O8  1  0.50784741  0.21697291  0.26869199  1
+  O  O9  1  0.07065710  0.71928575  0.77578159  1
+  O  O10  1  0.28627008  0.92635259  0.44992686  1
+  O  O11  1  0.60397809  0.15397105  0.62368934  1
+  O  O12  1  0.45506589  0.97528737  0.04963673  1
+  O  O13  1  0.46866738  0.52723181  0.43565047  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CaSc6NiBr12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.67823776
+_cell_length_b   8.67823777
+_cell_length_c   8.67823708
+_cell_angle_alpha   106.38744110
+_cell_angle_beta   106.38743824
+_cell_angle_gamma   106.38743790
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaSc6NiBr12
+_chemical_formula_sum   'Ca1 Sc6 Ni1 Br12'
+_cell_volume   553.14580918
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50000000  0.50000000  0.50000000  1
+  Sc  Sc1  1  0.09658430  0.02208679  0.30190665  1
+  Sc  Sc2  1  0.02208679  0.30190665  0.09658430  1
+  Sc  Sc3  1  0.30190665  0.09658430  0.02208679  1
+  Sc  Sc4  1  0.90341470  0.97791321  0.69809335  1
+  Sc  Sc5  1  0.97791321  0.69809335  0.90341470  1
+  Sc  Sc6  1  0.69809335  0.90341470  0.97791321  1
+  Ni  Ni7  1  0.00000000  0.00000000  0.00000000  1
+  Br  Br8  1  0.07514192  0.67908205  0.22138783  1
+  Br  Br9  1  0.67908205  0.22138783  0.07514192  1
+  Br  Br10  1  0.22138783  0.07514192  0.67908205  1
+  Br  Br11  1  0.92485808  0.32091795  0.77861217  1
+  Br  Br12  1  0.32091795  0.77861217  0.92485808  1
+  Br  Br13  1  0.77861217  0.92485808  0.32091795  1
+  Br  Br14  1  0.44707447  0.13791748  0.36901646  1
+  Br  Br15  1  0.13791748  0.36901646  0.44707447  1
+  Br  Br16  1  0.36901646  0.44707447  0.13791748  1
+  Br  Br17  1  0.55292553  0.86208252  0.63098354  1
+  Br  Br18  1  0.86208252  0.63098354  0.55292553  1
+  Br  Br19  1  0.63098354  0.55292553  0.86208252  1

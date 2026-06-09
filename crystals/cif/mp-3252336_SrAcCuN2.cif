@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_SrAcCuN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89129640
+_cell_length_b   3.89129601
+_cell_length_c   6.85671213
+_cell_angle_alpha   106.49089642
+_cell_angle_beta   106.48461927
+_cell_angle_gamma   89.99999346
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrAcCuN2
+_chemical_formula_sum   'Sr1 Ac1 Cu1 N2'
+_cell_volume   95.09560258
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.85513274  0.85510502  0.21026649  1
+  Ac  Ac1  1  0.15703171  0.15687334  0.81406343  1
+  Cu  Cu2  1  0.49562829  0.49581631  0.49125859  1
+  N  N3  1  0.64434220  0.64431746  0.78868341  1
+  N  N4  1  0.34786504  0.34788787  0.19573009  1

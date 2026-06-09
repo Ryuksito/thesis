@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NdBi2AuO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95262605
+_cell_length_b   5.67093074
+_cell_length_c   6.93914850
+_cell_angle_alpha   89.95733038
+_cell_angle_beta   100.80805936
+_cell_angle_gamma   89.99037168
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdBi2AuO6
+_chemical_formula_sum   'Nd1 Bi2 Au1 O6'
+_cell_volume   152.78227067
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.99997651  0.99999775  0.50000391  1
+  Bi  Bi1  1  0.38772974  0.50030556  0.23747169  1
+  Bi  Bi2  1  0.61224635  0.49968997  0.76256115  1
+  Au  Au3  1  0.00004397  0.00000318  0.99995307  1
+  O  O4  1  0.91829328  0.75646175  0.19679030  1
+  O  O5  1  0.91868016  0.24380234  0.19626679  1
+  O  O6  1  0.49991753  0.73567114  0.50007324  1
+  O  O7  1  0.50004351  0.26433078  0.49995807  1
+  O  O8  1  0.08133401  0.75620087  0.80372130  1
+  O  O9  1  0.08173595  0.24353666  0.80320048  1

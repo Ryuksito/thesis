@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_K2Co(SiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74139174
+_cell_length_b   5.74139085
+_cell_length_c   10.41811978
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   113.36945608
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Co(SiO3)2
+_chemical_formula_sum   'K4 Co2 Si4 O12'
+_cell_volume   315.24654472
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.28129662  0.93210825  0.57513795  1
+  K  K1  1  0.06789175  0.71870338  0.92486205  1
+  K  K2  1  0.71870338  0.06789175  0.07513795  1
+  K  K3  1  0.93210825  0.28129662  0.42486205  1
+  Co  Co4  1  0.19429526  0.80570474  0.25000000  1
+  Co  Co5  1  0.80570474  0.19429526  0.75000000  1
+  Si  Si6  1  0.36345576  0.33228132  0.86285923  1
+  Si  Si7  1  0.33228132  0.36345576  0.13714077  1
+  Si  Si8  1  0.66771868  0.63654424  0.63714077  1
+  Si  Si9  1  0.63654424  0.66771868  0.36285923  1
+  O  O10  1  0.55080854  0.44919146  0.25000000  1
+  O  O11  1  0.52304382  0.87742110  0.33407114  1
+  O  O12  1  0.51502039  0.51502039  0.50000000  1
+  O  O13  1  0.87742110  0.52304382  0.66592886  1
+  O  O14  1  0.47695618  0.12257890  0.83407114  1
+  O  O15  1  0.05921496  0.21904082  0.87692050  1
+  O  O16  1  0.94078504  0.78096018  0.37692050  1
+  O  O17  1  0.44919146  0.55080854  0.75000000  1
+  O  O18  1  0.12257890  0.47695618  0.16592886  1
+  O  O19  1  0.21903982  0.05921496  0.12307950  1
+  O  O20  1  0.78095918  0.94078504  0.62307950  1
+  O  O21  1  0.48497961  0.48497961  0.00000000  1

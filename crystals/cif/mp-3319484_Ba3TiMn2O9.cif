@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ba3TiMn2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.78494627
+_cell_length_b   7.78494653
+_cell_length_c   7.78494564
+_cell_angle_alpha   43.20361896
+_cell_angle_beta   43.20361633
+_cell_angle_gamma   43.20361677
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3TiMn2O9
+_chemical_formula_sum   'Ba3 Ti1 Mn2 O9'
+_cell_volume   200.50878777
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.78743146  0.78743146  0.78743146  1
+  Ba  Ba1  1  0.21666244  0.21666244  0.21666244  1
+  Ba  Ba2  1  0.00309763  0.00309763  0.00309763  1
+  Ti  Ti3  1  0.62254595  0.62254595  0.62254595  1
+  Mn  Mn4  1  0.38214611  0.38214611  0.38214611  1
+  Mn  Mn5  1  0.50083986  0.50083986  0.50083986  1
+  O  O6  1  0.00433229  0.49743001  0.49743001  1
+  O  O7  1  0.49743001  0.00433229  0.49743001  1
+  O  O8  1  0.49743001  0.49743001  0.00433229  1
+  O  O9  1  0.29444968  0.29444968  0.73233716  1
+  O  O10  1  0.73233716  0.29444968  0.29444968  1
+  O  O11  1  0.29444968  0.73233716  0.29444968  1
+  O  O12  1  0.25907256  0.70388859  0.70388859  1
+  O  O13  1  0.70388859  0.70388859  0.25907256  1
+  O  O14  1  0.70388859  0.25907256  0.70388859  1

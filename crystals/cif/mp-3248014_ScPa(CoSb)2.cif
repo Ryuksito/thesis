@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ScPa(CoSb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24269746
+_cell_length_b   4.38383909
+_cell_length_c   8.74955328
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScPa(CoSb)2
+_chemical_formula_sum   'Sc2 Pa2 Co4 Sb4'
+_cell_volume   239.44886017
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00801530  0.50000000  0.37476969  1
+  Sc  Sc1  1  0.50801530  0.00000000  0.62523231  1
+  Pa  Pa2  1  0.48929544  0.00000000  0.12816983  1
+  Pa  Pa3  1  0.98929544  0.50000000  0.87183117  1
+  Co  Co4  1  0.74017936  0.50000000  0.11867069  1
+  Co  Co5  1  0.26761842  0.00000000  0.36210445  1
+  Co  Co6  1  0.76761842  0.50000000  0.63789555  1
+  Co  Co7  1  0.24017936  0.00000000  0.88132931  1
+  Sb  Sb8  1  0.99091310  0.00000000  0.13884397  1
+  Sb  Sb9  1  0.50397438  0.50000000  0.39084280  1
+  Sb  Sb10  1  0.00397538  0.00000000  0.60915720  1
+  Sb  Sb11  1  0.49091410  0.50000000  0.86115603  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cs2NaFeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06342838
+_cell_length_b   6.12092434
+_cell_length_c   8.17046807
+_cell_angle_alpha   89.43879988
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2NaFeO4
+_chemical_formula_sum   'Cs4 Na2 Fe2 O8'
+_cell_volume   303.22246025
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.25000000  0.14965591  0.81630997  1
+  Cs  Cs1  1  0.75000000  0.85034409  0.18369003  1
+  Cs  Cs2  1  0.25000000  0.69498726  0.50057445  1
+  Cs  Cs3  1  0.75000000  0.30501274  0.49942555  1
+  Na  Na4  1  0.75000000  0.37248456  0.97407691  1
+  Na  Na5  1  0.25000000  0.62751544  0.02592309  1
+  Fe  Fe6  1  0.25000000  0.20945410  0.24029018  1
+  Fe  Fe7  1  0.75000000  0.79054590  0.75970982  1
+  O  O8  1  0.96582220  0.63528037  0.83204110  1
+  O  O9  1  0.46582220  0.36471963  0.16795890  1
+  O  O10  1  0.03417780  0.36471963  0.16795890  1
+  O  O11  1  0.53417780  0.63528037  0.83204110  1
+  O  O12  1  0.75000000  0.05913072  0.82135773  1
+  O  O13  1  0.75000000  0.82102044  0.55268072  1
+  O  O14  1  0.25000000  0.94086928  0.17864227  1
+  O  O15  1  0.25000000  0.17897956  0.44731928  1

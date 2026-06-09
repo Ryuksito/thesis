@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiNd2Ag3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.60410003
+_cell_length_b   6.66934478
+_cell_length_c   6.60161499
+_cell_angle_alpha   126.62014721
+_cell_angle_beta   126.57943743
+_cell_angle_gamma   80.52915920
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNd2Ag3O8
+_chemical_formula_sum   'Li1 Nd2 Ag3 O8'
+_cell_volume   178.99353603
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.87500000  0.12500000  0.25000000  1
+  Nd  Nd1  1  0.50850993  0.48616546  0.99750635  1
+  Nd  Nd2  1  0.24149007  0.76383454  0.50249365  1
+  Ag  Ag3  1  0.37500000  0.12500000  0.25000000  1
+  Ag  Ag4  1  0.87500000  0.12500000  0.75000000  1
+  Ag  Ag5  1  0.87500000  0.62500000  0.75000000  1
+  O  O6  1  0.90499169  0.35961623  0.14847515  1
+  O  O7  1  0.20216103  0.74867981  0.84900335  1
+  O  O8  1  0.84500831  0.89038377  0.35152485  1
+  O  O9  1  0.54783897  0.50132019  0.65099665  1
+  O  O10  1  0.50519282  0.16373222  0.06397135  1
+  O  O11  1  0.09467362  0.44672736  0.92911346  1
+  O  O12  1  0.65532638  0.80327264  0.57088654  1
+  O  O13  1  0.24480718  0.08626778  0.43602865  1

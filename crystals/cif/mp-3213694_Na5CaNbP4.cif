@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Na5CaNbP4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.22888076
+_cell_length_b   9.22888151
+_cell_length_c   7.18105773
+_cell_angle_alpha   90.77238880
+_cell_angle_beta   90.77238604
+_cell_angle_gamma   120.13428690
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na5CaNbP4
+_chemical_formula_sum   'Na10 Ca2 Nb2 P8'
+_cell_volume   528.77309830
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.53898971  0.47124546  0.61181887  1
+  Na  Na1  1  0.93665356  0.46950999  0.61375793  1
+  Na  Na2  1  0.47124546  0.53898971  0.11181887  1
+  Na  Na3  1  0.46950999  0.93665356  0.11375793  1
+  Na  Na4  1  0.13635705  0.85506413  0.77958444  1
+  Na  Na5  1  0.70901783  0.84779755  0.80768408  1
+  Na  Na6  1  0.14677684  0.28855512  0.76479016  1
+  Na  Na7  1  0.85506413  0.13635705  0.27958444  1
+  Na  Na8  1  0.28855512  0.14677684  0.26479016  1
+  Na  Na9  1  0.84779755  0.70901783  0.30768408  1
+  Ca  Ca10  1  0.53404760  0.06161937  0.60657783  1
+  Ca  Ca11  1  0.06161937  0.53404760  0.10657783  1
+  Nb  Nb12  1  0.33197156  0.66384947  0.50054864  1
+  Nb  Nb13  1  0.66384947  0.33197156  0.00054864  1
+  P  P14  1  0.81172043  0.19600366  0.88990118  1
+  P  P15  1  0.38530302  0.18960527  0.87588193  1
+  P  P16  1  0.81642268  0.61906120  0.91302791  1
+  P  P17  1  0.19600366  0.81172043  0.38990118  1
+  P  P18  1  0.61906120  0.81642268  0.41302791  1
+  P  P19  1  0.18960527  0.38530302  0.37588193  1
+  P  P20  1  0.32421140  0.66621710  0.83352704  1
+  P  P21  1  0.66621710  0.32421140  0.33352704  1

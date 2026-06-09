@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Sr(FeI4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.09735460
+_cell_length_b   8.30283870
+_cell_length_c   14.63487001
+_cell_angle_alpha   85.23415656
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(FeI4)2
+_chemical_formula_sum   'Sr2 Fe4 I16'
+_cell_volume   980.51554301
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.14056891  0.50000000  0.25000000  1
+  Sr  Sr1  1  0.85943109  0.50000000  0.75000000  1
+  Fe  Fe2  1  0.26026227  0.67564531  0.57839857  1
+  Fe  Fe3  1  0.73973773  0.67564531  0.07839857  1
+  Fe  Fe4  1  0.73973773  0.32435469  0.42160143  1
+  Fe  Fe5  1  0.26026227  0.32435469  0.92160143  1
+  I  I6  1  0.53270404  0.74101698  0.65482846  1
+  I  I7  1  0.30407158  0.74655950  0.40680402  1
+  I  I8  1  0.81797639  0.38197978  0.11371253  1
+  I  I9  1  0.18202361  0.61802022  0.88628747  1
+  I  I10  1  0.46729596  0.25898302  0.34517154  1
+  I  I11  1  0.30407158  0.25344050  0.09319598  1
+  I  I12  1  0.69592842  0.25344050  0.59319598  1
+  I  I13  1  0.46729596  0.74101698  0.15482846  1
+  I  I14  1  0.18202361  0.38197978  0.61371253  1
+  I  I15  1  0.53270404  0.25898302  0.84517154  1
+  I  I16  1  0.81797639  0.61802022  0.38628747  1
+  I  I17  1  0.97715432  0.84417791  0.13707510  1
+  I  I18  1  0.69592842  0.74655950  0.90680402  1
+  I  I19  1  0.02284568  0.15582209  0.86292490  1
+  I  I20  1  0.97715432  0.15582209  0.36292490  1
+  I  I21  1  0.02284568  0.84417791  0.63707510  1

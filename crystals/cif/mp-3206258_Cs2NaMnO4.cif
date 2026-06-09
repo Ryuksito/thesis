@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cs2NaMnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13663467
+_cell_length_b   6.02067387
+_cell_length_c   8.25720420
+_cell_angle_alpha   87.05911646
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2NaMnO4
+_chemical_formula_sum   'Cs4 Na2 Mn2 O8'
+_cell_volume   304.67446334
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.25000000  0.14944644  0.81855315  1
+  Cs  Cs1  1  0.75000000  0.85055356  0.18144685  1
+  Cs  Cs2  1  0.25000000  0.69763443  0.51141388  1
+  Cs  Cs3  1  0.75000000  0.30236557  0.48858612  1
+  Na  Na4  1  0.75000000  0.37452345  0.97318743  1
+  Na  Na5  1  0.25000000  0.62547655  0.02681257  1
+  Mn  Mn6  1  0.25000000  0.20385266  0.24063702  1
+  Mn  Mn7  1  0.75000000  0.79614734  0.75936298  1
+  O  O8  1  0.97265279  0.65660058  0.83485463  1
+  O  O9  1  0.47265279  0.34339942  0.16514537  1
+  O  O10  1  0.02734721  0.34339942  0.16514537  1
+  O  O11  1  0.52734721  0.65660058  0.83485463  1
+  O  O12  1  0.75000000  0.06018630  0.82341512  1
+  O  O13  1  0.75000000  0.80164936  0.55463389  1
+  O  O14  1  0.25000000  0.93981370  0.17658488  1
+  O  O15  1  0.25000000  0.19835064  0.44536611  1

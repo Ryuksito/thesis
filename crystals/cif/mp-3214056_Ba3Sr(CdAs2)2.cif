@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba3Sr(CdAs2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.10130021
+_cell_length_b   9.10130006
+_cell_length_c   7.94315022
+_cell_angle_alpha   90.50869386
+_cell_angle_beta   89.49130621
+_cell_angle_gamma   150.74370471
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Sr(CdAs2)2
+_chemical_formula_sum   'Ba3 Sr1 Cd2 As4'
+_cell_volume   321.54288454
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.53531339  0.46468661  0.23150194  1
+  Ba  Ba1  1  0.70402214  0.29597786  0.89428549  1
+  Ba  Ba2  1  0.29686002  0.70313998  0.39791068  1
+  Sr  Sr3  1  0.46636585  0.53363415  0.73325442  1
+  Cd  Cd4  1  0.09218344  0.90781656  0.58027205  1
+  Cd  Cd5  1  0.90567545  0.09432455  0.07530574  1
+  As  As6  1  0.05794759  0.94205241  0.92700904  1
+  As  As7  1  0.67027438  0.32972562  0.49524486  1
+  As  As8  1  0.33198821  0.66801179  0.98925620  1
+  As  As9  1  0.93936753  0.06063247  0.44467659  1

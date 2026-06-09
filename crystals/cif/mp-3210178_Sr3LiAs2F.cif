@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Sr3LiAs2F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.46944745
+_cell_length_b   12.04406708
+_cell_length_c   12.70474128
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3LiAs2F
+_chemical_formula_sum   'Sr12 Li4 As8 F4'
+_cell_volume   683.90035159
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.25000000  0.06352292  0.62133600  1
+  Sr  Sr1  1  0.25000000  0.56352292  0.87866400  1
+  Sr  Sr2  1  0.75000000  0.93647708  0.37866400  1
+  Sr  Sr3  1  0.75000000  0.43647708  0.12133600  1
+  Sr  Sr4  1  0.25000000  0.20436074  0.29901479  1
+  Sr  Sr5  1  0.25000000  0.70436074  0.20098521  1
+  Sr  Sr6  1  0.75000000  0.79563926  0.70098521  1
+  Sr  Sr7  1  0.75000000  0.29563926  0.79901479  1
+  Sr  Sr8  1  0.25000000  0.36782726  0.56087329  1
+  Sr  Sr9  1  0.25000000  0.86782726  0.93912671  1
+  Sr  Sr10  1  0.75000000  0.63217274  0.43912671  1
+  Sr  Sr11  1  0.75000000  0.13217274  0.06087329  1
+  Li  Li12  1  0.25000000  0.13496701  0.85716189  1
+  Li  Li13  1  0.25000000  0.63496701  0.64283811  1
+  Li  Li14  1  0.75000000  0.86503299  0.14283811  1
+  Li  Li15  1  0.75000000  0.36503299  0.35716189  1
+  As  As16  1  0.25000000  0.31453748  0.98328839  1
+  As  As17  1  0.25000000  0.81453748  0.51671161  1
+  As  As18  1  0.75000000  0.68546252  0.01671161  1
+  As  As19  1  0.75000000  0.18546252  0.48328839  1
+  As  As20  1  0.25000000  0.47572489  0.32552656  1
+  As  As21  1  0.25000000  0.97572489  0.17447344  1
+  As  As22  1  0.75000000  0.52427511  0.67447344  1
+  As  As23  1  0.75000000  0.02427511  0.82552656  1
+  F  F24  1  0.25000000  0.24120523  0.72178845  1
+  F  F25  1  0.25000000  0.74120523  0.77821155  1
+  F  F26  1  0.75000000  0.75879477  0.27821155  1
+  F  F27  1  0.75000000  0.25879477  0.22178845  1

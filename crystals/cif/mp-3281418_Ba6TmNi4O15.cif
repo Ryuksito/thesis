@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba6TmNi4O15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.26966455
+_cell_length_b   7.21680755
+_cell_length_c   7.20802165
+_cell_angle_alpha   88.65918632
+_cell_angle_beta   88.56511053
+_cell_angle_gamma   88.03096375
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba6TmNi4O15
+_chemical_formula_sum   'Ba6 Tm1 Ni4 O15'
+_cell_volume   377.72203729
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.33858531  0.66217788  0.00416197  1
+  Ba  Ba1  1  0.00161851  0.33211793  0.66207491  1
+  Ba  Ba2  1  0.66798532  0.00837547  0.33101259  1
+  Ba  Ba3  1  0.14143170  0.86146851  0.50082860  1
+  Ba  Ba4  1  0.49863705  0.14379595  0.86409887  1
+  Ba  Ba5  1  0.86682305  0.50166786  0.14316672  1
+  Tm  Tm6  1  0.50143700  0.49822861  0.49279391  1
+  Ni  Ni7  1  0.28683980  0.28768831  0.28942350  1
+  Ni  Ni8  1  0.71255168  0.71231595  0.71112163  1
+  Ni  Ni9  1  0.08962568  0.09323700  0.09769931  1
+  Ni  Ni10  1  0.90577418  0.90412026  0.90369300  1
+  O  O11  1  0.14124134  0.99778705  0.85846232  1
+  O  O12  1  0.85733201  0.14012440  0.99578613  1
+  O  O13  1  0.99968021  0.85599577  0.13969637  1
+  O  O14  1  0.01067904  0.18229094  0.33031105  1
+  O  O15  1  0.32163225  0.03609202  0.19811246  1
+  O  O16  1  0.19050978  0.32529820  0.04123066  1
+  O  O17  1  0.80378038  0.95978571  0.67249797  1
+  O  O18  1  0.67376035  0.80635613  0.96050337  1
+  O  O19  1  0.96056928  0.67112797  0.80286834  1
+  O  O20  1  0.36945239  0.22932392  0.53412195  1
+  O  O21  1  0.54945649  0.37728312  0.22304509  1
+  O  O22  1  0.22713368  0.53306580  0.36931758  1
+  O  O23  1  0.77430118  0.63619310  0.47177002  1
+  O  O24  1  0.47322106  0.77301920  0.63344874  1
+  O  O25  1  0.63594128  0.47106793  0.76875594  1

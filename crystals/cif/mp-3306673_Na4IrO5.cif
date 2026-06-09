@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Na4IrO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60947787
+_cell_length_b   5.62503664
+_cell_length_c   8.40777665
+_cell_angle_alpha   101.51081732
+_cell_angle_beta   109.21527183
+_cell_angle_gamma   101.91226969
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4IrO5
+_chemical_formula_sum   'Na8 Ir2 O10'
+_cell_volume   234.62334327
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.69463461  0.48402927  0.90385309  1
+  Na  Na1  1  0.88110688  0.49453718  0.29649569  1
+  Na  Na2  1  0.69937302  0.00175494  0.40077351  1
+  Na  Na3  1  0.30062698  0.99824506  0.59922649  1
+  Na  Na4  1  0.30536539  0.51597073  0.09614691  1
+  Na  Na5  1  0.50000000  0.50000000  0.50000000  1
+  Na  Na6  1  0.50000000  0.00000000  0.00000000  1
+  Na  Na7  1  0.11889312  0.50546282  0.70350431  1
+  Ir  Ir8  1  0.90082072  0.99656393  0.79838154  1
+  Ir  Ir9  1  0.09917928  0.00343607  0.20161846  1
+  O  O10  1  0.24616527  0.21723472  0.84476671  1
+  O  O11  1  0.75383473  0.78276528  0.15523329  1
+  O  O12  1  0.90551613  0.77763189  0.59360598  1
+  O  O13  1  0.09448387  0.22236811  0.40639402  1
+  O  O14  1  0.44120857  0.22413132  0.24168697  1
+  O  O15  1  0.55879143  0.77586868  0.75831303  1
+  O  O16  1  0.07864164  0.80045929  0.96175600  1
+  O  O17  1  0.92135836  0.19954071  0.03824400  1
+  O  O18  1  0.26106224  0.78746289  0.31947294  1
+  O  O19  1  0.73893776  0.21253711  0.68052706  1

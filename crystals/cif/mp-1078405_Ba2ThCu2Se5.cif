@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2ThCu2Se5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29335782
+_cell_length_b   7.42478084
+_cell_length_c   9.57510540
+_cell_angle_alpha   103.04105143
+_cell_angle_beta   102.95547309
+_cell_angle_gamma   106.80547865
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2ThCu2Se5
+_chemical_formula_sum   'Ba2 Th1 Cu2 Se5'
+_cell_volume   270.60042264
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.48321167  0.65785700  0.30856534  1
+  Ba  Ba1  1  0.51678833  0.34214300  0.69143466  1
+  Th  Th2  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu3  1  0.73986396  0.18764149  0.29208544  1
+  Cu  Cu4  1  0.26013604  0.81235851  0.70791456  1
+  Se  Se5  1  0.68332091  0.30014663  0.06649418  1
+  Se  Se6  1  0.16567290  0.01780651  0.31353729  1
+  Se  Se7  1  0.00000100  0.50000100  0.50000000  1
+  Se  Se8  1  0.83432710  0.98219349  0.68646371  1
+  Se  Se9  1  0.31668009  0.69985537  0.93350582  1

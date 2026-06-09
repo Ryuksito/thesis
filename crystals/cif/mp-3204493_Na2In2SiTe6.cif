@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Na2In2SiTe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.16120773
+_cell_length_b   8.16120744
+_cell_length_c   13.87429021
+_cell_angle_alpha   74.64493996
+_cell_angle_beta   74.64493847
+_cell_angle_gamma   65.63580091
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2In2SiTe6
+_chemical_formula_sum   'Na4 In4 Si2 Te12'
+_cell_volume   798.92281408
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.18632640  0.33829834  0.00107278  1
+  Na  Na1  1  0.33829834  0.18632640  0.50107278  1
+  Na  Na2  1  0.34435955  0.74491654  0.17920986  1
+  Na  Na3  1  0.74491654  0.34435955  0.67920986  1
+  In  In4  1  0.85179841  0.96828653  0.01373775  1
+  In  In5  1  0.96828653  0.85179841  0.51373775  1
+  In  In6  1  0.64688111  0.80749235  0.81673608  1
+  In  In7  1  0.80749235  0.64688111  0.31673608  1
+  Si  Si8  1  0.19393892  0.74835740  0.75923151  1
+  Si  Si9  1  0.74835740  0.19393892  0.25923151  1
+  Te  Te10  1  0.04968499  0.05021512  0.81731073  1
+  Te  Te11  1  0.05021512  0.04968499  0.31731073  1
+  Te  Te12  1  0.79758409  0.29760168  0.07069380  1
+  Te  Te13  1  0.29760168  0.79758409  0.57069380  1
+  Te  Te14  1  0.05218226  0.64370346  0.13152878  1
+  Te  Te15  1  0.64370346  0.05218226  0.63152878  1
+  Te  Te16  1  0.52104043  0.96519868  0.99111030  1
+  Te  Te17  1  0.96519868  0.52104043  0.49111030  1
+  Te  Te18  1  0.46598175  0.55853891  0.84714600  1
+  Te  Te19  1  0.55853891  0.46598175  0.34714600  1
+  Te  Te20  1  0.00939161  0.54807948  0.80399140  1
+  Te  Te21  1  0.54807948  0.00939161  0.30399140  1

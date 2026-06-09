@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Cs12CaHgSe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.31482686
+_cell_length_b   11.31482734
+_cell_length_c   8.72838651
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999860
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs12CaHgSe8
+_chemical_formula_sum   'Cs12 Ca1 Hg1 Se8'
+_cell_volume   967.74391864
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.14690880  0.29381760  0.20065793  1
+  Cs  Cs1  1  0.14690880  0.85309120  0.20065793  1
+  Cs  Cs2  1  0.70618240  0.85309120  0.20065793  1
+  Cs  Cs3  1  0.85209562  0.70419123  0.70401106  1
+  Cs  Cs4  1  0.85209562  0.14790438  0.70401106  1
+  Cs  Cs5  1  0.29580877  0.14790438  0.70401106  1
+  Cs  Cs6  1  0.53264534  0.06528969  0.38070724  1
+  Cs  Cs7  1  0.53264534  0.46735466  0.38070724  1
+  Cs  Cs8  1  0.93471031  0.46735466  0.38070724  1
+  Cs  Cs9  1  0.47517826  0.95035652  0.88548697  1
+  Cs  Cs10  1  0.47517826  0.52482174  0.88548697  1
+  Cs  Cs11  1  0.04964348  0.52482174  0.88548697  1
+  Ca  Ca12  1  0.33333300  0.66666700  0.49884675  1
+  Hg  Hg13  1  0.66666700  0.33333300  0.99986601  1
+  Se  Se14  1  0.33333300  0.66666700  0.17151789  1
+  Se  Se15  1  0.66666700  0.33333300  0.68014476  1
+  Se  Se16  1  0.80162087  0.60323973  0.09583876  1
+  Se  Se17  1  0.80162087  0.19837913  0.09583876  1
+  Se  Se18  1  0.39676027  0.19837913  0.09583876  1
+  Se  Se19  1  0.19424399  0.38848898  0.59645091  1
+  Se  Se20  1  0.19424399  0.80575601  0.59645091  1
+  Se  Se21  1  0.61151102  0.80575601  0.59645091  1

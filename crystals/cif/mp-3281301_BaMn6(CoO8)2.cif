@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_BaMn6(CoO8)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69027324
+_cell_length_b   6.97306629
+_cell_length_c   7.02429945
+_cell_angle_alpha   87.93783695
+_cell_angle_beta   78.27807141
+_cell_angle_gamma   78.21728219
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMn6(CoO8)2
+_chemical_formula_sum   'Ba1 Mn6 Co2 O16'
+_cell_volume   267.14746036
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00644839  0.99401235  0.99984056  1
+  Mn  Mn1  1  0.17344622  0.81602249  0.51102209  1
+  Mn  Mn2  1  0.67032594  0.81656842  0.51714857  1
+  Mn  Mn3  1  0.33864856  0.18866387  0.47492038  1
+  Mn  Mn4  1  0.83621635  0.18917524  0.48126886  1
+  Mn  Mn5  1  0.42701504  0.48392353  0.82529936  1
+  Mn  Mn6  1  0.92547477  0.48931602  0.82465407  1
+  Co  Co7  1  0.58022138  0.51496361  0.18206214  1
+  Co  Co8  1  0.08053976  0.51174909  0.18172733  1
+  O  O9  1  0.83155832  0.64457130  0.04968381  1
+  O  O10  1  0.33012173  0.64318016  0.04916264  1
+  O  O11  1  0.98253397  0.70578096  0.37687842  1
+  O  O12  1  0.48490155  0.70136038  0.38227100  1
+  O  O13  1  0.85676288  0.95404952  0.64381575  1
+  O  O14  1  0.35309846  0.95490446  0.64175470  1
+  O  O15  1  0.33801120  0.37588268  0.29090218  1
+  O  O16  1  0.83962901  0.36932860  0.28638041  1
+  O  O17  1  0.16786638  0.63216467  0.71711233  1
+  O  O18  1  0.66885480  0.62563161  0.71251033  1
+  O  O19  1  0.15318453  0.04626289  0.35168189  1
+  O  O20  1  0.65635808  0.04549101  0.35386052  1
+  O  O21  1  0.02615009  0.29431451  0.62293639  1
+  O  O22  1  0.52376405  0.29738184  0.61877310  1
+  O  O23  1  0.17642250  0.35220912  0.95197129  1
+  O  O24  1  0.67954706  0.35309366  0.95235587  1

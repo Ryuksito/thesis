@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs6HoTmSb4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.47076353
+_cell_length_b   10.47076369
+_cell_length_c   10.47076447
+_cell_angle_alpha   127.84481758
+_cell_angle_beta   70.12917536
+_cell_angle_gamma   136.58341122
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs6HoTmSb4
+_chemical_formula_sum   'Cs6 Ho1 Tm1 Sb4'
+_cell_volume   611.11714730
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.31613642  0.71301038  0.02841023  1
+  Cs  Cs1  1  0.18386358  0.21227481  0.39687396  1
+  Cs  Cs2  1  0.75000000  0.25000000  0.50000000  1
+  Cs  Cs3  1  0.25000000  0.74999900  0.49999900  1
+  Cs  Cs4  1  0.81540085  0.78699062  0.60312704  1
+  Cs  Cs5  1  0.68459915  0.28772619  0.97159077  1
+  Ho  Ho6  1  0.25000000  0.25000000  0.00000000  1
+  Tm  Tm7  1  0.75000000  0.75000000  0.00000000  1
+  Sb  Sb8  1  0.90404214  0.18039987  0.08760778  1
+  Sb  Sb9  1  0.59595886  0.68356863  0.27635872  1
+  Sb  Sb10  1  0.40720791  0.31959913  0.72364028  1
+  Sb  Sb11  1  0.09279209  0.81643137  0.91239122  1

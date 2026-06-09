@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Li2CeTcH6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10156850
+_cell_length_b   5.10742029
+_cell_length_c   5.10608844
+_cell_angle_alpha   119.95492434
+_cell_angle_beta   119.99757101
+_cell_angle_gamma   60.01203202
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CeTcH6
+_chemical_formula_sum   'Li2 Ce1 Tc1 H6'
+_cell_volume   94.11825443
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.49991633  0.50004578  0.49989740  1
+  Li  Li1  1  0.25006102  0.24991975  0.75002355  1
+  Ce  Ce2  1  0.75002576  0.75001077  0.25008967  1
+  Tc  Tc3  1  0.00003014  0.99998151  0.00003057  1
+  H  H4  1  0.24427270  0.24436066  0.24428760  1
+  H  H5  1  0.75568676  0.24432869  0.24429658  1
+  H  H6  1  0.24431879  0.75564304  0.24432557  1
+  H  H7  1  0.75571198  0.24432793  0.75570523  1
+  H  H8  1  0.24428120  0.75570323  0.75565613  1
+  H  H9  1  0.75570031  0.75568163  0.75568270  1

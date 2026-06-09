@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr3HoSb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.42935765
+_cell_length_b   8.47355354
+_cell_length_c   8.42935832
+_cell_angle_alpha   109.29132966
+_cell_angle_beta   108.89288710
+_cell_angle_gamma   109.29132317
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3HoSb3
+_chemical_formula_sum   'Sr6 Ho2 Sb6'
+_cell_volume   468.76536659
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.13460923  0.49414809  0.99926899  1
+  Sr  Sr1  1  0.49926899  0.99414809  0.63460923  1
+  Sr  Sr2  1  0.35799419  0.36145313  0.36032885  1
+  Sr  Sr3  1  0.00395043  0.14571873  0.50460549  1
+  Sr  Sr4  1  0.86032885  0.86145313  0.85799419  1
+  Sr  Sr5  1  0.00460549  0.64571873  0.50395043  1
+  Ho  Ho6  1  0.63631730  0.49584182  0.99834034  1
+  Ho  Ho7  1  0.49834034  0.99584182  0.13631730  1
+  Sb  Sb8  1  0.84979582  0.24725935  0.12386796  1
+  Sb  Sb9  1  0.12359958  0.87080768  0.24087106  1
+  Sb  Sb10  1  0.39099625  0.63477220  0.77545451  1
+  Sb  Sb11  1  0.27545451  0.13477220  0.89099625  1
+  Sb  Sb12  1  0.74087106  0.37080768  0.62359958  1
+  Sb  Sb13  1  0.62386796  0.74725935  0.34979582  1

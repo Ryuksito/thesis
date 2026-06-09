@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KPr(CuO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33701949
+_cell_length_b   6.33701872
+_cell_length_c   6.33701835
+_cell_angle_alpha   123.69667970
+_cell_angle_beta   123.69668275
+_cell_angle_gamma   83.70817927
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KPr(CuO2)4
+_chemical_formula_sum   'K1 Pr1 Cu4 O8'
+_cell_volume   168.77595037
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.00000000  1
+  Pr  Pr1  1  0.75000000  0.25000000  0.50000000  1
+  Cu  Cu2  1  0.87275351  0.64156592  0.26496697  1
+  Cu  Cu3  1  0.39221246  0.12724649  0.76881242  1
+  Cu  Cu4  1  0.35843408  0.62340105  0.23118758  1
+  Cu  Cu5  1  0.37659895  0.60778754  0.73503303  1
+  O  O6  1  0.37670713  0.95592808  0.91814699  1
+  O  O7  1  0.66687351  0.81733039  0.38426326  1
+  O  O8  1  0.71738976  0.33312649  0.15045688  1
+  O  O9  1  0.54143986  0.62329287  0.57922195  1
+  O  O10  1  0.18266961  0.56693287  0.84954312  1
+  O  O11  1  0.04407192  0.96221791  0.42077805  1
+  O  O12  1  0.03778209  0.45856014  0.08185301  1
+  O  O13  1  0.43306713  0.28261024  0.61573674  1

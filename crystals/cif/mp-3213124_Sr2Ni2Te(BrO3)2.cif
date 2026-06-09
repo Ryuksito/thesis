@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sr2Ni2Te(BrO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26940934
+_cell_length_b   9.44049108
+_cell_length_c   9.12701321
+_cell_angle_alpha   86.20413806
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Ni2Te(BrO3)2
+_chemical_formula_sum   'Sr4 Ni4 Te2 Br4 O12'
+_cell_volume   453.03465301
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.10467169  0.81827671  0.27710063  1
+  Sr  Sr1  1  0.60467169  0.68172329  0.72289937  1
+  Sr  Sr2  1  0.39532831  0.31827671  0.27710063  1
+  Sr  Sr3  1  0.89532831  0.18172329  0.72289937  1
+  Ni  Ni4  1  0.49569822  0.63191772  0.07754270  1
+  Ni  Ni5  1  0.00430178  0.13191772  0.07754270  1
+  Ni  Ni6  1  0.50430178  0.36808228  0.92245730  1
+  Ni  Ni7  1  0.99569822  0.86808228  0.92245730  1
+  Te  Te8  1  0.00000000  0.50000000  0.00000000  1
+  Te  Te9  1  0.50000000  0.00000000  0.00000000  1
+  Br  Br10  1  0.61282958  0.66244494  0.37358318  1
+  Br  Br11  1  0.88717042  0.16244494  0.37358318  1
+  Br  Br12  1  0.11282958  0.83755506  0.62641682  1
+  Br  Br13  1  0.38717042  0.33755506  0.62641682  1
+  O  O14  1  0.31383357  0.55688406  0.89847114  1
+  O  O15  1  0.16506775  0.55923002  0.17426815  1
+  O  O16  1  0.18616643  0.05688406  0.89847114  1
+  O  O17  1  0.83149230  0.68120790  0.96522540  1
+  O  O18  1  0.83493225  0.44076998  0.82573185  1
+  O  O19  1  0.81383357  0.94311594  0.10152886  1
+  O  O20  1  0.68616643  0.44311594  0.10152886  1
+  O  O21  1  0.66850770  0.18120790  0.96522540  1
+  O  O22  1  0.66506775  0.94076998  0.82573185  1
+  O  O23  1  0.16850770  0.31879210  0.03477460  1
+  O  O24  1  0.33493225  0.05923002  0.17426815  1
+  O  O25  1  0.33149230  0.81879210  0.03477460  1

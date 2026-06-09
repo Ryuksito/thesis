@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaPrSiSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79004593
+_cell_length_b   7.04698190
+_cell_length_c   8.27471527
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   106.15996687
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPrSiSe4
+_chemical_formula_sum   'Na2 Pr2 Si2 Se8'
+_cell_volume   380.29537549
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.24963904  0.96951004  0.05525153  1
+  Na  Na1  1  0.75035996  0.46951104  0.94474747  1
+  Pr  Pr2  1  0.77562171  0.50910631  0.44740190  1
+  Pr  Pr3  1  0.22437829  0.00910531  0.55259910  1
+  Si  Si4  1  0.22951094  0.54549542  0.30667253  1
+  Si  Si5  1  0.77048806  0.04549642  0.69332647  1
+  Se  Se6  1  0.43320614  0.56829689  0.13599833  1
+  Se  Se7  1  0.98103103  0.77375733  0.24685664  1
+  Se  Se8  1  0.03591436  0.27585274  0.26454444  1
+  Se  Se9  1  0.59127796  0.09098328  0.41912209  1
+  Se  Se10  1  0.40872104  0.59098228  0.58087691  1
+  Se  Se11  1  0.96408664  0.77585274  0.73545656  1
+  Se  Se12  1  0.01896797  0.27375633  0.75314336  1
+  Se  Se13  1  0.56679386  0.06829689  0.86400067  1

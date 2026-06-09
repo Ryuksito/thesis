@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_CsMn3CrO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75369868
+_cell_length_b   5.75370633
+_cell_length_c   7.90310955
+_cell_angle_alpha   69.24205593
+_cell_angle_beta   69.24192160
+_cell_angle_gamma   59.94978793
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsMn3CrO8
+_chemical_formula_sum   'Cs1 Mn3 Cr1 O8'
+_cell_volume   206.64325331
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.00000000  0.00000000  0.50000000  1
+  Mn  Mn1  1  0.50000000  0.50000000  0.00000000  1
+  Mn  Mn2  1  0.50000000  0.00000000  0.00000000  1
+  Mn  Mn3  1  0.00000000  0.50000000  0.00000000  1
+  Cr  Cr4  1  0.00000000  0.00000000  0.00000000  1
+  O  O5  1  0.70039717  0.21508544  0.86557458  1
+  O  O6  1  0.21508644  0.70039717  0.86557358  1
+  O  O7  1  0.28899829  0.28900129  0.13650453  1
+  O  O8  1  0.78480794  0.78480894  0.13418560  1
+  O  O9  1  0.21519206  0.21519106  0.86581440  1
+  O  O10  1  0.71100171  0.71099871  0.86349647  1
+  O  O11  1  0.78491356  0.29960283  0.13442642  1
+  O  O12  1  0.29960283  0.78491456  0.13442542  1

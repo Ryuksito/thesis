@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_CsGaSiSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   17.05627616
+_cell_length_b   7.20556109
+_cell_length_c   8.09471777
+_cell_angle_alpha   69.54865516
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsGaSiSe4
+_chemical_formula_sum   'Cs4 Ga4 Si4 Se16'
+_cell_volume   932.13554844
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.39740091  0.94131071  0.17900052  1
+  Cs  Cs1  1  0.89740091  0.05868929  0.82099948  1
+  Cs  Cs2  1  0.59899458  0.53402280  0.84420017  1
+  Cs  Cs3  1  0.09899458  0.46597720  0.15579983  1
+  Ga  Ga4  1  0.58579293  0.16625856  0.48371805  1
+  Ga  Ga5  1  0.08579293  0.83374144  0.51628195  1
+  Ga  Ga6  1  0.27076443  0.58290830  0.69374801  1
+  Ga  Ga7  1  0.77076443  0.41709170  0.30625199  1
+  Si  Si8  1  0.42095846  0.31088673  0.54062343  1
+  Si  Si9  1  0.92095846  0.68911327  0.45937657  1
+  Si  Si10  1  0.72702977  0.91872600  0.28470998  1
+  Si  Si11  1  0.22702977  0.08127400  0.71529002  1
+  Se  Se12  1  0.60155207  0.88983644  0.38465715  1
+  Se  Se13  1  0.10155207  0.11016356  0.61534285  1
+  Se  Se14  1  0.40879640  0.57731248  0.62736107  1
+  Se  Se15  1  0.90879640  0.42268752  0.37263893  1
+  Se  Se16  1  0.80341699  0.79485622  0.53530372  1
+  Se  Se17  1  0.30341699  0.20514378  0.46469628  1
+  Se  Se18  1  0.19987281  0.71040455  0.42682454  1
+  Se  Se19  1  0.69987281  0.28959545  0.57317546  1
+  Se  Se20  1  0.76242702  0.22891762  0.10988073  1
+  Se  Se21  1  0.26242702  0.77108238  0.89011927  1
+  Se  Se22  1  0.23562143  0.25665071  0.89851618  1
+  Se  Se23  1  0.73562143  0.74334929  0.10148382  1
+  Se  Se24  1  0.99591188  0.92737984  0.26356140  1
+  Se  Se25  1  0.49591188  0.07262016  0.73643860  1
+  Se  Se26  1  0.99145733  0.60410848  0.71466479  1
+  Se  Se27  1  0.49145733  0.39589152  0.28533521  1

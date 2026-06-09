@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Mn2GaIr3S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11076103
+_cell_length_b   7.11076093
+_cell_length_c   7.11076119
+_cell_angle_alpha   60.75218572
+_cell_angle_beta   60.75218957
+_cell_angle_gamma   60.75218712
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2GaIr3S8
+_chemical_formula_sum   'Mn2 Ga1 Ir3 S8'
+_cell_volume   258.54841367
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.37722657  0.37722657  0.37722657  1
+  Mn  Mn1  1  0.62277343  0.62277343  0.62277343  1
+  Ga  Ga2  1  0.00000000  0.00000000  0.00000000  1
+  Ir  Ir3  1  0.50000000  0.00000000  0.00000000  1
+  Ir  Ir4  1  0.00000000  0.00000000  0.50000000  1
+  Ir  Ir5  1  0.00000000  0.50000000  0.00000000  1
+  S  S6  1  0.23540576  0.23540576  0.23540576  1
+  S  S7  1  0.78966790  0.24104716  0.24104716  1
+  S  S8  1  0.24104716  0.24104716  0.78966790  1
+  S  S9  1  0.24104716  0.78966790  0.24104716  1
+  S  S10  1  0.76459424  0.76459424  0.76459424  1
+  S  S11  1  0.21033210  0.75895284  0.75895284  1
+  S  S12  1  0.75895284  0.75895284  0.21033210  1
+  S  S13  1  0.75895284  0.21033210  0.75895284  1

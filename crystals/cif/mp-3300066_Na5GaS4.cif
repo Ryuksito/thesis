@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Na5GaS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.62207857
+_cell_length_b   6.67970472
+_cell_length_c   7.66208750
+_cell_angle_alpha   88.82760637
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na5GaS4
+_chemical_formula_sum   'Na10 Ga2 S8'
+_cell_volume   441.18975814
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.47510222  0.34744777  0.66638412  1
+  Na  Na1  1  0.97510222  0.65255223  0.33361588  1
+  Na  Na2  1  0.52489778  0.65255223  0.33361588  1
+  Na  Na3  1  0.02489778  0.34744777  0.66638412  1
+  Na  Na4  1  0.75000000  0.02977949  0.53610620  1
+  Na  Na5  1  0.25000000  0.97022051  0.46389380  1
+  Na  Na6  1  0.75000000  0.33088773  0.15849797  1
+  Na  Na7  1  0.25000000  0.66911227  0.84150203  1
+  Na  Na8  1  0.00000000  0.00000000  0.00000000  1
+  Na  Na9  1  0.50000000  0.00000000  0.00000000  1
+  Ga  Ga10  1  0.25000000  0.36118000  0.17902332  1
+  Ga  Ga11  1  0.75000000  0.63882000  0.82097668  1
+  S  S12  1  0.25000000  0.24657635  0.89769248  1
+  S  S13  1  0.75000000  0.75342365  0.10230752  1
+  S  S14  1  0.96944697  0.76380128  0.67831580  1
+  S  S15  1  0.46944697  0.23619872  0.32168420  1
+  S  S16  1  0.03055303  0.23619872  0.32168420  1
+  S  S17  1  0.53055303  0.76380128  0.67831580  1
+  S  S18  1  0.75000000  0.29414350  0.81619763  1
+  S  S19  1  0.25000000  0.70585650  0.18380237  1

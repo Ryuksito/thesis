@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaSr(MnCl6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43677312
+_cell_length_b   6.43677536
+_cell_length_c   10.19690677
+_cell_angle_alpha   89.27909539
+_cell_angle_beta   89.27907784
+_cell_angle_gamma   85.90051999
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSr(MnCl6)2
+_chemical_formula_sum   'Ba1 Sr1 Mn2 Cl12'
+_cell_volume   421.33567512
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.96894978  0.03105022  0.25000000  1
+  Sr  Sr1  1  0.03255968  0.96744032  0.75000000  1
+  Mn  Mn2  1  0.50232394  0.00318453  0.50885313  1
+  Mn  Mn3  1  0.99681547  0.49767606  0.99114687  1
+  Cl  Cl4  1  0.32707653  0.72309474  0.56711155  1
+  Cl  Cl5  1  0.67215116  0.28604431  0.45040566  1
+  Cl  Cl6  1  0.27690526  0.67292347  0.93288845  1
+  Cl  Cl7  1  0.71395569  0.32784884  0.04959434  1
+  Cl  Cl8  1  0.54145052  0.07568845  0.72437000  1
+  Cl  Cl9  1  0.47010056  0.92619824  0.29073675  1
+  Cl  Cl10  1  0.92431155  0.45854948  0.77563000  1
+  Cl  Cl11  1  0.07380176  0.52989945  0.20926325  1
+  Cl  Cl12  1  0.79806806  0.80695984  0.99146519  1
+  Cl  Cl13  1  0.19785027  0.18935838  0.98854861  1
+  Cl  Cl14  1  0.19304016  0.20193194  0.50853481  1
+  Cl  Cl15  1  0.81064162  0.80214973  0.51145139  1

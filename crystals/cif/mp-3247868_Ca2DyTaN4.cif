@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ca2DyTaN4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.85675574
+_cell_length_b   5.87219956
+_cell_length_c   4.90263581
+_cell_angle_alpha   65.14628715
+_cell_angle_beta   65.45198633
+_cell_angle_gamma   49.34511036
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2DyTaN4
+_chemical_formula_sum   'Ca2 Dy1 Ta1 N4'
+_cell_volume   113.58654369
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.25079788  0.24923177  0.24909123  1
+  Ca  Ca1  1  0.50585619  0.49394161  0.49380681  1
+  Dy  Dy2  1  0.75516807  0.74475596  0.74445968  1
+  Ta  Ta3  1  0.04530021  0.95471293  0.95433453  1
+  N  N4  1  0.00149712  0.98715371  0.56711196  1
+  N  N5  1  0.19671090  0.23287422  0.79498389  1
+  N  N6  1  0.44480858  0.56646600  0.98662573  1
+  N  N7  1  0.77579604  0.79493080  0.23365117  1

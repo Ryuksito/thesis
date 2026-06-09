@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ErNb(SnPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40357216
+_cell_length_b   4.51201447
+_cell_length_c   9.04032932
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErNb(SnPt)2
+_chemical_formula_sum   'Er2 Nb2 Sn4 Pt4'
+_cell_volume   261.20232750
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.00431450  0.00000000  0.37638336  1
+  Er  Er1  1  0.50431550  0.50000100  0.62361764  1
+  Nb  Nb2  1  0.49608518  0.50000100  0.12373626  1
+  Nb  Nb3  1  0.99608618  0.00000000  0.87626274  1
+  Sn  Sn4  1  0.98697110  0.50000100  0.12511590  1
+  Sn  Sn5  1  0.51055472  0.00000000  0.37298052  1
+  Sn  Sn6  1  0.01055472  0.50000100  0.62702148  1
+  Sn  Sn7  1  0.48697210  0.00000000  0.87488610  1
+  Pt  Pt8  1  0.73704205  0.00000000  0.11267811  1
+  Pt  Pt9  1  0.26502845  0.50000100  0.35870461  1
+  Pt  Pt10  1  0.76502945  0.00000000  0.64129639  1
+  Pt  Pt11  1  0.23704205  0.50000100  0.88732289  1

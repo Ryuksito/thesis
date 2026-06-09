@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Rb2Np(Cl2O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74647526
+_cell_length_b   6.88401567
+_cell_length_c   6.92510314
+_cell_angle_alpha   64.85370346
+_cell_angle_beta   85.83585208
+_cell_angle_gamma   88.67654766
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Np(Cl2O)2
+_chemical_formula_sum   'Rb2 Np1 Cl4 O2'
+_cell_volume   247.32184942
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.24599700  0.13532194  0.17483689  1
+  Rb  Rb1  1  0.75400300  0.86467806  0.82516311  1
+  Np  Np2  1  0.00000000  0.50000000  0.50000000  1
+  Cl  Cl3  1  0.76330346  0.35581609  0.87787388  1
+  Cl  Cl4  1  0.23669654  0.64418391  0.12212612  1
+  Cl  Cl5  1  0.26760666  0.15708841  0.66003277  1
+  Cl  Cl6  1  0.73239334  0.84291159  0.33996723  1
+  O  O7  1  0.82450382  0.34399999  0.41775952  1
+  O  O8  1  0.17549618  0.65600001  0.58224048  1

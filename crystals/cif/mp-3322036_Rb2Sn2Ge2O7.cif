@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Rb2Sn2Ge2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.76470305
+_cell_length_b   5.76470356
+_cell_length_c   8.15157417
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000663
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Sn2Ge2O7
+_chemical_formula_sum   'Rb2 Sn2 Ge2 O7'
+_cell_volume   234.59891942
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.33333300  0.66666700  0.40721267  1
+  Rb  Rb1  1  0.66666800  0.33333400  0.59278733  1
+  Sn  Sn2  1  0.66666800  0.33333400  0.12800037  1
+  Sn  Sn3  1  0.33333300  0.66666700  0.87199963  1
+  Ge  Ge4  1  0.00000000  0.00000000  0.21551865  1
+  Ge  Ge5  1  0.00000000  0.00000000  0.78448135  1
+  O  O6  1  0.00000000  0.00000000  0.00000000  1
+  O  O7  1  0.33276010  0.16394944  0.28392438  1
+  O  O8  1  0.83604956  0.16880965  0.28392438  1
+  O  O9  1  0.83118935  0.66723790  0.28392438  1
+  O  O10  1  0.16880965  0.33276110  0.71607562  1
+  O  O11  1  0.16395044  0.83119035  0.71607562  1
+  O  O12  1  0.66723790  0.83604956  0.71607562  1

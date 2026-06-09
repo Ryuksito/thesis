@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaSiGe2As3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.74807225
+_cell_length_b   8.56235400
+_cell_length_c   10.55564420
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSiGe2As3
+_chemical_formula_sum   'Na2 Si2 Ge4 As6'
+_cell_volume   338.75512612
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.63182728  0.49974760  1
+  Na  Na1  1  0.00000000  0.36817272  0.99974760  1
+  Si  Si2  1  0.50000000  0.81710247  0.91533733  1
+  Si  Si3  1  0.50000000  0.18289753  0.41533733  1
+  Ge  Ge4  1  0.00000000  0.28751248  0.71891089  1
+  Ge  Ge5  1  0.00000000  0.71248752  0.21891089  1
+  Ge  Ge6  1  0.00000000  0.00311454  0.64785282  1
+  Ge  Ge7  1  0.00000000  0.99688546  0.14785282  1
+  As  As8  1  0.00000000  0.76596922  0.78206881  1
+  As  As9  1  0.00000000  0.23403078  0.28206881  1
+  As  As10  1  0.50000000  0.93171567  0.50516117  1
+  As  As11  1  0.50000000  0.06828433  0.00516117  1
+  As  As12  1  0.50000000  0.37119054  0.57735038  1
+  As  As13  1  0.50000000  0.62880946  0.07735038  1

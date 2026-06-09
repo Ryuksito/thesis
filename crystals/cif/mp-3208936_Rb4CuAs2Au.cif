@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Rb4CuAs2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52265668
+_cell_length_b   6.52265702
+_cell_length_c   6.25648172
+_cell_angle_alpha   89.33869855
+_cell_angle_beta   89.33870799
+_cell_angle_gamma   107.09693237
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb4CuAs2Au
+_chemical_formula_sum   'Rb4 Cu1 As2 Au1'
+_cell_volume   254.37140657
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.98066799  0.31902831  0.74758160  1
+  Rb  Rb1  1  0.31902831  0.98066799  0.74758160  1
+  Rb  Rb2  1  0.01933201  0.68097169  0.25241840  1
+  Rb  Rb3  1  0.68097169  0.01933201  0.25241840  1
+  Cu  Cu4  1  0.50000000  0.50000000  0.00000000  1
+  As  As5  1  0.73712166  0.73712166  0.76607654  1
+  As  As6  1  0.26287834  0.26287834  0.23392346  1
+  Au  Au7  1  0.50000000  0.50000000  0.50000000  1

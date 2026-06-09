@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba3CeBi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.04236667
+_cell_length_b   9.20267379
+_cell_length_c   9.04236768
+_cell_angle_alpha   109.83403698
+_cell_angle_beta   108.94053824
+_cell_angle_gamma   109.83402883
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3CeBi3
+_chemical_formula_sum   'Ba6 Ce2 Bi6'
+_cell_volume   577.80438284
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.35858006  0.35439902  0.36131681  1
+  Ba  Ba1  1  0.99705967  0.13510047  0.49605908  1
+  Ba  Ba2  1  0.86131681  0.85439902  0.85858006  1
+  Ba  Ba3  1  0.99605908  0.63510047  0.49705967  1
+  Ba  Ba4  1  0.50664690  0.00895457  0.14032410  1
+  Ba  Ba5  1  0.64032410  0.50895457  0.00664690  1
+  Ce  Ce6  1  0.50305440  0.00521017  0.64130236  1
+  Ce  Ce7  1  0.14130236  0.50521017  0.00305440  1
+  Bi  Bi8  1  0.87662863  0.25296591  0.09848943  1
+  Bi  Bi9  1  0.14175877  0.86422481  0.25643937  1
+  Bi  Bi10  1  0.36857203  0.62914605  0.75376938  1
+  Bi  Bi11  1  0.25376938  0.12914605  0.86857203  1
+  Bi  Bi12  1  0.75643937  0.36422481  0.64175877  1
+  Bi  Bi13  1  0.59848943  0.75296591  0.37662863  1

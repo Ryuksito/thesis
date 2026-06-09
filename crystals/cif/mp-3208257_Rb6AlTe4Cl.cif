@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Rb6AlTe4Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.52780634
+_cell_length_b   11.52791790
+_cell_length_c   8.46142616
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00437583
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb6AlTe4Cl
+_chemical_formula_sum   'Rb12 Al2 Te8 Cl2'
+_cell_volume   973.76149172
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.12680389  0.87319652  0.51616030  1
+  Rb  Rb1  1  0.74638576  0.87319754  0.51616332  1
+  Rb  Rb2  1  0.95337611  0.47668915  0.31797567  1
+  Rb  Rb3  1  0.52331297  0.47668714  0.31796712  1
+  Rb  Rb4  1  0.87319780  0.74638594  0.01616362  1
+  Rb  Rb5  1  0.25361424  0.12680246  0.01616332  1
+  Rb  Rb6  1  0.52331083  0.04662363  0.31797573  1
+  Rb  Rb7  1  0.12680220  0.25361406  0.51616362  1
+  Rb  Rb8  1  0.87319611  0.12680348  0.01616030  1
+  Rb  Rb9  1  0.04662389  0.52331085  0.81797567  1
+  Rb  Rb10  1  0.47668917  0.95337637  0.81797573  1
+  Rb  Rb11  1  0.47668703  0.52331286  0.81796712  1
+  Al  Al12  1  0.66663111  0.33336751  0.70878935  1
+  Al  Al13  1  0.33336889  0.66663249  0.20878935  1
+  Te  Te14  1  0.41494343  0.20750619  0.61083202  1
+  Te  Te15  1  0.58505657  0.79249381  0.11083202  1
+  Te  Te16  1  0.66668100  0.33333577  0.02289016  1
+  Te  Te17  1  0.79249554  0.58505516  0.61083510  1
+  Te  Te18  1  0.20750446  0.41494484  0.11083510  1
+  Te  Te19  1  0.33331900  0.66666423  0.52289016  1
+  Te  Te20  1  0.20749520  0.79250724  0.11081059  1
+  Te  Te21  1  0.79250480  0.20749276  0.61081059  1
+  Cl  Cl22  1  0.00000307  0.99999713  0.27403801  1
+  Cl  Cl23  1  0.99999693  0.00000287  0.77403801  1

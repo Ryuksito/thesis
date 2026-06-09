@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Be3AlBRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25336488
+_cell_length_b   4.25336560
+_cell_length_c   4.20248830
+_cell_angle_alpha   59.59870573
+_cell_angle_beta   59.59869767
+_cell_angle_gamma   59.99998781
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be3AlBRu
+_chemical_formula_sum   'Be3 Al1 B1 Ru1'
+_cell_volume   53.43130225
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.62535425  0.12351192  0.62577858  1
+  Be  Be1  1  0.12351192  0.62535425  0.62577858  1
+  Be  Be2  1  0.62535425  0.62535425  0.62577858  1
+  Al  Al3  1  0.25113267  0.25113267  0.24660100  1
+  B  B4  1  0.62370095  0.62370095  0.12889616  1
+  Ru  Ru5  1  0.00094497  0.00094497  0.99716509  1

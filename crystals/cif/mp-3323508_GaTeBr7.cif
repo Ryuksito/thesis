@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_GaTeBr7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.89583919
+_cell_length_b   9.00184331
+_cell_length_c   10.70509449
+_cell_angle_alpha   85.79373820
+_cell_angle_beta   76.76942064
+_cell_angle_gamma   83.19426321
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaTeBr7
+_chemical_formula_sum   'Ga2 Te2 Br14'
+_cell_volume   641.59000944
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.49385944  0.11947237  0.12575815  1
+  Ga  Ga1  1  0.74779882  0.55167774  0.56148006  1
+  Te  Te2  1  0.95410101  0.49802707  0.09050981  1
+  Te  Te3  1  0.18729604  0.93198048  0.54571834  1
+  Br  Br4  1  0.83226995  0.17249988  0.07322729  1
+  Br  Br5  1  0.28961894  0.32596174  0.22487202  1
+  Br  Br6  1  0.49197127  0.91474273  0.27956472  1
+  Br  Br7  1  0.40573020  0.04111019  0.94911211  1
+  Br  Br8  1  0.07942128  0.73622500  0.12910182  1
+  Br  Br9  1  0.19281731  0.45687215  0.88058537  1
+  Br  Br10  1  0.66516981  0.61714320  0.00253403  1
+  Br  Br11  1  0.08623634  0.60130306  0.50942696  1
+  Br  Br12  1  0.54556287  0.76116032  0.65912733  1
+  Br  Br13  1  0.65159226  0.50626895  0.37091146  1
+  Br  Br14  1  0.70269340  0.34582982  0.70180039  1
+  Br  Br15  1  0.32593921  0.16752920  0.57522921  1
+  Br  Br16  1  0.97666140  0.91997829  0.76860386  1
+  Br  Br17  1  0.91826344  0.04131881  0.43484008  1

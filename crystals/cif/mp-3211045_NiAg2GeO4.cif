@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NiAg2GeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10150945
+_cell_length_b   5.98112352
+_cell_length_c   7.07364993
+_cell_angle_alpha   64.89714054
+_cell_angle_beta   103.12702474
+_cell_angle_gamma   89.99853464
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiAg2GeO4
+_chemical_formula_sum   'Ni2 Ag4 Ge2 O8'
+_cell_volume   189.20292218
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.50002905  0.25205428  0.50008050  1
+  Ni  Ni1  1  0.99997612  0.49798177  0.49991093  1
+  Ag  Ag2  1  0.00393585  0.99861156  0.99965339  1
+  Ag  Ag3  1  0.50392229  0.25166744  0.99965011  1
+  Ag  Ag4  1  0.99606915  0.49830837  0.00036221  1
+  Ag  Ag5  1  0.49609587  0.75136310  0.00034048  1
+  Ge  Ge6  1  0.50002509  0.74583208  0.50003405  1
+  Ge  Ge7  1  0.99998460  0.00417839  0.49997099  1
+  O  O8  1  0.87553859  0.68686654  0.65916103  1
+  O  O9  1  0.37552083  0.90330365  0.65922043  1
+  O  O10  1  0.89929443  0.15025723  0.66361034  1
+  O  O11  1  0.39929582  0.43553590  0.66358763  1
+  O  O12  1  0.12451240  0.84667489  0.34080121  1
+  O  O13  1  0.62444346  0.06314477  0.34083297  1
+  O  O14  1  0.10068841  0.31447744  0.33641020  1
+  O  O15  1  0.60067004  0.59974558  0.33637354  1

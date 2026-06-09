@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_CsGa5(HgTe3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.69506840
+_cell_length_b   9.70933607
+_cell_length_c   9.74921802
+_cell_angle_alpha   107.30427555
+_cell_angle_beta   107.84343299
+_cell_angle_gamma   107.35037076
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsGa5(HgTe3)4
+_chemical_formula_sum   'Cs1 Ga5 Hg4 Te12'
+_cell_volume   753.61676956
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.99504393  0.99624355  0.99495053  1
+  Ga  Ga1  1  0.48373523  0.33528863  0.94153183  1
+  Ga  Ga2  1  0.93918668  0.49010195  0.34260905  1
+  Ga  Ga3  1  0.33078729  0.93267914  0.48046438  1
+  Ga  Ga4  1  0.01870625  0.18544923  0.55406711  1
+  Ga  Ga5  1  0.56047363  0.02557372  0.18709082  1
+  Hg  Hg6  1  0.63322366  0.70792775  0.39618823  1
+  Hg  Hg7  1  0.40076155  0.63720648  0.71627178  1
+  Hg  Hg8  1  0.70800387  0.39060173  0.63066292  1
+  Hg  Hg9  1  0.19163235  0.56315052  0.01730303  1
+  Te  Te10  1  0.78543001  0.93272855  0.28971207  1
+  Te  Te11  1  0.30226382  0.80754286  0.93053490  1
+  Te  Te12  1  0.92379048  0.27628444  0.77200169  1
+  Te  Te13  1  0.06564883  0.69759533  0.23896026  1
+  Te  Te14  1  0.23066901  0.07832416  0.68903875  1
+  Te  Te15  1  0.69796745  0.23373532  0.08068830  1
+  Te  Te16  1  0.37614747  0.42231066  0.15106903  1
+  Te  Te17  1  0.14578675  0.37198242  0.43510457  1
+  Te  Te18  1  0.42702915  0.13947926  0.36484062  1
+  Te  Te19  1  0.87886644  0.63889314  0.56936886  1
+  Te  Te20  1  0.56032230  0.87529958  0.63537794  1
+  Te  Te21  1  0.63916387  0.55624256  0.87680131  1

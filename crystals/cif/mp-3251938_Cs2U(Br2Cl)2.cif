@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Cs2U(Br2Cl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.47251883
+_cell_length_b   7.68785019
+_cell_length_c   7.68784985
+_cell_angle_alpha   61.45259405
+_cell_angle_beta   93.58326758
+_cell_angle_gamma   93.58326733
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2U(Br2Cl)2
+_chemical_formula_sum   'Cs2 U1 Br4 Cl2'
+_cell_volume   335.14707253
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.71510475  0.33890310  0.33890310  1
+  Cs  Cs1  1  0.28489525  0.66109690  0.66109690  1
+  U  U2  1  0.00000000  0.00000000  0.00000000  1
+  Br  Br3  1  0.21764779  0.64981419  0.15708220  1
+  Br  Br4  1  0.78235221  0.84291780  0.35018581  1
+  Br  Br5  1  0.21764779  0.15708220  0.64981419  1
+  Br  Br6  1  0.78235221  0.35018581  0.84291780  1
+  Cl  Cl7  1  0.27657116  0.15217072  0.15217072  1
+  Cl  Cl8  1  0.72342884  0.84782928  0.84782928  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TaAlI8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.95564826
+_cell_length_b   10.95564810
+_cell_length_c   9.61860780
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   129.37642317
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaAlI8
+_chemical_formula_sum   'Ta2 Al2 I16'
+_cell_volume   892.41093887
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.61064238  0.38935762  0.25000000  1
+  Ta  Ta1  1  0.38935762  0.61064238  0.75000000  1
+  Al  Al2  1  0.81378398  0.18621602  0.25000000  1
+  Al  Al3  1  0.18621602  0.81378398  0.75000000  1
+  I  I4  1  0.51690824  0.06006823  0.25000000  1
+  I  I5  1  0.06006823  0.51690824  0.75000000  1
+  I  I6  1  0.48309176  0.93993177  0.75000000  1
+  I  I7  1  0.93993177  0.48309176  0.25000000  1
+  I  I8  1  0.63084538  0.36915462  0.97269561  1
+  I  I9  1  0.36915462  0.63084538  0.02730439  1
+  I  I10  1  0.63084538  0.36915462  0.52730439  1
+  I  I11  1  0.36915462  0.63084538  0.47269561  1
+  I  I12  1  0.31115823  0.25857132  0.25000000  1
+  I  I13  1  0.25857132  0.31115823  0.75000000  1
+  I  I14  1  0.68884177  0.74142868  0.75000000  1
+  I  I15  1  0.74142868  0.68884177  0.25000000  1
+  I  I16  1  0.88361963  0.11638037  0.46697415  1
+  I  I17  1  0.11638037  0.88361963  0.53302585  1
+  I  I18  1  0.88361963  0.11638037  0.03302585  1
+  I  I19  1  0.11638037  0.88361963  0.96697415  1

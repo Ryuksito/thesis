@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_K2Hf(CuTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.91600501
+_cell_length_b   7.91600575
+_cell_length_c   6.13828178
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   134.29054284
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Hf(CuTe2)2
+_chemical_formula_sum   'K2 Hf1 Cu2 Te4'
+_cell_volume   275.33126649
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.00000000  0.24493541  1
+  K  K1  1  0.00000000  0.50000000  0.75506459  1
+  Hf  Hf2  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu3  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu4  1  0.50000000  0.50000000  0.00000000  1
+  Te  Te5  1  0.84802354  0.63789878  0.25707350  1
+  Te  Te6  1  0.15197646  0.36210122  0.25707350  1
+  Te  Te7  1  0.63789878  0.84802354  0.74292650  1
+  Te  Te8  1  0.36210122  0.15197646  0.74292650  1

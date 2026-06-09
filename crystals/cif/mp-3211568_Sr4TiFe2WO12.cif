@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr4TiFe2WO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54549001
+_cell_length_b   5.57234929
+_cell_length_c   9.64913953
+_cell_angle_alpha   89.66906425
+_cell_angle_beta   106.74075854
+_cell_angle_gamma   119.78584469
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4TiFe2WO12
+_chemical_formula_sum   'Sr4 Ti1 Fe2 W1 O12'
+_cell_volume   244.40672769
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.75547075  0.62864599  0.38323551  1
+  Sr  Sr1  1  0.74312555  0.12123639  0.86457286  1
+  Sr  Sr2  1  0.25687445  0.87876361  0.13542714  1
+  Sr  Sr3  1  0.24452925  0.37135401  0.61676449  1
+  Ti  Ti4  1  0.50000000  0.00000000  0.50000000  1
+  Fe  Fe5  1  0.00629675  0.25440426  0.26001727  1
+  Fe  Fe6  1  0.99370325  0.74559574  0.73998273  1
+  W  W7  1  0.50000000  0.50000000  0.00000000  1
+  O  O8  1  0.74647893  0.86449592  0.12083504  1
+  O  O9  1  0.74306057  0.36948579  0.62605950  1
+  O  O10  1  0.25693943  0.63051421  0.37394050  1
+  O  O11  1  0.25352107  0.13550408  0.87916496  1
+  O  O12  1  0.22223010  0.10533995  0.38823390  1
+  O  O13  1  0.22649469  0.61053649  0.89748651  1
+  O  O14  1  0.77776990  0.89466005  0.61176610  1
+  O  O15  1  0.77350531  0.38946351  0.10251349  1
+  O  O16  1  0.70948098  0.63628637  0.86260053  1
+  O  O17  1  0.72134342  0.14259945  0.36197654  1
+  O  O18  1  0.27865658  0.85740055  0.63802346  1
+  O  O19  1  0.29051902  0.36371363  0.13739947  1

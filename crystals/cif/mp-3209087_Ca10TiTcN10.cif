@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ca10TiTcN10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.87457253
+_cell_length_b   6.87457123
+_cell_length_c   8.86497870
+_cell_angle_alpha   80.66490309
+_cell_angle_beta   80.66489447
+_cell_angle_gamma   59.82671460
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca10TiTcN10
+_chemical_formula_sum   'Ca10 Ti1 Tc1 N10'
+_cell_volume   355.79315584
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.87940313  0.35199170  0.83026823  1
+  Ca  Ca1  1  0.87504819  0.87504819  0.82010999  1
+  Ca  Ca2  1  0.73791450  0.73791450  0.53586247  1
+  Ca  Ca3  1  0.74619847  0.25032155  0.51236718  1
+  Ca  Ca4  1  0.62856966  0.13750119  0.14427191  1
+  Ca  Ca5  1  0.35199170  0.87940313  0.83026823  1
+  Ca  Ca6  1  0.25032155  0.74619847  0.51236718  1
+  Ca  Ca7  1  0.24255426  0.24255426  0.50135793  1
+  Ca  Ca8  1  0.14164889  0.14164889  0.15741085  1
+  Ca  Ca9  1  0.13750119  0.62856966  0.14427191  1
+  Ti  Ti10  1  0.36934830  0.36934830  0.77438519  1
+  Tc  Tc11  1  0.63262262  0.63262262  0.22888007  1
+  N  N12  1  0.90362598  0.47479393  0.31735507  1
+  N  N13  1  0.99621472  0.99621472  0.01724319  1
+  N  N14  1  0.67832185  0.67832185  0.02642458  1
+  N  N15  1  0.53608892  0.53608892  0.69309717  1
+  N  N16  1  0.47479393  0.90362598  0.31735507  1
+  N  N17  1  0.53805520  0.08467391  0.67528843  1
+  N  N18  1  0.47672107  0.47672107  0.29379470  1
+  N  N19  1  0.31922762  0.31922762  0.99248566  1
+  N  N20  1  0.06144035  0.06144035  0.64565658  1
+  N  N21  1  0.08467391  0.53805520  0.67528843  1

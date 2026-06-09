@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoTa(NiSn)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.14438962
+_cell_length_b   4.30804648
+_cell_length_c   8.70096869
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoTa(NiSn)2
+_chemical_formula_sum   'Ho2 Ta2 Ni4 Sn4'
+_cell_volume   230.31739158
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00484866  0.50000000  0.37854892  1
+  Ho  Ho1  1  0.50484866  0.00000000  0.62145108  1
+  Ta  Ta2  1  0.49432625  0.00000000  0.12406463  1
+  Ta  Ta3  1  0.99432725  0.50000000  0.87593737  1
+  Ni  Ni4  1  0.73701343  0.50000000  0.11082382  1
+  Ni  Ni5  1  0.26716727  0.00000000  0.35307202  1
+  Ni  Ni6  1  0.76716827  0.50000000  0.64692698  1
+  Ni  Ni7  1  0.23701443  0.00000000  0.88917518  1
+  Sn  Sn8  1  0.98833150  0.00000000  0.12044240  1
+  Sn  Sn9  1  0.50831288  0.50000000  0.36531960  1
+  Sn  Sn10  1  0.00831188  0.00000000  0.63468140  1
+  Sn  Sn11  1  0.48833050  0.50000000  0.87955760  1

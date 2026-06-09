@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La2TiCrO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23993461
+_cell_length_b   6.23993349
+_cell_length_c   6.23993328
+_cell_angle_alpha   106.14741676
+_cell_angle_beta   106.14740681
+_cell_angle_gamma   116.34535649
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2TiCrO8
+_chemical_formula_sum   'La2 Ti1 Cr1 O8'
+_cell_volume   184.99041592
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00000000  0.00000000  0.00000000  1
+  La  La1  1  0.25000000  0.75000000  0.50000000  1
+  Ti  Ti2  1  0.75000000  0.25000000  0.50000000  1
+  Cr  Cr3  1  0.50000000  0.50000000  0.00000000  1
+  O  O4  1  0.34694071  0.51998546  0.17304275  1
+  O  O5  1  0.38234158  0.06475958  0.31758201  1
+  O  O6  1  0.74717657  0.06475958  0.68241799  1
+  O  O7  1  0.34694071  0.17389795  0.82695725  1
+  O  O8  1  0.82610205  0.65305929  0.17304275  1
+  O  O9  1  0.93524042  0.25282343  0.31758201  1
+  O  O10  1  0.93524042  0.61765842  0.68241799  1
+  O  O11  1  0.48001454  0.65305929  0.82695725  1

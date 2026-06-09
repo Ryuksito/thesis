@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_PaCr3(CuS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21770339
+_cell_length_b   7.21770383
+_cell_length_c   7.21770298
+_cell_angle_alpha   59.03743653
+_cell_angle_beta   59.03743450
+_cell_angle_gamma   59.03743435
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaCr3(CuS4)2
+_chemical_formula_sum   'Pa1 Cr3 Cu2 S8'
+_cell_volume   260.04132881
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.00000000  0.00000000  0.00000000  1
+  Cr  Cr1  1  0.50000000  0.00000000  0.00000000  1
+  Cr  Cr2  1  0.00000000  0.00000000  0.50000000  1
+  Cr  Cr3  1  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu4  1  0.36963939  0.36963939  0.36963939  1
+  Cu  Cu5  1  0.63036061  0.63036061  0.63036061  1
+  S  S6  1  0.24036910  0.24036910  0.24036910  1
+  S  S7  1  0.76269375  0.25893762  0.25893762  1
+  S  S8  1  0.25893762  0.25893762  0.76269375  1
+  S  S9  1  0.25893762  0.76269375  0.25893762  1
+  S  S10  1  0.75963090  0.75963090  0.75963090  1
+  S  S11  1  0.23730625  0.74106238  0.74106238  1
+  S  S12  1  0.74106238  0.74106238  0.23730625  1
+  S  S13  1  0.74106238  0.23730625  0.74106238  1

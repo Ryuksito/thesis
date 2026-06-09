@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_RbNa(NbBr3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.00138626
+_cell_length_b   10.08836575
+_cell_length_c   10.17795669
+_cell_angle_alpha   119.05963969
+_cell_angle_beta   97.52055548
+_cell_angle_gamma   105.26799725
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNa(NbBr3)3
+_chemical_formula_sum   'Rb2 Na2 Nb6 Br18'
+_cell_volume   824.18557623
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.33144546  0.46570961  0.26448870  1
+  Rb  Rb1  1  0.66855454  0.53429039  0.73551130  1
+  Na  Na2  1  0.64263319  0.20475971  0.05480379  1
+  Na  Na3  1  0.35736681  0.79524029  0.94519621  1
+  Nb  Nb4  1  0.12463322  0.89116467  0.36096875  1
+  Nb  Nb5  1  0.86453559  0.76933219  0.44192237  1
+  Nb  Nb6  1  0.86454401  0.96891246  0.30336166  1
+  Nb  Nb7  1  0.87536678  0.10883533  0.63903125  1
+  Nb  Nb8  1  0.13546441  0.23066781  0.55807763  1
+  Nb  Nb9  1  0.13545599  0.03108754  0.69663834  1
+  Br  Br10  1  0.67511763  0.45530057  0.36519976  1
+  Br  Br11  1  0.67559692  0.92091095  0.02869628  1
+  Br  Br12  1  0.33211925  0.32360802  0.81563098  1
+  Br  Br13  1  0.66788075  0.67639198  0.18436902  1
+  Br  Br14  1  0.29184165  0.74128083  0.17700442  1
+  Br  Br15  1  0.68125946  0.09127679  0.42735094  1
+  Br  Br16  1  0.32488237  0.54469943  0.63480024  1
+  Br  Br17  1  0.98506789  0.58371851  0.25800920  1
+  Br  Br18  1  0.68060540  0.84908324  0.59847584  1
+  Br  Br19  1  0.70815835  0.25871917  0.82299558  1
+  Br  Br20  1  0.00163457  0.75367604  0.66881041  1
+  Br  Br21  1  0.01155644  0.16713354  0.91158048  1
+  Br  Br22  1  0.99836543  0.24632396  0.33118959  1
+  Br  Br23  1  0.31939460  0.15091676  0.40152416  1
+  Br  Br24  1  0.32440308  0.07908905  0.97130372  1
+  Br  Br25  1  0.01493211  0.41628149  0.74199080  1
+  Br  Br26  1  0.98844356  0.83286646  0.08841952  1
+  Br  Br27  1  0.31874054  0.90872321  0.57264906  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiAg(SbS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.67071542
+_cell_length_b   6.67071607
+_cell_length_c   13.44690544
+_cell_angle_alpha   81.55776047
+_cell_angle_beta   81.55776096
+_cell_angle_gamma   38.96977093
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAg(SbS2)2
+_chemical_formula_sum   'Li2 Ag2 Sb4 S8'
+_cell_volume   371.72751893
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.02453058  0.98457687  0.25605115  1
+  Li  Li1  1  0.98457687  0.02453058  0.75605115  1
+  Ag  Ag2  1  0.50516046  0.50402802  0.00619534  1
+  Ag  Ag3  1  0.50402802  0.50516046  0.50619534  1
+  Sb  Sb4  1  0.22132732  0.30046034  0.87883979  1
+  Sb  Sb5  1  0.30046034  0.22132732  0.37883979  1
+  Sb  Sb6  1  0.78725288  0.70881039  0.13386439  1
+  Sb  Sb7  1  0.70881039  0.78725288  0.63386439  1
+  S  S8  1  0.47369606  0.81263246  0.80456622  1
+  S  S9  1  0.81263246  0.47369606  0.30456622  1
+  S  S10  1  0.53470880  0.19665260  0.20804531  1
+  S  S11  1  0.19665260  0.53470880  0.70804531  1
+  S  S12  1  0.29542484  0.92893706  0.09411545  1
+  S  S13  1  0.92893806  0.29542484  0.59411545  1
+  S  S14  1  0.71358871  0.07981262  0.91832236  1
+  S  S15  1  0.07981262  0.71358871  0.41832236  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_ErHfAgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.70198733
+_cell_length_b   7.70198914
+_cell_length_c   7.70198813
+_cell_angle_alpha   118.96875188
+_cell_angle_beta   121.31526080
+_cell_angle_gamma   89.76627815
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErHfAgS4
+_chemical_formula_sum   'Er2 Hf2 Ag2 S8'
+_cell_volume   322.20151665
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.00000000  0.00000000  0.50000000  1
+  Er  Er1  1  0.00000000  0.50000000  0.00000000  1
+  Hf  Hf2  1  0.00000000  0.00000000  0.00000000  1
+  Hf  Hf3  1  0.50000000  0.00000000  0.50000000  1
+  Ag  Ag4  1  0.37232563  0.62232563  0.75000000  1
+  Ag  Ag5  1  0.62767437  0.37767437  0.25000000  1
+  S  S6  1  0.24836139  0.77499257  0.02663118  1
+  S  S7  1  0.75163861  0.77826978  0.52663118  1
+  S  S8  1  0.22287392  0.23141069  0.99146323  1
+  S  S9  1  0.73994846  0.23141069  0.50853677  1
+  S  S10  1  0.77712608  0.76858931  0.00853677  1
+  S  S11  1  0.26005154  0.76858931  0.49146323  1
+  S  S12  1  0.75163861  0.22500743  0.97336882  1
+  S  S13  1  0.24836139  0.22173022  0.47336882  1

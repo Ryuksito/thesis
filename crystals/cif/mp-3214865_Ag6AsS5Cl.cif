@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ag6AsS5Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.40398300
+_cell_length_b   7.40398341
+_cell_length_c   12.90366344
+_cell_angle_alpha   73.28616316
+_cell_angle_beta   73.28616324
+_cell_angle_gamma   60.04116082
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag6AsS5Cl
+_chemical_formula_sum   'Ag12 As2 S10 Cl2'
+_cell_volume   578.05651748
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.46455545  0.54470609  0.50104753  1
+  Ag  Ag1  1  0.54470609  0.46455545  0.00104753  1
+  Ag  Ag2  1  0.04634830  0.52850790  0.49843913  1
+  Ag  Ag3  1  0.52850790  0.04634830  0.99843913  1
+  Ag  Ag4  1  0.40999050  0.62016813  0.72434308  1
+  Ag  Ag5  1  0.62016813  0.40999050  0.22434308  1
+  Ag  Ag6  1  0.11107378  0.28293701  0.72339215  1
+  Ag  Ag7  1  0.28293701  0.11107378  0.22339215  1
+  Ag  Ag8  1  0.96529994  0.02976142  0.00064624  1
+  Ag  Ag9  1  0.02976142  0.96529994  0.50064624  1
+  Ag  Ag10  1  0.78094374  0.91354910  0.72354122  1
+  Ag  Ag11  1  0.91354910  0.78094374  0.22354122  1
+  As  As12  1  0.01765091  0.51719536  0.98615244  1
+  As  As13  1  0.51719536  0.01765091  0.48615244  1
+  S  S14  1  0.20496810  0.69170535  0.92426867  1
+  S  S15  1  0.69170535  0.20496810  0.42426867  1
+  S  S16  1  0.19131373  0.21958294  0.92228409  1
+  S  S17  1  0.21958294  0.19131373  0.42228409  1
+  S  S18  1  0.45445386  0.95903089  0.66626729  1
+  S  S19  1  0.95903089  0.45445386  0.16626729  1
+  S  S20  1  0.13205980  0.63301688  0.63689275  1
+  S  S21  1  0.63301688  0.13205980  0.13689275  1
+  S  S22  1  0.71854087  0.70454072  0.92371012  1
+  S  S23  1  0.70454072  0.71854087  0.42371012  1
+  Cl  Cl24  1  0.75631348  0.26178374  0.75501530  1
+  Cl  Cl25  1  0.26178374  0.75631348  0.25501530  1

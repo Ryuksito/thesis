@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_MgCu(SeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00588942
+_cell_length_b   6.82416070
+_cell_length_c   8.86273404
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   84.44820156
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCu(SeO4)2
+_chemical_formula_sum   'Mg2 Cu2 Se4 O16'
+_cell_volume   301.33960006
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.00000000  0.00000000  1
+  Mg  Mg1  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu2  1  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu3  1  0.50000000  0.00000000  0.50000000  1
+  Se  Se4  1  0.46106269  0.22606917  0.81582757  1
+  Se  Se5  1  0.03893731  0.27393083  0.31582757  1
+  Se  Se6  1  0.53893731  0.77393083  0.18417243  1
+  Se  Se7  1  0.96106269  0.72606917  0.68417243  1
+  O  O8  1  0.72524503  0.28672095  0.37113751  1
+  O  O9  1  0.80950899  0.93709309  0.62261248  1
+  O  O10  1  0.56643237  0.75639409  0.37408461  1
+  O  O11  1  0.31727271  0.03095409  0.86485138  1
+  O  O12  1  0.69049101  0.56290691  0.12261248  1
+  O  O13  1  0.93356763  0.74360591  0.87408461  1
+  O  O14  1  0.43356763  0.24360591  0.62591539  1
+  O  O15  1  0.68272729  0.96904591  0.13514862  1
+  O  O16  1  0.27475497  0.71327905  0.62886249  1
+  O  O17  1  0.81727271  0.53095409  0.63514862  1
+  O  O18  1  0.77475497  0.21327905  0.87113751  1
+  O  O19  1  0.06643237  0.25639409  0.12591539  1
+  O  O20  1  0.30950899  0.43709309  0.87738752  1
+  O  O21  1  0.22524503  0.78672095  0.12886249  1
+  O  O22  1  0.19049101  0.06290691  0.37738752  1
+  O  O23  1  0.18272729  0.46904591  0.36485138  1

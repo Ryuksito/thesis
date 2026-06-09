@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na2LiInAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.49974508
+_cell_length_b   9.49974637
+_cell_length_c   6.05399879
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   98.10689124
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2LiInAs2
+_chemical_formula_sum   'Na8 Li4 In4 As8'
+_cell_volume   540.88436409
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.42944547  0.07055453  0.25000000  1
+  Na  Na1  1  0.07055453  0.42944547  0.75000000  1
+  Na  Na2  1  0.57055453  0.92944547  0.75000000  1
+  Na  Na3  1  0.32118759  0.67881241  0.27319788  1
+  Na  Na4  1  0.82118759  0.17881241  0.22680212  1
+  Na  Na5  1  0.67881241  0.32118759  0.72680212  1
+  Na  Na6  1  0.17881241  0.82118759  0.77319788  1
+  Na  Na7  1  0.92944547  0.57055453  0.25000000  1
+  Li  Li8  1  0.38107461  0.38107461  0.50000000  1
+  Li  Li9  1  0.11892539  0.11892539  0.00000000  1
+  Li  Li10  1  0.61892539  0.61892539  0.50000000  1
+  Li  Li11  1  0.88107461  0.88107461  0.00000000  1
+  In  In12  1  0.86814684  0.86814684  0.50000000  1
+  In  In13  1  0.13185316  0.13185316  0.50000000  1
+  In  In14  1  0.63185316  0.63185316  0.00000000  1
+  In  In15  1  0.36814684  0.36814684  0.00000000  1
+  As  As16  1  0.11072296  0.88927704  0.26115623  1
+  As  As17  1  0.61072296  0.38927704  0.23884377  1
+  As  As18  1  0.88927704  0.11072296  0.73884377  1
+  As  As19  1  0.38927704  0.61072296  0.76115623  1
+  As  As20  1  0.13561158  0.36438842  0.25000000  1
+  As  As21  1  0.36438842  0.13561158  0.75000000  1
+  As  As22  1  0.86438842  0.63561158  0.75000000  1
+  As  As23  1  0.63561158  0.86438842  0.25000000  1

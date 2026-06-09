@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Rb2Sb4Te7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41743574
+_cell_length_b   13.77263901
+_cell_length_c   16.07762672
+_cell_angle_alpha   85.91625793
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Sb4Te7
+_chemical_formula_sum   'Rb4 Sb8 Te14'
+_cell_volume   975.67523903
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.25000000  0.56913805  0.80964194  1
+  Rb  Rb1  1  0.75000000  0.43086195  0.19035806  1
+  Rb  Rb2  1  0.75000000  0.82669455  0.62390473  1
+  Rb  Rb3  1  0.25000000  0.17330545  0.37609527  1
+  Sb  Sb4  1  0.25000000  0.94881549  0.87646404  1
+  Sb  Sb5  1  0.75000000  0.05118451  0.12353596  1
+  Sb  Sb6  1  0.25000000  0.82999177  0.27320444  1
+  Sb  Sb7  1  0.75000000  0.17000823  0.72679556  1
+  Sb  Sb8  1  0.75000000  0.73190519  0.04701880  1
+  Sb  Sb9  1  0.25000000  0.26809481  0.95298120  1
+  Sb  Sb10  1  0.75000000  0.60938384  0.43019101  1
+  Sb  Sb11  1  0.25000000  0.39061616  0.56980899  1
+  Te  Te12  1  0.25000000  0.45789138  0.38992078  1
+  Te  Te13  1  0.75000000  0.54210862  0.61007922  1
+  Te  Te14  1  0.25000000  0.59201223  0.03442332  1
+  Te  Te15  1  0.75000000  0.40798777  0.96557668  1
+  Te  Te16  1  0.75000000  0.98792430  0.30019633  1
+  Te  Te17  1  0.25000000  0.01207570  0.69980367  1
+  Te  Te18  1  0.75000000  0.79204525  0.85979155  1
+  Te  Te19  1  0.25000000  0.20795475  0.14020845  1
+  Te  Te20  1  0.25000000  0.76022380  0.45542095  1
+  Te  Te21  1  0.75000000  0.23977620  0.54457905  1
+  Te  Te22  1  0.75000000  0.68732794  0.24050232  1
+  Te  Te23  1  0.25000000  0.31267206  0.75949768  1
+  Te  Te24  1  0.25000000  0.90243115  0.08395876  1
+  Te  Te25  1  0.75000000  0.09756885  0.91604124  1

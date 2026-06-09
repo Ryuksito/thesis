@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_TbHfAgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.75415362
+_cell_length_b   7.75415418
+_cell_length_c   7.75415430
+_cell_angle_alpha   118.74854470
+_cell_angle_beta   121.74094973
+_cell_angle_gamma   89.59628395
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbHfAgS4
+_chemical_formula_sum   'Tb2 Hf2 Ag2 S8'
+_cell_volume   328.16582072
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.00000000  0.00000000  0.50000000  1
+  Tb  Tb1  1  0.00000000  0.50000000  0.00000000  1
+  Hf  Hf2  1  0.00000000  0.00000000  0.00000000  1
+  Hf  Hf3  1  0.50000000  0.00000000  0.50000000  1
+  Ag  Ag4  1  0.37085002  0.62085002  0.75000000  1
+  Ag  Ag5  1  0.62914998  0.37914998  0.25000000  1
+  S  S6  1  0.24964162  0.77798738  0.02834575  1
+  S  S7  1  0.75035838  0.77870513  0.52834575  1
+  S  S8  1  0.22459291  0.22963875  0.99495416  1
+  S  S9  1  0.73468460  0.22963875  0.50504584  1
+  S  S10  1  0.77540709  0.77036125  0.00504584  1
+  S  S11  1  0.26531540  0.77036125  0.49495416  1
+  S  S12  1  0.75035838  0.22201262  0.97165425  1
+  S  S13  1  0.24964162  0.22129487  0.47165425  1

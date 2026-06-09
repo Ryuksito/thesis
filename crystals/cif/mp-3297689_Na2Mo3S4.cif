@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Na2Mo3S4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82780594
+_cell_length_b   7.06781499
+_cell_length_c   6.93491014
+_cell_angle_alpha   96.11230519
+_cell_angle_beta   97.14388462
+_cell_angle_gamma   90.06248892
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Mo3S4
+_chemical_formula_sum   'Na4 Mo6 S8'
+_cell_volume   330.14200943
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.02779953  0.92880871  0.24143715  1
+  Na  Na1  1  0.99263194  0.49396581  0.97928338  1
+  Na  Na2  1  0.95880785  0.05628583  0.72269274  1
+  Na  Na3  1  0.49321786  0.99315096  0.98163839  1
+  Mo  Mo4  1  0.56868857  0.74057012  0.44310427  1
+  Mo  Mo5  1  0.23397320  0.54238807  0.39059881  1
+  Mo  Mo6  1  0.44327052  0.57739720  0.73411174  1
+  Mo  Mo7  1  0.54174628  0.40703795  0.22530182  1
+  Mo  Mo8  1  0.75089500  0.44202242  0.56889203  1
+  Mo  Mo9  1  0.41630239  0.24376318  0.51640971  1
+  S  S10  1  0.27817370  0.86272189  0.59484638  1
+  S  S11  1  0.35997217  0.68902654  0.11539855  1
+  S  S12  1  0.75850785  0.75120899  0.77481930  1
+  S  S13  1  0.84968692  0.60059262  0.29673697  1
+  S  S14  1  0.13525664  0.38368255  0.66249806  1
+  S  S15  1  0.22602120  0.23342448  0.18420310  1
+  S  S16  1  0.62508013  0.29535891  0.84392610  1
+  S  S17  1  0.70696925  0.12159478  0.36510051  1

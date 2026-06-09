@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_RbInSiAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.33566439
+_cell_length_b   8.89209010
+_cell_length_c   8.47391471
+_cell_angle_alpha   86.19665857
+_cell_angle_beta   77.11995311
+_cell_angle_gamma   72.36882362
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbInSiAs2
+_chemical_formula_sum   'Rb4 In4 Si4 As8'
+_cell_volume   583.53297333
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.44170491  0.75742242  0.39337246  1
+  Rb  Rb1  1  0.55829509  0.24257758  0.60662754  1
+  Rb  Rb2  1  0.42420732  0.78780609  0.87874959  1
+  Rb  Rb3  1  0.57579268  0.21219391  0.12125041  1
+  In  In4  1  0.94068143  0.88522105  0.78932088  1
+  In  In5  1  0.05931857  0.11477895  0.21067912  1
+  In  In6  1  0.95628684  0.83486005  0.25049243  1
+  In  In7  1  0.04371316  0.16513995  0.74950757  1
+  Si  Si8  1  0.94575072  0.57557724  0.61907182  1
+  Si  Si9  1  0.05424928  0.42442276  0.38092818  1
+  Si  Si10  1  0.14796605  0.46661030  0.96338607  1
+  Si  Si11  1  0.85203395  0.53338970  0.03661393  1
+  As  As12  1  0.77924660  0.82848867  0.55984455  1
+  As  As13  1  0.22075340  0.17151133  0.44015545  1
+  As  As14  1  0.80855439  0.40122771  0.28814675  1
+  As  As15  1  0.19144561  0.59877229  0.71185325  1
+  As  As16  1  0.74236552  0.80960816  0.06322971  1
+  As  As17  1  0.25763448  0.19039184  0.93677029  1
+  As  As18  1  0.77999391  0.44085709  0.81030931  1
+  As  As19  1  0.22000609  0.55914291  0.18969069  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs3HoSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.47007408
+_cell_length_b   10.47007463
+_cell_length_c   10.47007425
+_cell_angle_alpha   127.62271426
+_cell_angle_beta   70.35169364
+_cell_angle_gamma   136.53432324
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3HoSb2
+_chemical_formula_sum   'Cs6 Ho2 Sb4'
+_cell_volume   613.23686881
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.25000000  0.25000000  0.00000000  1
+  Cs  Cs1  1  0.75000000  0.75000000  0.00000000  1
+  Cs  Cs2  1  0.81520544  0.28955300  0.10475943  1
+  Cs  Cs3  1  0.68479356  0.78955400  0.47434756  1
+  Cs  Cs4  1  0.31520544  0.21044700  0.52565244  1
+  Cs  Cs5  1  0.18479356  0.71044700  0.89524057  1
+  Ho  Ho6  1  0.75000000  0.25000000  0.50000000  1
+  Ho  Ho7  1  0.25000000  0.75000000  0.50000000  1
+  Sb  Sb8  1  0.40557399  0.81787996  0.22345296  1
+  Sb  Sb9  1  0.09442601  0.31787996  0.41230497  1
+  Sb  Sb10  1  0.90557399  0.68212004  0.58769603  1
+  Sb  Sb11  1  0.59442601  0.18212004  0.77654704  1

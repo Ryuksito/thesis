@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsRb5(InSb2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.84340362
+_cell_length_b   9.84340340
+_cell_length_c   9.95215924
+_cell_angle_alpha   127.52583014
+_cell_angle_beta   71.83957306
+_cell_angle_gamma   134.36873371
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsRb5(InSb2)2
+_chemical_formula_sum   'Cs1 Rb5 In2 Sb4'
+_cell_volume   535.47259166
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.17333357  0.71629939  0.88963296  1
+  Rb  Rb1  1  0.24839581  0.24762002  0.99680112  1
+  Rb  Rb2  1  0.74918109  0.74840531  0.99680112  1
+  Rb  Rb3  1  0.82538927  0.30176330  0.12715357  1
+  Rb  Rb4  1  0.67418033  0.79492072  0.46910104  1
+  Rb  Rb5  1  0.32529087  0.20063307  0.52592395  1
+  In  In6  1  0.75142372  0.24936285  0.49938491  1
+  In  In7  1  0.25002105  0.74796119  0.49938491  1
+  Sb  Sb8  1  0.40843722  0.81363072  0.22206694  1
+  Sb  Sb9  1  0.09579649  0.30831822  0.40411471  1
+  Sb  Sb10  1  0.90345074  0.68638098  0.58983272  1
+  Sb  Sb11  1  0.59509884  0.18470523  0.77980407  1

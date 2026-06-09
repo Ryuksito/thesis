@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba8AgBi5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.27975538
+_cell_length_b   9.27975458
+_cell_length_c   9.27975488
+_cell_angle_alpha   109.39700024
+_cell_angle_beta   109.61975732
+_cell_angle_gamma   109.39700372
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba8AgBi5
+_chemical_formula_sum   'Ba8 Ag1 Bi5'
+_cell_volume   615.15627381
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.48981282  0.99344798  0.62721372  1
+  Ba  Ba1  1  0.15102892  0.50498476  0.99751436  1
+  Ba  Ba2  1  0.37278628  0.36259910  0.36623426  1
+  Ba  Ba3  1  0.00363516  0.13740090  0.51018718  1
+  Ba  Ba4  1  0.85395584  0.84648544  0.84897108  1
+  Ba  Ba5  1  0.00248564  0.65351456  0.50747040  1
+  Ba  Ba6  1  0.49252960  0.99501524  0.14604416  1
+  Ba  Ba7  1  0.63376574  0.50655202  0.99636484  1
+  Ag  Ag8  1  0.87500000  0.25000000  0.12500000  1
+  Bi  Bi9  1  0.11650310  0.86891409  0.24416945  1
+  Bi  Bi10  1  0.37525536  0.63108591  0.74758901  1
+  Bi  Bi11  1  0.25241099  0.12766635  0.88349690  1
+  Bi  Bi12  1  0.75583055  0.37233365  0.62474464  1
+  Bi  Bi13  1  0.62500000  0.75000000  0.37500000  1

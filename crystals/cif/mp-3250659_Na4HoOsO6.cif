@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na4HoOsO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60035393
+_cell_length_b   5.60034095
+_cell_length_c   5.71633768
+_cell_angle_alpha   99.49676997
+_cell_angle_beta   99.49638972
+_cell_angle_gamma   119.97819374
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4HoOsO6
+_chemical_formula_sum   'Na4 Ho1 Os1 O6'
+_cell_volume   146.60816701
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.49920456  0.50079846  0.00000096  1
+  Na  Na1  1  0.01042734  0.98957798  0.50000130  1
+  Na  Na2  1  0.65664256  0.34335728  0.50000020  1
+  Na  Na3  1  0.33797047  0.66202615  0.49999937  1
+  Ho  Ho4  1  0.83282770  0.16716913  0.00000047  1
+  Os  Os5  1  0.16682475  0.83317461  0.99999900  1
+  O  O6  1  0.94959724  0.60201546  0.21008751  1
+  O  O7  1  0.53908738  0.92026799  0.21549143  1
+  O  O8  1  0.22321870  0.19351754  0.21477110  1
+  O  O9  1  0.80648247  0.77678034  0.78522854  1
+  O  O10  1  0.07973373  0.46091214  0.78450975  1
+  O  O11  1  0.39798810  0.05040593  0.78991436  1

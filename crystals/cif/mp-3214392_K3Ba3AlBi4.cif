@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_K3Ba3AlBi4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.24330301
+_cell_length_b   11.24330351
+_cell_length_c   8.53830017
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000143
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Ba3AlBi4
+_chemical_formula_sum   'K6 Ba6 Al2 Bi8'
+_cell_volume   934.73799055
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.86143896  0.13856104  0.54728616  1
+  K  K1  1  0.27712207  0.13856104  0.54728616  1
+  K  K2  1  0.86143896  0.72287793  0.54728616  1
+  K  K3  1  0.13856104  0.86143896  0.04728616  1
+  K  K4  1  0.72287793  0.86143896  0.04728616  1
+  K  K5  1  0.13856104  0.27712207  0.04728616  1
+  Ba  Ba6  1  0.47984687  0.52015313  0.73332103  1
+  Ba  Ba7  1  0.04030525  0.52015313  0.73332103  1
+  Ba  Ba8  1  0.47984687  0.95969475  0.73332103  1
+  Ba  Ba9  1  0.52015313  0.47984687  0.23332103  1
+  Ba  Ba10  1  0.95969475  0.47984687  0.23332103  1
+  Ba  Ba11  1  0.52015313  0.04030525  0.23332103  1
+  Al  Al12  1  0.66666700  0.33333300  0.85641868  1
+  Al  Al13  1  0.33333300  0.66666700  0.35641868  1
+  Bi  Bi14  1  0.80444403  0.19555597  0.95659578  1
+  Bi  Bi15  1  0.39111295  0.19555597  0.95659578  1
+  Bi  Bi16  1  0.80444403  0.60888705  0.95659578  1
+  Bi  Bi17  1  0.19555597  0.80444403  0.45659578  1
+  Bi  Bi18  1  0.60888705  0.80444403  0.45659578  1
+  Bi  Bi19  1  0.19555597  0.39111295  0.45659578  1
+  Bi  Bi20  1  0.66666700  0.33333300  0.51733440  1
+  Bi  Bi21  1  0.33333300  0.66666700  0.01733440  1

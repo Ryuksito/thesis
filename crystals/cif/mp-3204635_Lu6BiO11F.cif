@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Lu6BiO11F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.34701329
+_cell_length_b   6.35212611
+_cell_length_c   6.37526990
+_cell_angle_alpha   99.29518521
+_cell_angle_beta   99.33243156
+_cell_angle_gamma   99.16859904
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu6BiO11F
+_chemical_formula_sum   'Lu6 Bi1 O11 F1'
+_cell_volume   245.71473793
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.40177336  0.69575468  0.87020931  1
+  Lu  Lu1  1  0.84104120  0.39304966  0.68748204  1
+  Lu  Lu2  1  0.68490264  0.85606215  0.39506346  1
+  Lu  Lu3  1  0.60700357  0.31811169  0.14808891  1
+  Lu  Lu4  1  0.13689094  0.61817261  0.29654026  1
+  Lu  Lu5  1  0.31889892  0.12691055  0.60952521  1
+  Bi  Bi6  1  0.00257225  0.00381848  0.99737281  1
+  O  O7  1  0.58123030  0.17554860  0.42852937  1
+  O  O8  1  0.42875536  0.58503270  0.18163743  1
+  O  O9  1  0.83024410  0.57504223  0.42335235  1
+  O  O10  1  0.40928136  0.81283096  0.57348389  1
+  O  O11  1  0.56095802  0.41515111  0.81793099  1
+  O  O12  1  0.92855481  0.06163857  0.68026155  1
+  O  O13  1  0.94304820  0.32039146  0.07773434  1
+  O  O14  1  0.32403297  0.07377235  0.94990669  1
+  O  O15  1  0.08369428  0.95391289  0.31571683  1
+  O  O16  1  0.05574100  0.67919937  0.92078244  1
+  O  O17  1  0.68679431  0.91732246  0.05507097  1
+  F  F18  1  0.17458341  0.41827747  0.57130917  1

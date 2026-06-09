@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs3Na(ThTe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.16384812
+_cell_length_b   8.16384760
+_cell_length_c   9.29306124
+_cell_angle_alpha   81.72527322
+_cell_angle_beta   81.72528460
+_cell_angle_gamma   120.03514683
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3Na(ThTe3)2
+_chemical_formula_sum   'Cs3 Na1 Th2 Te6'
+_cell_volume   513.48091315
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.65668986  0.34331014  0.50000000  1
+  Cs  Cs1  1  0.34331014  0.65668986  0.50000000  1
+  Cs  Cs2  1  0.00000000  0.00000000  0.50000000  1
+  Na  Na3  1  0.50000000  0.50000000  0.00000000  1
+  Th  Th4  1  0.83251946  0.16748054  1.00000000  1
+  Th  Th5  1  0.16748054  0.83251946  0.00000000  1
+  Te  Te6  1  0.78911056  0.78911056  0.19045143  1
+  Te  Te7  1  0.21088944  0.21088944  0.80954857  1
+  Te  Te8  1  0.43494066  0.07948002  0.19722713  1
+  Te  Te9  1  0.56505934  0.92051998  0.80277287  1
+  Te  Te10  1  0.92051998  0.56505934  0.80277287  1
+  Te  Te11  1  0.07948002  0.43494066  0.19722713  1

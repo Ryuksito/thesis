@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Ba4Sr(BeAs)10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.00416416
+_cell_length_b   9.00464521
+_cell_length_c   9.00448649
+_cell_angle_alpha   122.62540173
+_cell_angle_beta   122.62150378
+_cell_angle_gamma   85.51472307
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4Sr(BeAs)10
+_chemical_formula_sum   'Ba4 Sr1 Be10 As10'
+_cell_volume   494.11295184
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.39781192  0.80095132  0.19877436  1
+  Ba  Ba1  1  0.80108162  0.60203763  0.40313968  1
+  Ba  Ba2  1  0.19892456  0.39796935  0.59686022  1
+  Ba  Ba3  1  0.60218788  0.19905549  0.80122948  1
+  Sr  Sr4  1  0.99999993  0.00000118  0.00000140  1
+  Be  Be5  1  0.94817911  0.64816014  0.09955187  1
+  Be  Be6  1  0.35194310  0.45143823  0.29999193  1
+  Be  Be7  1  0.74871461  0.24871531  0.50001672  1
+  Be  Be8  1  0.15143807  0.05197113  0.70002046  1
+  Be  Be9  1  0.54858226  0.84856873  0.90050688  1
+  Be  Be10  1  0.64805420  0.54855879  0.70000431  1
+  Be  Be11  1  0.05181835  0.35183875  0.90044380  1
+  Be  Be12  1  0.45141946  0.15143045  0.09948796  1
+  Be  Be13  1  0.84855676  0.94802621  0.29998000  1
+  Be  Be14  1  0.25128823  0.75128419  0.49997356  1
+  As  As15  1  0.94714804  0.55183150  0.80092471  1
+  As  As16  1  0.35038444  0.35056154  0.99994631  1
+  As  As17  1  0.75090998  0.14624235  0.19910618  1
+  As  As18  1  0.14633742  0.94771142  0.39531824  1
+  As  As19  1  0.55241232  0.75102851  0.60477927  1
+  As  As20  1  0.64960889  0.64943483  0.00005191  1
+  As  As21  1  0.05283281  0.44814874  0.19905320  1
+  As  As22  1  0.44760949  0.24898731  0.39525128  1
+  As  As23  1  0.85365394  0.05229043  0.60469251  1
+  As  As24  1  0.24910162  0.85375445  0.80089175  1

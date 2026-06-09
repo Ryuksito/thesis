@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_K4Sr2SiAs4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.13699526
+_cell_length_b   10.13699472
+_cell_length_c   7.66399816
+_cell_angle_alpha   88.41575999
+_cell_angle_beta   88.41575738
+_cell_angle_gamma   119.26314408
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K4Sr2SiAs4
+_chemical_formula_sum   'K8 Sr4 Si2 As8'
+_cell_volume   686.01109627
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.04823139  0.52129247  0.61026802  1
+  K  K1  1  0.52129247  0.04823139  0.11026802  1
+  K  K2  1  0.27511755  0.13470129  0.82790575  1
+  K  K3  1  0.86946129  0.72294612  0.77263797  1
+  K  K4  1  0.85971923  0.14982373  0.80578218  1
+  K  K5  1  0.72294612  0.86946129  0.27263797  1
+  K  K6  1  0.13470129  0.27511755  0.32790575  1
+  K  K7  1  0.14982373  0.85971923  0.30578218  1
+  Sr  Sr8  1  0.47550742  0.95089688  0.61017086  1
+  Sr  Sr9  1  0.47377110  0.52052660  0.61120616  1
+  Sr  Sr10  1  0.95089688  0.47550742  0.11017086  1
+  Sr  Sr11  1  0.52052660  0.47377110  0.11120616  1
+  Si  Si12  1  0.66670539  0.33711066  0.49810158  1
+  Si  Si13  1  0.33711066  0.66670539  0.99810158  1
+  As  As14  1  0.66271209  0.34373688  0.81477990  1
+  As  As15  1  0.34373688  0.66271209  0.31477990  1
+  As  As16  1  0.59291979  0.78784703  0.87118684  1
+  As  As17  1  0.20861350  0.40526492  0.91580784  1
+  As  As18  1  0.20223432  0.79068938  0.89817089  1
+  As  As19  1  0.40526492  0.20861350  0.41580784  1
+  As  As20  1  0.78784703  0.59291979  0.37118684  1
+  As  As21  1  0.79068938  0.20223432  0.39817089  1

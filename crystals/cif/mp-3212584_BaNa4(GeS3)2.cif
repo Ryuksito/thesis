@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BaNa4(GeS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.96056270
+_cell_length_b   6.96056286
+_cell_length_c   7.79964417
+_cell_angle_alpha   81.29796867
+_cell_angle_beta   81.29796552
+_cell_angle_gamma   119.80349052
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNa4(GeS3)2
+_chemical_formula_sum   'Ba1 Na4 Ge2 S6'
+_cell_volume   312.62790144
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.33351781  0.66648219  0.50000000  1
+  Na  Na1  1  0.82735229  0.17264771  1.00000000  1
+  Na  Na2  1  0.17312435  0.82687565  0.00000000  1
+  Na  Na3  1  0.49805115  0.50194885  0.00000000  1
+  Na  Na4  1  0.66589613  0.33410387  0.50000000  1
+  Ge  Ge5  1  0.05348113  0.05300677  0.33616285  1
+  Ge  Ge6  1  0.94699323  0.94651887  0.66383715  1
+  S  S7  1  0.06932265  0.38131561  0.24103616  1
+  S  S8  1  0.39750991  0.10201665  0.24127202  1
+  S  S9  1  0.89798335  0.60249009  0.75872798  1
+  S  S10  1  0.61868439  0.93067735  0.75896384  1
+  S  S11  1  0.79125387  0.77317126  0.24370025  1
+  S  S12  1  0.22682874  0.20874613  0.75629975  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Na4Si12(As3P)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.61247877
+_cell_length_b   10.07867041
+_cell_length_c   17.86049256
+_cell_angle_alpha   89.57212144
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4Si12(As3P)3
+_chemical_formula_sum   'Na4 Si12 As9 P3'
+_cell_volume   650.26423444
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.34771247  0.29148161  1
+  Na  Na1  1  0.00000000  0.64939611  0.70964243  1
+  Na  Na2  1  0.00000000  0.14965661  0.79058659  1
+  Na  Na3  1  0.00000000  0.84326990  0.20414155  1
+  Si  Si4  1  0.50000000  0.40314555  0.03631781  1
+  Si  Si5  1  0.50000000  0.59601300  0.96394880  1
+  Si  Si6  1  0.50000000  0.09655058  0.53940176  1
+  Si  Si7  1  0.50000000  0.90598835  0.46721626  1
+  Si  Si8  1  0.00000000  0.11222092  0.01286513  1
+  Si  Si9  1  0.00000000  0.88814243  0.98649099  1
+  Si  Si10  1  0.00000000  0.38825932  0.51317983  1
+  Si  Si11  1  0.00000000  0.61281364  0.48599145  1
+  Si  Si12  1  0.00000000  0.17874788  0.13760879  1
+  Si  Si13  1  0.00000000  0.81970437  0.86209280  1
+  Si  Si14  1  0.00000000  0.32159447  0.63857501  1
+  Si  Si15  1  0.00000000  0.68003821  0.36072331  1
+  As  As16  1  0.50000000  0.11393327  0.21216871  1
+  As  As17  1  0.50000000  0.88329504  0.78719005  1
+  As  As18  1  0.50000000  0.38462907  0.71313042  1
+  As  As19  1  0.50000000  0.61487489  0.28677579  1
+  As  As20  1  0.50000000  0.28182169  0.45177378  1
+  As  As21  1  0.50000000  0.71506452  0.54964707  1
+  As  As22  1  0.50000000  0.21820395  0.95034461  1
+  As  As23  1  0.50000000  0.78204525  0.04902882  1
+  As  As24  1  0.00000000  0.91671637  0.38242757  1
+  P  P25  1  0.00000000  0.40312538  0.11396407  1
+  P  P26  1  0.00000000  0.59566457  0.88637539  1
+  P  P27  1  0.00000000  0.09737220  0.61690860  1

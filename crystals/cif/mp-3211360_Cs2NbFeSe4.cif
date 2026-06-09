@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cs2NbFeSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.94214750
+_cell_length_b   13.32281404
+_cell_length_c   7.92556051
+_cell_angle_alpha   85.37070597
+_cell_angle_beta   62.71257179
+_cell_angle_gamma   31.91672101
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2NbFeSe4
+_chemical_formula_sum   'Cs4 Nb2 Fe2 Se8'
+_cell_volume   559.22166046
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.57300591  0.57300591  0.92699409  1
+  Cs  Cs1  1  0.92699409  0.92699409  0.57300591  1
+  Cs  Cs2  1  0.67699409  0.67699409  0.32300591  1
+  Cs  Cs3  1  0.32300591  0.32300591  0.67699409  1
+  Nb  Nb4  1  0.50000000  0.50000000  0.50000000  1
+  Nb  Nb5  1  0.75000000  0.75000000  0.75000000  1
+  Fe  Fe6  1  0.25000000  0.25000000  0.25000000  1
+  Fe  Fe7  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se8  1  0.20770281  0.89824047  0.60345708  1
+  Se  Se9  1  0.29059964  0.60345708  0.89824047  1
+  Se  Se10  1  0.60345708  0.29059964  0.20770281  1
+  Se  Se11  1  0.89824047  0.20770281  0.29059964  1
+  Se  Se12  1  0.64654292  0.95940036  0.04229719  1
+  Se  Se13  1  0.35175953  0.04229719  0.95940036  1
+  Se  Se14  1  0.95940036  0.64654292  0.35175953  1
+  Se  Se15  1  0.04229719  0.35175953  0.64654292  1

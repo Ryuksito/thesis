@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_DyY5NpO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.51568487
+_cell_length_b   6.51808050
+_cell_length_c   6.51936485
+_cell_angle_alpha   98.95222727
+_cell_angle_beta   98.94709858
+_cell_angle_gamma   98.92547926
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyY5NpO12
+_chemical_formula_sum   'Dy1 Y5 Np1 O12'
+_cell_volume   265.57244452
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.38990734  0.67983211  0.85485585  1
+  Y  Y1  1  0.85503777  0.39078865  0.68057122  1
+  Y  Y2  1  0.68037545  0.85516819  0.39048718  1
+  Y  Y3  1  0.60932560  0.31971691  0.14493850  1
+  Y  Y4  1  0.14499506  0.60942704  0.31964464  1
+  Y  Y5  1  0.31932768  0.14459623  0.60940833  1
+  Np  Np6  1  0.99998754  0.99991468  0.99984279  1
+  O  O7  1  0.17720383  0.42884214  0.58945874  1
+  O  O8  1  0.58891519  0.17720121  0.42858346  1
+  O  O9  1  0.42879386  0.58899801  0.17754129  1
+  O  O10  1  0.82302328  0.57142005  0.41106468  1
+  O  O11  1  0.41122902  0.82310122  0.57148536  1
+  O  O12  1  0.57094061  0.41175907  0.82295025  1
+  O  O13  1  0.92411408  0.04491269  0.69229167  1
+  O  O14  1  0.95496742  0.30754211  0.07603721  1
+  O  O15  1  0.30760585  0.07617027  0.95527729  1
+  O  O16  1  0.07612010  0.95518826  0.30754165  1
+  O  O17  1  0.04569386  0.69205803  0.92392927  1
+  O  O18  1  0.69243749  0.92336311  0.04409162  1

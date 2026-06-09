@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LiCeH6Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01772246
+_cell_length_b   5.02329323
+_cell_length_c   5.01788208
+_cell_angle_alpha   59.85227258
+_cell_angle_beta   59.79326836
+_cell_angle_gamma   59.86093119
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCeH6Ru
+_chemical_formula_sum   'Li1 Ce1 H6 Ru1'
+_cell_volume   89.09959071
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.74746578  0.74881666  0.74729954  1
+  Ce  Ce1  1  0.24917895  0.25026796  0.24915304  1
+  H  H2  1  0.24013837  0.75947220  0.24022995  1
+  H  H3  1  0.75965632  0.76083985  0.24252684  1
+  H  H4  1  0.75894856  0.23904066  0.24133568  1
+  H  H5  1  0.24246154  0.76088468  0.75970729  1
+  H  H6  1  0.76048912  0.24131611  0.76045396  1
+  H  H7  1  0.24131749  0.23912414  0.75890820  1
+  Ru  Ru8  1  0.00034388  0.00023374  0.00038550  1

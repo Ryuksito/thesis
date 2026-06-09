@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na16TiSnP8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.52223937
+_cell_length_b   9.52224000
+_cell_length_c   9.52224009
+_cell_angle_alpha   60.00000306
+_cell_angle_beta   60.00000089
+_cell_angle_gamma   59.99999887
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na16TiSnP8
+_chemical_formula_sum   'Na16 Ti1 Sn1 P8'
+_cell_volume   610.52345991
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.62419432  0.62419432  0.12741705  1
+  Na  Na1  1  0.62419432  0.12741705  0.62419432  1
+  Na  Na2  1  0.12741705  0.62419432  0.62419432  1
+  Na  Na3  1  0.62419432  0.62419432  0.62419432  1
+  Na  Na4  1  0.03095450  0.46904550  0.46904550  1
+  Na  Na5  1  0.77500560  0.22499440  0.22499440  1
+  Na  Na6  1  0.46904550  0.03095450  0.46904550  1
+  Na  Na7  1  0.46904550  0.46904550  0.03095450  1
+  Na  Na8  1  0.03095450  0.03095450  0.46904550  1
+  Na  Na9  1  0.03095450  0.46904550  0.03095450  1
+  Na  Na10  1  0.46904550  0.03095450  0.03095450  1
+  Na  Na11  1  0.77500560  0.22499440  0.77500560  1
+  Na  Na12  1  0.22499440  0.77500560  0.22499440  1
+  Na  Na13  1  0.22499440  0.22499440  0.77500560  1
+  Na  Na14  1  0.77500560  0.77500560  0.22499440  1
+  Na  Na15  1  0.22499440  0.77500560  0.77500560  1
+  Ti  Ti16  1  0.50000000  0.50000000  0.50000000  1
+  Sn  Sn17  1  0.75000000  0.75000000  0.75000000  1
+  P  P18  1  0.85929941  0.85929941  0.42210476  1
+  P  P19  1  0.85929941  0.42210476  0.85929941  1
+  P  P20  1  0.39652978  0.39652978  0.81040865  1
+  P  P21  1  0.39652978  0.81040865  0.39652978  1
+  P  P22  1  0.81040865  0.39652978  0.39652978  1
+  P  P23  1  0.85929941  0.85929941  0.85929941  1
+  P  P24  1  0.42210476  0.85929941  0.85929941  1
+  P  P25  1  0.39652978  0.39652978  0.39652978  1

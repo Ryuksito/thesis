@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CsPuF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.14021267
+_cell_length_b   8.14021245
+_cell_length_c   8.14021281
+_cell_angle_alpha   29.97690666
+_cell_angle_beta   29.97690892
+_cell_angle_gamma   29.97690863
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsPuF4
+_chemical_formula_sum   'Cs1 Pu1 F4'
+_cell_volume   119.27587576
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.50000000  0.50000000  0.50000000  1
+  Pu  Pu1  1  0.00000000  0.00000000  0.00000000  1
+  F  F2  1  0.64820631  0.64820631  0.64820631  1
+  F  F3  1  0.35179369  0.35179369  0.35179369  1
+  F  F4  1  0.09614157  0.09614157  0.09614157  1
+  F  F5  1  0.90385843  0.90385843  0.90385843  1

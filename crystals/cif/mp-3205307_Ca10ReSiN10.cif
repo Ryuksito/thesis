@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ca10ReSiN10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80872777
+_cell_length_b   6.80872679
+_cell_length_c   8.79359131
+_cell_angle_alpha   81.08835407
+_cell_angle_beta   81.08835601
+_cell_angle_gamma   59.78909944
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca10ReSiN10
+_chemical_formula_sum   'Ca10 Re1 Si1 N10'
+_cell_volume   346.62153971
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.88580103  0.35238954  0.83443438  1
+  Ca  Ca1  1  0.87787933  0.87787933  0.82077075  1
+  Ca  Ca2  1  0.73959529  0.73959529  0.54248429  1
+  Ca  Ca3  1  0.74289990  0.24978640  0.51763459  1
+  Ca  Ca4  1  0.62644498  0.13588723  0.13741143  1
+  Ca  Ca5  1  0.35238954  0.88580103  0.83443438  1
+  Ca  Ca6  1  0.24978640  0.74289990  0.51763459  1
+  Ca  Ca7  1  0.24315144  0.24315144  0.50351378  1
+  Ca  Ca8  1  0.14225088  0.14225088  0.15636246  1
+  Ca  Ca9  1  0.13588723  0.62644498  0.13741143  1
+  Re  Re10  1  0.63298874  0.63298874  0.22871743  1
+  Si  Si11  1  0.36810792  0.36810792  0.76781227  1
+  N  N12  1  0.90707632  0.47263015  0.31921236  1
+  N  N13  1  0.99639276  0.99639276  0.01914452  1
+  N  N14  1  0.68460091  0.68460091  0.02279873  1
+  N  N15  1  0.52485305  0.52485305  0.70430886  1
+  N  N16  1  0.47263015  0.90707632  0.31921236  1
+  N  N17  1  0.53197637  0.09512890  0.67864639  1
+  N  N18  1  0.47437063  0.47437063  0.28808141  1
+  N  N19  1  0.31604545  0.31604545  0.96885302  1
+  N  N20  1  0.06202879  0.06202879  0.64828018  1
+  N  N21  1  0.09512890  0.53197637  0.67864639  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Rb2Zn(HgSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.79212868
+_cell_length_b   9.79212871
+_cell_length_c   9.79212940
+_cell_angle_alpha   141.36679752
+_cell_angle_beta   108.36378598
+_cell_angle_gamma   84.47914119
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Zn(HgSe2)2
+_chemical_formula_sum   'Rb4 Zn2 Hg4 Se8'
+_cell_volume   538.25378156
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.12566541  0.77303602  0.89870243  1
+  Rb  Rb1  1  0.87433459  0.22696398  0.10129757  1
+  Rb  Rb2  1  0.62566541  0.72696398  0.35262939  1
+  Rb  Rb3  1  0.37433459  0.27303602  0.64737061  1
+  Zn  Zn4  1  0.25000000  0.75000000  0.50000000  1
+  Zn  Zn5  1  0.75000000  0.25000000  0.50000000  1
+  Hg  Hg6  1  0.91442398  0.75000000  0.16442398  1
+  Hg  Hg7  1  0.58557602  0.75000000  0.83557602  1
+  Hg  Hg8  1  0.08557602  0.25000000  0.83557602  1
+  Hg  Hg9  1  0.41442398  0.25000000  0.16442398  1
+  Se  Se10  1  0.23463262  0.65263289  0.17174555  1
+  Se  Se11  1  0.48088735  0.06288707  0.82825445  1
+  Se  Se12  1  0.01911265  0.84736711  0.58199873  1
+  Se  Se13  1  0.26536738  0.43711293  0.41800127  1
+  Se  Se14  1  0.76536738  0.34736711  0.82825445  1
+  Se  Se15  1  0.51911265  0.93711293  0.17174555  1
+  Se  Se16  1  0.98088735  0.15263289  0.41800127  1
+  Se  Se17  1  0.73463262  0.56288707  0.58199873  1

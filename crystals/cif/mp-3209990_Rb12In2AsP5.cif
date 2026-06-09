@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Rb12In2AsP5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.30150539
+_cell_length_b   9.28630173
+_cell_length_c   10.42889799
+_cell_angle_alpha   81.91826475
+_cell_angle_beta   106.98192851
+_cell_angle_gamma   119.51453485
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb12In2AsP5
+_chemical_formula_sum   'Rb12 In2 As1 P5'
+_cell_volume   749.72782954
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.73541148  0.12575558  0.61732691  1
+  Rb  Rb1  1  0.25399889  0.85727786  0.39264683  1
+  Rb  Rb2  1  0.96625843  0.81722877  0.62781817  1
+  Rb  Rb3  1  0.02723951  0.20031722  0.39527644  1
+  Rb  Rb4  1  0.62682237  0.44518488  0.39963994  1
+  Rb  Rb5  1  0.40644212  0.56877815  0.59557257  1
+  Rb  Rb6  1  0.86310438  0.48620164  0.13194456  1
+  Rb  Rb7  1  0.10877071  0.50316516  0.84150392  1
+  Rb  Rb8  1  0.75687919  0.09577539  0.98570925  1
+  Rb  Rb9  1  0.23899769  0.87339135  0.00424955  1
+  Rb  Rb10  1  0.55667078  0.61723488  0.94913765  1
+  Rb  Rb11  1  0.24237329  0.19994475  0.11067095  1
+  In  In12  1  0.59311353  0.83415554  0.25745905  1
+  In  In13  1  0.41915307  0.17607041  0.75031436  1
+  As  As14  1  0.29576803  0.55828409  0.22775848  1
+  P  P15  1  0.70522498  0.43281505  0.76218207  1
+  P  P16  1  0.60026762  0.11076484  0.26123020  1
+  P  P17  1  0.38835735  0.88549333  0.74053402  1
+  P  P18  1  0.85779762  0.82445594  0.24715694  1
+  P  P19  1  0.16672697  0.20444618  0.76324811  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb4MnZnTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.00645857
+_cell_length_b   9.00645934
+_cell_length_c   9.00645793
+_cell_angle_alpha   133.78775401
+_cell_angle_beta   129.81085505
+_cell_angle_gamma   70.59495751
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb4MnZnTe4
+_chemical_formula_sum   'Rb4 Mn1 Zn1 Te4'
+_cell_volume   396.96252048
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.46587460  0.14155826  0.32142661  1
+  Rb  Rb1  1  0.82013165  0.64444799  0.17857339  1
+  Rb  Rb2  1  0.53412540  0.85555201  0.67568366  1
+  Rb  Rb3  1  0.17986835  0.35844174  0.82431634  1
+  Mn  Mn4  1  0.00000000  0.25000000  0.25000000  1
+  Zn  Zn5  1  0.00000000  0.75000000  0.75000000  1
+  Te  Te6  1  0.08415679  0.89124955  0.18240115  1
+  Te  Te7  1  0.91584321  0.09824436  0.80709175  1
+  Te  Te8  1  0.29115161  0.60875045  0.69290825  1
+  Te  Te9  1  0.70884839  0.40175564  0.31759885  1

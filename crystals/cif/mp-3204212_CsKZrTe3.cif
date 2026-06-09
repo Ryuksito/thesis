@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CsKZrTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.68996177
+_cell_length_b   6.99720262
+_cell_length_c   9.77696067
+_cell_angle_alpha   69.66387149
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsKZrTe3
+_chemical_formula_sum   'Cs4 K4 Zr4 Te12'
+_cell_volume   942.32127757
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.94922228  0.66626091  0.66407531  1
+  Cs  Cs1  1  0.44922228  0.83373909  0.33592469  1
+  Cs  Cs2  1  0.05077772  0.33373909  0.33592469  1
+  Cs  Cs3  1  0.55077772  0.16626091  0.66407531  1
+  K  K4  1  0.86430526  0.06040321  0.89701419  1
+  K  K5  1  0.36430526  0.43959679  0.10298581  1
+  K  K6  1  0.13569474  0.93959679  0.10298581  1
+  K  K7  1  0.63569474  0.56040321  0.89701419  1
+  Zr  Zr8  1  0.74921195  0.65501527  0.28377014  1
+  Zr  Zr9  1  0.24921195  0.84498473  0.71622986  1
+  Zr  Zr10  1  0.25078805  0.34498473  0.71622986  1
+  Zr  Zr11  1  0.75078805  0.15501527  0.28377014  1
+  Te  Te12  1  0.91094304  0.89204401  0.26014464  1
+  Te  Te13  1  0.41094304  0.60795599  0.73985536  1
+  Te  Te14  1  0.08905696  0.10795599  0.73985536  1
+  Te  Te15  1  0.58905696  0.39204401  0.26014464  1
+  Te  Te16  1  0.81322613  0.26784545  0.51849935  1
+  Te  Te17  1  0.31322613  0.23215455  0.48150065  1
+  Te  Te18  1  0.18677387  0.73215455  0.48150065  1
+  Te  Te19  1  0.68677387  0.76784545  0.51849935  1
+  Te  Te20  1  0.84392637  0.48453956  0.07190986  1
+  Te  Te21  1  0.34392637  0.01546044  0.92809014  1
+  Te  Te22  1  0.15607363  0.51546044  0.92809014  1
+  Te  Te23  1  0.65607363  0.98453956  0.07190986  1

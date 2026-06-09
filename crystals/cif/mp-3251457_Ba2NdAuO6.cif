@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2NdAuO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.05248618
+_cell_length_b   6.05248540
+_cell_length_c   6.04872054
+_cell_angle_alpha   119.85768956
+_cell_angle_beta   90.05557445
+_cell_angle_gamma   120.09882037
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2NdAuO6
+_chemical_formula_sum   'Ba2 Nd1 Au1 O6'
+_cell_volume   156.70714961
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.75046640  0.49977321  0.25023861  1
+  Ba  Ba1  1  0.24953360  0.50022579  0.74975939  1
+  Nd  Nd2  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au3  1  0.50000000  0.00000000  0.50000100  1
+  O  O4  1  0.26671649  0.97265811  0.23937361  1
+  O  O5  1  0.74732811  0.00059204  0.28047669  1
+  O  O6  1  0.27988465  0.53315058  0.28047769  1
+  O  O7  1  0.72011435  0.46685042  0.71952231  1
+  O  O8  1  0.25267189  0.99940896  0.71952331  1
+  O  O9  1  0.73328351  0.02734289  0.76062639  1

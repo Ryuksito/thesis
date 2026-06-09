@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_AlRe6As13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.58836424
+_cell_length_b   7.58836365
+_cell_length_c   7.58836473
+_cell_angle_alpha   109.45798737
+_cell_angle_beta   109.45798266
+_cell_angle_gamma   109.45797630
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlRe6As13
+_chemical_formula_sum   'Al1 Re6 As13'
+_cell_volume   336.53891779
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.33147811  0.33147811  0.33147811  1
+  Re  Re1  1  0.98996337  0.33992718  0.33992718  1
+  Re  Re2  1  0.00307809  0.66557903  0.66557903  1
+  Re  Re3  1  0.33992718  0.98996337  0.33992718  1
+  Re  Re4  1  0.33992718  0.33992718  0.98996337  1
+  Re  Re5  1  0.66557903  0.00307809  0.66557903  1
+  Re  Re6  1  0.66557903  0.66557903  0.00307809  1
+  As  As7  1  0.00011960  0.00011960  0.66129568  1
+  As  As8  1  0.66129568  0.00011960  0.00011960  1
+  As  As9  1  0.00011960  0.66129568  0.00011960  1
+  As  As10  1  0.66155301  0.66155301  0.66155301  1
+  As  As11  1  0.00833764  0.00833764  0.32493223  1
+  As  As12  1  0.00833764  0.32493223  0.00833764  1
+  As  As13  1  0.32493223  0.00833764  0.00833764  1
+  As  As14  1  0.50184140  0.74695511  0.25109080  1
+  As  As15  1  0.50184140  0.25109080  0.74695511  1
+  As  As16  1  0.25109080  0.50184140  0.74695511  1
+  As  As17  1  0.74695511  0.25109080  0.50184140  1
+  As  As18  1  0.74695511  0.50184140  0.25109080  1
+  As  As19  1  0.25109080  0.74695511  0.50184140  1

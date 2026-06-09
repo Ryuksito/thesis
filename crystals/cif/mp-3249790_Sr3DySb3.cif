@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr3DySb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.44276941
+_cell_length_b   8.44276960
+_cell_length_c   8.48873665
+_cell_angle_alpha   70.67430456
+_cell_angle_beta   70.67430639
+_cell_angle_gamma   108.91441592
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3DySb3
+_chemical_formula_sum   'Sr6 Dy2 Sb6'
+_cell_volume   470.59564750
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00092192  0.36556556  0.49429658  1
+  Sr  Sr1  1  0.49552633  0.49604933  0.14506105  1
+  Sr  Sr2  1  0.63927374  0.14165807  0.36199551  1
+  Sr  Sr3  1  0.36556556  0.00092192  0.99429658  1
+  Sr  Sr4  1  0.49604933  0.49552633  0.64506105  1
+  Sr  Sr5  1  0.14165807  0.63927374  0.86199551  1
+  Dy  Dy6  1  0.86334992  0.00146873  0.99638809  1
+  Dy  Dy7  1  0.00146873  0.86334992  0.49638809  1
+  Sb  Sb8  1  0.64916183  0.87619168  0.74714455  1
+  Sb  Sb9  1  0.87619168  0.64916183  0.24714455  1
+  Sb  Sb10  1  0.22530251  0.10913401  0.63481447  1
+  Sb  Sb11  1  0.75936935  0.37702602  0.87029875  1
+  Sb  Sb12  1  0.37702602  0.75936935  0.37029875  1
+  Sb  Sb13  1  0.10913401  0.22530251  0.13481447  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Zr3Ti(PN3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52244896
+_cell_length_b   6.52244888
+_cell_length_c   5.22834870
+_cell_angle_alpha   78.34376403
+_cell_angle_beta   78.34376836
+_cell_angle_gamma   83.28210862
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr3Ti(PN3)4
+_chemical_formula_sum   'Zr3 Ti1 P4 N12'
+_cell_volume   212.67317444
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.67814614  0.32185386  0.75000000  1
+  Zr  Zr1  1  0.90438391  0.09561609  0.25000000  1
+  Zr  Zr2  1  0.31926492  0.68073508  0.25000000  1
+  Ti  Ti3  1  0.10794920  0.89205080  0.75000000  1
+  P  P4  1  0.19538640  0.38376547  0.75589175  1
+  P  P5  1  0.38157244  0.19692435  0.25838848  1
+  P  P6  1  0.80307565  0.61842756  0.24161152  1
+  P  P7  1  0.61623453  0.80461360  0.74410825  1
+  N  N8  1  0.32457818  0.38360831  0.00116370  1
+  N  N9  1  0.01762232  0.22098652  0.83895233  1
+  N  N10  1  0.98897872  0.77456234  0.13871900  1
+  N  N11  1  0.38302408  0.33306650  0.49726301  1
+  N  N12  1  0.61465483  0.12202846  0.14004410  1
+  N  N13  1  0.37629249  0.87691268  0.85406661  1
+  N  N14  1  0.87797154  0.38534517  0.35995590  1
+  N  N15  1  0.66693350  0.61697592  0.00273699  1
+  N  N16  1  0.77901348  0.98237768  0.66104767  1
+  N  N17  1  0.12308732  0.62370751  0.64593339  1
+  N  N18  1  0.22543766  0.01102128  0.36128100  1
+  N  N19  1  0.61639169  0.67542182  0.49883630  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Tb5FeAsO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73294192
+_cell_length_b   6.73294208
+_cell_length_c   7.19893754
+_cell_angle_alpha   74.52576154
+_cell_angle_beta   74.52575970
+_cell_angle_gamma   50.50314437
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb5FeAsO12
+_chemical_formula_sum   'Tb5 Fe1 As1 O12'
+_cell_volume   240.62136418
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.30881844  0.30123799  0.35813899  1
+  Tb  Tb1  1  0.69876201  0.69118156  0.64186101  1
+  Tb  Tb2  1  0.30742393  0.30389493  0.83480643  1
+  Tb  Tb3  1  0.69610507  0.69257607  0.16519357  1
+  Tb  Tb4  1  0.00368772  0.99631228  0.50000000  1
+  Fe  Fe5  1  0.75180270  0.24819730  1.00000000  1
+  As  As6  1  0.23797066  0.76202934  0.00000000  1
+  O  O7  1  0.89777895  0.41483638  0.92347613  1
+  O  O8  1  0.41363894  0.89855601  0.92293160  1
+  O  O9  1  0.10144399  0.58636106  0.07706840  1
+  O  O10  1  0.58516362  0.10222105  0.07652387  1
+  O  O11  1  0.09957325  0.59354104  0.57686044  1
+  O  O12  1  0.60010990  0.09403989  0.57771810  1
+  O  O13  1  0.90596011  0.39989010  0.42228190  1
+  O  O14  1  0.40645896  0.90042675  0.42313956  1
+  O  O15  1  0.00555336  0.99616809  0.82694156  1
+  O  O16  1  0.00383191  0.99444664  0.17305844  1
+  O  O17  1  0.48780179  0.51188532  0.82681152  1
+  O  O18  1  0.48811468  0.51219821  0.17318848  1

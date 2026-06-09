@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr8P5Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.07829495
+_cell_length_b   8.07829545
+_cell_length_c   8.07829468
+_cell_angle_alpha   109.24539771
+_cell_angle_beta   109.24539697
+_cell_angle_gamma   109.92381288
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr8P5Au
+_chemical_formula_sum   'Sr8 P5 Au1'
+_cell_volume   405.80455755
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.74096482  0.36636364  0.24155992  1
+  Sr  Sr1  1  0.97725827  0.73434267  0.09346077  1
+  Sr  Sr2  1  0.64088390  0.88379850  0.90653923  1
+  Sr  Sr3  1  0.12480372  0.49940391  0.75844008  1
+  Sr  Sr4  1  0.63363636  0.87519628  0.37460219  1
+  Sr  Sr5  1  0.50059609  0.25903518  0.62539781  1
+  Sr  Sr6  1  0.26565733  0.35911610  0.24291461  1
+  Sr  Sr7  1  0.11620150  0.02274173  0.75708539  1
+  P  P8  1  0.74280730  0.63198885  0.61822834  1
+  P  P9  1  0.36801115  0.98623950  0.11081845  1
+  P  P10  1  0.01376050  0.12457995  0.38177166  1
+  P  P11  1  0.50000000  0.50000000  0.00000000  1
+  P  P12  1  0.87542005  0.25719270  0.88918155  1
+  Au  Au13  1  0.25000000  0.75000000  0.50000000  1

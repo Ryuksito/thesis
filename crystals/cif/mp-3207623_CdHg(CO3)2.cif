@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CdHg(CO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.21090799
+_cell_length_b   6.21090786
+_cell_length_c   6.21090816
+_cell_angle_alpha   47.57483982
+_cell_angle_beta   47.57484248
+_cell_angle_gamma   47.57483962
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdHg(CO3)2
+_chemical_formula_sum   'Cd1 Hg1 C2 O6'
+_cell_volume   119.48469009
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00000000  0.00000000  0.00000000  1
+  Hg  Hg1  1  0.50000000  0.50000000  0.50000000  1
+  C  C2  1  0.74853583  0.74853583  0.74853583  1
+  C  C3  1  0.25146417  0.25146417  0.25146417  1
+  O  O4  1  0.48600787  0.75871575  0.00090379  1
+  O  O5  1  0.75871575  0.00090379  0.48600787  1
+  O  O6  1  0.99909621  0.51399213  0.24128425  1
+  O  O7  1  0.51399213  0.24128425  0.99909621  1
+  O  O8  1  0.24128425  0.99909621  0.51399213  1
+  O  O9  1  0.00090379  0.48600787  0.75871575  1

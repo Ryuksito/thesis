@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KNa3(Ga2Te3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.57810374
+_cell_length_b   7.57810349
+_cell_length_c   9.16901969
+_cell_angle_alpha   82.00044854
+_cell_angle_beta   82.00044677
+_cell_angle_gamma   120.08815214
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNa3(Ga2Te3)2
+_chemical_formula_sum   'K1 Na3 Ga4 Te6'
+_cell_volume   437.55249998
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.50000000  0.50000000  1
+  Na  Na1  1  0.66223958  0.33776042  0.00000000  1
+  Na  Na2  1  0.33776042  0.66223958  1.00000000  1
+  Na  Na3  1  0.00000000  0.00000000  0.00000000  1
+  Ga  Ga4  1  0.87877340  0.21244995  0.36165121  1
+  Ga  Ga5  1  0.78755005  0.12122660  0.63834879  1
+  Ga  Ga6  1  0.21244995  0.87877340  0.36165121  1
+  Ga  Ga7  1  0.12122660  0.78755005  0.63834879  1
+  Te  Te8  1  0.41214924  0.05577247  0.76334185  1
+  Te  Te9  1  0.05577247  0.41214924  0.76334185  1
+  Te  Te10  1  0.94422753  0.58785076  0.23665815  1
+  Te  Te11  1  0.76768093  0.76768093  0.76401044  1
+  Te  Te12  1  0.58785076  0.94422753  0.23665815  1
+  Te  Te13  1  0.23231907  0.23231907  0.23598956  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ba2CuTcN4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94646959
+_cell_length_b   6.52462491
+_cell_length_c   7.71674870
+_cell_angle_alpha   68.74761118
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2CuTcN4
+_chemical_formula_sum   'Ba4 Cu2 Tc2 N8'
+_cell_volume   279.03690551
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25000000  0.26734286  0.05177967  1
+  Ba  Ba1  1  0.75000000  0.73265714  0.94822033  1
+  Ba  Ba2  1  0.75000000  0.82959451  0.41348992  1
+  Ba  Ba3  1  0.25000000  0.17040549  0.58651008  1
+  Cu  Cu4  1  0.75000000  0.35232603  0.39312805  1
+  Cu  Cu5  1  0.25000000  0.64767397  0.60687195  1
+  Tc  Tc6  1  0.25000000  0.69961553  0.21767835  1
+  Tc  Tc7  1  0.75000000  0.30038447  0.78232165  1
+  N  N8  1  0.50528376  0.47540301  0.73243682  1
+  N  N9  1  0.00528376  0.52459699  0.26756318  1
+  N  N10  1  0.49471624  0.52459699  0.26756318  1
+  N  N11  1  0.99471624  0.47540301  0.73243682  1
+  N  N12  1  0.75000000  0.12187155  0.63792179  1
+  N  N13  1  0.25000000  0.87812845  0.36207821  1
+  N  N14  1  0.75000000  0.13089572  0.02204659  1
+  N  N15  1  0.25000000  0.86910428  0.97795341  1

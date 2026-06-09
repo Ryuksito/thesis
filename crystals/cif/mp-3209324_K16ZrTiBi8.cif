@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_K16ZrTiBi8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.70370058
+_cell_length_b   11.70369598
+_cell_length_c   11.70362399
+_cell_angle_alpha   60.00248298
+_cell_angle_beta   60.00238283
+_cell_angle_gamma   60.00201147
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K16ZrTiBi8
+_chemical_formula_sum   'K16 Zr1 Ti1 Bi8'
+_cell_volume   1133.63740775
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.62385053  0.12845417  0.62385185  1
+  K  K1  1  0.62384162  0.62384162  0.12849372  1
+  K  K2  1  0.12845517  0.62384953  0.62384985  1
+  K  K3  1  0.62383874  0.62383874  0.62382192  1
+  K  K4  1  0.02758331  0.02758331  0.47241119  1
+  K  K5  1  0.77809634  0.22188873  0.22185511  1
+  K  K6  1  0.22189664  0.77809187  0.77816214  1
+  K  K7  1  0.77811850  0.77811950  0.22188803  1
+  K  K8  1  0.77809087  0.22189864  0.77815814  1
+  K  K9  1  0.22188573  0.77809834  0.22185511  1
+  K  K10  1  0.47247662  0.02754894  0.47240400  1
+  K  K11  1  0.47247328  0.02756557  0.02757217  1
+  K  K12  1  0.02754994  0.47247562  0.47240200  1
+  K  K13  1  0.02756757  0.47247128  0.02757317  1
+  K  K14  1  0.22181777  0.22181777  0.77819041  1
+  K  K15  1  0.47247505  0.47247305  0.02752165  1
+  Zr  Zr16  1  0.75000849  0.75000449  0.74998683  1
+  Ti  Ti17  1  0.49997834  0.49997934  0.50001293  1
+  Bi  Bi18  1  0.40090483  0.79726953  0.40090771  1
+  Bi  Bi19  1  0.85247682  0.85247682  0.44257693  1
+  Bi  Bi20  1  0.44258523  0.85247452  0.85247272  1
+  Bi  Bi21  1  0.85248514  0.85248514  0.85247016  1
+  Bi  Bi22  1  0.79726953  0.40090383  0.40090771  1
+  Bi  Bi23  1  0.40090118  0.40090218  0.40090525  1
+  Bi  Bi24  1  0.40090024  0.40090124  0.79727557  1
+  Bi  Bi25  1  0.85247552  0.44258623  0.85247272  1

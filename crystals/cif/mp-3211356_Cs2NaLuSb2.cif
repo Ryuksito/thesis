@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs2NaLuSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.24370191
+_cell_length_b   10.24370168
+_cell_length_c   10.24370153
+_cell_angle_alpha   136.65555590
+_cell_angle_beta   62.57302973
+_cell_angle_gamma   137.17026249
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2NaLuSb2
+_chemical_formula_sum   'Cs4 Na2 Lu2 Sb4'
+_cell_volume   495.44180069
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.32180560  0.77960361  0.10140821  1
+  Cs  Cs1  1  0.17819440  0.27960361  0.45779901  1
+  Cs  Cs2  1  0.82180560  0.72039639  0.54220199  1
+  Cs  Cs3  1  0.67819540  0.22039639  0.89859179  1
+  Na  Na4  1  0.75000000  0.25000000  0.50000000  1
+  Na  Na5  1  0.25000000  0.75000000  0.50000000  1
+  Lu  Lu6  1  0.25000000  0.25000000  0.00000000  1
+  Lu  Lu7  1  0.75000000  0.75000000  0.00000000  1
+  Sb  Sb8  1  0.90823087  0.22157761  0.12980848  1
+  Sb  Sb9  1  0.59176913  0.72157761  0.31334674  1
+  Sb  Sb10  1  0.40823087  0.27842239  0.68665426  1
+  Sb  Sb11  1  0.09176913  0.77842239  0.87019152  1

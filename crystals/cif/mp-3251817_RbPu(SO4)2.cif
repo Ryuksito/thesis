@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbPu(SO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13929263
+_cell_length_b   4.49398062
+_cell_length_c   10.09223254
+_cell_angle_alpha   62.19882652
+_cell_angle_beta   80.66683853
+_cell_angle_gamma   65.62089627
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbPu(SO4)2
+_chemical_formula_sum   'Rb1 Pu1 S2 O8'
+_cell_volume   187.66610202
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00001642  0.49999628  0.00000186  1
+  Pu  Pu1  1  0.00000436  0.99999838  0.50000857  1
+  S  S2  1  0.61319428  0.81082558  0.27572708  1
+  S  S3  1  0.38679440  0.18915844  0.72428508  1
+  O  O4  1  0.69391482  0.02089236  0.12901827  1
+  O  O5  1  0.64341058  0.45015349  0.29487695  1
+  O  O6  1  0.31431350  0.01249313  0.30264005  1
+  O  O7  1  0.80529101  0.71290258  0.39976097  1
+  O  O8  1  0.19467006  0.28710474  0.60022632  1
+  O  O9  1  0.68572634  0.98749723  0.69733640  1
+  O  O10  1  0.35656839  0.54990619  0.70512213  1
+  O  O11  1  0.30609384  0.97907261  0.87099531  1

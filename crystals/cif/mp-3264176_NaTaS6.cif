@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaTaS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42873485
+_cell_length_b   7.42873378
+_cell_length_c   7.18624312
+_cell_angle_alpha   86.11379524
+_cell_angle_beta   86.11379358
+_cell_angle_gamma   118.71498427
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTaS6
+_chemical_formula_sum   'Na2 Ta2 S12'
+_cell_volume   344.72061127
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.66335648  0.32566923  0.99394514  1
+  Na  Na1  1  0.32566923  0.66335648  0.49394514  1
+  Ta  Ta2  1  0.99125629  0.01973205  0.74196412  1
+  Ta  Ta3  1  0.01973205  0.99125629  0.24196412  1
+  S  S4  1  0.96444510  0.23972876  0.47612781  1
+  S  S5  1  0.23972876  0.96444510  0.97612781  1
+  S  S6  1  0.30081274  0.35988507  0.79495983  1
+  S  S7  1  0.35988507  0.30081274  0.29495983  1
+  S  S8  1  0.04452485  0.26421126  0.98552507  1
+  S  S9  1  0.26421126  0.04452485  0.48552507  1
+  S  S10  1  0.70425284  0.09294095  0.66818029  1
+  S  S11  1  0.09294095  0.70425284  0.16818029  1
+  S  S12  1  0.94778729  0.66826539  0.71195062  1
+  S  S13  1  0.66826539  0.94778729  0.21195062  1
+  S  S14  1  0.78097445  0.72963526  0.52472911  1
+  S  S15  1  0.72963526  0.78097445  0.02472911  1

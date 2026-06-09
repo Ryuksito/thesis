@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Li16TiSiAs8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.67846110
+_cell_length_b   8.67845621
+_cell_length_c   8.67844370
+_cell_angle_alpha   59.99906062
+_cell_angle_beta   59.99907052
+_cell_angle_gamma   59.99899430
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li16TiSiAs8
+_chemical_formula_sum   'Li16 Ti1 Si1 As8'
+_cell_volume   462.17091904
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.62911609  0.62911474  0.11266483  1
+  Li  Li1  1  0.62911459  0.11266521  0.62911566  1
+  Li  Li2  1  0.11266631  0.62911320  0.62911537  1
+  Li  Li3  1  0.62911138  0.62911185  0.62911020  1
+  Li  Li4  1  0.02477489  0.47524043  0.47523806  1
+  Li  Li5  1  0.76445728  0.23552049  0.23552139  1
+  Li  Li6  1  0.47523808  0.02477627  0.47523879  1
+  Li  Li7  1  0.47523753  0.47523938  0.02477646  1
+  Li  Li8  1  0.02477506  0.02477513  0.47520286  1
+  Li  Li9  1  0.02477586  0.47520318  0.02477632  1
+  Li  Li10  1  0.47520254  0.02477673  0.02477457  1
+  Li  Li11  1  0.76449782  0.23551063  0.76449366  1
+  Li  Li12  1  0.23552343  0.76445875  0.23551469  1
+  Li  Li13  1  0.23552008  0.23551841  0.76446083  1
+  Li  Li14  1  0.76449273  0.76449593  0.23551121  1
+  Li  Li15  1  0.23551223  0.76449368  0.76449461  1
+  Ti  Ti16  1  0.50000046  0.50000008  0.50000036  1
+  Si  Si17  1  0.74999024  0.74999032  0.74999086  1
+  As  As18  1  0.86172514  0.86172586  0.41483257  1
+  As  As19  1  0.86172419  0.41483318  0.86172631  1
+  As  As20  1  0.38622868  0.38623055  0.84132219  1
+  As  As21  1  0.38623077  0.84132008  0.38622938  1
+  As  As22  1  0.84132007  0.38623004  0.38623248  1
+  As  As23  1  0.86170744  0.86170662  0.86170679  1
+  As  As24  1  0.41483300  0.86172512  0.86172301  1
+  As  As25  1  0.38622508  0.38622515  0.38622754  1

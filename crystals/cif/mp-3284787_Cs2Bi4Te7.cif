@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Cs2Bi4Te7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.51943710
+_cell_length_b   14.21412859
+_cell_length_c   16.58654257
+_cell_angle_alpha   85.29027905
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Bi4Te7
+_chemical_formula_sum   'Cs4 Bi8 Te14'
+_cell_volume   1061.91942291
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.25000000  0.56967733  0.80953422  1
+  Cs  Cs1  1  0.75000000  0.43032267  0.19046578  1
+  Cs  Cs2  1  0.75000000  0.82665977  0.62397495  1
+  Cs  Cs3  1  0.25000000  0.17334023  0.37602505  1
+  Bi  Bi4  1  0.25000000  0.94789260  0.87962077  1
+  Bi  Bi5  1  0.75000000  0.05210740  0.12037923  1
+  Bi  Bi6  1  0.25000000  0.83113113  0.27352840  1
+  Bi  Bi7  1  0.75000000  0.16886887  0.72647160  1
+  Bi  Bi8  1  0.75000000  0.73081814  0.04976695  1
+  Bi  Bi9  1  0.25000000  0.26918186  0.95023305  1
+  Bi  Bi10  1  0.75000000  0.60758750  0.42873238  1
+  Bi  Bi11  1  0.25000000  0.39241250  0.57126762  1
+  Te  Te12  1  0.25000000  0.45833002  0.39111891  1
+  Te  Te13  1  0.75000000  0.54166998  0.60888109  1
+  Te  Te14  1  0.25000000  0.59300625  0.03625663  1
+  Te  Te15  1  0.75000000  0.40699375  0.96374337  1
+  Te  Te16  1  0.75000000  0.98599653  0.29761543  1
+  Te  Te17  1  0.25000000  0.01400347  0.70238457  1
+  Te  Te18  1  0.75000000  0.79646495  0.86354659  1
+  Te  Te19  1  0.25000000  0.20353505  0.13645341  1
+  Te  Te20  1  0.25000000  0.75791288  0.45250198  1
+  Te  Te21  1  0.75000000  0.24208712  0.54749802  1
+  Te  Te22  1  0.75000000  0.68900680  0.24084262  1
+  Te  Te23  1  0.25000000  0.31099320  0.75915738  1
+  Te  Te24  1  0.25000000  0.90203083  0.08221871  1
+  Te  Te25  1  0.75000000  0.09796917  0.91778129  1

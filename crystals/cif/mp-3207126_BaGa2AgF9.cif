@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_BaGa2AgF9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.29268826
+_cell_length_b   7.29268954
+_cell_length_c   7.77663229
+_cell_angle_alpha   89.25199164
+_cell_angle_beta   89.25199069
+_cell_angle_gamma   119.44068005
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaGa2AgF9
+_chemical_formula_sum   'Ba2 Ga4 Ag2 F18'
+_cell_volume   360.05776910
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.47376015  0.52623985  0.75000000  1
+  Ba  Ba1  1  0.52623985  0.47376015  0.25000000  1
+  Ga  Ga2  1  0.00000000  0.00000000  0.50000000  1
+  Ga  Ga3  1  0.00000000  0.00000000  0.00000000  1
+  Ga  Ga4  1  0.50000000  0.00000000  0.50000000  1
+  Ga  Ga5  1  0.00000000  0.50000000  0.00000000  1
+  Ag  Ag6  1  0.50000000  0.00000000  0.00000000  1
+  Ag  Ag7  1  0.00000000  0.50000000  0.50000000  1
+  F  F8  1  0.20340721  0.91307063  0.53811921  1
+  F  F9  1  0.79659279  0.08692937  0.46188079  1
+  F  F10  1  0.08692937  0.79659279  0.96188079  1
+  F  F11  1  0.91307063  0.20340721  0.03811921  1
+  F  F12  1  0.97915801  0.02084199  0.75000000  1
+  F  F13  1  0.02084199  0.97915801  0.25000000  1
+  F  F14  1  0.51639532  0.91202959  0.72327633  1
+  F  F15  1  0.48360468  0.08797041  0.27672367  1
+  F  F16  1  0.08797041  0.48360468  0.77672367  1
+  F  F17  1  0.91202959  0.51639532  0.22327633  1
+  F  F18  1  0.58056826  0.27814503  0.56413978  1
+  F  F19  1  0.41943174  0.72185497  0.43586022  1
+  F  F20  1  0.72185497  0.41943174  0.93586022  1
+  F  F21  1  0.27814503  0.58056826  0.06413978  1
+  F  F22  1  0.71777375  0.79128500  0.01183605  1
+  F  F23  1  0.28222625  0.20871500  0.98816395  1
+  F  F24  1  0.20871500  0.28222625  0.48816395  1
+  F  F25  1  0.79128500  0.71777375  0.51183605  1

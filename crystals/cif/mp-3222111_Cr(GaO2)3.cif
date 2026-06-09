@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cr(GaO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32981006
+_cell_length_b   6.32981043
+_cell_length_c   5.81523539
+_cell_angle_alpha   76.92002091
+_cell_angle_beta   76.92001923
+_cell_angle_gamma   27.84190674
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr(GaO2)3
+_chemical_formula_sum   'Cr1 Ga3 O6'
+_cell_volume   105.81784206
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.65950889  0.65950889  0.67719361  1
+  Ga  Ga1  1  0.34198585  0.34198585  0.31551417  1
+  Ga  Ga2  1  0.09079519  0.09079519  0.20189514  1
+  Ga  Ga3  1  0.90882370  0.90882370  0.79747651  1
+  O  O4  1  0.49518136  0.49518136  0.74910682  1
+  O  O5  1  0.50401177  0.50401177  0.25831843  1
+  O  O6  1  0.17322737  0.17322737  0.43650437  1
+  O  O7  1  0.82698075  0.82698075  0.56357639  1
+  O  O8  1  0.83468607  0.83468607  0.11153516  1
+  O  O9  1  0.16479904  0.16479904  0.88887941  1

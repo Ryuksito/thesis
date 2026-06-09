@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Sr14Sn2GeAs12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.50970993
+_cell_length_b   9.51014588
+_cell_length_c   9.51041052
+_cell_angle_alpha   86.98480392
+_cell_angle_beta   86.98552389
+_cell_angle_gamma   86.98175977
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr14Sn2GeAs12
+_chemical_formula_sum   'Sr14 Sn2 Ge1 As12'
+_cell_volume   856.65626152
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.41365125  0.26826958  0.77402441  1
+  Sr  Sr1  1  0.77400646  0.41365970  0.26829763  1
+  Sr  Sr2  1  0.26828225  0.77401159  0.41365280  1
+  Sr  Sr3  1  0.98248767  0.54168703  0.65248844  1
+  Sr  Sr4  1  0.65249890  0.98249934  0.54165218  1
+  Sr  Sr5  1  0.54167904  0.65249584  0.98249939  1
+  Sr  Sr6  1  0.17736099  0.53503409  0.02130801  1
+  Sr  Sr7  1  0.02131339  0.17736743  0.53503296  1
+  Sr  Sr8  1  0.53504009  0.02131322  0.17733092  1
+  Sr  Sr9  1  0.76693216  0.25894193  0.91030868  1
+  Sr  Sr10  1  0.91031123  0.76695235  0.25893564  1
+  Sr  Sr11  1  0.25894338  0.91030432  0.76693105  1
+  Sr  Sr12  1  0.18537790  0.18536944  0.18537228  1
+  Sr  Sr13  1  0.40042327  0.40042216  0.40043051  1
+  Sn  Sn14  1  0.84660507  0.84658076  0.84658510  1
+  Sn  Sn15  1  0.60738175  0.60737176  0.60738797  1
+  Ge  Ge16  1  0.00430965  0.00430040  0.00429811  1
+  As  As17  1  0.70264068  0.32824027  0.58629821  1
+  As  As18  1  0.58625891  0.70265531  0.32827414  1
+  As  As19  1  0.32825104  0.58627024  0.70269390  1
+  As  As20  1  0.59056114  0.96779937  0.86279235  1
+  As  As21  1  0.86278181  0.59057931  0.96781676  1
+  As  As22  1  0.96783330  0.86280308  0.59056438  1
+  As  As23  1  0.47448273  0.34271237  0.08395435  1
+  As  As24  1  0.08395926  0.47447289  0.34271865  1
+  As  As25  1  0.34271319  0.08395790  0.47447234  1
+  As  As26  1  0.09615327  0.21180227  0.86067204  1
+  As  As27  1  0.86063864  0.09618047  0.21181319  1
+  As  As28  1  0.21184760  0.86067858  0.09612057  1

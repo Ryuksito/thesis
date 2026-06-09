@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Rb2TaAgTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   15.17094484
+_cell_length_b   13.58885759
+_cell_length_c   8.12463459
+_cell_angle_alpha   84.67058028
+_cell_angle_beta   63.10587458
+_cell_angle_gamma   32.22354855
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2TaAgTe4
+_chemical_formula_sum   'Rb4 Ta2 Ag2 Te8'
+_cell_volume   631.54968423
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.43111451  0.43111451  0.06888549  1
+  Rb  Rb1  1  0.81888549  0.81888549  0.18111451  1
+  Rb  Rb2  1  0.06888549  0.06888549  0.43111451  1
+  Rb  Rb3  1  0.18111451  0.18111451  0.81888549  1
+  Ta  Ta4  1  0.00000000  0.00000000  0.00000000  1
+  Ta  Ta5  1  0.25000000  0.25000000  0.25000000  1
+  Ag  Ag6  1  0.50000000  0.50000000  0.50000000  1
+  Ag  Ag7  1  0.75000000  0.75000000  0.75000000  1
+  Te  Te8  1  0.72739442  0.38953150  0.06517374  1
+  Te  Te9  1  0.81789834  0.06517374  0.38953150  1
+  Te  Te10  1  0.06517374  0.81789834  0.72739442  1
+  Te  Te11  1  0.38953150  0.72739442  0.81789834  1
+  Te  Te12  1  0.52260558  0.86046850  0.18482626  1
+  Te  Te13  1  0.86046850  0.52260558  0.43210166  1
+  Te  Te14  1  0.18482626  0.43210166  0.52260558  1
+  Te  Te15  1  0.43210166  0.18482626  0.86046850  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoNb(SnPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41499701
+_cell_length_b   4.51892731
+_cell_length_c   9.05415566
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoNb(SnPt)2
+_chemical_formula_sum   'Ho2 Nb2 Sn4 Pt4'
+_cell_volume   262.47006003
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00408254  0.00000000  0.37637184  1
+  Ho  Ho1  1  0.50408354  0.50000100  0.62362916  1
+  Nb  Nb2  1  0.49629969  0.50000100  0.12350213  1
+  Nb  Nb3  1  0.99630069  0.00000000  0.87649687  1
+  Sn  Sn4  1  0.98638547  0.50000100  0.12461082  1
+  Sn  Sn5  1  0.51060992  0.00000000  0.37226730  1
+  Sn  Sn6  1  0.01060992  0.50000100  0.62773470  1
+  Sn  Sn7  1  0.48638647  0.00000000  0.87539118  1
+  Pt  Pt8  1  0.73665102  0.00000000  0.11216605  1
+  Pt  Pt9  1  0.26596836  0.50000100  0.35774548  1
+  Pt  Pt10  1  0.76596936  0.00000000  0.64225552  1
+  Pt  Pt11  1  0.23665102  0.50000100  0.88783495  1

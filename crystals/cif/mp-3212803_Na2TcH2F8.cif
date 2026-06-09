@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Na2TcH2F8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45305833
+_cell_length_b   5.45368702
+_cell_length_c   5.45368384
+_cell_angle_alpha   95.77444031
+_cell_angle_beta   106.06444898
+_cell_angle_gamma   106.06467705
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2TcH2F8
+_chemical_formula_sum   'Na2 Tc1 H2 F8'
+_cell_volume   146.98619862
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.49999900  0.73034016  0.26965784  1
+  Na  Na1  1  0.49999900  0.26965784  0.73034016  1
+  Tc  Tc2  1  0.00000000  0.00000000  0.00000000  1
+  H  H3  1  0.77642078  0.35358126  0.35358026  1
+  H  H4  1  0.22357922  0.64641974  0.64642074  1
+  F  F5  1  0.76180075  0.66374986  0.00363712  1
+  F  F6  1  0.77060480  0.14752152  0.14751952  1
+  F  F7  1  0.23819825  0.99636488  0.33625114  1
+  F  F8  1  0.73695078  0.47079840  0.47079740  1
+  F  F9  1  0.26304922  0.52920160  0.52920260  1
+  F  F10  1  0.76180175  0.00363612  0.66374986  1
+  F  F11  1  0.22939520  0.85247748  0.85247948  1
+  F  F12  1  0.23819925  0.33625114  0.99636388  1

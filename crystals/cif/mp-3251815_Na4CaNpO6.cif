@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na4CaNpO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81497808
+_cell_length_b   5.81497184
+_cell_length_c   5.75575112
+_cell_angle_alpha   99.93683984
+_cell_angle_beta   99.93707541
+_cell_angle_gamma   119.89380106
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4CaNpO6
+_chemical_formula_sum   'Na4 Ca1 Np1 O6'
+_cell_volume   158.39663055
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.49984436  0.50015664  1.00000000  1
+  Na  Na1  1  0.99943452  0.00056448  0.50000000  1
+  Na  Na2  1  0.66025617  0.33974383  0.50000000  1
+  Na  Na3  1  0.34092050  0.65907950  0.50000000  1
+  Ca  Ca4  1  0.83352779  0.16647421  0.00000000  1
+  Np  Np5  1  0.16704386  0.83295714  0.00000100  1
+  O  O6  1  0.54101241  0.91646719  0.22173401  1
+  O  O7  1  0.95065742  0.60873861  0.21287930  1
+  O  O8  1  0.23143708  0.19892631  0.22155471  1
+  O  O9  1  0.80107269  0.76856092  0.77844629  1
+  O  O10  1  0.39126139  0.04934558  0.78712070  1
+  O  O11  1  0.08353581  0.45898959  0.77826699  1

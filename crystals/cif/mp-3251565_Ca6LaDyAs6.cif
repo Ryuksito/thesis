@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ca6LaDyAs6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.77966823
+_cell_length_b   7.71244310
+_cell_length_c   7.79740069
+_cell_angle_alpha   109.34165859
+_cell_angle_beta   109.71612634
+_cell_angle_gamma   109.19817344
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca6LaDyAs6
+_chemical_formula_sum   'Ca6 La1 Dy1 As6'
+_cell_volume   360.84134238
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.99552148  0.12729019  0.49328786  1
+  Ca  Ca1  1  0.36716412  0.36392627  0.37228124  1
+  Ca  Ca2  1  0.62868371  0.49734606  0.99515742  1
+  Ca  Ca3  1  0.50384121  0.00798198  0.13514855  1
+  Ca  Ca4  1  0.86486489  0.86779098  0.86931302  1
+  Ca  Ca5  1  0.50369435  0.00074670  0.63381554  1
+  La  La6  1  0.13938241  0.50086676  0.00133631  1
+  Dy  Dy7  1  0.00046550  0.63527181  0.50159739  1
+  As  As8  1  0.87812835  0.25925257  0.13334168  1
+  As  As9  1  0.36593097  0.62727871  0.74539610  1
+  As  As10  1  0.12493229  0.87136808  0.25639574  1
+  As  As11  1  0.62826983  0.74357535  0.37414104  1
+  As  As12  1  0.24191535  0.11470677  0.86599251  1
+  As  As13  1  0.75720452  0.38259677  0.62279361  1

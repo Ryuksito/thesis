@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiHg3Te2F6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.84192575
+_cell_length_b   7.84192619
+_cell_length_c   4.89271888
+_cell_angle_alpha   92.21006062
+_cell_angle_beta   92.21006512
+_cell_angle_gamma   58.84473166
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiHg3Te2F6
+_chemical_formula_sum   'Ti1 Hg3 Te2 F6'
+_cell_volume   257.23256076
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  0.00000000  0.49999900  1
+  Hg  Hg1  1  0.50000000  0.00000000  0.00000000  1
+  Hg  Hg2  1  0.00000000  0.50000000  0.00000000  1
+  Hg  Hg3  1  0.50000000  0.50000000  0.00000000  1
+  Te  Te4  1  0.66922555  0.66922555  0.29037622  1
+  Te  Te5  1  0.33077445  0.33077445  0.70962378  1
+  F  F6  1  0.88591193  0.88591193  0.26801481  1
+  F  F7  1  0.88228594  0.23109433  0.28866429  1
+  F  F8  1  0.23109433  0.88228594  0.28866429  1
+  F  F9  1  0.76890467  0.11771406  0.71133571  1
+  F  F10  1  0.11771406  0.76890467  0.71133571  1
+  F  F11  1  0.11408907  0.11408907  0.73198519  1

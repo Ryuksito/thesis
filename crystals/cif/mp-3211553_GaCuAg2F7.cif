@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_GaCuAg2F7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41253960
+_cell_length_b   7.41324136
+_cell_length_c   7.41301063
+_cell_angle_alpha   122.93440604
+_cell_angle_beta   116.42609563
+_cell_angle_gamma   90.64722830
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaCuAg2F7
+_chemical_formula_sum   'Ga2 Cu2 Ag4 F14'
+_cell_volume   288.25908569
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.50000000  0.00000000  0.50000000  1
+  Ga  Ga1  1  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu2  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu3  1  0.00000000  0.50000000  0.00000000  1
+  Ag  Ag4  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag5  1  0.50000000  0.50000000  0.00000000  1
+  Ag  Ag6  1  0.50000000  0.00000000  0.00000000  1
+  Ag  Ag7  1  0.50000000  0.50000000  0.50000000  1
+  F  F8  1  0.36828207  0.08631067  0.28202380  1
+  F  F9  1  0.69569616  0.41371493  0.28195054  1
+  F  F10  1  0.68006091  0.30821343  0.75916313  1
+  F  F11  1  0.95086127  0.19175080  0.37175955  1
+  F  F12  1  0.95080548  0.57915626  0.75906983  1
+  F  F13  1  0.68001054  0.92084511  0.37176029  1
+  F  F14  1  0.31998946  0.07915489  0.62823971  1
+  F  F15  1  0.04919452  0.42084374  0.24093017  1
+  F  F16  1  0.04913873  0.80824920  0.62824045  1
+  F  F17  1  0.31993909  0.69178657  0.24083687  1
+  F  F18  1  0.91200638  0.74997658  0.16208101  1
+  F  F19  1  0.63171793  0.91368933  0.71797620  1
+  F  F20  1  0.30430384  0.58628507  0.71804946  1
+  F  F21  1  0.08799362  0.25002342  0.83791899  1

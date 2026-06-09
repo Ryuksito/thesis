@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KSmSiSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.00423642
+_cell_length_b   6.75324381
+_cell_length_c   8.96977328
+_cell_angle_alpha   72.27915151
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSmSiSe4
+_chemical_formula_sum   'K2 Sm2 Si2 Se8'
+_cell_volume   404.15023221
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.98344314  0.73825183  0.06389311  1
+  K  K1  1  0.48344314  0.26174817  0.93610689  1
+  Sm  Sm2  1  0.49686884  0.22984098  0.44885470  1
+  Sm  Sm3  1  0.99686884  0.77015902  0.55114530  1
+  Si  Si4  1  0.46151187  0.78102680  0.32165656  1
+  Si  Si5  1  0.96151187  0.21897320  0.67834344  1
+  Se  Se6  1  0.45987520  0.58432229  0.16023168  1
+  Se  Se7  1  0.22713970  0.02613297  0.27142414  1
+  Se  Se8  1  0.72984702  0.98023497  0.28976790  1
+  Se  Se9  1  0.90831523  0.41845304  0.42797996  1
+  Se  Se10  1  0.40831523  0.58154696  0.57202004  1
+  Se  Se11  1  0.22984702  0.01976503  0.71023210  1
+  Se  Se12  1  0.72713970  0.97386703  0.72857586  1
+  Se  Se13  1  0.95987520  0.41567771  0.83976832  1

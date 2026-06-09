@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Li4MnSi2Se7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.46997932
+_cell_length_b   9.46997861
+_cell_length_c   10.62222684
+_cell_angle_alpha   85.78848501
+_cell_angle_beta   85.78848607
+_cell_angle_gamma   43.13895233
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4MnSi2Se7
+_chemical_formula_sum   'Li8 Mn2 Si4 Se14'
+_cell_volume   649.32970763
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.56039592  0.27782357  0.29329209  1
+  Li  Li1  1  0.27782357  0.56039592  0.79329209  1
+  Li  Li2  1  0.02845131  0.67609478  0.13772303  1
+  Li  Li3  1  0.67609478  0.02845131  0.63772303  1
+  Li  Li4  1  0.97697128  0.30878511  0.22093950  1
+  Li  Li5  1  0.30878511  0.97697128  0.72093950  1
+  Li  Li6  1  0.89745589  0.52693352  0.85629833  1
+  Li  Li7  1  0.52693352  0.89745589  0.35629833  1
+  Mn  Mn8  1  0.81391937  0.17178922  0.94377324  1
+  Mn  Mn9  1  0.17178922  0.81391937  0.44377324  1
+  Si  Si10  1  0.45118683  0.11190469  0.01864782  1
+  Si  Si11  1  0.11190469  0.45118683  0.51864782  1
+  Si  Si12  1  0.39537978  0.74484075  0.08057052  1
+  Si  Si13  1  0.74484075  0.39537978  0.58057052  1
+  Se  Se14  1  0.50760006  0.84800449  0.93460018  1
+  Se  Se15  1  0.84800449  0.50760006  0.43460018  1
+  Se  Se16  1  0.67038514  0.40458003  0.12961902  1
+  Se  Se17  1  0.40458003  0.67038514  0.62961902  1
+  Se  Se18  1  0.27164032  0.92245869  0.26025432  1
+  Se  Se19  1  0.92245869  0.27164032  0.76025432  1
+  Se  Se20  1  0.15463758  0.79323346  0.98683199  1
+  Se  Se21  1  0.79323346  0.15463758  0.48683199  1
+  Se  Se22  1  0.64939952  0.98613451  0.18543102  1
+  Se  Se23  1  0.98613451  0.64939952  0.68543102  1
+  Se  Se24  1  0.11061376  0.38534620  0.04945161  1
+  Se  Se25  1  0.38534620  0.11061376  0.54945161  1
+  Se  Se26  1  0.57071741  0.17703281  0.85558933  1
+  Se  Se27  1  0.17703281  0.57071741  0.35558933  1

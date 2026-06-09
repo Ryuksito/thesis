@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_K6AlTe4I
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.28088469
+_cell_length_b   11.28088420
+_cell_length_c   8.34718615
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999858
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K6AlTe4I
+_chemical_formula_sum   'K12 Al2 Te8 I2'
+_cell_volume   919.93477780
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.13893757  0.86106243  0.51454082  1
+  K  K1  1  0.72212286  0.86106243  0.51454082  1
+  K  K2  1  0.95157337  0.47578719  0.32099921  1
+  K  K3  1  0.52421281  0.47578719  0.32099921  1
+  K  K4  1  0.86106243  0.72212286  0.01454082  1
+  K  K5  1  0.27787714  0.13893757  0.01454082  1
+  K  K6  1  0.52421281  0.04842663  0.32099921  1
+  K  K7  1  0.13893757  0.27787714  0.51454082  1
+  K  K8  1  0.86106243  0.13893757  0.01454082  1
+  K  K9  1  0.04842663  0.52421281  0.82099921  1
+  K  K10  1  0.47578719  0.95157337  0.82099921  1
+  K  K11  1  0.47578719  0.52421281  0.82099921  1
+  Al  Al12  1  0.66666700  0.33333300  0.70703458  1
+  Al  Al13  1  0.33333300  0.66666700  0.20703458  1
+  Te  Te14  1  0.41088508  0.20544354  0.60813856  1
+  Te  Te15  1  0.58911492  0.79455646  0.10813856  1
+  Te  Te16  1  0.66666700  0.33333300  0.02967586  1
+  Te  Te17  1  0.79455646  0.58911492  0.60813856  1
+  Te  Te18  1  0.20544354  0.41088508  0.10813856  1
+  Te  Te19  1  0.33333300  0.66666700  0.52967586  1
+  Te  Te20  1  0.20544354  0.79455646  0.10813856  1
+  Te  Te21  1  0.79455646  0.20544354  0.60813856  1
+  I  I22  1  0.00000000  0.00000000  0.27285379  1
+  I  I23  1  0.00000000  0.00000000  0.77285379  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LuMnSbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03829067
+_cell_length_b   5.03860963
+_cell_length_c   4.73456171
+_cell_angle_alpha   90.03358656
+_cell_angle_beta   90.03083166
+_cell_angle_gamma   119.96589126
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuMnSbO6
+_chemical_formula_sum   'Lu1 Mn1 Sb1 O6'
+_cell_volume   104.12457370
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.51727224  0.48273586  0.49999447  1
+  Mn  Mn1  1  0.85031405  0.14971751  0.99999606  1
+  Sb  Sb2  1  0.18413393  0.81587121  0.99999799  1
+  O  O3  1  0.15377383  0.13111351  0.22400051  1
+  O  O4  1  0.52972938  0.84629292  0.22427624  1
+  O  O5  1  0.86858572  0.46965033  0.22413076  1
+  O  O6  1  0.53036820  0.13144520  0.77585450  1
+  O  O7  1  0.15368911  0.47028080  0.77576182  1
+  O  O8  1  0.86884754  0.84619965  0.77601665  1

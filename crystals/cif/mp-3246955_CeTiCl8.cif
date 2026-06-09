@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CeTiCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.44419509
+_cell_length_b   7.14388902
+_cell_length_c   7.14606470
+_cell_angle_alpha   62.71364486
+_cell_angle_beta   89.87423803
+_cell_angle_gamma   89.85807312
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeTiCl8
+_chemical_formula_sum   'Ce1 Ti1 Cl8'
+_cell_volume   292.37267420
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.75002232  0.65779103  0.34214885  1
+  Ti  Ti1  1  0.25003281  0.33800243  0.66201461  1
+  Cl  Cl2  1  0.88966452  0.74166742  0.98644935  1
+  Cl  Cl3  1  0.61041377  0.01338362  0.25859225  1
+  Cl  Cl4  1  0.40160940  0.48510729  0.29055194  1
+  Cl  Cl5  1  0.94918568  0.26839224  0.50890147  1
+  Cl  Cl6  1  0.09830322  0.70944771  0.51498787  1
+  Cl  Cl7  1  0.55061496  0.49100286  0.73170108  1
+  Cl  Cl8  1  0.39037162  0.03253547  0.73744939  1
+  Cl  Cl9  1  0.10978171  0.26267093  0.96720319  1

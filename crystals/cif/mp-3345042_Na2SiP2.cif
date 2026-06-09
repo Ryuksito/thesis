@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na2SiP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18611746
+_cell_length_b   7.18611756
+_cell_length_c   7.18611751
+_cell_angle_alpha   130.86564202
+_cell_angle_beta   127.76103162
+_cell_angle_gamma   74.53457004
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2SiP2
+_chemical_formula_sum   'Na4 Si2 P4'
+_cell_volume   216.21906546
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00732348  0.85734105  0.14998243  1
+  Na  Na1  1  0.70735862  0.35734105  0.35001757  1
+  Na  Na2  1  0.29264138  0.64265895  0.64998243  1
+  Na  Na3  1  0.99267652  0.14265895  0.85001757  1
+  Si  Si4  1  0.50000000  0.25000000  0.75000000  1
+  Si  Si5  1  0.50000000  0.75000000  0.25000000  1
+  P  P6  1  0.79250465  0.60540272  0.18710193  1
+  P  P7  1  0.41830179  0.10540272  0.31289807  1
+  P  P8  1  0.58169821  0.89459728  0.68710193  1
+  P  P9  1  0.20749535  0.39459728  0.81289807  1

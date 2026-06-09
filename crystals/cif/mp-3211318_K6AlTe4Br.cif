@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_K6AlTe4Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.21281137
+_cell_length_b   11.21281230
+_cell_length_c   8.19817827
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000296
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K6AlTe4Br
+_chemical_formula_sum   'K12 Al2 Te8 Br2'
+_cell_volume   892.64144107
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.13060340  0.86939660  0.51546683  1
+  K  K1  1  0.73879120  0.86939660  0.51546683  1
+  K  K2  1  0.95296306  0.47648153  0.31934056  1
+  K  K3  1  0.52351847  0.47648153  0.31934056  1
+  K  K4  1  0.86939660  0.73879120  0.01546683  1
+  K  K5  1  0.26120880  0.13060340  0.01546683  1
+  K  K6  1  0.52351847  0.04703694  0.31934056  1
+  K  K7  1  0.13060340  0.26120880  0.51546683  1
+  K  K8  1  0.86939660  0.13060340  0.01546683  1
+  K  K9  1  0.04703694  0.52351847  0.81934056  1
+  K  K10  1  0.47648153  0.95296306  0.81934056  1
+  K  K11  1  0.47648153  0.52351847  0.81934056  1
+  Al  Al12  1  0.66666700  0.33333300  0.70785915  1
+  Al  Al13  1  0.33333300  0.66666700  0.20785915  1
+  Te  Te14  1  0.40955788  0.20477894  0.60702695  1
+  Te  Te15  1  0.59044212  0.79522106  0.10702695  1
+  Te  Te16  1  0.66666700  0.33333300  0.03244208  1
+  Te  Te17  1  0.79522106  0.59044212  0.60702695  1
+  Te  Te18  1  0.20477894  0.40955788  0.10702695  1
+  Te  Te19  1  0.33333300  0.66666700  0.53244208  1
+  Te  Te20  1  0.20477894  0.79522106  0.10702695  1
+  Te  Te21  1  0.79522106  0.20477894  0.60702695  1
+  Br  Br22  1  0.00000000  0.00000000  0.27479877  1
+  Br  Br23  1  0.00000000  0.00000000  0.77479877  1

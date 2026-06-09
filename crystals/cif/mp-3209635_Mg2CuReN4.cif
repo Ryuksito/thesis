@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Mg2CuReN4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.62228140
+_cell_length_b   5.66370791
+_cell_length_c   5.32554429
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2CuReN4
+_chemical_formula_sum   'Mg4 Cu2 Re2 N8'
+_cell_volume   199.74341923
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.25147310  0.82718021  0.72676809  1
+  Mg  Mg1  1  0.24852690  0.17281979  0.22676809  1
+  Mg  Mg2  1  0.74852690  0.82718021  0.72676809  1
+  Mg  Mg3  1  0.75147310  0.17281979  0.22676809  1
+  Cu  Cu4  1  0.00000000  0.32687361  0.73251999  1
+  Cu  Cu5  1  0.50000000  0.67312639  0.23251999  1
+  Re  Re6  1  0.00000000  0.66896761  0.22942519  1
+  Re  Re7  1  0.50000000  0.33103239  0.72942519  1
+  N  N8  1  0.76971510  0.81977345  0.11967996  1
+  N  N9  1  0.73028490  0.18022655  0.61967996  1
+  N  N10  1  0.23028490  0.81977345  0.11967996  1
+  N  N11  1  0.26971510  0.18022655  0.61967996  1
+  N  N12  1  0.00000000  0.36413937  0.11314002  1
+  N  N13  1  0.50000000  0.63586063  0.61314002  1
+  N  N14  1  0.00000000  0.67069121  0.57127871  1
+  N  N15  1  0.50000000  0.32930879  0.07127871  1

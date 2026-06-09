@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_K5Ag(BrO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33962691
+_cell_length_b   7.10172045
+_cell_length_c   13.81875844
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K5Ag(BrO)2
+_chemical_formula_sum   'K10 Ag2 Br4 O4'
+_cell_volume   524.01474891
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.31590855  0.60672974  1
+  K  K1  1  0.50000000  0.18409145  0.10672974  1
+  K  K2  1  0.00000000  0.60252361  0.73598055  1
+  K  K3  1  0.00000000  0.50000000  0.00000000  1
+  K  K4  1  0.50000000  0.68409145  0.39327026  1
+  K  K5  1  0.50000000  0.81590855  0.89327026  1
+  K  K6  1  0.00000000  0.89747639  0.23598055  1
+  K  K7  1  0.00000000  0.39747639  0.26401945  1
+  K  K8  1  0.00000000  0.10252361  0.76401945  1
+  K  K9  1  0.00000000  0.00000000  0.50000000  1
+  Ag  Ag10  1  0.00000000  0.50000000  0.50000000  1
+  Ag  Ag11  1  0.00000000  0.00000000  0.00000000  1
+  Br  Br12  1  0.50000000  0.64881566  0.14687708  1
+  Br  Br13  1  0.50000000  0.35118434  0.85312292  1
+  Br  Br14  1  0.50000000  0.14881566  0.35312292  1
+  Br  Br15  1  0.50000000  0.85118434  0.64687708  1
+  O  O16  1  0.00000000  0.68591537  0.38840029  1
+  O  O17  1  0.00000000  0.81408463  0.88840029  1
+  O  O18  1  0.00000000  0.18591537  0.11159971  1
+  O  O19  1  0.00000000  0.31408463  0.61159971  1

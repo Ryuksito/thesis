@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ca2Ga3FeBr16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18150293
+_cell_length_b   7.66542909
+_cell_length_c   14.05474281
+_cell_angle_alpha   87.48121722
+_cell_angle_beta   90.16352711
+_cell_angle_gamma   90.15808138
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Ga3FeBr16
+_chemical_formula_sum   'Ca2 Ga3 Fe1 Br16'
+_cell_volume   772.95044103
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.75935974  0.08003509  0.81703016  1
+  Ca  Ca1  1  0.24310345  0.07709884  0.31634378  1
+  Ga  Ga2  1  0.06110196  0.22198513  0.07968801  1
+  Ga  Ga3  1  0.57112815  0.64169244  0.77527485  1
+  Ga  Ga4  1  0.42988771  0.64039951  0.27529125  1
+  Fe  Fe5  1  0.93801687  0.21814859  0.58081296  1
+  Br  Br6  1  0.42664932  0.61630746  0.63227453  1
+  Br  Br7  1  0.57547876  0.61365345  0.13330875  1
+  Br  Br8  1  0.88589992  0.73266430  0.76101450  1
+  Br  Br9  1  0.11548099  0.73031264  0.25947273  1
+  Br  Br10  1  0.94457591  0.47530512  0.49359365  1
+  Br  Br11  1  0.05193263  0.47688373  0.99059938  1
+  Br  Br12  1  0.91485911  0.98652340  0.00480755  1
+  Br  Br13  1  0.08297039  0.98727893  0.50142190  1
+  Br  Br14  1  0.62904884  0.13080508  0.61941255  1
+  Br  Br15  1  0.36839345  0.12987681  0.11825913  1
+  Br  Br16  1  0.55417749  0.38472767  0.87582521  1
+  Br  Br17  1  0.44340053  0.38522680  0.37758985  1
+  Br  Br18  1  0.43373534  0.86442187  0.86498077  1
+  Br  Br19  1  0.56855907  0.86361957  0.36506637  1
+  Br  Br20  1  0.91531571  0.23833339  0.23088707  1
+  Br  Br21  1  0.08692367  0.23950216  0.73144906  1

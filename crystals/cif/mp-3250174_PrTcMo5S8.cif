@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_PrTcMo5S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55092375
+_cell_length_b   6.52837807
+_cell_length_c   6.53096474
+_cell_angle_alpha   89.37704102
+_cell_angle_beta   89.44796159
+_cell_angle_gamma   88.87697393
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrTcMo5S8
+_chemical_formula_sum   'Pr1 Tc1 Mo5 S8'
+_cell_volume   279.22660436
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.00582896  0.99735777  0.99908380  1
+  Tc  Tc1  1  0.76800165  0.58014088  0.43785321  1
+  Mo  Mo2  1  0.43542316  0.76845998  0.58062698  1
+  Mo  Mo3  1  0.57986595  0.43884176  0.76897097  1
+  Mo  Mo4  1  0.23058770  0.41930725  0.56250781  1
+  Mo  Mo5  1  0.56254919  0.23160098  0.42068591  1
+  Mo  Mo6  1  0.41818916  0.56203387  0.23235739  1
+  S  S7  1  0.75633797  0.75569374  0.75131695  1
+  S  S8  1  0.24432925  0.24335239  0.24275283  1
+  S  S9  1  0.25444461  0.62567175  0.87536762  1
+  S  S10  1  0.87510679  0.25996743  0.62375013  1
+  S  S11  1  0.62772500  0.87124072  0.25735215  1
+  S  S12  1  0.74561088  0.37503629  0.12850319  1
+  S  S13  1  0.12128805  0.74650922  0.37348498  1
+  S  S14  1  0.37471166  0.12478698  0.74538406  1

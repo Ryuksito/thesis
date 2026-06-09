@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ca10ZrReN10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95494176
+_cell_length_b   6.95494164
+_cell_length_c   8.89566518
+_cell_angle_alpha   79.82582513
+_cell_angle_beta   79.82583372
+_cell_angle_gamma   59.81346977
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca10ZrReN10
+_chemical_formula_sum   'Ca10 Zr1 Re1 N10'
+_cell_volume   364.13893931
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.87178126  0.34912442  0.84021788  1
+  Ca  Ca1  1  0.87067169  0.87067169  0.83499459  1
+  Ca  Ca2  1  0.73739330  0.73739330  0.51440383  1
+  Ca  Ca3  1  0.75958368  0.24770077  0.50227714  1
+  Ca  Ca4  1  0.62849140  0.13959407  0.16290934  1
+  Ca  Ca5  1  0.34912442  0.87178126  0.84021788  1
+  Ca  Ca6  1  0.24770077  0.75958368  0.50227714  1
+  Ca  Ca7  1  0.24486370  0.24486370  0.48559361  1
+  Ca  Ca8  1  0.14635782  0.14635782  0.16452222  1
+  Ca  Ca9  1  0.13959407  0.62849140  0.16290934  1
+  Zr  Zr10  1  0.63054008  0.63054008  0.21277478  1
+  Re  Re11  1  0.37017174  0.37017174  0.76822891  1
+  N  N12  1  0.92475352  0.46188914  0.32575929  1
+  N  N13  1  0.99897134  0.99897134  0.02511404  1
+  N  N14  1  0.67851447  0.67851447  0.97832690  1
+  N  N15  1  0.52540828  0.52540828  0.69270794  1
+  N  N16  1  0.46188914  0.92475352  0.32575929  1
+  N  N17  1  0.52701504  0.10189210  0.68447491  1
+  N  N18  1  0.45695747  0.45695747  0.30891469  1
+  N  N19  1  0.33100102  0.33100102  0.97710653  1
+  N  N20  1  0.05960865  0.05960865  0.65184183  1
+  N  N21  1  0.10189210  0.52701504  0.68447491  1

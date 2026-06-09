@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CeMgReH6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04335166
+_cell_length_b   5.04526898
+_cell_length_c   5.04438179
+_cell_angle_alpha   120.00669078
+_cell_angle_beta   119.99468141
+_cell_angle_gamma   89.99953818
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeMgReH6
+_chemical_formula_sum   'Ce1 Mg1 Re1 H6'
+_cell_volume   90.75890875
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.75029302  0.25020722  0.50037721  1
+  Mg  Mg1  1  0.24990792  0.75007922  0.50023520  1
+  Re  Re2  1  0.99998725  0.00003918  0.99994258  1
+  H  H3  1  0.24685322  0.24657449  0.99991614  1
+  H  H4  1  0.75304936  0.24651474  0.99982326  1
+  H  H5  1  0.24687083  0.75335245  0.99995080  1
+  H  H6  1  0.75306504  0.75329771  0.99982616  1
+  H  H7  1  0.75319240  0.75322384  0.50647501  1
+  H  H8  1  0.24677597  0.24670615  0.49344964  1

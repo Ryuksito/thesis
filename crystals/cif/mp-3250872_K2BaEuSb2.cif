@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2BaEuSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39652364
+_cell_length_b   8.80361283
+_cell_length_c   10.30240433
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2BaEuSb2
+_chemical_formula_sum   'K4 Ba2 Eu2 Sb4'
+_cell_volume   489.45594617
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.02834478  0.41426267  1
+  K  K1  1  0.00000000  0.34520540  0.34213250  1
+  K  K2  1  0.50000000  0.52834478  0.58573733  1
+  K  K3  1  0.00000000  0.84520540  0.65786750  1
+  Ba  Ba4  1  0.00000000  0.99573937  0.05909738  1
+  Ba  Ba5  1  0.00000000  0.49573937  0.94090262  1
+  Eu  Eu6  1  0.50000000  0.14699303  0.81648454  1
+  Eu  Eu7  1  0.50000000  0.64699303  0.18351546  1
+  Sb  Sb8  1  0.00000000  0.24984898  0.67301335  1
+  Sb  Sb9  1  0.50000000  0.27946844  0.11567385  1
+  Sb  Sb10  1  0.00000000  0.74984898  0.32698665  1
+  Sb  Sb11  1  0.50000000  0.77946844  0.88432615  1

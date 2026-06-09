@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba2Ca(InAs2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.49777738
+_cell_length_b   6.91302954
+_cell_length_c   17.43397548
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Ca(InAs2)2
+_chemical_formula_sum   'Ba4 Ca2 In4 As8'
+_cell_volume   542.07926974
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.27038287  0.80397581  1
+  Ba  Ba1  1  0.50000000  0.77038287  0.69602419  1
+  Ba  Ba2  1  0.00000000  0.72961713  0.19602419  1
+  Ba  Ba3  1  0.50000000  0.22961713  0.30397581  1
+  Ca  Ca4  1  0.00000000  0.00000000  0.00000000  1
+  Ca  Ca5  1  0.50000000  0.50000000  0.50000000  1
+  In  In6  1  0.00000000  0.86841607  0.41661061  1
+  In  In7  1  0.50000000  0.36841607  0.08338939  1
+  In  In8  1  0.00000000  0.13158393  0.58338939  1
+  In  In9  1  0.50000000  0.63158393  0.91661061  1
+  As  As10  1  0.50000000  0.24365776  0.93881258  1
+  As  As11  1  0.50000000  0.75634224  0.06118742  1
+  As  As12  1  0.00000000  0.24056898  0.15956215  1
+  As  As13  1  0.00000000  0.25634224  0.43881258  1
+  As  As14  1  0.50000000  0.74056898  0.34043785  1
+  As  As15  1  0.00000000  0.75943102  0.84043785  1
+  As  As16  1  0.00000000  0.74365776  0.56118742  1
+  As  As17  1  0.50000000  0.25943102  0.65956215  1

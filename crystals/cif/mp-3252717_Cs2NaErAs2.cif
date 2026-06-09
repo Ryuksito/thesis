@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs2NaErAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.69590752
+_cell_length_b   9.69590732
+_cell_length_c   9.69590698
+_cell_angle_alpha   136.46390799
+_cell_angle_beta   136.67995361
+_cell_angle_gamma   63.09751353
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2NaErAs2
+_chemical_formula_sum   'Cs4 Na2 Er2 As4'
+_cell_volume   425.30925287
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.68145155  0.39197620  0.71052565  1
+  Cs  Cs1  1  0.81854845  0.02907409  0.21052565  1
+  Cs  Cs2  1  0.18145155  0.97092591  0.78947435  1
+  Cs  Cs3  1  0.31854845  0.60802380  0.28947435  1
+  Na  Na4  1  0.75000000  0.00000000  0.75000000  1
+  Na  Na5  1  0.25000000  0.00000000  0.25000000  1
+  Er  Er6  1  0.25000000  0.50000000  0.75000000  1
+  Er  Er7  1  0.75000000  0.50000000  0.25000000  1
+  As  As8  1  0.41109915  0.19100863  0.77990948  1
+  As  As9  1  0.58890085  0.80899137  0.22009052  1
+  As  As10  1  0.08890085  0.36881132  0.27990948  1
+  As  As11  1  0.91109915  0.63118868  0.72009052  1

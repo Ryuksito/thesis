@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Tc2Cl5O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84207419
+_cell_length_b   6.02364231
+_cell_length_c   7.82262442
+_cell_angle_alpha   69.96888066
+_cell_angle_beta   79.91115597
+_cell_angle_gamma   84.58329061
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tc2Cl5O4
+_chemical_formula_sum   'Tc2 Cl5 O4'
+_cell_volume   254.45460726
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  1  0.35997342  0.46707589  0.56323146  1
+  Tc  Tc1  1  0.01116436  0.98862843  0.00539896  1
+  Cl  Cl2  1  0.96469296  0.95701469  0.73018904  1
+  Cl  Cl3  1  0.16608147  0.12617203  0.19590897  1
+  Cl  Cl4  1  0.34186565  0.75832803  0.99234624  1
+  Cl  Cl5  1  0.79482959  0.33406619  0.92653154  1
+  Cl  Cl6  1  0.59571041  0.28596003  0.39743285  1
+  O  O7  1  0.30139449  0.28082281  0.78273342  1
+  O  O8  1  0.82380763  0.80380254  0.14962977  1
+  O  O9  1  0.11223457  0.54865289  0.47591885  1
+  O  O10  1  0.48624545  0.70597746  0.55977990  1

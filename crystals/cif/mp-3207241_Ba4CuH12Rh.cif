@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba4CuH12Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.04081030
+_cell_length_b   8.04080999
+_cell_length_c   5.87042681
+_cell_angle_alpha   90.02807939
+_cell_angle_beta   90.02807929
+_cell_angle_gamma   137.26268276
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4CuH12Rh
+_chemical_formula_sum   'Ba4 Cu1 H12 Rh1'
+_cell_volume   257.57706594
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.35710636  0.64289364  1.00000000  1
+  Ba  Ba1  1  0.85861821  0.14138179  0.50000000  1
+  Ba  Ba2  1  0.64289364  0.35710636  0.00000000  1
+  Ba  Ba3  1  0.14138179  0.85861821  0.50000000  1
+  Cu  Cu4  1  0.50000000  0.50000000  0.50000000  1
+  H  H5  1  0.00043647  0.49976658  0.25376977  1
+  H  H6  1  0.50023342  0.99956353  0.74623023  1
+  H  H7  1  0.99956353  0.50023342  0.74623023  1
+  H  H8  1  0.49976658  0.00043647  0.25376977  1
+  H  H9  1  0.11149173  0.88850827  0.00000000  1
+  H  H10  1  0.60349901  0.39650099  0.50000000  1
+  H  H11  1  0.88850827  0.11149173  1.00000000  1
+  H  H12  1  0.39650099  0.60349901  0.50000000  1
+  H  H13  1  0.79613000  0.79613000  0.20273850  1
+  H  H14  1  0.20387000  0.20387000  0.79726150  1
+  H  H15  1  0.79603856  0.79603856  0.79667094  1
+  H  H16  1  0.20396144  0.20396144  0.20332906  1
+  Rh  Rh17  1  0.00000000  0.00000000  0.00000000  1

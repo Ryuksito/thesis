@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CsNa3(Ga2S3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.75114110
+_cell_length_b   6.75114104
+_cell_length_c   8.58020813
+_cell_angle_alpha   82.15923498
+_cell_angle_beta   82.15923793
+_cell_angle_gamma   120.02778342
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNa3(Ga2S3)2
+_chemical_formula_sum   'Cs1 Na3 Ga4 S6'
+_cell_volume   325.72288895
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.50000000  0.50000000  0.50000000  1
+  Na  Na1  1  0.65214718  0.34785282  1.00000000  1
+  Na  Na2  1  0.34785282  0.65214718  0.00000000  1
+  Na  Na3  1  0.00000000  0.00000000  0.00000000  1
+  Ga  Ga4  1  0.88284744  0.21785287  0.34991605  1
+  Ga  Ga5  1  0.78214713  0.11715256  0.65008395  1
+  Ga  Ga6  1  0.21785287  0.88284744  0.34991605  1
+  Ga  Ga7  1  0.11715256  0.78214713  0.65008395  1
+  S  S8  1  0.40545116  0.02305695  0.77576052  1
+  S  S9  1  0.02305695  0.40545116  0.77576052  1
+  S  S10  1  0.97694305  0.59454884  0.22423948  1
+  S  S11  1  0.78619600  0.78619600  0.77562181  1
+  S  S12  1  0.59454884  0.97694305  0.22423948  1
+  S  S13  1  0.21380400  0.21380400  0.22437819  1

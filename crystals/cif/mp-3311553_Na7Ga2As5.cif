@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Na7Ga2As5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.65862758
+_cell_length_b   7.20041766
+_cell_length_c   7.65936513
+_cell_angle_alpha   61.82807810
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na7Ga2As5
+_chemical_formula_sum   'Na14 Ga4 As10'
+_cell_volume   615.42708643
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25000000  0.89085916  0.40692512  1
+  Na  Na1  1  0.92611105  0.89048940  0.41610390  1
+  Na  Na2  1  0.92388348  0.19763517  0.88284111  1
+  Na  Na3  1  0.42388348  0.80236483  0.11715889  1
+  Na  Na4  1  0.75000000  0.10914084  0.59307488  1
+  Na  Na5  1  0.25000000  0.43504528  0.25697195  1
+  Na  Na6  1  0.75000000  0.75997144  0.14688692  1
+  Na  Na7  1  0.25000000  0.24002856  0.85311308  1
+  Na  Na8  1  0.07388895  0.10951060  0.58389610  1
+  Na  Na9  1  0.07611652  0.80236483  0.11715889  1
+  Na  Na10  1  0.42611105  0.10951060  0.58389610  1
+  Na  Na11  1  0.75000000  0.56495472  0.74302805  1
+  Na  Na12  1  0.57611652  0.19763517  0.88284111  1
+  Na  Na13  1  0.57388895  0.89048940  0.41610390  1
+  Ga  Ga14  1  0.08843458  0.58868627  0.83254468  1
+  Ga  Ga15  1  0.58843458  0.41131373  0.16745532  1
+  Ga  Ga16  1  0.91156542  0.41131373  0.16745532  1
+  Ga  Ga17  1  0.41156542  0.58868627  0.83254468  1
+  As  As18  1  0.09527691  0.52783215  0.53469046  1
+  As  As19  1  0.92205040  0.77162434  0.85274142  1
+  As  As20  1  0.42205040  0.22837566  0.14725858  1
+  As  As21  1  0.07794960  0.22837566  0.14725858  1
+  As  As22  1  0.90472309  0.47216785  0.46530954  1
+  As  As23  1  0.40472309  0.52783215  0.53469046  1
+  As  As24  1  0.59527691  0.47216785  0.46530954  1
+  As  As25  1  0.25000000  0.80009009  0.83367101  1
+  As  As26  1  0.75000000  0.19990991  0.16632899  1
+  As  As27  1  0.57794960  0.77162434  0.85274142  1

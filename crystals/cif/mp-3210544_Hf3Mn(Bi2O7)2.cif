@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Hf3Mn(Bi2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.48860354
+_cell_length_b   7.57078730
+_cell_length_c   7.54303476
+_cell_angle_alpha   59.86147665
+_cell_angle_beta   59.65983738
+_cell_angle_gamma   89.85923315
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3Mn(Bi2O7)2
+_chemical_formula_sum   'Hf3 Mn1 Bi4 O14'
+_cell_volume   300.56930415
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.12123751  0.87472996  0.76062476  1
+  Hf  Hf1  1  0.12376588  0.88010817  0.25522904  1
+  Hf  Hf2  1  0.12314243  0.37970327  0.74162250  1
+  Mn  Mn3  1  0.62401327  0.87892891  0.24942764  1
+  Bi  Bi4  1  0.63651919  0.44755738  0.67451765  1
+  Bi  Bi5  1  0.11914647  0.35919309  0.22079484  1
+  Bi  Bi6  1  0.61303500  0.87439911  0.81797286  1
+  Bi  Bi7  1  0.60884190  0.30775522  0.25849841  1
+  O  O8  1  0.79805756  0.17723741  0.02620004  1
+  O  O9  1  0.49926987  0.50273021  0.97418497  1
+  O  O10  1  0.22306401  0.20503488  0.59832683  1
+  O  O11  1  0.45016038  0.93080482  0.12377027  1
+  O  O12  1  0.20167821  0.21330310  0.00530974  1
+  O  O13  1  0.44829745  0.95324773  0.47539529  1
+  O  O14  1  0.44868008  0.58003934  0.49973237  1
+  O  O15  1  0.04069113  0.96265655  0.50489587  1
+  O  O16  1  0.73442745  0.23207302  0.49446069  1
+  O  O17  1  0.01949779  0.55666889  0.52926089  1
+  O  O18  1  0.79710557  0.82700620  0.00292083  1
+  O  O19  1  0.04324522  0.54320647  0.92190089  1
+  O  O20  1  0.79804241  0.80350416  0.37613012  1
+  O  O21  1  0.22108124  0.81710913  0.98882250  1

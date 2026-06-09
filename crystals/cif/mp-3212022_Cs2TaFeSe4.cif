@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cs2TaFeSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.90326607
+_cell_length_b   13.28675796
+_cell_length_c   7.90704604
+_cell_angle_alpha   85.37243250
+_cell_angle_beta   62.70122808
+_cell_angle_gamma   31.92633273
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2TaFeSe4
+_chemical_formula_sum   'Cs4 Ta2 Fe2 Se8'
+_cell_volume   554.93153706
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.57294404  0.57294404  0.92705596  1
+  Cs  Cs1  1  0.92705596  0.92705596  0.57294404  1
+  Cs  Cs2  1  0.67705596  0.67705596  0.32294404  1
+  Cs  Cs3  1  0.32294404  0.32294404  0.67705596  1
+  Ta  Ta4  1  0.50000000  0.50000000  0.50000000  1
+  Ta  Ta5  1  0.75000000  0.75000000  0.75000000  1
+  Fe  Fe6  1  0.25000000  0.25000000  0.25000000  1
+  Fe  Fe7  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se8  1  0.21107830  0.89505640  0.60025763  1
+  Se  Se9  1  0.29360867  0.60025763  0.89505640  1
+  Se  Se10  1  0.60025763  0.29360867  0.21107830  1
+  Se  Se11  1  0.89505640  0.21107830  0.29360867  1
+  Se  Se12  1  0.64974237  0.95639133  0.03892170  1
+  Se  Se13  1  0.35494360  0.03892170  0.95639133  1
+  Se  Se14  1  0.95639133  0.64974237  0.35494360  1
+  Se  Se15  1  0.03892170  0.35494360  0.64974237  1

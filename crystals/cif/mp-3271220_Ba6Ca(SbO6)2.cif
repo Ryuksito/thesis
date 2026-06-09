@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Ba6Ca(SbO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.35365959
+_cell_length_b   9.35365864
+_cell_length_c   7.40097864
+_cell_angle_alpha   67.77238106
+_cell_angle_beta   67.77237901
+_cell_angle_gamma   36.86060928
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba6Ca(SbO6)2
+_chemical_formula_sum   'Ba6 Ca1 Sb2 O12'
+_cell_volume   356.21277307
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.20871679  0.20871679  0.70434245  1
+  Ba  Ba1  1  0.88625948  0.88625948  0.71145789  1
+  Ba  Ba2  1  0.54909051  0.54909051  0.71009110  1
+  Ba  Ba3  1  0.79128321  0.79128321  0.29565755  1
+  Ba  Ba4  1  0.45090949  0.45090949  0.28990890  1
+  Ba  Ba5  1  0.11374052  0.11374052  0.28854211  1
+  Ca  Ca6  1  0.00000000  0.00000000  0.00000000  1
+  Sb  Sb7  1  0.66888437  0.66888437  0.00052193  1
+  Sb  Sb8  1  0.33111563  0.33111563  0.99947807  1
+  O  O9  1  0.27875406  0.27875406  0.29536079  1
+  O  O10  1  0.93902231  0.93902231  0.34134480  1
+  O  O11  1  0.62324463  0.62324463  0.29546990  1
+  O  O12  1  0.72124594  0.72124594  0.70463921  1
+  O  O13  1  0.37675537  0.37675537  0.70453010  1
+  O  O14  1  0.06097769  0.06097769  0.65865520  1
+  O  O15  1  0.00000000  0.50000000  0.00000000  1
+  O  O16  1  0.64116393  0.17665907  0.00234355  1
+  O  O17  1  0.35883607  0.82334093  0.99765645  1
+  O  O18  1  0.50000000  0.00000000  0.00000000  1
+  O  O19  1  0.17665907  0.64116393  0.00234355  1
+  O  O20  1  0.82334093  0.35883607  0.99765645  1

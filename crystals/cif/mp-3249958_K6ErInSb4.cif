@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K6ErInSb4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.81168841
+_cell_length_b   9.81168802
+_cell_length_c   9.81168672
+_cell_angle_alpha   129.02936662
+_cell_angle_beta   68.67393589
+_cell_angle_gamma   137.21910212
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K6ErInSb4
+_chemical_formula_sum   'K6 Er1 In1 Sb4'
+_cell_volume   489.60289313
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.32517773  0.70112984  0.00573152  1
+  K  K1  1  0.17482127  0.18055279  0.37595211  1
+  K  K2  1  0.75000000  0.25000000  0.50000000  1
+  K  K3  1  0.25000000  0.75000000  0.50000100  1
+  K  K4  1  0.80460068  0.79887016  0.62404889  1
+  K  K5  1  0.69539832  0.31944721  0.99426848  1
+  Er  Er6  1  0.25000000  0.25000000  0.00000000  1
+  In  In7  1  0.75000100  0.75000100  0.00000000  1
+  Sb  Sb8  1  0.89116302  0.19304810  0.09535494  1
+  Sb  Sb9  1  0.60883598  0.70419293  0.30188508  1
+  Sb  Sb10  1  0.40230584  0.30695090  0.69811592  1
+  Sb  Sb11  1  0.09769416  0.79580707  0.90464406  1

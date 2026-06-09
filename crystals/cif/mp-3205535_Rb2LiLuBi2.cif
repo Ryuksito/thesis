@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Rb2LiLuBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.26570436
+_cell_length_b   11.26570357
+_cell_length_c   7.25929150
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   99.90246100
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2LiLuBi2
+_chemical_formula_sum   'Rb8 Li4 Lu4 Bi8'
+_cell_volume   907.59496924
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.57225099  0.92774901  0.75000000  1
+  Rb  Rb1  1  0.92774901  0.57225099  0.25000000  1
+  Rb  Rb2  1  0.42774901  0.07225099  0.25000000  1
+  Rb  Rb3  1  0.07225099  0.42774901  0.75000000  1
+  Rb  Rb4  1  0.67470615  0.32529385  0.78061255  1
+  Rb  Rb5  1  0.82529385  0.17470615  0.28061255  1
+  Rb  Rb6  1  0.32529385  0.67470615  0.21938745  1
+  Rb  Rb7  1  0.17470615  0.82529385  0.71938745  1
+  Li  Li8  1  0.62265781  0.62265781  0.00000000  1
+  Li  Li9  1  0.87734219  0.87734219  0.50000000  1
+  Li  Li10  1  0.37734219  0.37734219  0.00000000  1
+  Li  Li11  1  0.12265781  0.12265781  0.50000000  1
+  Lu  Lu12  1  0.87113913  0.87113913  0.00000000  1
+  Lu  Lu13  1  0.62886087  0.62886087  0.50000000  1
+  Lu  Lu14  1  0.12886087  0.12886087  0.00000000  1
+  Lu  Lu15  1  0.37113913  0.37113913  0.50000000  1
+  Bi  Bi16  1  0.34560955  0.15439045  0.75000000  1
+  Bi  Bi17  1  0.15439045  0.34560955  0.25000000  1
+  Bi  Bi18  1  0.65439045  0.84560955  0.25000000  1
+  Bi  Bi19  1  0.84560955  0.65439045  0.75000000  1
+  Bi  Bi20  1  0.90392012  0.09607988  0.76349598  1
+  Bi  Bi21  1  0.59607988  0.40392012  0.26349598  1
+  Bi  Bi22  1  0.09607988  0.90392012  0.23650402  1
+  Bi  Bi23  1  0.40392012  0.59607988  0.73650402  1

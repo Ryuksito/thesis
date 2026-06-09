@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs2KLuSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.32547472
+_cell_length_b   10.32429865
+_cell_length_c   10.32547467
+_cell_angle_alpha   133.33055349
+_cell_angle_beta   65.53055005
+_cell_angle_gamma   136.73259291
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2KLuSb2
+_chemical_formula_sum   'Cs4 K2 Lu2 Sb4'
+_cell_volume   540.66564682
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.32072928  0.73702474  0.05772390  1
+  Cs  Cs1  1  0.17929984  0.23702374  0.41629447  1
+  Cs  Cs2  1  0.82070016  0.76297626  0.58370453  1
+  Cs  Cs3  1  0.67927072  0.26297626  0.94227610  1
+  K  K4  1  0.24997769  0.25000000  0.99997769  1
+  K  K5  1  0.75002231  0.75000000  0.00002231  1
+  Lu  Lu6  1  0.75012246  0.25000000  0.50012346  1
+  Lu  Lu7  1  0.24987654  0.75000000  0.49987654  1
+  Sb  Sb8  1  0.90583388  0.30069356  0.20655830  1
+  Sb  Sb9  1  0.59413526  0.80069356  0.39485968  1
+  Sb  Sb10  1  0.40586574  0.19930644  0.60514132  1
+  Sb  Sb11  1  0.09416712  0.69930644  0.79344170  1

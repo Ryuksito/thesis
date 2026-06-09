@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CePa2CdO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.58871686
+_cell_length_b   6.58871762
+_cell_length_c   6.58871724
+_cell_angle_alpha   131.56505438
+_cell_angle_beta   131.56505450
+_cell_angle_gamma   70.91684242
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CePa2CdO8
+_chemical_formula_sum   'Ce1 Pa2 Cd1 O8'
+_cell_volume   156.80758241
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.25000000  0.75000000  0.50000000  1
+  Pa  Pa1  1  0.00000000  0.00000000  0.00000000  1
+  Pa  Pa2  1  0.75000000  0.25000000  0.50000000  1
+  Cd  Cd3  1  0.50000000  0.50000000  0.00000000  1
+  O  O4  1  0.37221906  0.36346711  0.48089599  1
+  O  O5  1  0.88257112  0.89132307  0.51910401  1
+  O  O6  1  0.88257112  0.36346711  0.99124705  1
+  O  O7  1  0.63653289  0.11742888  0.00875295  1
+  O  O8  1  0.37221906  0.89132307  0.00875295  1
+  O  O9  1  0.10867693  0.62778094  0.99124705  1
+  O  O10  1  0.10867693  0.11742888  0.48089599  1
+  O  O11  1  0.63653289  0.62778094  0.51910401  1

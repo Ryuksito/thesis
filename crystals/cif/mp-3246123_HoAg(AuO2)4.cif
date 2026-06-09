@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_HoAg(AuO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.56263393
+_cell_length_b   6.56263379
+_cell_length_c   6.56263350
+_cell_angle_alpha   125.48194322
+_cell_angle_beta   125.48192876
+_cell_angle_gamma   80.74129727
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoAg(AuO2)4
+_chemical_formula_sum   'Ho1 Ag1 Au4 O8'
+_cell_volume   180.68957622
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag1  1  0.75000000  0.25000000  0.50000000  1
+  Au  Au2  1  0.37507749  0.63855774  0.76224791  1
+  Au  Au3  1  0.36144226  0.12369017  0.73652074  1
+  Au  Au4  1  0.87630983  0.61283057  0.23775209  1
+  Au  Au5  1  0.38716943  0.62492251  0.26347926  1
+  O  O6  1  0.05960459  0.39248854  0.05928569  1
+  O  O7  1  0.74055870  0.27701279  0.11534519  1
+  O  O8  1  0.16166760  0.62521251  0.88465481  1
+  O  O9  1  0.33320084  0.00031889  0.94071431  1
+  O  O10  1  0.72298721  0.83833240  0.46354491  1
+  O  O11  1  0.99968111  0.94039541  0.33288295  1
+  O  O12  1  0.37478749  0.25944130  0.53645509  1
+  O  O13  1  0.60751146  0.66679916  0.66711705  1

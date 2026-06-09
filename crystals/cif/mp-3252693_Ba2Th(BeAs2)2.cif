@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ba2Th(BeAs2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.99704454
+_cell_length_b   7.99704503
+_cell_length_c   7.76955088
+_cell_angle_alpha   69.58428950
+_cell_angle_beta   69.58427815
+_cell_angle_gamma   30.14547551
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Th(BeAs2)2
+_chemical_formula_sum   'Ba2 Th1 Be2 As4'
+_cell_volume   232.68174854
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.13596005  0.13596005  0.42333559  1
+  Ba  Ba1  1  0.86403995  0.86403995  0.57666441  1
+  Th  Th2  1  0.00000000  0.00000000  0.00000000  1
+  Be  Be3  1  0.32534846  0.32534846  0.97671840  1
+  Be  Be4  1  0.67465154  0.67465154  0.02328160  1
+  As  As5  1  0.20642178  0.20642178  0.84487965  1
+  As  As6  1  0.79357822  0.79357822  0.15512035  1
+  As  As7  1  0.47574683  0.47574683  0.75469349  1
+  As  As8  1  0.52425317  0.52425317  0.24530651  1

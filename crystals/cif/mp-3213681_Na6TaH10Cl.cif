@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Na6TaH10Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.89843593
+_cell_length_b   6.89842667
+_cell_length_c   6.89902999
+_cell_angle_alpha   119.89108135
+_cell_angle_beta   119.89112759
+_cell_angle_gamma   90.19647227
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na6TaH10Cl
+_chemical_formula_sum   'Na6 Ta1 H10 Cl1'
+_cell_volume   232.51764229
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.21097372  0.71097472  0.86626366  1
+  Na  Na1  1  0.84466150  0.34466450  0.13374798  1
+  Na  Na2  1  0.65530256  0.78905951  0.49996506  1
+  Na  Na3  1  0.28906051  0.15530056  0.49996506  1
+  Na  Na4  1  0.24982944  0.25005082  0.99988484  1
+  Na  Na5  1  0.75004782  0.74983644  0.99988684  1
+  Ta  Ta6  1  0.74997637  0.24997637  0.49997495  1
+  H  H7  1  0.61341558  0.11341358  0.13124194  1
+  H  H8  1  0.98221115  0.48221015  0.86871973  1
+  H  H9  1  0.00772955  0.30396617  0.50000141  1
+  H  H10  1  0.80396717  0.50773055  0.50000141  1
+  H  H11  1  0.49221563  0.99221363  0.29619329  1
+  H  H12  1  0.69604327  0.19604227  0.70376016  1
+  H  H13  1  0.88667109  0.01793206  0.50025595  1
+  H  H14  1  0.51793206  0.38667109  0.50025595  1
+  H  H15  1  0.50002727  0.50001414  0.00003146  1
+  H  H16  1  0.00001514  0.00002627  0.00003046  1
+  Cl  Cl17  1  0.24991817  0.74991617  0.49982285  1

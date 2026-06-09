@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SrCd6O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.85620835
+_cell_length_b   5.85620767
+_cell_length_c   5.85620786
+_cell_angle_alpha   99.55115318
+_cell_angle_beta   99.55113750
+_cell_angle_gamma   99.55116882
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCd6O7
+_chemical_formula_sum   'Sr1 Cd6 O7'
+_cell_volume   191.40629456
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1
+  Cd  Cd1  1  0.28885650  0.14601943  0.57272607  1
+  Cd  Cd2  1  0.14601943  0.57272607  0.28885650  1
+  Cd  Cd3  1  0.42727393  0.71114350  0.85398057  1
+  Cd  Cd4  1  0.57272607  0.28885650  0.14601943  1
+  Cd  Cd5  1  0.71114350  0.85398057  0.42727393  1
+  Cd  Cd6  1  0.85398057  0.42727393  0.71114350  1
+  O  O7  1  0.06840978  0.78234017  0.62406599  1
+  O  O8  1  0.50000000  0.50000000  0.50000000  1
+  O  O9  1  0.21765983  0.37593401  0.93159022  1
+  O  O10  1  0.93159022  0.21765983  0.37593401  1
+  O  O11  1  0.37593401  0.93159022  0.21765983  1
+  O  O12  1  0.62406599  0.06840978  0.78234017  1
+  O  O13  1  0.78234017  0.62406599  0.06840978  1

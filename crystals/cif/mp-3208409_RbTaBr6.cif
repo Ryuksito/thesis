@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_RbTaBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18399127
+_cell_length_b   7.18399170
+_cell_length_c   12.83110880
+_cell_angle_alpha   79.67320372
+_cell_angle_beta   79.67320378
+_cell_angle_gamma   55.69926147
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbTaBr6
+_chemical_formula_sum   'Rb2 Ta2 Br12'
+_cell_volume   535.68455424
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.91614699  0.08385301  0.75000000  1
+  Rb  Rb1  1  0.08385301  0.91614699  0.25000000  1
+  Ta  Ta2  1  0.00000000  0.50000000  0.00000000  1
+  Ta  Ta3  1  0.50000000  0.00000000  0.50000000  1
+  Br  Br4  1  0.52666910  0.31792801  0.39438991  1
+  Br  Br5  1  0.31792801  0.52666910  0.89438991  1
+  Br  Br6  1  0.68207199  0.47333090  0.10561009  1
+  Br  Br7  1  0.38103429  0.19434434  0.66752128  1
+  Br  Br8  1  0.61896571  0.80565566  0.33247872  1
+  Br  Br9  1  0.09014358  0.20819868  0.46648831  1
+  Br  Br10  1  0.90985642  0.79180132  0.53351169  1
+  Br  Br11  1  0.47333090  0.68207199  0.60561009  1
+  Br  Br12  1  0.20819868  0.09014358  0.96648831  1
+  Br  Br13  1  0.80565566  0.61896571  0.83247872  1
+  Br  Br14  1  0.19434434  0.38103429  0.16752128  1
+  Br  Br15  1  0.79180132  0.90985642  0.03351169  1

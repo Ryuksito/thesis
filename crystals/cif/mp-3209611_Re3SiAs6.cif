@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Re3SiAs6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55997155
+_cell_length_b   7.55997247
+_cell_length_c   7.56003327
+_cell_angle_alpha   109.44609641
+_cell_angle_beta   109.44609633
+_cell_angle_gamma   109.52114861
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Re3SiAs6
+_chemical_formula_sum   'Re6 Si2 As12'
+_cell_volume   332.61644906
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.33921459  0.99961880  0.33883339  1
+  Re  Re1  1  0.99961880  0.33921459  0.33883339  1
+  Re  Re2  1  0.99950686  0.66084720  0.66035406  1
+  Re  Re3  1  0.33913072  0.33913072  0.00080497  1
+  Re  Re4  1  0.66167425  0.66167425  0.00080497  1
+  Re  Re5  1  0.66084720  0.99950686  0.66035406  1
+  Si  Si6  1  0.74789682  0.50357458  0.25147139  1
+  Si  Si7  1  0.50357458  0.74789682  0.25147139  1
+  As  As8  1  0.50306910  0.25146425  0.75453235  1
+  As  As9  1  0.74723124  0.24723124  0.49446148  1
+  As  As10  1  0.24723124  0.74723124  0.49446148  1
+  As  As11  1  0.25146425  0.50306910  0.75453235  1
+  As  As12  1  0.99778675  0.99778675  0.33069336  1
+  As  As13  1  0.66832651  0.00025639  0.00121047  1
+  As  As14  1  0.00025639  0.66832651  0.00121047  1
+  As  As15  1  0.33290661  0.33290661  0.33069336  1
+  As  As16  1  0.00095408  0.33288396  0.00121047  1
+  As  As17  1  0.66823801  0.66823801  0.66642706  1
+  As  As18  1  0.33288396  0.00095408  0.00121047  1
+  As  As19  1  0.99819004  0.99819004  0.66642706  1

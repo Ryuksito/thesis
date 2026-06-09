@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Te3As4SeI4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.06652249
+_cell_length_b   9.95599697
+_cell_length_c   14.12655367
+_cell_angle_alpha   46.35097020
+_cell_angle_beta   89.40494183
+_cell_angle_gamma   88.48216404
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Te3As4SeI4
+_chemical_formula_sum   'Te3 As4 Se1 I4'
+_cell_volume   413.66930503
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.77593547  0.28574920  0.81534700  1
+  Te  Te1  1  0.74999284  0.26839605  0.31961053  1
+  Te  Te2  1  0.25012351  0.73007553  0.67965607  1
+  As  As3  1  0.74993420  0.50477662  0.86381030  1
+  As  As4  1  0.25059625  0.50089299  0.13930572  1
+  As  As5  1  0.78306266  0.49279940  0.36262974  1
+  As  As6  1  0.25388750  0.51194845  0.63143365  1
+  Se  Se7  1  0.21531962  0.68923115  0.19587422  1
+  I  I8  1  0.71101548  0.77079357  0.92054673  1
+  I  I9  1  0.77268865  0.77137844  0.41215155  1
+  I  I10  1  0.21250245  0.23481887  0.57939874  1
+  I  I11  1  0.27494137  0.23913974  0.08023676  1

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba3Sr2(SiN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.21811191
+_cell_length_b   6.21811228
+_cell_length_c   13.62508021
+_cell_angle_alpha   81.22782533
+_cell_angle_beta   81.22782482
+_cell_angle_gamma   67.76784396
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Sr2(SiN3)2
+_chemical_formula_sum   'Ba6 Sr4 Si4 N12'
+_cell_volume   479.34945182
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.60201018  0.39798982  0.75000000  1
+  Ba  Ba1  1  0.39798982  0.60201018  0.25000000  1
+  Ba  Ba2  1  0.20759176  0.67578085  0.99147931  1
+  Ba  Ba3  1  0.32421915  0.79240824  0.50852069  1
+  Ba  Ba4  1  0.79240824  0.32421915  0.00852069  1
+  Ba  Ba5  1  0.67578085  0.20759176  0.49147931  1
+  Sr  Sr6  1  0.90566603  0.78502815  0.71267622  1
+  Sr  Sr7  1  0.21497185  0.09433397  0.78732378  1
+  Sr  Sr8  1  0.09433397  0.21497185  0.28732378  1
+  Sr  Sr9  1  0.78502815  0.90566603  0.21267622  1
+  Si  Si10  1  0.07788130  0.36881797  0.57609655  1
+  Si  Si11  1  0.63118203  0.92211870  0.92390345  1
+  Si  Si12  1  0.92211870  0.63118203  0.42390345  1
+  Si  Si13  1  0.36881797  0.07788130  0.07609655  1
+  N  N14  1  0.01467723  0.12255007  0.62601167  1
+  N  N15  1  0.87744993  0.98532277  0.87398833  1
+  N  N16  1  0.98532277  0.87744993  0.37398833  1
+  N  N17  1  0.12255007  0.01467723  0.12601167  1
+  N  N18  1  0.81142915  0.62254025  0.55452287  1
+  N  N19  1  0.37745975  0.18857085  0.94547713  1
+  N  N20  1  0.18857085  0.37745975  0.44547713  1
+  N  N21  1  0.62254025  0.81142915  0.05452287  1
+  N  N22  1  0.25187143  0.42621919  0.65109359  1
+  N  N23  1  0.57378081  0.74812857  0.84890641  1
+  N  N24  1  0.74812857  0.57378081  0.34890641  1
+  N  N25  1  0.42621919  0.25187143  0.15109359  1

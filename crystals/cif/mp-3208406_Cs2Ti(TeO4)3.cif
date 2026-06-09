@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Cs2Ti(TeO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18514123
+_cell_length_b   7.18514180
+_cell_length_c   7.18593280
+_cell_angle_alpha   60.16059904
+_cell_angle_beta   60.16059686
+_cell_angle_gamma   60.15952781
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Ti(TeO4)3
+_chemical_formula_sum   'Cs2 Ti1 Te3 O12'
+_cell_volume   263.27654686
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.12616954  0.13330737  0.62946918  1
+  Cs  Cs1  1  0.86669263  0.87383046  0.37053082  1
+  Ti  Ti2  1  0.49732691  0.50267309  1.00000000  1
+  Te  Te3  1  0.49754752  0.00233542  0.00011392  1
+  Te  Te4  1  0.99766458  0.50245248  0.99988608  1
+  Te  Te5  1  0.49753172  0.50246828  0.50000000  1
+  O  O6  1  0.81949681  0.82453600  0.93105084  1
+  O  O7  1  0.43347208  0.43865620  0.31947879  1
+  O  O8  1  0.43342405  0.82217472  0.93591413  1
+  O  O9  1  0.81943398  0.43365224  0.32191463  1
+  O  O10  1  0.81686945  0.43866212  0.93612879  1
+  O  O11  1  0.42860130  0.82455028  0.32206350  1
+  O  O12  1  0.17546400  0.18050319  0.06894916  1
+  O  O13  1  0.56134380  0.56652792  0.68052121  1
+  O  O14  1  0.56133788  0.18313055  0.06387121  1
+  O  O15  1  0.17544972  0.57139870  0.67793650  1
+  O  O16  1  0.17782528  0.56657595  0.06408587  1
+  O  O17  1  0.56634776  0.18056602  0.67808537  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ErNb(NiSn)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.57439601
+_cell_length_b   7.57439608
+_cell_length_c   7.57439679
+_cell_angle_alpha   33.08716690
+_cell_angle_beta   33.08716582
+_cell_angle_gamma   33.08716962
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErNb(NiSn)2
+_chemical_formula_sum   'Er1 Nb1 Ni2 Sn2'
+_cell_volume   115.26630218
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.99974644  0.99974644  0.99974644  1
+  Nb  Nb1  1  0.50198766  0.50198766  0.50198766  1
+  Ni  Ni2  1  0.12974666  0.12974666  0.12974666  1
+  Ni  Ni3  1  0.61760211  0.61760211  0.61760211  1
+  Sn  Sn4  1  0.75363801  0.75363801  0.75363801  1
+  Sn  Sn5  1  0.24727712  0.24727712  0.24727712  1

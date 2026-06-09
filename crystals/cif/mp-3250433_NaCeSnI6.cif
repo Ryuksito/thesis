@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_NaCeSnI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.53542499
+_cell_length_b   8.56435202
+_cell_length_c   8.57249982
+_cell_angle_alpha   55.45152339
+_cell_angle_beta   55.56665701
+_cell_angle_gamma   55.50905748
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCeSnI6
+_chemical_formula_sum   'Na1 Ce1 Sn1 I6'
+_cell_volume   396.90785464
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.66715821  0.66770147  0.66783373  1
+  Ce  Ce1  1  0.00088759  0.00027717  0.99955952  1
+  Sn  Sn2  1  0.33276187  0.33228723  0.33278386  1
+  I  I3  1  0.24051811  0.58895282  0.92303761  1
+  I  I4  1  0.58832714  0.92219506  0.24300800  1
+  I  I5  1  0.91976148  0.24401504  0.58957424  1
+  I  I6  1  0.75139967  0.40695554  0.08761120  1
+  I  I7  1  0.41003633  0.08716031  0.75035320  1
+  I  I8  1  0.08915061  0.75045635  0.40623863  1

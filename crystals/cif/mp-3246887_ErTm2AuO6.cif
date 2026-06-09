@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ErTm2AuO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.49622340
+_cell_length_b   5.46758197
+_cell_length_c   6.95941336
+_cell_angle_alpha   89.52597070
+_cell_angle_beta   102.68641457
+_cell_angle_gamma   91.18431498
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErTm2AuO6
+_chemical_formula_sum   'Er1 Tm2 Au1 O6'
+_cell_volume   129.75885033
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.61154604  0.53082299  0.76273668  1
+  Tm  Tm1  1  0.38818988  0.46858683  0.23732483  1
+  Tm  Tm2  1  0.99926378  0.99907188  0.49865235  1
+  Au  Au3  1  0.00001119  0.00013673  0.00056179  1
+  O  O4  1  0.83305878  0.67998488  0.10615124  1
+  O  O5  1  0.16871037  0.32013568  0.89646320  1
+  O  O6  1  0.52351662  0.25502516  0.53084056  1
+  O  O7  1  0.47581152  0.74372901  0.46730724  1
+  O  O8  1  0.12731229  0.80134016  0.78401289  1
+  O  O9  1  0.87257853  0.20116669  0.21594923  1

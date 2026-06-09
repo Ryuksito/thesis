@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Er4Se3N2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.84897024
+_cell_length_b   6.84896990
+_cell_length_c   10.10257288
+_cell_angle_alpha   52.62733130
+_cell_angle_beta   52.62733412
+_cell_angle_gamma   32.80772558
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er4Se3N2
+_chemical_formula_sum   'Er4 Se3 N2'
+_cell_volume   198.82827711
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.44283224  0.44283224  0.84619886  1
+  Er  Er1  1  0.55716776  0.55716776  0.15380114  1
+  Er  Er2  1  0.75934778  0.75934778  0.35918178  1
+  Er  Er3  1  0.24065222  0.24065222  0.64081822  1
+  Se  Se4  1  0.83173531  0.83173531  0.77356813  1
+  Se  Se5  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se6  1  0.16826469  0.16826469  0.22643187  1
+  N  N7  1  0.35320143  0.35320143  0.36321344  1
+  N  N8  1  0.64679857  0.64679857  0.63678756  1

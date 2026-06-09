@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_K3LiOsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.90519192
+_cell_length_b   7.19921215
+_cell_length_c   7.19927605
+_cell_angle_alpha   95.25250847
+_cell_angle_beta   100.64748777
+_cell_angle_gamma   79.35212046
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3LiOsO4
+_chemical_formula_sum   'K6 Li2 Os2 O8'
+_cell_volume   295.08946489
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.97124695  0.75606236  0.06688971  1
+  K  K1  1  0.47124936  0.93311077  0.24392922  1
+  K  K2  1  0.24998612  0.40455220  0.40454683  1
+  K  K3  1  0.75001388  0.59544780  0.59545217  1
+  K  K4  1  0.52875064  0.06688923  0.75607078  1
+  K  K5  1  0.02875405  0.24393764  0.93311029  1
+  Li  Li6  1  0.74999700  0.26668223  0.26668240  1
+  Li  Li7  1  0.25000300  0.73331877  0.73331760  1
+  Os  Os8  1  0.50000000  0.50000000  0.00000000  1
+  Os  Os9  1  0.00000100  0.00000000  0.50000100  1
+  O  O10  1  0.47112855  0.26535911  0.08685341  1
+  O  O11  1  0.75704076  0.51555231  0.20136180  1
+  O  O12  1  0.02886898  0.08684951  0.26535667  1
+  O  O13  1  0.25703483  0.79863264  0.48444526  1
+  O  O14  1  0.74296517  0.20136836  0.51555574  1
+  O  O15  1  0.97113002  0.91315049  0.73464333  1
+  O  O16  1  0.24296024  0.48444769  0.79863820  1
+  O  O17  1  0.52887045  0.73464189  0.91314559  1

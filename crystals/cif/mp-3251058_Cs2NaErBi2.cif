@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs2NaErBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.43266304
+_cell_length_b   10.43266300
+_cell_length_c   10.43266235
+_cell_angle_alpha   136.61175726
+_cell_angle_beta   62.79185413
+_cell_angle_gamma   136.92906650
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2NaErBi2
+_chemical_formula_sum   'Cs4 Na2 Er2 Bi4'
+_cell_volume   526.06982247
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.82242018  0.28010166  0.10252184  1
+  Cs  Cs1  1  0.67757882  0.78010166  0.45768149  1
+  Cs  Cs2  1  0.32242018  0.21989834  0.54231851  1
+  Cs  Cs3  1  0.17757982  0.71989734  0.89747716  1
+  Na  Na4  1  0.75000000  0.25000000  0.50000000  1
+  Na  Na5  1  0.25000000  0.75000000  0.50000000  1
+  Er  Er6  1  0.25000000  0.25000000  0.00000000  1
+  Er  Er7  1  0.75000100  0.75000100  0.00000000  1
+  Bi  Bi8  1  0.40555122  0.72469573  0.13024896  1
+  Bi  Bi9  1  0.09444778  0.22469673  0.31914451  1
+  Bi  Bi10  1  0.90555122  0.77530327  0.68085549  1
+  Bi  Bi11  1  0.59444778  0.27530327  0.86975104  1

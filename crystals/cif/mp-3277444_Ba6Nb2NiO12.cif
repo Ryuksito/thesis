@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Ba6Nb2NiO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.15380646
+_cell_length_b   9.15380632
+_cell_length_c   7.35612312
+_cell_angle_alpha   68.14350196
+_cell_angle_beta   68.14350673
+_cell_angle_gamma   36.95083544
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba6Nb2NiO12
+_chemical_formula_sum   'Ba6 Nb2 Ni1 O12'
+_cell_volume   340.79131299
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.20733676  0.20733676  0.70865894  1
+  Ba  Ba1  1  0.88850051  0.88850051  0.70671809  1
+  Ba  Ba2  1  0.54864180  0.54864180  0.71115175  1
+  Ba  Ba3  1  0.79266324  0.79266324  0.29134106  1
+  Ba  Ba4  1  0.45135820  0.45135820  0.28884825  1
+  Ba  Ba5  1  0.11149949  0.11149949  0.29328191  1
+  Nb  Nb6  1  0.66403690  0.66403690  0.00107698  1
+  Nb  Nb7  1  0.33596310  0.33596310  0.99892302  1
+  Ni  Ni8  1  0.00000000  0.00000000  0.00000000  1
+  O  O9  1  0.28156459  0.28156459  0.30058953  1
+  O  O10  1  0.94625726  0.94625726  0.31905042  1
+  O  O11  1  0.61869991  0.61869991  0.30077461  1
+  O  O12  1  0.71843541  0.71843541  0.69941047  1
+  O  O13  1  0.38130009  0.38130009  0.69922539  1
+  O  O14  1  0.05374274  0.05374274  0.68094958  1
+  O  O15  1  0.00000000  0.50000000  0.00000000  1
+  O  O16  1  0.65639597  0.17199158  0.00033725  1
+  O  O17  1  0.34360403  0.82800842  0.99966275  1
+  O  O18  1  0.50000000  0.00000000  0.00000000  1
+  O  O19  1  0.17199158  0.65639597  0.00033725  1
+  O  O20  1  0.82800842  0.34360403  0.99966275  1

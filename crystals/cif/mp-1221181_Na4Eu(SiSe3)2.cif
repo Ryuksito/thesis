@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Na4Eu(SiSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.06765539
+_cell_length_b   7.06765560
+_cell_length_c   7.91403958
+_cell_angle_alpha   81.33730757
+_cell_angle_beta   81.33731108
+_cell_angle_gamma   119.83644219
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4Eu(SiSe3)2
+_chemical_formula_sum   'Na4 Eu1 Si2 Se6'
+_cell_volume   327.07190436
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50039649  0.49960351  0.00000000  1
+  Na  Na1  1  0.82765546  0.17234454  0.00000000  1
+  Na  Na2  1  0.17194181  0.82805819  1.00000000  1
+  Na  Na3  1  0.66645146  0.33354854  0.50000000  1
+  Eu  Eu4  1  0.33400307  0.66599693  0.50000000  1
+  Si  Si5  1  0.05015747  0.05038064  0.34561394  1
+  Si  Si6  1  0.94961936  0.94984253  0.65438606  1
+  Se  Se7  1  0.77512553  0.77475222  0.25333866  1
+  Se  Se8  1  0.22524778  0.22487447  0.74666134  1
+  Se  Se9  1  0.08153731  0.39001507  0.25263674  1
+  Se  Se10  1  0.38980873  0.08193040  0.25202511  1
+  Se  Se11  1  0.91806960  0.61019127  0.74797489  1
+  Se  Se12  1  0.60998493  0.91846269  0.74736326  1

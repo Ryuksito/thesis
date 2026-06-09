@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ba2LiFeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82275005
+_cell_length_b   6.42284639
+_cell_length_c   7.54537199
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   63.04494491
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2LiFeO4
+_chemical_formula_sum   'Ba4 Li2 Fe2 O8'
+_cell_volume   251.53049051
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.58856931  0.82286138  0.04132471  1
+  Ba  Ba1  1  0.06560919  0.86878462  0.40554319  1
+  Ba  Ba2  1  0.41143069  0.17713762  0.54132471  1
+  Ba  Ba3  1  0.93438981  0.13121638  0.90554319  1
+  Li  Li4  1  0.80664755  0.38670191  0.32573718  1
+  Li  Li5  1  0.19335245  0.61329709  0.82573618  1
+  Fe  Fe6  1  0.31108224  0.37783552  0.11196605  1
+  Fe  Fe7  1  0.68891776  0.62216348  0.61196605  1
+  O  O8  1  0.14751787  0.70496027  0.08017311  1
+  O  O9  1  0.13756603  0.22673815  0.21858663  1
+  O  O10  1  0.63569181  0.22674215  0.21858763  1
+  O  O11  1  0.63365875  0.73268250  0.37708248  1
+  O  O12  1  0.85248113  0.29503973  0.58017311  1
+  O  O13  1  0.36430719  0.77325885  0.71858763  1
+  O  O14  1  0.86243297  0.77326285  0.71858663  1
+  O  O15  1  0.36634125  0.26731650  0.87708248  1

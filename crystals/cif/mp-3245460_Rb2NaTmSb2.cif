@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Rb2NaTmSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.92514478
+_cell_length_b   9.92570710
+_cell_length_c   9.92641678
+_cell_angle_alpha   135.85354122
+_cell_angle_beta   64.07034150
+_cell_angle_gamma   136.04537404
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2NaTmSb2
+_chemical_formula_sum   'Rb4 Na2 Tm2 Sb4'
+_cell_volume   466.33804021
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.82225065  0.27883624  0.10110770  1
+  Rb  Rb1  1  0.67774298  0.77884420  0.45658115  1
+  Rb  Rb2  1  0.32225477  0.22116019  0.54342623  1
+  Rb  Rb3  1  0.17774183  0.72116060  0.89890023  1
+  Na  Na4  1  0.74998707  0.24997197  0.49998695  1
+  Na  Na5  1  0.25000060  0.75002565  0.50001573  1
+  Tm  Tm6  1  0.24999416  0.24997571  0.99992991  1
+  Tm  Tm7  1  0.74996776  0.74995304  0.99999667  1
+  Sb  Sb8  1  0.40165450  0.72380766  0.12552895  1
+  Sb  Sb9  1  0.09829134  0.22386510  0.32222053  1
+  Sb  Sb10  1  0.90175868  0.77620947  0.67782161  1
+  Sb  Sb11  1  0.59835567  0.27618717  0.87448233  1

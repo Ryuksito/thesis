@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na4CaUSe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21581345
+_cell_length_b   7.21581315
+_cell_length_c   7.22409772
+_cell_angle_alpha   80.33163042
+_cell_angle_beta   80.33163378
+_cell_angle_gamma   119.99636804
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4CaUSe6
+_chemical_formula_sum   'Na4 Ca1 U1 Se6'
+_cell_volume   306.83793421
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00028861  0.99971139  1.00000000  1
+  Na  Na1  1  0.50127854  0.49872146  0.50000000  1
+  Na  Na2  1  0.83757567  0.16242433  0.50000000  1
+  Na  Na3  1  0.16040911  0.83959089  0.50000000  1
+  Ca  Ca4  1  0.66661471  0.33338529  0.00000000  1
+  U  U5  1  0.33290336  0.66709664  1.00000000  1
+  Se  Se6  1  0.26208389  0.28516482  0.23149572  1
+  Se  Se7  1  0.41706794  0.05380347  0.76717915  1
+  Se  Se8  1  0.10179827  0.44104884  0.77230510  1
+  Se  Se9  1  0.71483518  0.73791611  0.76850428  1
+  Se  Se10  1  0.55895116  0.89820173  0.22769490  1
+  Se  Se11  1  0.94619653  0.58293206  0.23282085  1

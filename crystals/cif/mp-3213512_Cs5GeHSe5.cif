@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Cs5GeHSe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.25766606
+_cell_length_b   8.25840735
+_cell_length_c   15.13034354
+_cell_angle_alpha   82.37231759
+_cell_angle_beta   82.37217840
+_cell_angle_gamma   110.06032025
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs5GeHSe5
+_chemical_formula_sum   'Cs10 Ge2 H2 Se10'
+_cell_volume   942.86775403
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.26441706  0.26443245  0.96185700  1
+  Cs  Cs1  1  0.57831073  0.06570804  0.80056266  1
+  Cs  Cs2  1  0.06571153  0.57829070  0.80056754  1
+  Cs  Cs3  1  0.81009548  0.81010154  0.60388489  1
+  Cs  Cs4  1  0.66493908  0.33504896  0.50000124  1
+  Cs  Cs5  1  0.33506092  0.66495104  0.49999876  1
+  Cs  Cs6  1  0.18990452  0.18989846  0.39611511  1
+  Cs  Cs7  1  0.93428847  0.42170930  0.19943246  1
+  Cs  Cs8  1  0.42168927  0.93429196  0.19943734  1
+  Cs  Cs9  1  0.73558294  0.73556755  0.03814300  1
+  Ge  Ge10  1  0.16890764  0.16883355  0.69500549  1
+  Ge  Ge11  1  0.83109236  0.83116645  0.30499451  1
+  H  H12  1  0.80549307  0.19450181  0.00000367  1
+  H  H13  1  0.19450693  0.80549819  0.99999633  1
+  Se  Se14  1  0.69683880  0.30308253  0.99996730  1
+  Se  Se15  1  0.30316120  0.69691747  0.00003270  1
+  Se  Se16  1  0.99487175  0.99483975  0.83442104  1
+  Se  Se17  1  0.41310035  0.41295725  0.71198212  1
+  Se  Se18  1  0.27215595  0.98305115  0.61584265  1
+  Se  Se19  1  0.98311301  0.27215247  0.61588494  1
+  Se  Se20  1  0.01688699  0.72784753  0.38411506  1
+  Se  Se21  1  0.72784405  0.01694885  0.38415735  1
+  Se  Se22  1  0.58689965  0.58704275  0.28801788  1
+  Se  Se23  1  0.00512825  0.00516025  0.16557896  1

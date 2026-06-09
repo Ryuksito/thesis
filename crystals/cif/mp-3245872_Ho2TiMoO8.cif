@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ho2TiMoO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39165529
+_cell_length_b   5.01331679
+_cell_length_c   5.23828579
+_cell_angle_alpha   83.10659545
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2TiMoO8
+_chemical_formula_sum   'Ho2 Ti1 Mo1 O8'
+_cell_volume   140.56772306
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.76558928  0.00000000  0.75000000  1
+  Ho  Ho1  1  0.24417560  0.00000000  0.25000000  1
+  Ti  Ti2  1  0.29474328  0.50000000  0.75000000  1
+  Mo  Mo3  1  0.68572011  0.50000000  0.25000000  1
+  O  O4  1  0.56857720  0.26168794  0.02244948  1
+  O  O5  1  0.56857720  0.73831206  0.47755052  1
+  O  O6  1  0.44026356  0.72864791  0.99272928  1
+  O  O7  1  0.44026356  0.27135209  0.50727072  1
+  O  O8  1  0.08546104  0.75557950  0.60269846  1
+  O  O9  1  0.08546104  0.24442050  0.89730154  1
+  O  O10  1  0.91058356  0.26227908  0.39138393  1
+  O  O11  1  0.91058356  0.73772092  0.10861607  1

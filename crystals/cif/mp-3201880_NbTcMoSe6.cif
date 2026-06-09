@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_NbTcMoSe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80251138
+_cell_length_b   5.80241489
+_cell_length_c   7.06509421
+_cell_angle_alpha   82.08776277
+_cell_angle_beta   82.19623421
+_cell_angle_gamma   120.02116695
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbTcMoSe6
+_chemical_formula_sum   'Nb1 Tc1 Mo1 Se6'
+_cell_volume   198.10461216
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.49984589  0.83339834  0.49997184  1
+  Tc  Tc1  1  0.83312392  0.49974182  0.49994595  1
+  Mo  Mo2  1  0.16689723  0.16672851  0.50003337  1
+  Se  Se3  1  0.58353820  0.25830237  0.25683687  1
+  Se  Se4  1  0.23695819  0.57346968  0.25673256  1
+  Se  Se5  1  0.92192468  0.91184788  0.25687828  1
+  Se  Se6  1  0.76024556  0.74930336  0.74311956  1
+  Se  Se7  1  0.42232529  0.09619099  0.74351242  1
+  Se  Se8  1  0.07504304  0.41092205  0.74326714  1

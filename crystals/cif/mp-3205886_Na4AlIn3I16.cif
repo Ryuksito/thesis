@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na4AlIn3I16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.84666852
+_cell_length_b   8.56456017
+_cell_length_c   15.64553624
+_cell_angle_alpha   87.23350556
+_cell_angle_beta   90.25803519
+_cell_angle_gamma   90.02018604
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4AlIn3I16
+_chemical_formula_sum   'Na4 Al1 In3 I16'
+_cell_volume   1050.19504431
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00065225  0.85034960  0.37457165  1
+  Na  Na1  1  0.49705367  0.14844298  0.12652528  1
+  Na  Na2  1  0.00888533  0.15267265  0.62695834  1
+  Na  Na3  1  0.50194439  0.84934445  0.87265290  1
+  Al  Al4  1  0.18397856  0.70925347  0.60061012  1
+  In  In5  1  0.68619397  0.29758874  0.89877484  1
+  In  In6  1  0.81361788  0.29795475  0.39964217  1
+  In  In7  1  0.31043706  0.70068143  0.10038127  1
+  I  I8  1  0.32387180  0.68250451  0.45608630  1
+  I  I9  1  0.83071456  0.31676328  0.05658269  1
+  I  I10  1  0.67106500  0.31437040  0.55744019  1
+  I  I11  1  0.16577313  0.68201025  0.94262326  1
+  I  I12  1  0.14338222  0.19106851  0.42856873  1
+  I  I13  1  0.63984387  0.80724382  0.07059144  1
+  I  I14  1  0.87458698  0.80185354  0.57461976  1
+  I  I15  1  0.35702490  0.18984368  0.92691280  1
+  I  I16  1  0.33399812  0.93017844  0.67900556  1
+  I  I17  1  0.83789270  0.05718651  0.81417859  1
+  I  I18  1  0.66249227  0.05607611  0.31531470  1
+  I  I19  1  0.16197063  0.94221393  0.18549509  1
+  I  I20  1  0.20187892  0.45731167  0.69239477  1
+  I  I21  1  0.70324386  0.56561065  0.79926946  1
+  I  I22  1  0.79490596  0.56703113  0.30073903  1
+  I  I23  1  0.29459397  0.43244548  0.20005905  1

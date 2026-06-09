@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sr4LiCrH12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.83697475
+_cell_length_b   7.83697505
+_cell_length_c   5.45275886
+_cell_angle_alpha   90.00120745
+_cell_angle_beta   90.00121045
+_cell_angle_gamma   139.33159256
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4LiCrH12
+_chemical_formula_sum   'Sr4 Li1 Cr1 H12'
+_cell_volume   218.24674622
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.14999609  0.85000391  0.50000000  1
+  Sr  Sr1  1  0.65408858  0.34591142  0.00000000  1
+  Sr  Sr2  1  0.85000391  0.14999609  0.50000000  1
+  Sr  Sr3  1  0.34591142  0.65408858  0.00000000  1
+  Li  Li4  1  0.00000000  0.00000000  0.00000000  1
+  Cr  Cr5  1  0.50000000  0.50000000  0.50000000  1
+  H  H6  1  0.99996834  0.50000097  0.74353139  1
+  H  H7  1  0.49999903  0.00003166  0.25646861  1
+  H  H8  1  0.00003166  0.49999903  0.25646861  1
+  H  H9  1  0.50000097  0.99996834  0.74353139  1
+  H  H10  1  0.38313826  0.61686174  0.50000000  1
+  H  H11  1  0.87744675  0.12255325  1.00000000  1
+  H  H12  1  0.61686174  0.38313826  0.50000000  1
+  H  H13  1  0.12255325  0.87744675  0.00000000  1
+  H  H14  1  0.27436559  0.27436559  0.72522830  1
+  H  H15  1  0.72563441  0.72563441  0.27477170  1
+  H  H16  1  0.27418395  0.27418395  0.27494755  1
+  H  H17  1  0.72581605  0.72581605  0.72505245  1

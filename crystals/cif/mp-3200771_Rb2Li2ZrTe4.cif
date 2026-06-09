@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Rb2Li2ZrTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.10592139
+_cell_length_b   8.10592105
+_cell_length_c   6.66397662
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   131.38210216
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Li2ZrTe4
+_chemical_formula_sum   'Rb2 Li2 Zr1 Te4'
+_cell_volume   328.53630031
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.50000000  0.00000000  0.25551186  1
+  Rb  Rb1  1  0.00000000  0.50000000  0.74448814  1
+  Li  Li2  1  0.00000000  0.00000000  0.50000000  1
+  Li  Li3  1  0.50000000  0.50000000  0.00000000  1
+  Zr  Zr4  1  0.00000000  0.00000000  0.00000000  1
+  Te  Te5  1  0.86542121  0.65609938  0.23942017  1
+  Te  Te6  1  0.13457879  0.34390062  0.23942017  1
+  Te  Te7  1  0.65609938  0.86542121  0.76057983  1
+  Te  Te8  1  0.34390062  0.13457879  0.76057983  1

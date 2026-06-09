@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba8Sb5I
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.19372599
+_cell_length_b   9.19372726
+_cell_length_c   9.19372675
+_cell_angle_alpha   109.48258063
+_cell_angle_beta   109.48258502
+_cell_angle_gamma   109.44850434
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba8Sb5I
+_chemical_formula_sum   'Ba8 Sb5 I1'
+_cell_volume   598.20879093
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.74627250  0.36340780  0.24258611  1
+  Ba  Ba1  1  0.97403633  0.72990275  0.09195509  1
+  Ba  Ba2  1  0.63794866  0.88208124  0.90804491  1
+  Ba  Ba3  1  0.12082069  0.50368738  0.75741389  1
+  Ba  Ba4  1  0.63659220  0.87917931  0.38286570  1
+  Ba  Ba5  1  0.49631262  0.25372750  0.61713430  1
+  Ba  Ba6  1  0.27009725  0.36205134  0.24413258  1
+  Ba  Ba7  1  0.11791876  0.02596367  0.75586742  1
+  Sb  Sb8  1  0.74824120  0.63230911  0.62238884  1
+  Sb  Sb9  1  0.36769089  0.99007873  0.11593209  1
+  Sb  Sb10  1  0.00992127  0.12585336  0.37761116  1
+  Sb  Sb11  1  0.50000000  0.50000000  0.00000000  1
+  Sb  Sb12  1  0.87414664  0.25175880  0.88406791  1
+  I  I13  1  0.25000000  0.75000000  0.50000000  1

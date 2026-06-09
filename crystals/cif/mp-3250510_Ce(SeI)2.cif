@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ce(SeI)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81623959
+_cell_length_b   7.81623930
+_cell_length_c   8.02797627
+_cell_angle_alpha   79.29589199
+_cell_angle_beta   79.29589606
+_cell_angle_gamma   120.62676323
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce(SeI)2
+_chemical_formula_sum   'Ce2 Se4 I4'
+_cell_volume   391.23703099
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.85511064  0.14488936  0.00000000  1
+  Ce  Ce1  1  0.14488936  0.85511064  1.00000000  1
+  Se  Se2  1  0.86556025  0.86556025  0.29415980  1
+  Se  Se3  1  0.13443975  0.13443975  0.70584020  1
+  Se  Se4  1  0.69731682  0.69731682  0.10922389  1
+  Se  Se5  1  0.30268318  0.30268318  0.89077611  1
+  I  I6  1  0.42489230  0.03004329  0.24760578  1
+  I  I7  1  0.57510770  0.96995671  0.75239422  1
+  I  I8  1  0.96995671  0.57510770  0.75239422  1
+  I  I9  1  0.03004329  0.42489230  0.24760578  1

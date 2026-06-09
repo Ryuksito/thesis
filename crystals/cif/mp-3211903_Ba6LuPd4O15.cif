@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba6LuPd4O15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45316113
+_cell_length_b   7.52166143
+_cell_length_c   7.37038564
+_cell_angle_alpha   86.72273144
+_cell_angle_beta   86.49445267
+_cell_angle_gamma   85.53476732
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba6LuPd4O15
+_chemical_formula_sum   'Ba6 Lu1 Pd4 O15'
+_cell_volume   410.58946556
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.32896262  0.67822155  0.00142322  1
+  Ba  Ba1  1  0.00662404  0.33047158  0.67371082  1
+  Ba  Ba2  1  0.66883841  0.99489725  0.32895673  1
+  Ba  Ba3  1  0.13947331  0.86136108  0.49536137  1
+  Ba  Ba4  1  0.49974524  0.14894541  0.86539718  1
+  Ba  Ba5  1  0.86228650  0.49587102  0.13929204  1
+  Lu  Lu6  1  0.50114090  0.49749171  0.50077643  1
+  Pd  Pd7  1  0.29623638  0.29952750  0.29259615  1
+  Pd  Pd8  1  0.70402606  0.70489238  0.70377760  1
+  Pd  Pd9  1  0.09504070  0.09800870  0.09863773  1
+  Pd  Pd10  1  0.90095994  0.89807092  0.90446677  1
+  O  O11  1  0.14472979  0.99431278  0.84775219  1
+  O  O12  1  0.84343854  0.14139879  0.00285878  1
+  O  O13  1  0.98976551  0.82384821  0.14996107  1
+  O  O14  1  0.03925789  0.21000205  0.34315956  1
+  O  O15  1  0.34296832  0.04212882  0.20189719  1
+  O  O16  1  0.21404658  0.36244949  0.03153775  1
+  O  O17  1  0.79488992  0.96049193  0.65739543  1
+  O  O18  1  0.65850597  0.79950076  0.96356309  1
+  O  O19  1  0.96222940  0.65915692  0.79427412  1
+  O  O20  1  0.37605482  0.24032530  0.54782326  1
+  O  O21  1  0.54729360  0.37294504  0.23743903  1
+  O  O22  1  0.23980320  0.54705954  0.37798271  1
+  O  O23  1  0.76039528  0.62136394  0.45362891  1
+  O  O24  1  0.45360271  0.76016529  0.62228245  1
+  O  O25  1  0.62968535  0.45709005  0.76404741  1

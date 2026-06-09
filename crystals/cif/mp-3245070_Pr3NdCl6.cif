@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Pr3NdCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.09860246
+_cell_length_b   8.09860098
+_cell_length_c   10.59616664
+_cell_angle_alpha   116.67324174
+_cell_angle_beta   116.67323541
+_cell_angle_gamma   29.15806561
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3NdCl6
+_chemical_formula_sum   'Pr3 Nd1 Cl6'
+_cell_volume   299.97801611
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.14037328  0.14037328  0.29543399  1
+  Pr  Pr1  1  0.85913147  0.85913147  0.70460767  1
+  Pr  Pr2  1  0.59276394  0.59276394  0.94689095  1
+  Nd  Nd3  1  0.40786817  0.40786817  0.05313968  1
+  Cl  Cl4  1  0.23155957  0.23155957  0.11874029  1
+  Cl  Cl5  1  0.95079238  0.95079238  0.26105007  1
+  Cl  Cl6  1  0.34304111  0.34304111  0.49278769  1
+  Cl  Cl7  1  0.65620258  0.65620258  0.50759032  1
+  Cl  Cl8  1  0.04786666  0.04786666  0.73572444  1
+  Cl  Cl9  1  0.77039985  0.77039985  0.88403589  1

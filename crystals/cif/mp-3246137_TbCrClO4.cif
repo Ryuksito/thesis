@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_TbCrClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.11426024
+_cell_length_b   6.11426023
+_cell_length_c   6.61271946
+_cell_angle_alpha   102.32907611
+_cell_angle_beta   102.32907844
+_cell_angle_gamma   71.35655560
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbCrClO4
+_chemical_formula_sum   'Tb2 Cr2 Cl2 O8'
+_cell_volume   226.00144973
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.77607980  0.77607980  0.38531648  1
+  Tb  Tb1  1  0.22392020  0.22392020  0.61468352  1
+  Cr  Cr2  1  0.36154573  0.36154573  0.23141555  1
+  Cr  Cr3  1  0.63845427  0.63845427  0.76858445  1
+  Cl  Cl4  1  0.01509298  0.01509298  0.25942654  1
+  Cl  Cl5  1  0.98490702  0.98490702  0.74057246  1
+  O  O6  1  0.71313287  0.71313287  0.01774862  1
+  O  O7  1  0.52990805  0.52990805  0.27093086  1
+  O  O8  1  0.49256867  0.12844438  0.35296199  1
+  O  O9  1  0.12844438  0.49256867  0.35296199  1
+  O  O10  1  0.87155562  0.50743233  0.64704001  1
+  O  O11  1  0.50743233  0.87155562  0.64704001  1
+  O  O12  1  0.47009195  0.47009195  0.72906914  1
+  O  O13  1  0.28686713  0.28686713  0.98225138  1

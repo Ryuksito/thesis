@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CaMnBr18
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.08570106
+_cell_length_b   9.08569888
+_cell_length_c   9.08569985
+_cell_angle_alpha   94.17463704
+_cell_angle_beta   94.17463617
+_cell_angle_gamma   94.17463735
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMnBr18
+_chemical_formula_sum   'Ca1 Mn1 Br18'
+_cell_volume   743.74642901
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50000000  0.50000000  0.50000000  1
+  Mn  Mn1  1  0.00000000  0.00000000  0.00000000  1
+  Br  Br2  1  0.27070581  0.99418181  0.03954768  1
+  Br  Br3  1  0.03954768  0.27070581  0.99418181  1
+  Br  Br4  1  0.99418181  0.03954768  0.27070581  1
+  Br  Br5  1  0.72929419  0.00581819  0.96045232  1
+  Br  Br6  1  0.96045232  0.72929419  0.00581819  1
+  Br  Br7  1  0.00581819  0.96045232  0.72929419  1
+  Br  Br8  1  0.64277511  0.25343278  0.09108682  1
+  Br  Br9  1  0.09108682  0.64277511  0.25343278  1
+  Br  Br10  1  0.25343278  0.09108682  0.64277511  1
+  Br  Br11  1  0.35722489  0.74656722  0.90891318  1
+  Br  Br12  1  0.90891318  0.35722489  0.74656722  1
+  Br  Br13  1  0.74656722  0.90891318  0.35722489  1
+  Br  Br14  1  0.48829368  0.19165709  0.55650598  1
+  Br  Br15  1  0.55650598  0.48829368  0.19165709  1
+  Br  Br16  1  0.19165709  0.55650598  0.48829368  1
+  Br  Br17  1  0.51170632  0.80834291  0.44349402  1
+  Br  Br18  1  0.44349402  0.51170632  0.80834291  1
+  Br  Br19  1  0.80834291  0.44349402  0.51170632  1

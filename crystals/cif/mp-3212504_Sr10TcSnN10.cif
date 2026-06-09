@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Sr10TcSnN10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.32543199
+_cell_length_b   7.32543183
+_cell_length_c   9.39656763
+_cell_angle_alpha   81.91359202
+_cell_angle_beta   81.91359271
+_cell_angle_gamma   59.90078033
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr10TcSnN10
+_chemical_formula_sum   'Sr10 Tc1 Sn1 N10'
+_cell_volume   430.45849683
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.88890937  0.35808768  0.84076447  1
+  Sr  Sr1  1  0.88001895  0.88001895  0.81600348  1
+  Sr  Sr2  1  0.73807237  0.73807237  0.53485622  1
+  Sr  Sr3  1  0.74323349  0.25452087  0.51189873  1
+  Sr  Sr4  1  0.62528145  0.12247100  0.14040771  1
+  Sr  Sr5  1  0.35808768  0.88890937  0.84076447  1
+  Sr  Sr6  1  0.25452087  0.74323349  0.51189873  1
+  Sr  Sr7  1  0.24070037  0.24070037  0.50298067  1
+  Sr  Sr8  1  0.13211000  0.13211000  0.16845480  1
+  Sr  Sr9  1  0.12247100  0.62528145  0.14040771  1
+  Tc  Tc10  1  0.63517317  0.63517317  0.22860911  1
+  Sn  Sn11  1  0.37075455  0.37075455  0.77438665  1
+  N  N12  1  0.88541420  0.48202822  0.31677024  1
+  N  N13  1  0.99384899  0.99384899  0.01710029  1
+  N  N14  1  0.69225134  0.69225134  0.04113140  1
+  N  N15  1  0.54117354  0.54117354  0.69977660  1
+  N  N16  1  0.48202822  0.88541420  0.31677024  1
+  N  N17  1  0.54439437  0.08021629  0.66881173  1
+  N  N18  1  0.48918938  0.48918938  0.27004540  1
+  N  N19  1  0.29975299  0.29975299  0.98948080  1
+  N  N20  1  0.06468542  0.06468542  0.64567483  1
+  N  N21  1  0.08021629  0.54439437  0.66881173  1

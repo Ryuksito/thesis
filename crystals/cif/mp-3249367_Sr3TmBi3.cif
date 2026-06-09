@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr3TmBi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.55801706
+_cell_length_b   8.71835990
+_cell_length_c   8.55801710
+_cell_angle_alpha   109.78922648
+_cell_angle_beta   108.80804760
+_cell_angle_gamma   109.78922351
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3TmBi3
+_chemical_formula_sum   'Sr6 Tm2 Bi6'
+_cell_volume   491.66913928
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.35890859  0.35427721  0.35652765  1
+  Sr  Sr1  1  0.99928365  0.13928974  0.49728547  1
+  Sr  Sr2  1  0.85652765  0.85427721  0.85890859  1
+  Sr  Sr3  1  0.99728547  0.63928974  0.49928365  1
+  Sr  Sr4  1  0.50477464  0.00446074  0.13969283  1
+  Sr  Sr5  1  0.63969283  0.50446074  0.00477464  1
+  Tm  Tm6  1  0.50237674  0.00533156  0.64125654  1
+  Tm  Tm7  1  0.14125654  0.50533156  0.00237674  1
+  Bi  Bi8  1  0.87721662  0.25353440  0.10263487  1
+  Bi  Bi9  1  0.14127289  0.86500983  0.25661524  1
+  Bi  Bi10  1  0.36961114  0.62809653  0.75254314  1
+  Bi  Bi11  1  0.25254314  0.12809653  0.86961114  1
+  Bi  Bi12  1  0.75661524  0.36500983  0.64127289  1
+  Bi  Bi13  1  0.60263487  0.75353440  0.37721662  1

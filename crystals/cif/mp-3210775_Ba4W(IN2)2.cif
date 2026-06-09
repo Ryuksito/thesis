@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ba4W(IN2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.35627155
+_cell_length_b   8.58699082
+_cell_length_c   11.78200962
+_cell_angle_alpha   83.01710970
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4W(IN2)2
+_chemical_formula_sum   'Ba8 W2 I4 N8'
+_cell_volume   638.30673749
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.75000000  0.26476046  0.31049126  1
+  Ba  Ba1  1  0.75000000  0.00536049  0.62255586  1
+  Ba  Ba2  1  0.75000000  0.44448025  0.59569825  1
+  Ba  Ba3  1  0.75000000  0.76301285  0.12802651  1
+  Ba  Ba4  1  0.25000000  0.99463951  0.37744414  1
+  Ba  Ba5  1  0.25000000  0.55551975  0.40430175  1
+  Ba  Ba6  1  0.25000000  0.23698715  0.87197349  1
+  Ba  Ba7  1  0.25000000  0.73523954  0.68950874  1
+  W  W8  1  0.75000000  0.77132463  0.41092772  1
+  W  W9  1  0.25000000  0.22867537  0.58907228  1
+  I  I10  1  0.25000000  0.36349075  0.15569775  1
+  I  I11  1  0.75000000  0.63650925  0.84430225  1
+  I  I12  1  0.25000000  0.87639535  0.08580205  1
+  I  I13  1  0.75000000  0.12360465  0.91419795  1
+  N  N14  1  0.25000000  0.05649125  0.70063535  1
+  N  N15  1  0.00737255  0.22926770  0.49618710  1
+  N  N16  1  0.50737255  0.77073230  0.50381290  1
+  N  N17  1  0.99262745  0.77073230  0.50381290  1
+  N  N18  1  0.75000000  0.59057551  0.33546177  1
+  N  N19  1  0.75000000  0.94350875  0.29936465  1
+  N  N20  1  0.49262745  0.22926770  0.49618710  1
+  N  N21  1  0.25000000  0.40942449  0.66453823  1

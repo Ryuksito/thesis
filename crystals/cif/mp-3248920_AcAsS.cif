@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AcAsS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08274269
+_cell_length_b   4.22052700
+_cell_length_c   18.35879358
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcAsS
+_chemical_formula_sum   'Ac4 As4 S4'
+_cell_volume   316.34635219
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.25000000  0.22334715  0.85399048  1
+  Ac  Ac1  1  0.25000000  0.27665285  0.35399048  1
+  Ac  Ac2  1  0.75000000  0.77665285  0.14600952  1
+  Ac  Ac3  1  0.75000000  0.72334715  0.64600952  1
+  As  As4  1  0.75000000  0.18817306  0.50273479  1
+  As  As5  1  0.75000000  0.31182694  0.00273479  1
+  As  As6  1  0.25000000  0.81182694  0.49726521  1
+  As  As7  1  0.25000000  0.68817306  0.99726521  1
+  S  S8  1  0.25000000  0.22584963  0.68634086  1
+  S  S9  1  0.25000000  0.27415037  0.18634086  1
+  S  S10  1  0.75000000  0.77415037  0.31365914  1
+  S  S11  1  0.75000000  0.72584963  0.81365914  1

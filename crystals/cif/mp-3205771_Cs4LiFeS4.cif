@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs4LiFeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.47953166
+_cell_length_b   8.47953137
+_cell_length_c   8.47953180
+_cell_angle_alpha   135.46005198
+_cell_angle_beta   129.14995905
+_cell_angle_gamma   69.87228922
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs4LiFeS4
+_chemical_formula_sum   'Cs4 Li1 Fe1 S4'
+_cell_volume   325.29371743
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.51893987  0.86544351  0.68280495  1
+  Cs  Cs1  1  0.48106013  0.16386608  0.34650364  1
+  Cs  Cs2  1  0.81736244  0.63455649  0.15349636  1
+  Cs  Cs3  1  0.18263756  0.33613392  0.81719505  1
+  Li  Li4  1  0.00000000  0.25000000  0.25000000  1
+  Fe  Fe5  1  0.00000000  0.75000000  0.75000000  1
+  S  S6  1  0.07829466  0.88266130  0.14614758  1
+  S  S7  1  0.73651372  0.43214709  0.35385242  1
+  S  S8  1  0.92170534  0.06785291  0.80436663  1
+  S  S9  1  0.26348728  0.61733870  0.69563337  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cs4Al3GaH8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.68606473
+_cell_length_b   7.87801567
+_cell_length_c   10.10057183
+_cell_angle_alpha   90.47858954
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs4Al3GaH8
+_chemical_formula_sum   'Cs4 Al3 Ga1 H8'
+_cell_volume   372.86870513
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.75000000  0.37986016  0.67327971  1
+  Cs  Cs1  1  0.75000000  0.88250931  0.82228476  1
+  Cs  Cs2  1  0.25000000  0.11677284  0.17557288  1
+  Cs  Cs3  1  0.25000000  0.62074903  0.32670385  1
+  Al  Al4  1  0.25000000  0.06132339  0.53242947  1
+  Al  Al5  1  0.25000000  0.56595849  0.96577685  1
+  Al  Al6  1  0.75000000  0.43373871  0.03337810  1
+  Ga  Ga7  1  0.75000000  0.93904110  0.46934797  1
+  H  H8  1  0.75000000  0.73800729  0.51951343  1
+  H  H9  1  0.25000000  0.10045923  0.69575650  1
+  H  H10  1  0.25000000  0.60214360  0.80212900  1
+  H  H11  1  0.75000000  0.23034902  0.97983166  1
+  H  H12  1  0.25000000  0.76946539  0.01877155  1
+  H  H13  1  0.75000000  0.39682133  0.19674675  1
+  H  H14  1  0.75000000  0.89875913  0.30837685  1
+  H  H15  1  0.25000000  0.26404197  0.48010169  1

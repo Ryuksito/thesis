@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb3Ho(Br3N)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.94702907
+_cell_length_b   8.94702862
+_cell_length_c   11.34718098
+_cell_angle_alpha   122.30925951
+_cell_angle_beta   122.30925738
+_cell_angle_gamma   25.01157210
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Ho(Br3N)2
+_chemical_formula_sum   'Tb3 Ho1 Br6 N2'
+_cell_volume   321.37637968
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.42120386  0.42120386  0.04109836  1
+  Tb  Tb1  1  0.13535245  0.13535245  0.28446093  1
+  Tb  Tb2  1  0.86525216  0.86525216  0.71524299  1
+  Ho  Ho3  1  0.57761054  0.57761054  0.95944714  1
+  Br  Br4  1  0.22044438  0.22044438  0.11719592  1
+  Br  Br5  1  0.95574503  0.95574503  0.25368871  1
+  Br  Br6  1  0.33560692  0.33560692  0.48908615  1
+  Br  Br7  1  0.66499566  0.66499566  0.51051395  1
+  Br  Br8  1  0.04532188  0.04532188  0.74969649  1
+  Br  Br9  1  0.77786482  0.77786482  0.87992888  1
+  N  N10  1  0.57436089  0.57436089  0.15251585  1
+  N  N11  1  0.42624042  0.42624042  0.84712463  1

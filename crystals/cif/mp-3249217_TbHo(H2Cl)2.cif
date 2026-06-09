@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TbHo(H2Cl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.16838057
+_cell_length_b   10.16838040
+_cell_length_c   10.16837950
+_cell_angle_alpha   20.92196773
+_cell_angle_beta   20.92197115
+_cell_angle_gamma   20.92197172
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbHo(H2Cl)2
+_chemical_formula_sum   'Tb1 Ho1 H4 Cl2'
+_cell_volume   117.39617041
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.11263464  0.11263464  0.11263464  1
+  Ho  Ho1  1  0.88722314  0.88722314  0.88722314  1
+  H  H2  1  0.81372382  0.81372382  0.81372382  1
+  H  H3  1  0.18687326  0.18687326  0.18687326  1
+  H  H4  1  0.54686387  0.54686387  0.54686387  1
+  H  H5  1  0.45346966  0.45346966  0.45346966  1
+  Cl  Cl6  1  0.71977334  0.71977334  0.71977334  1
+  Cl  Cl7  1  0.27943828  0.27943828  0.27943828  1

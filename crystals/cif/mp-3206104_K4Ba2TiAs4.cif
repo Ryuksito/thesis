@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_K4Ba2TiAs4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.41253259
+_cell_length_b   10.41253291
+_cell_length_c   8.09091331
+_cell_angle_alpha   89.12877947
+_cell_angle_beta   89.12877538
+_cell_angle_gamma   119.89766156
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K4Ba2TiAs4
+_chemical_formula_sum   'K8 Ba4 Ti2 As8'
+_cell_volume   760.12950128
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.05471094  0.52623975  0.61894697  1
+  K  K1  1  0.52623975  0.05471094  0.11894697  1
+  K  K2  1  0.27520583  0.13396627  0.81720493  1
+  K  K3  1  0.87107155  0.72739594  0.77472359  1
+  K  K4  1  0.86210846  0.14609328  0.79722897  1
+  K  K5  1  0.72739594  0.87107155  0.27472359  1
+  K  K6  1  0.13396627  0.27520583  0.31720493  1
+  K  K7  1  0.14609328  0.86210846  0.29722897  1
+  Ba  Ba8  1  0.46763485  0.94072237  0.61340677  1
+  Ba  Ba9  1  0.46611753  0.52432957  0.61964272  1
+  Ba  Ba10  1  0.94072237  0.46763485  0.11340677  1
+  Ba  Ba11  1  0.52432957  0.46611753  0.11964272  1
+  Ti  Ti12  1  0.66848131  0.33611028  0.51124021  1
+  Ti  Ti13  1  0.33611028  0.66848131  0.01124021  1
+  As  As14  1  0.66698033  0.34459961  0.82162894  1
+  As  As15  1  0.34459961  0.66698033  0.32162894  1
+  As  As16  1  0.59512003  0.79244828  0.89299044  1
+  As  As17  1  0.20390778  0.40167358  0.92332597  1
+  As  As18  1  0.20149939  0.79350108  0.91065150  1
+  As  As19  1  0.40167358  0.20390778  0.42332597  1
+  As  As20  1  0.79244828  0.59512003  0.39299044  1
+  As  As21  1  0.79350108  0.20149939  0.41065150  1

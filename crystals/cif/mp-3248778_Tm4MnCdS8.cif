@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Tm4MnCdS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.80222813
+_cell_length_b   7.80222564
+_cell_length_c   7.80223116
+_cell_angle_alpha   60.00035192
+_cell_angle_beta   60.00031843
+_cell_angle_gamma   60.00043534
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm4MnCdS8
+_chemical_formula_sum   'Tm4 Mn1 Cd1 S8'
+_cell_volume   335.84941382
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.62334138  0.12555772  0.12555182  1
+  Tm  Tm1  1  0.12555645  0.62333875  0.12555139  1
+  Tm  Tm2  1  0.12555184  0.12555687  0.62334294  1
+  Tm  Tm3  1  0.12555208  0.12555469  0.12554858  1
+  Mn  Mn4  1  0.50000024  0.49999602  0.50000085  1
+  Cd  Cd5  1  0.74999975  0.74999951  0.74999950  1
+  S  S6  1  0.35088433  0.88303952  0.88303766  1
+  S  S7  1  0.88303894  0.35088200  0.88303919  1
+  S  S8  1  0.88303826  0.88303723  0.35088623  1
+  S  S9  1  0.88303673  0.88303799  0.88303721  1
+  S  S10  1  0.88812663  0.37062413  0.37062438  1
+  S  S11  1  0.37062457  0.88812449  0.37062546  1
+  S  S12  1  0.37062368  0.37062406  0.88812843  1
+  S  S13  1  0.37062311  0.37062502  0.37062335  1

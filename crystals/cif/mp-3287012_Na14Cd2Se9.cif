@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Na14Cd2Se9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.24734513
+_cell_length_b   8.24734498
+_cell_length_c   11.52040295
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000450
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na14Cd2Se9
+_chemical_formula_sum   'Na14 Cd2 Se9'
+_cell_volume   678.61993299
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.02281714  0.67312696  0.90909559  1
+  Na  Na1  1  0.32176157  0.95062029  0.59327549  1
+  Na  Na2  1  0.04937971  0.37114228  0.59327549  1
+  Na  Na3  1  0.00000000  0.00000000  0.25040508  1
+  Na  Na4  1  0.00000000  0.00000000  0.74959492  1
+  Na  Na5  1  0.32687304  0.34969018  0.90909559  1
+  Na  Na6  1  0.65030982  0.97718286  0.90909559  1
+  Na  Na7  1  0.37114228  0.32176157  0.40672451  1
+  Na  Na8  1  0.62885772  0.67823843  0.59327549  1
+  Na  Na9  1  0.34969018  0.02281714  0.09090441  1
+  Na  Na10  1  0.67312696  0.65030982  0.09090441  1
+  Na  Na11  1  0.95062029  0.62885772  0.40672451  1
+  Na  Na12  1  0.67823843  0.04937971  0.40672451  1
+  Na  Na13  1  0.97718286  0.32687304  0.09090441  1
+  Cd  Cd14  1  0.33333300  0.66666700  0.25757160  1
+  Cd  Cd15  1  0.66666700  0.33333300  0.74242840  1
+  Se  Se16  1  0.30559166  0.95867186  0.33899349  1
+  Se  Se17  1  0.04132814  0.34691880  0.33899349  1
+  Se  Se18  1  0.33333300  0.66666700  0.02455690  1
+  Se  Se19  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se20  1  0.34691880  0.30559166  0.66100651  1
+  Se  Se21  1  0.65308120  0.69440834  0.33899349  1
+  Se  Se22  1  0.66666700  0.33333300  0.97544310  1
+  Se  Se23  1  0.95867186  0.65308120  0.66100651  1
+  Se  Se24  1  0.69440834  0.04132814  0.66100651  1

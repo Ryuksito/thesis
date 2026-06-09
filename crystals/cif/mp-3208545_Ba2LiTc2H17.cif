@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ba2LiTc2H17
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13942144
+_cell_length_b   5.13942247
+_cell_length_c   9.78037249
+_cell_angle_alpha   89.85243092
+_cell_angle_beta   90.14757020
+_cell_angle_gamma   119.45679498
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2LiTc2H17
+_chemical_formula_sum   'Ba2 Li1 Tc2 H17'
+_cell_volume   224.93856094
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.99259158  0.00740842  0.99069910  1
+  Ba  Ba1  1  0.99037419  0.00962581  0.49250476  1
+  Li  Li2  1  0.65326946  0.34673054  0.24487267  1
+  Tc  Tc3  1  0.31403499  0.68596501  0.25447891  1
+  Tc  Tc4  1  0.65399520  0.34600480  0.74762373  1
+  H  H5  1  0.52052920  0.47947080  0.87070684  1
+  H  H6  1  0.43362269  0.56637731  0.38892047  1
+  H  H7  1  0.52114948  0.47885052  0.62513055  1
+  H  H8  1  0.49013790  0.98663991  0.36251612  1
+  H  H9  1  0.92091872  0.47826803  0.62745952  1
+  H  H10  1  0.47177142  0.94116807  0.12627622  1
+  H  H11  1  0.92738376  0.47900200  0.86660653  1
+  H  H12  1  0.52173197  0.07908128  0.62745952  1
+  H  H13  1  0.01336009  0.50986210  0.36251612  1
+  H  H14  1  0.52099800  0.07261624  0.86660653  1
+  H  H15  1  0.05883193  0.52822858  0.12627622  1
+  H  H16  1  0.66061115  0.74903980  0.22125844  1
+  H  H17  1  0.83119976  0.71250810  0.74463356  1
+  H  H18  1  0.28749190  0.16880024  0.74463356  1
+  H  H19  1  0.25096020  0.33938885  0.22125844  1
+  H  H20  1  0.12701935  0.87298065  0.24313784  1
+  H  H21  1  0.83801808  0.16198192  0.74442633  1

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Rb2Ni(SeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53195941
+_cell_length_b   7.20669723
+_cell_length_c   9.09372767
+_cell_angle_alpha   70.93660516
+_cell_angle_beta   90.01126506
+_cell_angle_gamma   90.01623533
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Ni(SeO3)2
+_chemical_formula_sum   'Rb4 Ni2 Se4 O12'
+_cell_volume   342.65848907
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00001938  0.61085490  0.80541288  1
+  Rb  Rb1  1  0.50002321  0.11084532  0.30540719  1
+  Rb  Rb2  1  0.99998062  0.38914610  0.19458712  1
+  Rb  Rb3  1  0.49997679  0.88915568  0.69459281  1
+  Ni  Ni4  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni5  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se6  1  0.99991469  0.27090902  0.63566478  1
+  Se  Se7  1  0.49985176  0.77090726  0.13568626  1
+  Se  Se8  1  0.00008531  0.72909098  0.36433522  1
+  Se  Se9  1  0.50014824  0.22909274  0.86431374  1
+  O  O10  1  0.24256954  0.72382720  0.48277943  1
+  O  O11  1  0.74254525  0.22381966  0.98275949  1
+  O  O12  1  0.75743146  0.27617380  0.51722057  1
+  O  O13  1  0.25745475  0.77618134  0.01724051  1
+  O  O14  1  0.24215493  0.27625364  0.51721597  1
+  O  O15  1  0.74217935  0.77624337  0.01721477  1
+  O  O16  1  0.75784507  0.72374636  0.48278403  1
+  O  O17  1  0.25782065  0.22375663  0.98278423  1
+  O  O18  1  0.00015821  0.96627737  0.24052982  1
+  O  O19  1  0.50015184  0.46632288  0.74051056  1
+  O  O20  1  0.99984179  0.03372363  0.75947118  1
+  O  O21  1  0.49984816  0.53367712  0.25949044  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ba4CuAgO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19706020
+_cell_length_b   7.19706000
+_cell_length_c   11.37437399
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   132.96885363
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4CuAgO6
+_chemical_formula_sum   'Ba8 Cu2 Ag2 O12'
+_cell_volume   431.10718367
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.20131649  0.91481988  0.75000000  1
+  Ba  Ba1  1  0.64710518  0.35289482  0.50000000  1
+  Ba  Ba2  1  0.79868351  0.08518012  0.25000000  1
+  Ba  Ba3  1  0.91481988  0.20131649  0.75000000  1
+  Ba  Ba4  1  0.08518012  0.79868351  0.25000000  1
+  Ba  Ba5  1  0.35289482  0.64710518  0.00000000  1
+  Ba  Ba6  1  0.35289482  0.64710518  0.50000000  1
+  Ba  Ba7  1  0.64710518  0.35289482  0.00000000  1
+  Cu  Cu8  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu9  1  0.00000000  0.00000000  0.50000000  1
+  Ag  Ag10  1  0.42765043  0.42765043  0.25000000  1
+  Ag  Ag11  1  0.57234957  0.57234957  0.75000000  1
+  O  O12  1  0.26101442  0.57891743  0.25000000  1
+  O  O13  1  0.14415561  0.85584439  0.50000000  1
+  O  O14  1  0.57891743  0.26101442  0.25000000  1
+  O  O15  1  0.75065502  0.75065502  0.39805930  1
+  O  O16  1  0.14415561  0.85584439  0.00000000  1
+  O  O17  1  0.85584439  0.14415561  0.00000000  1
+  O  O18  1  0.42108257  0.73898558  0.75000000  1
+  O  O19  1  0.73898558  0.42108257  0.75000000  1
+  O  O20  1  0.75065502  0.75065502  0.10194070  1
+  O  O21  1  0.85584439  0.14415561  0.50000000  1
+  O  O22  1  0.24934498  0.24934498  0.60194070  1
+  O  O23  1  0.24934498  0.24934498  0.89805930  1

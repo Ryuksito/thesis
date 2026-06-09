@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba4Ag2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.89741130
+_cell_length_b   7.23222804
+_cell_length_c   11.67234150
+_cell_angle_alpha   66.03796915
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4Ag2O7
+_chemical_formula_sum   'Ba8 Ag4 O14'
+_cell_volume   454.93536616
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.76818890  0.28814345  0.56104804  1
+  Ba  Ba1  1  0.72120661  0.71186923  0.20628022  1
+  Ba  Ba2  1  0.73181110  0.28814345  0.06104804  1
+  Ba  Ba3  1  0.22120661  0.28813077  0.29371978  1
+  Ba  Ba4  1  0.23181110  0.71185655  0.43895196  1
+  Ba  Ba5  1  0.77879339  0.71186923  0.70628022  1
+  Ba  Ba6  1  0.27879339  0.28813077  0.79371978  1
+  Ba  Ba7  1  0.26818890  0.71185655  0.93895196  1
+  Ag  Ag8  1  0.73325111  0.99942190  0.38769988  1
+  Ag  Ag9  1  0.26674889  0.00057810  0.61230012  1
+  Ag  Ag10  1  0.76674889  0.99942190  0.88769988  1
+  Ag  Ag11  1  0.23325111  0.00057810  0.11230012  1
+  O  O12  1  0.72384557  0.31060557  0.31087338  1
+  O  O13  1  0.73382354  0.68838453  0.46588102  1
+  O  O14  1  0.48768028  0.99931650  0.27427014  1
+  O  O15  1  0.00000000  0.00000000  0.50000000  1
+  O  O16  1  0.50000000  0.00000000  0.00000000  1
+  O  O17  1  0.98768028  0.00068350  0.22572986  1
+  O  O18  1  0.26617646  0.31161547  0.53411898  1
+  O  O19  1  0.51231972  0.00068350  0.72572986  1
+  O  O20  1  0.22384557  0.68939443  0.18912662  1
+  O  O21  1  0.76617646  0.68838453  0.96588102  1
+  O  O22  1  0.77615443  0.31060557  0.81087338  1
+  O  O23  1  0.23382354  0.31161547  0.03411898  1
+  O  O24  1  0.27615443  0.68939443  0.68912662  1
+  O  O25  1  0.01231972  0.99931650  0.77427014  1

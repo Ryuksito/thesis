@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_GaSbTeCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.44055313
+_cell_length_b   10.44055266
+_cell_length_c   10.44055252
+_cell_angle_alpha   107.32168540
+_cell_angle_beta   107.32168715
+_cell_angle_gamma   113.86152548
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaSbTeCl4
+_chemical_formula_sum   'Ga4 Sb4 Te4 Cl16'
+_cell_volume   872.20098332
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.34102170  0.11710704  0.37788231  1
+  Ga  Ga1  1  0.88289296  0.26077628  0.22391566  1
+  Ga  Ga2  1  0.03686062  0.65897830  0.77608434  1
+  Ga  Ga3  1  0.73922372  0.96313938  0.62211769  1
+  Sb  Sb4  1  0.53338052  0.43081970  0.21368772  1
+  Sb  Sb5  1  0.56918030  0.78286602  0.10256183  1
+  Sb  Sb6  1  0.68030620  0.46661948  0.89743817  1
+  Sb  Sb7  1  0.21713398  0.31969380  0.78631228  1
+  Te  Te8  1  0.78929800  0.68997001  0.20714683  1
+  Te  Te9  1  0.41784883  0.21070200  0.90067301  1
+  Te  Te10  1  0.48282418  0.58215117  0.79285317  1
+  Te  Te11  1  0.31002999  0.51717582  0.09932699  1
+  Cl  Cl12  1  0.79057827  0.03053935  0.45507469  1
+  Cl  Cl13  1  0.57546365  0.33550257  0.54492531  1
+  Cl  Cl14  1  0.91248943  0.39905428  0.10019104  1
+  Cl  Cl15  1  0.96946065  0.42453635  0.76004092  1
+  Cl  Cl16  1  0.93782210  0.74846179  0.91617790  1
+  Cl  Cl17  1  0.18770261  0.08751057  0.48656585  1
+  Cl  Cl18  1  0.33966039  0.90204595  0.29028108  1
+  Cl  Cl19  1  0.09795405  0.38823513  0.43761444  1
+  Cl  Cl20  1  0.60094572  0.70113676  0.51343415  1
+  Cl  Cl21  1  0.25153821  0.16771511  0.18935931  1
+  Cl  Cl22  1  0.29886324  0.81229739  0.89980896  1
+  Cl  Cl23  1  0.95062069  0.66033961  0.56238556  1
+  Cl  Cl24  1  0.97835580  0.06217790  0.81064069  1
+  Cl  Cl25  1  0.83228489  0.02164420  0.08382210  1
+  Cl  Cl26  1  0.66449743  0.20942173  0.23995908  1
+  Cl  Cl27  1  0.61176487  0.04937931  0.70971892  1

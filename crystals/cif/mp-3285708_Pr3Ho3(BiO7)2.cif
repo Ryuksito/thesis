@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Pr3Ho3(BiO7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.60412399
+_cell_length_b   6.62184703
+_cell_length_c   7.76100124
+_cell_angle_alpha   106.97955642
+_cell_angle_beta   89.87752067
+_cell_angle_gamma   99.13704854
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3Ho3(BiO7)2
+_chemical_formula_sum   'Pr3 Ho3 Bi2 O14'
+_cell_volume   320.13475688
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.73019599  0.46044600  0.11346414  1
+  Pr  Pr1  1  0.74031550  0.48250374  0.62112202  1
+  Pr  Pr2  1  0.25651995  0.51839068  0.38235749  1
+  Ho  Ho3  1  0.46331867  0.00466255  0.25252545  1
+  Ho  Ho4  1  0.53367937  0.99285335  0.74692322  1
+  Ho  Ho5  1  0.27182055  0.53953116  0.88389141  1
+  Bi  Bi6  1  0.00174001  0.00352415  0.50275573  1
+  Bi  Bi7  1  0.00474553  0.00024984  0.99790879  1
+  O  O8  1  0.43973278  0.65550331  0.15959486  1
+  O  O9  1  0.53784411  0.34145045  0.83087905  1
+  O  O10  1  0.30423427  0.93187831  0.95461378  1
+  O  O11  1  0.70290507  0.06222813  0.04863128  1
+  O  O12  1  0.29945014  0.93505762  0.51500516  1
+  O  O13  1  0.70291462  0.06432526  0.48317949  1
+  O  O14  1  0.54301965  0.35398890  0.34271924  1
+  O  O15  1  0.44918834  0.64539701  0.66616490  1
+  O  O16  1  0.93784027  0.66692259  0.94526388  1
+  O  O17  1  0.08096101  0.33014831  0.03921412  1
+  O  O18  1  0.07634389  0.34119068  0.62470834  1
+  O  O19  1  0.92713315  0.66379509  0.38735591  1
+  O  O20  1  0.87563712  0.91924099  0.72922319  1
+  O  O21  1  0.12045801  0.08671087  0.27249953  1

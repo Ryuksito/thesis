@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_NaHfCrSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.46381347
+_cell_length_b   14.49918810
+_cell_length_c   6.43292301
+_cell_angle_alpha   90.13581812
+_cell_angle_beta   90.03511496
+_cell_angle_gamma   89.56431342
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHfCrSe4
+_chemical_formula_sum   'Na4 Hf4 Cr4 Se16'
+_cell_volume   696.14380395
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00090266  0.00049552  0.34068557  1
+  Na  Na1  1  0.50027764  0.49915268  0.66730809  1
+  Na  Na2  1  0.99523691  0.49965630  0.00856174  1
+  Na  Na3  1  0.50693529  0.00019284  0.99066193  1
+  Hf  Hf4  1  0.51122682  0.74727153  0.00084503  1
+  Hf  Hf5  1  0.25020528  0.24981783  0.49964328  1
+  Hf  Hf6  1  0.75011386  0.24986083  0.49972255  1
+  Hf  Hf7  1  0.23791138  0.75136129  0.50061325  1
+  Cr  Cr8  1  0.00047528  0.24877965  0.00007739  1
+  Cr  Cr9  1  0.99892680  0.75198493  0.99940156  1
+  Cr  Cr10  1  0.50008018  0.25083476  0.00067941  1
+  Cr  Cr11  1  0.75045797  0.75013658  0.49869782  1
+  Se  Se12  1  0.24959719  0.35093873  0.84552112  1
+  Se  Se13  1  0.76192180  0.64806509  0.82276083  1
+  Se  Se14  1  0.75274157  0.14845117  0.15455210  1
+  Se  Se15  1  0.24342476  0.85504011  0.15837161  1
+  Se  Se16  1  0.25126972  0.14837028  0.15454446  1
+  Se  Se17  1  0.75721716  0.85204010  0.17379437  1
+  Se  Se18  1  0.74775287  0.35089681  0.84593499  1
+  Se  Se19  1  0.24426241  0.64550459  0.83909654  1
+  Se  Se20  1  0.00183265  0.14504959  0.67493710  1
+  Se  Se21  1  0.98672760  0.85238043  0.67308719  1
+  Se  Se22  1  0.49845037  0.35502383  0.32567801  1
+  Se  Se23  1  0.50638285  0.64559425  0.33881303  1
+  Se  Se24  1  0.99840229  0.35424791  0.32641019  1
+  Se  Se25  1  0.99114525  0.65022783  0.32399098  1
+  Se  Se26  1  0.50183971  0.14567960  0.67368488  1
+  Se  Se27  1  0.50428072  0.85294394  0.66192896  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_ErCuPbS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89286316
+_cell_length_b   10.15827880
+_cell_length_c   12.98800696
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErCuPbS3
+_chemical_formula_sum   'Er4 Cu4 Pb4 S12'
+_cell_volume   513.60799842
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.75000000  0.01977511  0.25767699  1
+  Er  Er1  1  0.25000000  0.98022489  0.74232301  1
+  Er  Er2  1  0.75000000  0.51977511  0.24232301  1
+  Er  Er3  1  0.25000000  0.48022489  0.75767699  1
+  Cu  Cu4  1  0.75000000  0.73334787  0.72123850  1
+  Cu  Cu5  1  0.25000000  0.26665213  0.27876150  1
+  Cu  Cu6  1  0.75000000  0.23334787  0.77876150  1
+  Cu  Cu7  1  0.25000000  0.76665213  0.22123850  1
+  Pb  Pb8  1  0.75000000  0.77728673  0.00082664  1
+  Pb  Pb9  1  0.25000000  0.22271327  0.99917336  1
+  Pb  Pb10  1  0.75000000  0.27728673  0.49917336  1
+  Pb  Pb11  1  0.25000000  0.72271327  0.50082664  1
+  S  S12  1  0.75000000  0.26624718  0.17426950  1
+  S  S13  1  0.25000000  0.73375282  0.82573050  1
+  S  S14  1  0.75000000  0.76624718  0.32573050  1
+  S  S15  1  0.25000000  0.23375282  0.67426950  1
+  S  S16  1  0.75000000  0.04605816  0.88132806  1
+  S  S17  1  0.25000000  0.95394184  0.11867194  1
+  S  S18  1  0.75000000  0.54605816  0.61867194  1
+  S  S19  1  0.25000000  0.45394184  0.38132806  1
+  S  S20  1  0.75000000  0.41025466  0.88909102  1
+  S  S21  1  0.25000000  0.58974534  0.11090898  1
+  S  S22  1  0.75000000  0.91025466  0.61090898  1
+  S  S23  1  0.25000000  0.08974534  0.38909102  1

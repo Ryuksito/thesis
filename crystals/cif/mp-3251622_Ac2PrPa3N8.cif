@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ac2PrPa3N8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.17687358
+_cell_length_b   7.17692313
+_cell_length_c   7.19658022
+_cell_angle_alpha   119.90694962
+_cell_angle_beta   90.00513586
+_cell_angle_gamma   119.99731271
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ac2PrPa3N8
+_chemical_formula_sum   'Ac2 Pr1 Pa3 N8'
+_cell_volume   262.47768295
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.99487886  0.98975803  0.98463380  1
+  Ac  Ac1  1  0.75512214  0.51024197  0.26536620  1
+  Pr  Pr2  1  0.37500000  0.75000000  0.12500000  1
+  Pa  Pa3  1  0.37500000  0.75000000  0.62499900  1
+  Pa  Pa4  1  0.37500000  0.24999900  0.62499900  1
+  Pa  Pa5  1  0.87499900  0.24999900  0.62500000  1
+  N  N6  1  0.61858212  0.23720803  0.42092267  1
+  N  N7  1  0.18371202  0.80233949  0.42092195  1
+  N  N8  1  0.61863068  0.80233824  0.42096605  1
+  N  N9  1  0.14468118  0.28941298  0.43409732  1
+  N  N10  1  0.60531782  0.21058802  0.81590268  1
+  N  N11  1  0.13136932  0.69766076  0.82903195  1
+  N  N12  1  0.13141888  0.26279297  0.82907733  1
+  N  N13  1  0.56628798  0.69765951  0.82907805  1

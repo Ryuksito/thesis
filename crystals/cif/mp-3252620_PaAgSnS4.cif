@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_PaAgSnS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.07410859
+_cell_length_b   8.07410867
+_cell_length_c   8.07410893
+_cell_angle_alpha   119.43656132
+_cell_angle_beta   122.53186378
+_cell_angle_gamma   88.32511006
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaAgSnS4
+_chemical_formula_sum   'Pa2 Ag2 Sn2 S8'
+_cell_volume   366.13992594
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.50000000  0.00000000  0.00000000  1
+  Pa  Pa1  1  0.50000000  0.50000000  0.50000000  1
+  Ag  Ag2  1  0.86183926  0.61183926  0.25000000  1
+  Ag  Ag3  1  0.13816074  0.38816074  0.75000000  1
+  Sn  Sn4  1  0.50000000  0.00000000  0.50000000  1
+  Sn  Sn5  1  0.00000000  0.00000000  0.00000000  1
+  S  S6  1  0.72265029  0.72085010  0.49819981  1
+  S  S7  1  0.72265029  0.22444947  0.00180019  1
+  S  S8  1  0.73325112  0.75320547  0.98004565  1
+  S  S9  1  0.27315882  0.75320547  0.51995435  1
+  S  S10  1  0.27734971  0.27914990  0.50180019  1
+  S  S11  1  0.27734971  0.77555053  0.99819981  1
+  S  S12  1  0.26674888  0.24679453  0.01995435  1
+  S  S13  1  0.72684118  0.24679453  0.48004565  1

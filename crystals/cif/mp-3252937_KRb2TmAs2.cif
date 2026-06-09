@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KRb2TmAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.51533658
+_cell_length_b   9.51618460
+_cell_length_c   9.51636796
+_cell_angle_alpha   131.38122411
+_cell_angle_beta   68.03901084
+_cell_angle_gamma   135.48684262
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRb2TmAs2
+_chemical_formula_sum   'K2 Rb4 Tm2 As4'
+_cell_volume   445.44435414
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.74999847  0.25001693  0.50002114  1
+  K  K1  1  0.25001270  0.74993021  0.49993732  1
+  Rb  Rb2  1  0.31354642  0.73889286  0.05249845  1
+  Rb  Rb3  1  0.18642189  0.23890844  0.42532571  1
+  Rb  Rb4  1  0.81356845  0.76106727  0.57466588  1
+  Rb  Rb5  1  0.68644299  0.26110409  0.94751339  1
+  Tm  Tm6  1  0.25001711  0.25011411  0.00015053  1
+  Tm  Tm7  1  0.75000236  0.74990832  0.99984259  1
+  As  As8  1  0.90506751  0.19473681  0.09985968  1
+  As  As9  1  0.59504450  0.69490395  0.28972366  1
+  As  As10  1  0.40493598  0.30508756  0.71029417  1
+  As  As11  1  0.09493963  0.80532746  0.90017048  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2PaCrS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.04127350
+_cell_length_b   7.04143195
+_cell_length_c   7.04123040
+_cell_angle_alpha   120.00044503
+_cell_angle_beta   120.00249584
+_cell_angle_gamma   59.99911849
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2PaCrS6
+_chemical_formula_sum   'Ba2 Pa1 Cr1 S6'
+_cell_volume   246.85004499
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.74996549  0.75002350  0.24997949  1
+  Ba  Ba1  1  0.24997908  0.25001294  0.74996841  1
+  Pa  Pa2  1  0.00003593  0.99998733  0.00003763  1
+  Cr  Cr3  1  0.50004629  0.49998202  0.50004634  1
+  S  S4  1  0.73983447  0.26013767  0.26009871  1
+  S  S5  1  0.26016588  0.73984798  0.26016449  1
+  S  S6  1  0.26015537  0.26014347  0.26015511  1
+  S  S7  1  0.73984897  0.73988098  0.73984886  1
+  S  S8  1  0.73986469  0.26010887  0.73986574  1
+  S  S9  1  0.26010083  0.73987224  0.73983621  1

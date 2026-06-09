@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Nb4Co4Sb5Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28088385
+_cell_length_b   7.28077060
+_cell_length_c   7.28021104
+_cell_angle_alpha   99.78158466
+_cell_angle_beta   99.77883993
+_cell_angle_gamma   131.32250971
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb4Co4Sb5Ir
+_chemical_formula_sum   'Nb4 Co4 Sb5 Ir1'
+_cell_volume   264.06862361
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.81108715  0.41326236  0.20449539  1
+  Nb  Nb1  1  0.59348149  0.78895321  0.40220173  1
+  Nb  Nb2  1  0.18659877  0.59109682  0.79785227  1
+  Nb  Nb3  1  0.00877630  0.00658315  0.99546584  1
+  Co  Co4  1  0.46038985  0.36584903  0.28075207  1
+  Co  Co5  1  0.23426041  0.71489166  0.49455329  1
+  Co  Co6  1  0.02043778  0.13966211  0.70547914  1
+  Co  Co7  1  0.88508948  0.57964296  0.91927918  1
+  Sb  Sb8  1  0.30782605  0.92460129  0.23121657  1
+  Sb  Sb9  1  0.12327508  0.29222285  0.41660810  1
+  Sb  Sb10  1  0.89994341  0.69991457  0.59983523  1
+  Sb  Sb11  1  0.67550371  0.10649611  0.78332378  1
+  Sb  Sb12  1  0.49339688  0.47684083  0.96891675  1
+  Ir  Ir13  1  0.64993364  0.94998307  0.10001867  1

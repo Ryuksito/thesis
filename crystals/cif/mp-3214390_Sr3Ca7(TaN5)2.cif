@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Sr3Ca7(TaN5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.04565626
+_cell_length_b   7.05232664
+_cell_length_c   8.99067146
+_cell_angle_alpha   80.00757279
+_cell_angle_beta   79.74838372
+_cell_angle_gamma   60.53938471
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Ca7(TaN5)2
+_chemical_formula_sum   'Sr3 Ca7 Ta2 N10'
+_cell_volume   380.82389420
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.87018661  0.35437977  0.84641167  1
+  Sr  Sr1  1  0.86605592  0.86938023  0.83620775  1
+  Sr  Sr2  1  0.74439643  0.74147872  0.52763836  1
+  Ca  Ca3  1  0.74935541  0.26303425  0.50539831  1
+  Ca  Ca4  1  0.61813212  0.14540831  0.15523259  1
+  Ca  Ca5  1  0.35385349  0.87313918  0.83610322  1
+  Ca  Ca6  1  0.26267518  0.74798692  0.50742796  1
+  Ca  Ca7  1  0.24443506  0.24092775  0.49093644  1
+  Ca  Ca8  1  0.15641583  0.14004788  0.16294536  1
+  Ca  Ca9  1  0.15756416  0.61333228  0.15178815  1
+  Ta  Ta10  1  0.62964655  0.63274228  0.21990942  1
+  Ta  Ta11  1  0.37044860  0.37058504  0.76878212  1
+  N  N12  1  0.91657890  0.46872014  0.30859768  1
+  N  N13  1  0.99562332  0.98916256  0.04457496  1
+  N  N14  1  0.64554246  0.68700802  0.00244410  1
+  N  N15  1  0.53113198  0.53849508  0.68792748  1
+  N  N16  1  0.47043167  0.91293905  0.31694191  1
+  N  N17  1  0.52952898  0.09589220  0.67305546  1
+  N  N18  1  0.46854338  0.46550930  0.30511592  1
+  N  N19  1  0.32653962  0.32245525  0.98942899  1
+  N  N20  1  0.05749478  0.05791713  0.63587705  1
+  N  N21  1  0.09770855  0.53174367  0.67305609  1

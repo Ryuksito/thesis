@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrTbCuS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80131277
+_cell_length_b   6.80131324
+_cell_length_c   10.23479323
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.28666270
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrTbCuS3
+_chemical_formula_sum   'Sr2 Tb2 Cu2 S6'
+_cell_volume   262.77701375
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.25101687  0.74898313  0.25000000  1
+  Sr  Sr1  1  0.74898313  0.25101687  0.75000000  1
+  Tb  Tb2  1  0.00000000  0.00000000  0.50000000  1
+  Tb  Tb3  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu4  1  0.52697044  0.47302956  0.25000000  1
+  Cu  Cu5  1  0.47302956  0.52697044  0.75000000  1
+  S  S6  1  0.63607784  0.36392216  0.42903983  1
+  S  S7  1  0.36392216  0.63607784  0.57096017  1
+  S  S8  1  0.63607784  0.36392216  0.07096017  1
+  S  S9  1  0.36392216  0.63607784  0.92903983  1
+  S  S10  1  0.92397169  0.07602831  0.25000000  1
+  S  S11  1  0.07602831  0.92397169  0.75000000  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_K2PuF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.15560122
+_cell_length_b   7.15560110
+_cell_length_c   7.15560081
+_cell_angle_alpha   147.19359788
+_cell_angle_beta   130.09782776
+_cell_angle_gamma   61.01368458
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2PuF6
+_chemical_formula_sum   'K2 Pu1 F6'
+_cell_volume   150.41721352
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.66840109  0.66840109  0.00000000  1
+  K  K1  1  0.33159891  0.33159891  1.00000000  1
+  Pu  Pu2  1  0.00000000  0.00000000  0.00000000  1
+  F  F3  1  0.63902869  0.85886980  0.78016089  1
+  F  F4  1  0.20243161  0.50000000  0.70243161  1
+  F  F5  1  0.92129109  0.14113020  0.78016089  1
+  F  F6  1  0.07870891  0.85886980  0.21983911  1
+  F  F7  1  0.79756839  0.50000000  0.29756839  1
+  F  F8  1  0.36097131  0.14113020  0.21983911  1

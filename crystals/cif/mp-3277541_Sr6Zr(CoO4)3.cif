@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Sr6Zr(CoO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.62114273
+_cell_length_b   6.60458313
+_cell_length_c   6.61197494
+_cell_angle_alpha   93.02425438
+_cell_angle_beta   93.04590476
+_cell_angle_gamma   93.03155744
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr6Zr(CoO4)3
+_chemical_formula_sum   'Sr6 Zr1 Co3 O12'
+_cell_volume   287.88035726
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.62397265  0.87554384  0.25288646  1
+  Sr  Sr1  1  0.87647755  0.24857590  0.62385524  1
+  Sr  Sr2  1  0.24852908  0.62499531  0.87516562  1
+  Sr  Sr3  1  0.10826083  0.75026923  0.39135453  1
+  Sr  Sr4  1  0.75024518  0.38938833  0.11040787  1
+  Sr  Sr5  1  0.39097528  0.10960793  0.74950054  1
+  Zr  Zr6  1  0.25003565  0.25002923  0.24988011  1
+  Co  Co7  1  0.50016237  0.50071909  0.49955975  1
+  Co  Co8  1  0.00041527  0.99998415  0.99923769  1
+  Co  Co9  1  0.74749827  0.74684913  0.75556286  1
+  O  O10  1  0.53404769  0.21375701  0.40153672  1
+  O  O11  1  0.21376307  0.40104747  0.53372608  1
+  O  O12  1  0.40164605  0.53313626  0.21256616  1
+  O  O13  1  0.04321344  0.91487908  0.72483602  1
+  O  O14  1  0.91364366  0.72433204  0.03936077  1
+  O  O15  1  0.72555404  0.03848081  0.91088220  1
+  O  O16  1  0.45755602  0.77570475  0.58453565  1
+  O  O17  1  0.77449509  0.58751263  0.45893299  1
+  O  O18  1  0.58841638  0.46257158  0.77509929  1
+  O  O19  1  0.96590855  0.09885514  0.28590802  1
+  O  O20  1  0.09821046  0.28703317  0.96647806  1
+  O  O21  1  0.28697142  0.96672792  0.09872738  1

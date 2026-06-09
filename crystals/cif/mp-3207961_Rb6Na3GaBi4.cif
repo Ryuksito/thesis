@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Rb6Na3GaBi4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.67644365
+_cell_length_b   10.67644345
+_cell_length_c   11.02030530
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000365
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb6Na3GaBi4
+_chemical_formula_sum   'Rb12 Na6 Ga2 Bi8'
+_cell_volume   1087.87114713
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.41743734  0.20871917  0.46154975  1
+  Rb  Rb1  1  0.79128083  0.58256266  0.03845025  1
+  Rb  Rb2  1  0.20871917  0.41743734  0.53845025  1
+  Rb  Rb3  1  0.58256266  0.79128083  0.96154975  1
+  Rb  Rb4  1  0.20871917  0.41743734  0.96154975  1
+  Rb  Rb5  1  0.20871917  0.79128083  0.96154975  1
+  Rb  Rb6  1  0.79128083  0.58256266  0.46154975  1
+  Rb  Rb7  1  0.20871917  0.79128083  0.53845025  1
+  Rb  Rb8  1  0.79128083  0.20871917  0.03845025  1
+  Rb  Rb9  1  0.58256266  0.79128083  0.53845025  1
+  Rb  Rb10  1  0.41743734  0.20871917  0.03845025  1
+  Rb  Rb11  1  0.79128083  0.20871917  0.46154975  1
+  Na  Na12  1  0.23013210  0.11506655  0.75000000  1
+  Na  Na13  1  0.88493345  0.76986790  0.75000000  1
+  Na  Na14  1  0.11506655  0.88493345  0.25000000  1
+  Na  Na15  1  0.76986790  0.88493345  0.25000000  1
+  Na  Na16  1  0.88493345  0.11506655  0.75000000  1
+  Na  Na17  1  0.11506655  0.23013210  0.25000000  1
+  Ga  Ga18  1  0.33333300  0.66666700  0.25000000  1
+  Ga  Ga19  1  0.66666700  0.33333300  0.75000000  1
+  Bi  Bi20  1  0.47921676  0.95843352  0.25000000  1
+  Bi  Bi21  1  0.52078324  0.47921676  0.75000000  1
+  Bi  Bi22  1  0.95843352  0.47921676  0.75000000  1
+  Bi  Bi23  1  0.04156648  0.52078324  0.25000000  1
+  Bi  Bi24  1  0.47921676  0.52078324  0.25000000  1
+  Bi  Bi25  1  0.52078324  0.04156648  0.75000000  1
+  Bi  Bi26  1  0.00000000  0.00000000  0.00000000  1
+  Bi  Bi27  1  0.00000000  0.00000000  0.50000000  1

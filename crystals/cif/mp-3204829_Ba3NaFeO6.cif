@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ba3NaFeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.00134161
+_cell_length_b   7.00134093
+_cell_length_c   7.00134105
+_cell_angle_alpha   91.74899730
+_cell_angle_beta   91.74899245
+_cell_angle_gamma   91.74898779
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3NaFeO6
+_chemical_formula_sum   'Ba6 Na2 Fe2 O12'
+_cell_volume   342.70754050
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.89332824  0.25000000  0.60667176  1
+  Ba  Ba1  1  0.60667176  0.89332824  0.25000000  1
+  Ba  Ba2  1  0.75000000  0.39332824  0.10667176  1
+  Ba  Ba3  1  0.10667176  0.75000000  0.39332824  1
+  Ba  Ba4  1  0.39332824  0.10667176  0.75000000  1
+  Ba  Ba5  1  0.25000000  0.60667176  0.89332824  1
+  Na  Na6  1  0.25000000  0.25000000  0.25000000  1
+  Na  Na7  1  0.75000000  0.75000000  0.75000000  1
+  Fe  Fe8  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe9  1  0.50000000  0.50000000  0.50000000  1
+  O  O10  1  0.54997414  0.24488177  0.41902825  1
+  O  O11  1  0.41902825  0.54997414  0.24488177  1
+  O  O12  1  0.24488177  0.41902825  0.54997414  1
+  O  O13  1  0.95002586  0.08097175  0.25511823  1
+  O  O14  1  0.25511823  0.95002586  0.08097175  1
+  O  O15  1  0.08097175  0.25511823  0.95002586  1
+  O  O16  1  0.45002586  0.75511823  0.58097175  1
+  O  O17  1  0.58097175  0.45002586  0.75511823  1
+  O  O18  1  0.75511823  0.58097175  0.45002586  1
+  O  O19  1  0.04997414  0.91902825  0.74488177  1
+  O  O20  1  0.91902825  0.74488177  0.04997414  1
+  O  O21  1  0.74488177  0.04997414  0.91902825  1

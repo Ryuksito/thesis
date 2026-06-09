@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr3Ca(CdSb2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.74319174
+_cell_length_b   7.56773202
+_cell_length_c   18.27216890
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Ca(CdSb2)2
+_chemical_formula_sum   'Sr6 Ca2 Cd4 Sb8'
+_cell_volume   655.88323057
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.75000000  0.76420941  0.44785333  1
+  Sr  Sr1  1  0.25000000  0.73579059  0.94785333  1
+  Sr  Sr2  1  0.25000000  0.53190691  0.72781830  1
+  Sr  Sr3  1  0.75000000  0.96809309  0.22781830  1
+  Sr  Sr4  1  0.75000000  0.27730368  0.05159503  1
+  Sr  Sr5  1  0.25000000  0.22269632  0.55159503  1
+  Ca  Ca6  1  0.75000000  0.46569917  0.27291116  1
+  Ca  Ca7  1  0.25000000  0.03430083  0.77291116  1
+  Cd  Cd8  1  0.25000000  0.63539896  0.15428587  1
+  Cd  Cd9  1  0.75000000  0.86460104  0.65428587  1
+  Cd  Cd10  1  0.75000000  0.36924908  0.84681977  1
+  Cd  Cd11  1  0.25000000  0.13075092  0.34681977  1
+  Sb  Sb12  1  0.75000000  0.24182015  0.68755947  1
+  Sb  Sb13  1  0.25000000  0.74256188  0.31415448  1
+  Sb  Sb14  1  0.25000000  0.25817985  0.18755947  1
+  Sb  Sb15  1  0.75000000  0.74049137  0.07610627  1
+  Sb  Sb16  1  0.75000000  0.75743812  0.81415448  1
+  Sb  Sb17  1  0.25000000  0.25635006  0.92089433  1
+  Sb  Sb18  1  0.75000000  0.24364994  0.42089433  1
+  Sb  Sb19  1  0.25000000  0.75950863  0.57610627  1

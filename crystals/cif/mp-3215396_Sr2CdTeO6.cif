@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr2CdTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.85401171
+_cell_length_b   5.77182524
+_cell_length_c   9.99873016
+_cell_angle_alpha   54.81787922
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CdTeO6
+_chemical_formula_sum   'Sr4 Cd2 Te2 O12'
+_cell_volume   276.12533173
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.96027435  0.24214415  0.24927385  1
+  Sr  Sr1  1  0.46027435  0.75785585  0.25072615  1
+  Sr  Sr2  1  0.03972565  0.75785585  0.75072615  1
+  Sr  Sr3  1  0.53972565  0.24214415  0.74927385  1
+  Cd  Cd4  1  0.00000000  0.50000000  0.50000000  1
+  Cd  Cd5  1  0.50000000  0.50000000  0.00000000  1
+  Te  Te6  1  0.50000000  0.00000000  0.50000000  1
+  Te  Te7  1  0.00000000  0.00000000  0.00000000  1
+  O  O8  1  0.23245504  0.86090762  0.45408969  1
+  O  O9  1  0.73245504  0.13909238  0.04591031  1
+  O  O10  1  0.76754496  0.13909238  0.54591031  1
+  O  O11  1  0.26754496  0.86090762  0.95408969  1
+  O  O12  1  0.68955570  0.76967206  0.46186733  1
+  O  O13  1  0.18955570  0.23032794  0.03813267  1
+  O  O14  1  0.31044430  0.23032794  0.53813267  1
+  O  O15  1  0.81044430  0.76967206  0.96186733  1
+  O  O16  1  0.02596254  0.69206100  0.22828883  1
+  O  O17  1  0.52596254  0.30793900  0.27171117  1
+  O  O18  1  0.97403746  0.30793900  0.77171117  1
+  O  O19  1  0.47403746  0.69206100  0.72828883  1

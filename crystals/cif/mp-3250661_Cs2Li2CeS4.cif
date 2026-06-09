@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Cs2Li2CeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.85164508
+_cell_length_b   7.85164492
+_cell_length_c   7.95748577
+_cell_angle_alpha   108.02869212
+_cell_angle_beta   108.02869344
+_cell_angle_gamma   31.09302834
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Li2CeS4
+_chemical_formula_sum   'Cs2 Li2 Ce1 S4'
+_cell_volume   239.91415101
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.85980907  0.85980907  0.43473784  1
+  Cs  Cs1  1  0.14019093  0.14019093  0.56526316  1
+  Li  Li2  1  0.31961652  0.31961652  0.01198526  1
+  Li  Li3  1  0.68038348  0.68038348  0.98801574  1
+  Ce  Ce4  1  0.00000000  0.00000000  0.00000000  1
+  S  S5  1  0.18951087  0.18951087  0.14337566  1
+  S  S6  1  0.48172861  0.48172861  0.21411017  1
+  S  S7  1  0.51827139  0.51827139  0.78589083  1
+  S  S8  1  0.81049013  0.81049013  0.85662334  1

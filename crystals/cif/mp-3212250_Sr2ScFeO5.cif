@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sr2ScFeO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73377679
+_cell_length_b   5.93109111
+_cell_length_c   8.66438751
+_cell_angle_alpha   110.01513103
+_cell_angle_beta   109.32229620
+_cell_angle_gamma   90.00000402
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2ScFeO5
+_chemical_formula_sum   'Sr4 Sc2 Fe2 O10'
+_cell_volume   259.12351906
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.11618939  0.63034144  0.22239392  1
+  Sr  Sr1  1  0.89379647  0.36965856  0.77760608  1
+  Sr  Sr2  1  0.39379647  0.90794852  0.77760608  1
+  Sr  Sr3  1  0.61618939  0.09205148  0.22239392  1
+  Sc  Sc4  1  0.49796340  0.50000000  0.00000000  1
+  Sc  Sc5  1  0.99796340  0.00000000  0.00000000  1
+  Fe  Fe6  1  0.28291394  0.32022162  0.50000000  1
+  Fe  Fe7  1  0.78291394  0.67977838  0.50000000  1
+  O  O8  1  0.23725240  0.74083460  0.97484713  1
+  O  O9  1  0.26240426  0.25916540  0.02515287  1
+  O  O10  1  0.76240426  0.26598746  0.02515287  1
+  O  O11  1  0.73725240  0.73401254  0.97484713  1
+  O  O12  1  0.61984804  0.70859056  0.28561366  1
+  O  O13  1  0.33423538  0.29140944  0.71438634  1
+  O  O14  1  0.83423538  0.92297791  0.71438634  1
+  O  O15  1  0.11984804  0.07702209  0.28561366  1
+  O  O16  1  0.11089571  0.59898299  0.50000000  1
+  O  O17  1  0.61089571  0.40101701  0.50000000  1

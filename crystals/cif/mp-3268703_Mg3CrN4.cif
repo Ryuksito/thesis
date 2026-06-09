@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Mg3CrN4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55437745
+_cell_length_b   5.68247165
+_cell_length_c   5.15897488
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg3CrN4
+_chemical_formula_sum   'Mg6 Cr2 N8'
+_cell_volume   192.14634960
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.25313154  0.82939471  0.72242287  1
+  Mg  Mg1  1  0.24686846  0.17060529  0.22242287  1
+  Mg  Mg2  1  0.74686846  0.82939471  0.72242287  1
+  Mg  Mg3  1  0.75313154  0.17060529  0.22242287  1
+  Mg  Mg4  1  0.00000000  0.34923753  0.72089961  1
+  Mg  Mg5  1  0.50000000  0.65076247  0.22089961  1
+  Cr  Cr6  1  0.00000000  0.67388618  0.23084198  1
+  Cr  Cr7  1  0.50000000  0.32611382  0.73084198  1
+  N  N8  1  0.77800387  0.81760856  0.12559508  1
+  N  N9  1  0.72199613  0.18239144  0.62559508  1
+  N  N10  1  0.22199613  0.81760856  0.12559508  1
+  N  N11  1  0.27800387  0.18239144  0.62559508  1
+  N  N12  1  0.00000000  0.38163196  0.12792746  1
+  N  N13  1  0.50000000  0.61836804  0.62792746  1
+  N  N14  1  0.00000000  0.67948113  0.56355504  1
+  N  N15  1  0.50000000  0.32051887  0.06355504  1

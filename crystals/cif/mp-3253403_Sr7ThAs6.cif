@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr7ThAs6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.18663157
+_cell_length_b   8.18663113
+_cell_length_c   8.05314726
+_cell_angle_alpha   109.14126277
+_cell_angle_beta   109.14126170
+_cell_angle_gamma   109.79914870
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr7ThAs6
+_chemical_formula_sum   'Sr7 Th1 As6'
+_cell_volume   417.16375536
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.13631635  0.50106526  0.00058457  1
+  Sr  Sr1  1  0.36474891  0.36368365  0.36426721  1
+  Sr  Sr2  1  0.99893474  0.13525109  0.49951831  1
+  Sr  Sr3  1  0.88007177  0.86792177  0.87088022  1
+  Sr  Sr4  1  0.98785000  0.61992823  0.49081045  1
+  Sr  Sr5  1  0.50000000  1.00000000  0.13749656  1
+  Sr  Sr6  1  0.63207823  0.51215000  0.00295945  1
+  Th  Th7  1  0.50000000  1.00000000  0.64105703  1
+  As  As8  1  0.85910953  0.23759807  0.10110737  1
+  As  As9  1  0.14238318  0.88030391  0.26949926  1
+  As  As10  1  0.37848855  0.64089047  0.74199884  1
+  As  As11  1  0.26240193  0.12151145  0.86350929  1
+  As  As12  1  0.73791973  0.35761682  0.62711608  1
+  As  As13  1  0.61969609  0.76208027  0.38919535  1

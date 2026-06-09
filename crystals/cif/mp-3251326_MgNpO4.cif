@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MgNpO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77334984
+_cell_length_b   5.77334865
+_cell_length_c   5.77334821
+_cell_angle_alpha   107.12391601
+_cell_angle_beta   109.71988946
+_cell_angle_gamma   111.60086317
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgNpO4
+_chemical_formula_sum   'Mg2 Np2 O8'
+_cell_volume   147.90914518
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.00000000  0.50000000  1
+  Mg  Mg1  1  0.50000000  0.50000000  0.00000000  1
+  Np  Np2  1  0.00187848  0.25000000  0.25187848  1
+  Np  Np3  1  0.99812152  0.75000000  0.74812152  1
+  O  O4  1  0.80695409  0.49828988  0.30524397  1
+  O  O5  1  0.19304591  0.50171012  0.69475603  1
+  O  O6  1  0.80695409  0.00171012  0.80866521  1
+  O  O7  1  0.19304591  0.99828988  0.19133479  1
+  O  O8  1  0.70529672  0.95313960  0.25215812  1
+  O  O9  1  0.70098148  0.45313960  0.74784188  1
+  O  O10  1  0.29901852  0.54686040  0.25215812  1
+  O  O11  1  0.29470328  0.04686040  0.74784188  1

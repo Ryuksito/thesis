@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr4TaMnO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83364346
+_cell_length_b   6.83364329
+_cell_length_c   5.64730170
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   131.06347528
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4TaMnO8
+_chemical_formula_sum   'Sr4 Ta1 Mn1 O8'
+_cell_volume   198.84137710
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.64235337  0.35764663  0.00000000  1
+  Sr  Sr1  1  0.14625543  0.85374457  0.50000000  1
+  Sr  Sr2  1  0.85374457  0.14625543  0.50000000  1
+  Sr  Sr3  1  0.35764663  0.64235337  0.00000000  1
+  Ta  Ta4  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn5  1  0.50000000  0.50000000  0.50000000  1
+  O  O6  1  0.75519107  0.75519107  0.75479116  1
+  O  O7  1  0.24480893  0.24480893  0.24520884  1
+  O  O8  1  0.24480893  0.24480893  0.75479116  1
+  O  O9  1  0.75519107  0.75519107  0.24520884  1
+  O  O10  1  0.83760210  0.16239790  0.00000000  1
+  O  O11  1  0.34382629  0.65617371  0.50000000  1
+  O  O12  1  0.65617371  0.34382629  0.50000000  1
+  O  O13  1  0.16239790  0.83760210  0.00000000  1

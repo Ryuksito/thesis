@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ba2AsSe3I
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30259824
+_cell_length_b   10.13075158
+_cell_length_c   12.79655405
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2AsSe3I
+_chemical_formula_sum   'Ba8 As4 Se12 I4'
+_cell_volume   946.69941600
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25000000  0.84193020  0.36399939  1
+  Ba  Ba1  1  0.75000000  0.15806980  0.63600061  1
+  Ba  Ba2  1  0.75000000  0.34193020  0.13600061  1
+  Ba  Ba3  1  0.25000000  0.65806980  0.86399939  1
+  Ba  Ba4  1  0.25000000  0.31220536  0.34117041  1
+  Ba  Ba5  1  0.75000000  0.68779464  0.65882959  1
+  Ba  Ba6  1  0.75000000  0.81220536  0.15882959  1
+  Ba  Ba7  1  0.25000000  0.18779464  0.84117041  1
+  As  As8  1  0.25000000  0.02866060  0.09243564  1
+  As  As9  1  0.75000000  0.97133940  0.90756436  1
+  As  As10  1  0.75000000  0.52866060  0.40756436  1
+  As  As11  1  0.25000000  0.47133940  0.59243564  1
+  Se  Se12  1  0.00653854  0.07767324  0.21141378  1
+  Se  Se13  1  0.99346146  0.92232676  0.78858622  1
+  Se  Se14  1  0.99346146  0.57767324  0.28858622  1
+  Se  Se15  1  0.50653854  0.92232676  0.78858622  1
+  Se  Se16  1  0.00653854  0.42232676  0.71141378  1
+  Se  Se17  1  0.49346146  0.07767324  0.21141378  1
+  Se  Se18  1  0.49346146  0.42232676  0.71141378  1
+  Se  Se19  1  0.50653854  0.57767324  0.28858622  1
+  Se  Se20  1  0.25000000  0.79364076  0.10206551  1
+  Se  Se21  1  0.75000000  0.20635924  0.89793449  1
+  Se  Se22  1  0.75000000  0.29364076  0.39793449  1
+  Se  Se23  1  0.25000000  0.70635924  0.60206551  1
+  I  I24  1  0.25000000  0.39787290  0.05558863  1
+  I  I25  1  0.75000000  0.60212710  0.94441137  1
+  I  I26  1  0.75000000  0.89787290  0.44441137  1
+  I  I27  1  0.25000000  0.10212710  0.55558863  1

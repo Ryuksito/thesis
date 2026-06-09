@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_MnCdP2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.54030594
+_cell_length_b   6.54140465
+_cell_length_c   6.69238884
+_cell_angle_alpha   84.79585244
+_cell_angle_beta   65.61177121
+_cell_angle_gamma   81.55177891
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCdP2O7
+_chemical_formula_sum   'Mn2 Cd2 P4 O14'
+_cell_volume   257.79731917
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.10617847  0.15692343  0.26514051  1
+  Mn  Mn1  1  0.89382153  0.84307657  0.73485949  1
+  Cd  Cd2  1  0.27648306  0.35518329  0.66541211  1
+  Cd  Cd3  1  0.72351694  0.64481671  0.33458789  1
+  P  P4  1  0.23235499  0.65269173  0.24759114  1
+  P  P5  1  0.76764501  0.34730827  0.75240886  1
+  P  P6  1  0.36168150  0.87033545  0.81620470  1
+  P  P7  1  0.63831850  0.12966455  0.18379530  1
+  O  O8  1  0.20866092  0.76367571  0.75485085  1
+  O  O9  1  0.79133908  0.23632429  0.24514915  1
+  O  O10  1  0.09802229  0.49245861  0.22073743  1
+  O  O11  1  0.90197771  0.50754139  0.77926257  1
+  O  O12  1  0.25800296  0.08587743  0.90871767  1
+  O  O13  1  0.74199704  0.91412257  0.09128233  1
+  O  O14  1  0.39029640  0.56349803  0.35461483  1
+  O  O15  1  0.60970360  0.43650197  0.64538517  1
+  O  O16  1  0.60256831  0.26611832  0.98487284  1
+  O  O17  1  0.39743169  0.73388168  0.01512716  1
+  O  O18  1  0.93473185  0.16387359  0.63608583  1
+  O  O19  1  0.06526815  0.83612641  0.36391417  1
+  O  O20  1  0.39729446  0.13020513  0.35564301  1
+  O  O21  1  0.60270554  0.86979487  0.64435699  1

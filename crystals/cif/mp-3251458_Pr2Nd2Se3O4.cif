@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Pr2Nd2Se3O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81511733
+_cell_length_b   6.81511814
+_cell_length_c   8.49636632
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   145.51846117
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2Nd2Se3O4
+_chemical_formula_sum   'Pr2 Nd2 Se3 O4'
+_cell_volume   223.41087346
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.31612403  0.68387597  0.23815129  1
+  Pr  Pr1  1  0.31612403  0.68387597  0.76184871  1
+  Nd  Nd2  1  0.99788450  0.00211550  0.00000000  1
+  Nd  Nd3  1  0.98382126  0.01617874  0.50000000  1
+  Se  Se4  1  0.64395897  0.35604103  0.35239783  1
+  Se  Se5  1  0.68411185  0.31588815  0.00000000  1
+  Se  Se6  1  0.64395897  0.35604103  0.64760217  1
+  O  O7  1  0.91282579  0.08717421  0.75546815  1
+  O  O8  1  0.41141588  0.58858412  0.00000000  1
+  O  O9  1  0.38713393  0.61286607  0.50000000  1
+  O  O10  1  0.91282579  0.08717421  0.24453185  1

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_CsFeAs2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50802113
+_cell_length_b   6.59286022
+_cell_length_c   8.55937708
+_cell_angle_alpha   96.50250672
+_cell_angle_beta   102.39492760
+_cell_angle_gamma   103.32200937
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsFeAs2O7
+_chemical_formula_sum   'Cs2 Fe2 As4 O14'
+_cell_volume   343.88731438
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.00000000  0.50000000  0.50000000  1
+  Cs  Cs1  1  0.00000000  0.50000000  0.00000000  1
+  Fe  Fe2  1  0.37485563  0.18194611  0.73013208  1
+  Fe  Fe3  1  0.62514437  0.81805389  0.26986792  1
+  As  As4  1  0.81853172  0.02256990  0.68424861  1
+  As  As5  1  0.49430504  0.74053507  0.83556260  1
+  As  As6  1  0.18146828  0.97743010  0.31575139  1
+  As  As7  1  0.50569496  0.25946493  0.16443740  1
+  O  O8  1  0.23379658  0.14103751  0.16882463  1
+  O  O9  1  0.33174890  0.87129088  0.73156608  1
+  O  O10  1  0.57190312  0.50699707  0.26730983  1
+  O  O11  1  0.92175272  0.83916948  0.23255024  1
+  O  O12  1  0.66825110  0.12870912  0.26843392  1
+  O  O13  1  0.76620342  0.85896249  0.83117537  1
+  O  O14  1  0.33207680  0.80106552  0.31493000  1
+  O  O15  1  0.48294267  0.75204588  0.02936202  1
+  O  O16  1  0.42809688  0.49300293  0.73269017  1
+  O  O17  1  0.22786681  0.14053896  0.49099228  1
+  O  O18  1  0.77213319  0.85946104  0.50900772  1
+  O  O19  1  0.07824728  0.16083052  0.76744976  1
+  O  O20  1  0.51705733  0.24795412  0.97063798  1
+  O  O21  1  0.66792320  0.19893448  0.68507000  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cd2PtO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.16165431
+_cell_length_b   5.58238139
+_cell_length_c   9.80274293
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd2PtO4
+_chemical_formula_sum   'Cd4 Pt2 O8'
+_cell_volume   173.01410154
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.50000000  0.05843741  0.32188807  1
+  Cd  Cd1  1  0.50000000  0.94156259  0.67811193  1
+  Cd  Cd2  1  0.50000000  0.44156259  0.82188807  1
+  Cd  Cd3  1  0.50000000  0.55843741  0.17811193  1
+  Pt  Pt4  1  0.00000000  0.00000000  0.00000000  1
+  Pt  Pt5  1  0.00000000  0.50000000  0.50000000  1
+  O  O6  1  0.00000000  0.13823332  0.80919791  1
+  O  O7  1  0.00000000  0.86176668  0.19080209  1
+  O  O8  1  0.00000000  0.63823332  0.69080209  1
+  O  O9  1  0.00000000  0.36176668  0.30919791  1
+  O  O10  1  0.50000000  0.27667598  0.53681474  1
+  O  O11  1  0.50000000  0.72332402  0.46318526  1
+  O  O12  1  0.50000000  0.22332402  0.03681474  1
+  O  O13  1  0.50000000  0.77667598  0.96318526  1

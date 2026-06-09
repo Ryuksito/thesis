@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiCrF5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10492837
+_cell_length_b   5.10492844
+_cell_length_c   7.32751627
+_cell_angle_alpha   68.47468480
+_cell_angle_beta   68.47468283
+_cell_angle_gamma   73.65460852
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCrF5
+_chemical_formula_sum   'Li2 Cr2 F10'
+_cell_volume   162.85456552
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.49041973  0.50958027  0.25000000  1
+  Li  Li1  1  0.50958027  0.49041973  0.75000000  1
+  Cr  Cr2  1  0.00000000  0.00000000  0.00000000  1
+  Cr  Cr3  1  0.00000000  0.00000000  0.50000000  1
+  F  F4  1  0.79124584  0.72001623  0.13265434  1
+  F  F5  1  0.25628144  0.68791083  0.45943166  1
+  F  F6  1  0.72001623  0.79124584  0.63265434  1
+  F  F7  1  0.91205305  0.08794695  0.25000000  1
+  F  F8  1  0.31208917  0.74371856  0.04056834  1
+  F  F9  1  0.68791083  0.25628144  0.95943166  1
+  F  F10  1  0.08794695  0.91205305  0.75000000  1
+  F  F11  1  0.27998377  0.20875416  0.36734566  1
+  F  F12  1  0.74371856  0.31208917  0.54056834  1
+  F  F13  1  0.20875416  0.27998377  0.86734566  1

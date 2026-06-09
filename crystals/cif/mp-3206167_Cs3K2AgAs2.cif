@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cs3K2AgAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98676760
+_cell_length_b   5.98676677
+_cell_length_c   20.79188557
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998853
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3K2AgAs2
+_chemical_formula_sum   'Cs6 K4 Ag2 As4'
+_cell_volume   645.37077750
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.33333300  0.66666700  0.55020204  1
+  Cs  Cs1  1  0.66666700  0.33333300  0.05020204  1
+  Cs  Cs2  1  0.66666700  0.33333300  0.44979796  1
+  Cs  Cs3  1  0.33333300  0.66666700  0.94979796  1
+  Cs  Cs4  1  0.33333300  0.66666700  0.75000000  1
+  Cs  Cs5  1  0.66666700  0.33333300  0.25000000  1
+  K  K6  1  0.00000000  0.00000000  0.14808711  1
+  K  K7  1  0.00000000  0.00000000  0.64808711  1
+  K  K8  1  0.00000000  0.00000000  0.85191289  1
+  K  K9  1  0.00000000  0.00000000  0.35191289  1
+  Ag  Ag10  1  0.33333300  0.66666700  0.25000000  1
+  Ag  Ag11  1  0.66666700  0.33333300  0.75000000  1
+  As  As12  1  0.33333300  0.66666700  0.37117511  1
+  As  As13  1  0.66666700  0.33333300  0.87117511  1
+  As  As14  1  0.66666700  0.33333300  0.62882489  1
+  As  As15  1  0.33333300  0.66666700  0.12882489  1

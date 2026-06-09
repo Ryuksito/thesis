@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Cd2Ga3FeBr16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.07806650
+_cell_length_b   7.53059023
+_cell_length_c   13.78017370
+_cell_angle_alpha   87.45503688
+_cell_angle_beta   90.17979318
+_cell_angle_gamma   90.20176014
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd2Ga3FeBr16
+_chemical_formula_sum   'Cd2 Ga3 Fe1 Br16'
+_cell_volume   733.77879451
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.76074117  0.07634036  0.81347191  1
+  Cd  Cd1  1  0.24183765  0.07266939  0.31330377  1
+  Ga  Ga2  1  0.06923242  0.22733573  0.07803272  1
+  Ga  Ga3  1  0.58234813  0.63687788  0.77455867  1
+  Ga  Ga4  1  0.41849716  0.63548059  0.27480755  1
+  Fe  Fe5  1  0.92945832  0.22084916  0.58124415  1
+  Br  Br6  1  0.42292926  0.61237083  0.63206221  1
+  Br  Br7  1  0.57868572  0.61032140  0.13334741  1
+  Br  Br8  1  0.89795310  0.73824126  0.75773382  1
+  Br  Br9  1  0.10318707  0.73430530  0.25704378  1
+  Br  Br10  1  0.92965159  0.48634019  0.49614082  1
+  Br  Br11  1  0.06881905  0.49325988  0.99369904  1
+  Br  Br12  1  0.91286452  0.99504335  0.99848773  1
+  Br  Br13  1  0.08465400  0.99569940  0.49605888  1
+  Br  Br14  1  0.61836146  0.12393108  0.62099286  1
+  Br  Br15  1  0.37577907  0.12164207  0.11978899  1
+  Br  Br16  1  0.57221181  0.37388338  0.87717133  1
+  Br  Br17  1  0.42723516  0.37387328  0.37836815  1
+  Br  Br18  1  0.44839883  0.86418613  0.86835368  1
+  Br  Br19  1  0.55422802  0.86468551  0.36794480  1
+  Br  Br20  1  0.92538102  0.23687975  0.23462725  1
+  Br  Br21  1  0.07754545  0.24058908  0.73716249  1

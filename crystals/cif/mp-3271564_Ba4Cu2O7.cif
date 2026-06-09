@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba4Cu2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75504481
+_cell_length_b   7.06073332
+_cell_length_c   11.40490748
+_cell_angle_alpha   66.11350044
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4Cu2O7
+_chemical_formula_sum   'Ba8 Cu4 O14'
+_cell_volume   423.74292986
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.75944688  0.28709546  0.56083400  1
+  Ba  Ba1  1  0.73548955  0.71272949  0.20476495  1
+  Ba  Ba2  1  0.74055312  0.28709546  0.06083400  1
+  Ba  Ba3  1  0.23548955  0.28727051  0.29523505  1
+  Ba  Ba4  1  0.24055312  0.71290454  0.43916600  1
+  Ba  Ba5  1  0.76451045  0.71272949  0.70476495  1
+  Ba  Ba6  1  0.26451045  0.28727051  0.79523505  1
+  Ba  Ba7  1  0.25944688  0.71290454  0.93916600  1
+  Cu  Cu8  1  0.75481495  0.99984145  0.38327706  1
+  Cu  Cu9  1  0.24518505  0.00015855  0.61672294  1
+  Cu  Cu10  1  0.74518505  0.99984145  0.88327706  1
+  Cu  Cu11  1  0.25481495  0.00015855  0.11672294  1
+  O  O12  1  0.73893589  0.29288395  0.31474501  1
+  O  O13  1  0.74274009  0.70665135  0.46091293  1
+  O  O14  1  0.52001023  0.99994354  0.27650134  1
+  O  O15  1  0.00000000  0.00000000  0.50000000  1
+  O  O16  1  0.50000000  0.00000000  0.00000000  1
+  O  O17  1  0.02001023  0.00005646  0.22349866  1
+  O  O18  1  0.25725991  0.29334865  0.53908707  1
+  O  O19  1  0.47998977  0.00005646  0.72349866  1
+  O  O20  1  0.23893589  0.70711605  0.18525499  1
+  O  O21  1  0.75725991  0.70665135  0.96091293  1
+  O  O22  1  0.76106411  0.29288395  0.81474501  1
+  O  O23  1  0.24274009  0.29334865  0.03908707  1
+  O  O24  1  0.26106411  0.70711605  0.68525499  1
+  O  O25  1  0.97998977  0.99994354  0.77650134  1

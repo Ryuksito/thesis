@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_ScTa3Pb4O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.53421503
+_cell_length_b   7.53421555
+_cell_length_c   7.53421432
+_cell_angle_alpha   59.83354828
+_cell_angle_beta   59.83354915
+_cell_angle_gamma   59.83354806
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScTa3Pb4O13
+_chemical_formula_sum   'Sc1 Ta3 Pb4 O13'
+_cell_volume   301.26954947
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.50042037  0.50042037  0.50042037  1
+  Ta  Ta1  1  0.00190665  0.50109961  0.50109961  1
+  Ta  Ta2  1  0.50109961  0.50109961  0.00190665  1
+  Ta  Ta3  1  0.50109961  0.00190665  0.50109961  1
+  Pb  Pb4  1  0.00437627  0.00437627  0.00437627  1
+  Pb  Pb5  1  0.50468869  0.01096977  0.01096977  1
+  Pb  Pb6  1  0.01096977  0.01096977  0.50468869  1
+  Pb  Pb7  1  0.01096977  0.50468869  0.01096977  1
+  O  O8  1  0.84386610  0.41593251  0.41593251  1
+  O  O9  1  0.42610692  0.80974958  0.80974958  1
+  O  O10  1  0.41593251  0.41593251  0.84386610  1
+  O  O11  1  0.80974958  0.80974958  0.42610692  1
+  O  O12  1  0.80974958  0.42610692  0.80974958  1
+  O  O13  1  0.41593251  0.84386610  0.41593251  1
+  O  O14  1  0.17049996  0.56672913  0.56672913  1
+  O  O15  1  0.56981359  0.18389646  0.18389646  1
+  O  O16  1  0.56672913  0.56672913  0.17049996  1
+  O  O17  1  0.18389646  0.18389646  0.56981359  1
+  O  O18  1  0.18389646  0.56981359  0.18389646  1
+  O  O19  1  0.56672913  0.17049996  0.56672913  1
+  O  O20  1  0.12656736  0.12656736  0.12656736  1

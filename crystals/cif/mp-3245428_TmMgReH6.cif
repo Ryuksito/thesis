@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TmMgReH6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.84990377
+_cell_length_b   4.84990109
+_cell_length_c   4.84988266
+_cell_angle_alpha   120.00001774
+_cell_angle_beta   119.99996570
+_cell_angle_gamma   89.99969440
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmMgReH6
+_chemical_formula_sum   'Tm1 Mg1 Re1 H6'
+_cell_volume   80.66469642
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.74999709  0.24999974  0.50000465  1
+  Mg  Mg1  1  0.25000326  0.74998501  0.49998775  1
+  Re  Re2  1  0.99999914  0.99999005  0.99999390  1
+  H  H3  1  0.25437649  0.25438199  0.00000550  1
+  H  H4  1  0.74562470  0.25438149  0.00000032  1
+  H  H5  1  0.25437752  0.74562813  0.00000487  1
+  H  H6  1  0.74562037  0.74562298  0.00000061  1
+  H  H7  1  0.74562026  0.74562513  0.49124262  1
+  H  H8  1  0.25437617  0.25438049  0.50875479  1

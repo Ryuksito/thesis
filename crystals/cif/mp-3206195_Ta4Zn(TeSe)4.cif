@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ta4Zn(TeSe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.73559958
+_cell_length_b   7.73559969
+_cell_length_c   7.73559996
+_cell_angle_alpha   59.99999464
+_cell_angle_beta   59.99999418
+_cell_angle_gamma   59.99999415
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4Zn(TeSe)4
+_chemical_formula_sum   'Ta4 Zn1 Te4 Se4'
+_cell_volume   327.31576020
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.59897963  0.59897963  0.20306110  1
+  Ta  Ta1  1  0.59897963  0.20306110  0.59897963  1
+  Ta  Ta2  1  0.20306110  0.59897963  0.59897963  1
+  Ta  Ta3  1  0.59897963  0.59897963  0.59897963  1
+  Zn  Zn4  1  0.00000000  0.00000000  0.00000000  1
+  Te  Te5  1  0.86465363  0.86465363  0.40603712  1
+  Te  Te6  1  0.86465363  0.40603712  0.86465363  1
+  Te  Te7  1  0.40603712  0.86465363  0.86465363  1
+  Te  Te8  1  0.86465363  0.86465363  0.86465363  1
+  Se  Se9  1  0.37018722  0.37018722  0.88944035  1
+  Se  Se10  1  0.37018722  0.88944035  0.37018722  1
+  Se  Se11  1  0.88944035  0.37018722  0.37018722  1
+  Se  Se12  1  0.37018722  0.37018722  0.37018722  1

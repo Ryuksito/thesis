@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba6TbPd4O15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.38685464
+_cell_length_b   7.53841701
+_cell_length_c   7.47355084
+_cell_angle_alpha   85.32951551
+_cell_angle_beta   86.30573744
+_cell_angle_gamma   86.55537272
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba6TbPd4O15
+_chemical_formula_sum   'Ba6 Tb1 Pd4 O15'
+_cell_volume   413.29271128
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.32659230  0.66905259  0.99306923  1
+  Ba  Ba1  1  0.99876013  0.32163276  0.67114468  1
+  Ba  Ba2  1  0.67027776  0.00574001  0.33205426  1
+  Ba  Ba3  1  0.13273530  0.85157853  0.49980402  1
+  Ba  Ba4  1  0.50435109  0.13732458  0.86138215  1
+  Ba  Ba5  1  0.86186419  0.50381490  0.13649809  1
+  Tb  Tb6  1  0.49930318  0.50333701  0.49823448  1
+  Pd  Pd7  1  0.29435038  0.29300545  0.29396425  1
+  Pd  Pd8  1  0.70956642  0.70236356  0.70579156  1
+  Pd  Pd9  1  0.09499204  0.10125973  0.09887242  1
+  Pd  Pd10  1  0.90161047  0.90269420  0.90581632  1
+  O  O11  1  0.15179647  0.00576800  0.85607404  1
+  O  O12  1  0.85057887  0.17589861  0.01039257  1
+  O  O13  1  0.99665671  0.85903684  0.15650610  1
+  O  O14  1  0.03517105  0.19935904  0.34118266  1
+  O  O15  1  0.34206020  0.03794302  0.20442895  1
+  O  O16  1  0.20482844  0.33990438  0.03665724  1
+  O  O17  1  0.79929670  0.95920388  0.65811824  1
+  O  O18  1  0.65748691  0.79071349  0.96199812  1
+  O  O19  1  0.97008483  0.63780790  0.78711016  1
+  O  O20  1  0.37452526  0.23272850  0.54454457  1
+  O  O21  1  0.54456983  0.37479596  0.23172378  1
+  O  O22  1  0.22837740  0.54122084  0.36539881  1
+  O  O23  1  0.77048922  0.63170867  0.45435461  1
+  O  O24  1  0.45408067  0.76767580  0.62784193  1
+  O  O25  1  0.62559618  0.45442974  0.76703776  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb4NaAlSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.49711359
+_cell_length_b   8.49711339
+_cell_length_c   8.49711007
+_cell_angle_alpha   132.03507147
+_cell_angle_beta   129.54659858
+_cell_angle_gamma   72.16418015
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb4NaAlSe4
+_chemical_formula_sum   'Rb4 Na1 Al1 Se4'
+_cell_volume   343.56425018
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.81016416  0.65750161  0.17457545  1
+  Rb  Rb1  1  0.18983684  0.36441130  0.84733845  1
+  Rb  Rb2  1  0.51707285  0.84249839  0.65266155  1
+  Rb  Rb3  1  0.48292515  0.13558870  0.32542455  1
+  Na  Na4  1  0.00000000  0.75000000  0.75000000  1
+  Al  Al5  1  0.00000000  0.25000000  0.25000000  1
+  Se  Se6  1  0.29027936  0.55927375  0.64511842  1
+  Se  Se7  1  0.08584468  0.94072625  0.23100461  1
+  Se  Se8  1  0.91415532  0.14516094  0.85488158  1
+  Se  Se9  1  0.70972164  0.35484006  0.26899539  1

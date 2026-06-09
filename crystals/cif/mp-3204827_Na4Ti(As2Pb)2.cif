@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Na4Ti(As2Pb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.64820024
+_cell_length_b   9.64820006
+_cell_length_c   7.30922121
+_cell_angle_alpha   90.52112916
+_cell_angle_beta   90.52113553
+_cell_angle_gamma   120.63774058
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4Ti(As2Pb)2
+_chemical_formula_sum   'Na8 Ti2 As8 Pb4'
+_cell_volume   585.32104705
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.47141537  0.93968879  0.38372832  1
+  Na  Na1  1  0.93968879  0.47141537  0.88372832  1
+  Na  Na2  1  0.85405665  0.70666353  0.21303380  1
+  Na  Na3  1  0.29563738  0.14601959  0.21048558  1
+  Na  Na4  1  0.84791995  0.14288868  0.21930344  1
+  Na  Na5  1  0.14601959  0.29563738  0.71048558  1
+  Na  Na6  1  0.70666353  0.85405665  0.71303380  1
+  Na  Na7  1  0.14288868  0.84791995  0.71930344  1
+  Ti  Ti8  1  0.66730902  0.33256901  0.49559518  1
+  Ti  Ti9  1  0.33256901  0.66730902  0.99559518  1
+  As  As10  1  0.18599883  0.38855483  0.11850290  1
+  As  As11  1  0.61373868  0.80185818  0.12243252  1
+  As  As12  1  0.18823636  0.79947986  0.11612057  1
+  As  As13  1  0.80185818  0.61373868  0.62243252  1
+  As  As14  1  0.38855483  0.18599883  0.61850290  1
+  As  As15  1  0.79947986  0.18823636  0.61612057  1
+  As  As16  1  0.66559414  0.32975534  0.15723689  1
+  As  As17  1  0.32975534  0.66559414  0.65723689  1
+  Pb  Pb18  1  0.06899196  0.53956545  0.36988273  1
+  Pb  Pb19  1  0.47000976  0.54406266  0.37597506  1
+  Pb  Pb20  1  0.53956545  0.06899196  0.86988273  1
+  Pb  Pb21  1  0.54406266  0.47000976  0.87597506  1

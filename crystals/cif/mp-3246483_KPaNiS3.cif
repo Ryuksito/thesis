@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KPaNiS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.27399089
+_cell_length_b   7.27399178
+_cell_length_c   10.04441030
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   148.97846723
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KPaNiS3
+_chemical_formula_sum   'K2 Pa2 Ni2 S6'
+_cell_volume   273.89295425
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.74165882  0.25834118  0.25000000  1
+  K  K1  1  0.25834118  0.74165882  0.75000000  1
+  Pa  Pa2  1  0.00000000  0.00000000  0.00000000  1
+  Pa  Pa3  1  0.00000000  0.00000000  0.50000000  1
+  Ni  Ni4  1  0.47244023  0.52755977  0.25000000  1
+  Ni  Ni5  1  0.52755977  0.47244023  0.75000000  1
+  S  S6  1  0.37726766  0.62273234  0.06918596  1
+  S  S7  1  0.06167022  0.93832978  0.25000000  1
+  S  S8  1  0.37726766  0.62273234  0.43081504  1
+  S  S9  1  0.62273234  0.37726766  0.56918596  1
+  S  S10  1  0.93832978  0.06167022  0.75000000  1
+  S  S11  1  0.62273234  0.37726766  0.93081404  1

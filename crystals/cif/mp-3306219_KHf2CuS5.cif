@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KHf2CuS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.68238554
+_cell_length_b   7.40320355
+_cell_length_c   15.59069004
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   75.58528383
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KHf2CuS5
+_chemical_formula_sum   'K2 Hf4 Cu2 S10'
+_cell_volume   411.64471444
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.95890008  0.08291235  0.25000000  1
+  K  K1  1  0.04109492  0.91708531  0.75000000  1
+  Hf  Hf2  1  0.20973028  0.58046077  0.09743140  1
+  Hf  Hf3  1  0.20973028  0.58046077  0.40256860  1
+  Hf  Hf4  1  0.79025904  0.41953916  0.59743321  1
+  Hf  Hf5  1  0.79025904  0.41953916  0.90256679  1
+  Cu  Cu6  1  0.68020006  0.64251380  0.25000000  1
+  Cu  Cu7  1  0.31981512  0.35748331  0.75000000  1
+  S  S8  1  0.82906876  0.34194620  0.06133734  1
+  S  S9  1  0.59269109  0.81421761  0.12697596  1
+  S  S10  1  0.27818865  0.44505914  0.25000000  1
+  S  S11  1  0.59269109  0.81421761  0.37302404  1
+  S  S12  1  0.82906876  0.34194620  0.43866266  1
+  S  S13  1  0.17093181  0.65805738  0.56133898  1
+  S  S14  1  0.40730882  0.18578148  0.62697685  1
+  S  S15  1  0.72181155  0.55494090  0.75000000  1
+  S  S16  1  0.40730882  0.18578148  0.87302315  1
+  S  S17  1  0.17093181  0.65805738  0.93866102  1

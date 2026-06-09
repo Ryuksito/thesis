@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_CsMn4Ga5Se12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.89184645
+_cell_length_b   8.89261490
+_cell_length_c   8.93239756
+_cell_angle_alpha   107.10550927
+_cell_angle_beta   107.88353314
+_cell_angle_gamma   107.37753006
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsMn4Ga5Se12
+_chemical_formula_sum   'Cs1 Mn4 Ga5 Se12'
+_cell_volume   580.72826744
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.99804524  0.99758672  0.99456410  1
+  Mn  Mn1  1  0.63134427  0.70945783  0.39448174  1
+  Mn  Mn2  1  0.39990141  0.63667638  0.71761732  1
+  Mn  Mn3  1  0.71052443  0.39249464  0.63137470  1
+  Mn  Mn4  1  0.18367616  0.56311888  0.02391933  1
+  Ga  Ga5  1  0.48554573  0.33751412  0.94189589  1
+  Ga  Ga6  1  0.93893231  0.49054447  0.34255186  1
+  Ga  Ga7  1  0.33359355  0.93456501  0.48344536  1
+  Ga  Ga8  1  0.02063730  0.18612850  0.55791315  1
+  Ga  Ga9  1  0.55979260  0.02474274  0.18467175  1
+  Se  Se10  1  0.78391002  0.93351190  0.29824720  1
+  Se  Se11  1  0.30804642  0.79663042  0.93299427  1
+  Se  Se12  1  0.92838328  0.29045853  0.77349699  1
+  Se  Se13  1  0.07013194  0.69686599  0.23863723  1
+  Se  Se14  1  0.23223309  0.07804673  0.69094058  1
+  Se  Se15  1  0.69902885  0.23355306  0.07930722  1
+  Se  Se16  1  0.37940327  0.43366790  0.14851730  1
+  Se  Se17  1  0.14866115  0.37774212  0.44295993  1
+  Se  Se18  1  0.43717282  0.14359996  0.37204362  1
+  Se  Se19  1  0.86224227  0.63096540  0.55725478  1
+  Se  Se20  1  0.55176957  0.85877201  0.62744203  1
+  Se  Se21  1  0.63166430  0.54799568  0.86036264  1

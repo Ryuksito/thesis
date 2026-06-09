@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Cs2LaNpTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71702838
+_cell_length_b   4.71635971
+_cell_length_c   17.84279325
+_cell_angle_alpha   90.04488842
+_cell_angle_beta   89.92678462
+_cell_angle_gamma   120.08699837
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2LaNpTe4
+_chemical_formula_sum   'Cs2 La1 Np1 Te4'
+_cell_volume   343.46867143
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.33367666  0.66669907  0.24775991  1
+  Cs  Cs1  1  0.66632334  0.33330093  0.75224009  1
+  La  La2  1  0.00000000  0.00000000  0.50000000  1
+  Np  Np3  1  0.00000000  0.00000000  0.00000000  1
+  Te  Te4  1  0.33263963  0.66679744  0.59971918  1
+  Te  Te5  1  0.66754345  0.33319954  0.09534854  1
+  Te  Te6  1  0.66736037  0.33320256  0.40028082  1
+  Te  Te7  1  0.33245655  0.66680046  0.90465146  1

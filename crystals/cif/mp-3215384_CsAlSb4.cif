@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CsAlSb4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28428428
+_cell_length_b   10.95102713
+_cell_length_c   18.83133666
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsAlSb4
+_chemical_formula_sum   'Cs4 Al4 Sb16'
+_cell_volume   883.51572305
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.75000000  0.17590672  0.43149666  1
+  Cs  Cs1  1  0.25000000  0.82409328  0.56850334  1
+  Cs  Cs2  1  0.75000000  0.67590672  0.06850334  1
+  Cs  Cs3  1  0.25000000  0.32409328  0.93149666  1
+  Al  Al4  1  0.75000000  0.32928438  0.63334932  1
+  Al  Al5  1  0.25000000  0.67071562  0.36665068  1
+  Al  Al6  1  0.75000000  0.82928438  0.86665068  1
+  Al  Al7  1  0.25000000  0.17071562  0.13334932  1
+  Sb  Sb8  1  0.75000000  0.81454228  0.38914694  1
+  Sb  Sb9  1  0.25000000  0.18545772  0.61085306  1
+  Sb  Sb10  1  0.75000000  0.31454228  0.11085306  1
+  Sb  Sb11  1  0.25000000  0.68545772  0.88914694  1
+  Sb  Sb12  1  0.75000000  0.41339943  0.76783945  1
+  Sb  Sb13  1  0.25000000  0.58660057  0.23216055  1
+  Sb  Sb14  1  0.75000000  0.91339943  0.73216055  1
+  Sb  Sb15  1  0.25000000  0.08660057  0.26783945  1
+  Sb  Sb16  1  0.75000000  0.52927012  0.54827815  1
+  Sb  Sb17  1  0.25000000  0.47072988  0.45172185  1
+  Sb  Sb18  1  0.75000000  0.02927012  0.95172185  1
+  Sb  Sb19  1  0.25000000  0.97072988  0.04827815  1
+  Sb  Sb20  1  0.75000000  0.91302338  0.24846242  1
+  Sb  Sb21  1  0.25000000  0.08697662  0.75153758  1
+  Sb  Sb22  1  0.75000000  0.41302338  0.25153758  1
+  Sb  Sb23  1  0.25000000  0.58697662  0.74846242  1

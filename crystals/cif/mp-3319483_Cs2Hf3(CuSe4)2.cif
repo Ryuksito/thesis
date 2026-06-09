@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Cs2Hf3(CuSe4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.85576370
+_cell_length_b   8.42591282
+_cell_length_c   13.41833781
+_cell_angle_alpha   93.52781917
+_cell_angle_beta   98.26055024
+_cell_angle_gamma   103.22666308
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Hf3(CuSe4)2
+_chemical_formula_sum   'Cs2 Hf3 Cu2 Se8'
+_cell_volume   417.95069081
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.86755266  0.53248508  0.20261725  1
+  Cs  Cs1  1  0.13244734  0.46751492  0.79738175  1
+  Hf  Hf2  1  0.50000000  0.00000000  0.00000000  1
+  Hf  Hf3  1  0.71524487  0.05312802  0.37736172  1
+  Hf  Hf4  1  0.28475413  0.94687198  0.62263728  1
+  Cu  Cu5  1  0.14376505  0.09049899  0.19703212  1
+  Cu  Cu6  1  0.85623395  0.90950201  0.80296688  1
+  Se  Se7  1  0.13382331  0.22441033  0.04323330  1
+  Se  Se8  1  0.54716272  0.90522661  0.18909883  1
+  Se  Se9  1  0.30984721  0.26870327  0.35099216  1
+  Se  Se10  1  0.13271862  0.84152541  0.42391282  1
+  Se  Se11  1  0.86728138  0.15847559  0.57608618  1
+  Se  Se12  1  0.69015379  0.73129773  0.64900884  1
+  Se  Se13  1  0.45283728  0.09477339  0.81090117  1
+  Se  Se14  1  0.86617569  0.77558867  0.95676570  1

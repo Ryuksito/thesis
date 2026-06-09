@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Na2In2Se3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.15859559
+_cell_length_b   7.16017906
+_cell_length_c   9.02327121
+_cell_angle_alpha   82.41862853
+_cell_angle_beta   82.39322020
+_cell_angle_gamma   120.01971120
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2In2Se3
+_chemical_formula_sum   'Na4 In4 Se6'
+_cell_volume   386.21114901
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.66770060  0.33276230  0.99992124  1
+  Na  Na1  1  0.33254751  0.66735751  0.00007432  1
+  Na  Na2  1  0.00012170  0.99999167  0.99998669  1
+  Na  Na3  1  0.50050529  0.50006791  0.49840682  1
+  In  In4  1  0.88559995  0.21888572  0.34222756  1
+  In  In5  1  0.78113097  0.11418415  0.65781893  1
+  In  In6  1  0.21903823  0.88582802  0.34245696  1
+  In  In7  1  0.11432925  0.78090344  0.65800602  1
+  Se  Se8  1  0.40653052  0.07982282  0.78188296  1
+  Se  Se9  1  0.07989026  0.40639731  0.78184820  1
+  Se  Se10  1  0.91900497  0.59348751  0.21923871  1
+  Se  Se11  1  0.73290631  0.73286040  0.78122992  1
+  Se  Se12  1  0.59353048  0.92025842  0.21800233  1
+  Se  Se13  1  0.26716397  0.26719481  0.21889932  1

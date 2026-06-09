@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaAcCuS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.24118636
+_cell_length_b   7.08999682
+_cell_length_c   11.21220626
+_cell_angle_alpha   89.99997393
+_cell_angle_beta   90.00000411
+_cell_angle_gamma   72.58608411
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaAcCuS3
+_chemical_formula_sum   'Ba2 Ac2 Cu2 S6'
+_cell_volume   321.69860082
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.74567767  0.50871657  0.24999990  1
+  Ba  Ba1  1  0.25432450  0.49128021  0.75000027  1
+  Ac  Ac2  1  0.00000126  0.99999851  0.00000000  1
+  Ac  Ac3  1  0.00000146  0.99999825  0.50000021  1
+  Cu  Cu4  1  0.46680590  0.06667157  0.25000010  1
+  Cu  Cu5  1  0.53319478  0.93332593  0.75000017  1
+  S  S6  1  0.36281330  0.27447844  0.08337890  1
+  S  S7  1  0.06747058  0.86525099  0.25000010  1
+  S  S8  1  0.36281347  0.27447824  0.41662117  1
+  S  S9  1  0.63717909  0.72552758  0.58338151  1
+  S  S10  1  0.93253203  0.13474609  0.74999998  1
+  S  S11  1  0.63717897  0.72552761  0.91661870  1

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba5Ga6F2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.80688980
+_cell_length_b   7.80688901
+_cell_length_c   14.57663500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000335
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba5Ga6F2
+_chemical_formula_sum   'Ba10 Ga12 F4'
+_cell_volume   769.38541645
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.68547704  0.01869331  0.76336357  1
+  Ba  Ba1  1  0.98130669  0.66678373  0.76336357  1
+  Ba  Ba2  1  0.33321627  0.31452296  0.76336357  1
+  Ba  Ba3  1  0.98130669  0.31452296  0.26336357  1
+  Ba  Ba4  1  0.33321627  0.01869331  0.26336357  1
+  Ba  Ba5  1  0.68547704  0.66678373  0.26336357  1
+  Ba  Ba6  1  0.66666700  0.33333300  0.53235204  1
+  Ba  Ba7  1  0.66666700  0.33333300  0.03235204  1
+  Ba  Ba8  1  0.00000000  0.00000000  0.49462552  1
+  Ba  Ba9  1  0.00000000  0.00000000  0.99462552  1
+  Ga  Ga10  1  0.14640847  0.45777807  0.58892400  1
+  Ga  Ga11  1  0.54222193  0.68863040  0.58892400  1
+  Ga  Ga12  1  0.31136960  0.85359153  0.58892400  1
+  Ga  Ga13  1  0.54222193  0.85359153  0.08892400  1
+  Ga  Ga14  1  0.31136960  0.45777807  0.08892400  1
+  Ga  Ga15  1  0.14640847  0.68863040  0.08892400  1
+  Ga  Ga16  1  0.12423854  0.47973050  0.93761840  1
+  Ga  Ga17  1  0.52026950  0.64450804  0.93761840  1
+  Ga  Ga18  1  0.35549196  0.87576146  0.93761840  1
+  Ga  Ga19  1  0.52026950  0.87576146  0.43761840  1
+  Ga  Ga20  1  0.35549196  0.47973050  0.43761840  1
+  Ga  Ga21  1  0.12423854  0.64450804  0.43761840  1
+  F  F22  1  0.00000000  0.00000000  0.81066959  1
+  F  F23  1  0.00000000  0.00000000  0.31066959  1
+  F  F24  1  0.66666700  0.33333300  0.71647193  1
+  F  F25  1  0.66666700  0.33333300  0.21647193  1

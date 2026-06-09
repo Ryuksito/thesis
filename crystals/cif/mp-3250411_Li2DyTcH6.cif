@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Li2DyTcH6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96359255
+_cell_length_b   4.96359149
+_cell_length_c   4.96359406
+_cell_angle_alpha   119.99986497
+_cell_angle_beta   119.99988369
+_cell_angle_gamma   60.00009346
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2DyTcH6
+_chemical_formula_sum   'Li2 Dy1 Tc1 H6'
+_cell_volume   86.47180922
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000174  0.50000105  0.49999786  1
+  Li  Li1  1  0.25000138  0.25000101  0.74999855  1
+  Dy  Dy2  1  0.74999977  0.74999899  0.24999830  1
+  Tc  Tc3  1  0.00000258  0.00000044  0.00000298  1
+  H  H4  1  0.24776306  0.24776342  0.24776277  1
+  H  H5  1  0.75223605  0.24776302  0.24776390  1
+  H  H6  1  0.24776305  0.75223609  0.24776387  1
+  H  H7  1  0.75223772  0.24776492  0.75223590  1
+  H  H8  1  0.24776391  0.75223712  0.75223540  1
+  H  H9  1  0.75223475  0.75223494  0.75223547  1

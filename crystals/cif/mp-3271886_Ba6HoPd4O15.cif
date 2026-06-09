@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba6HoPd4O15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.53169624
+_cell_length_b   7.46566371
+_cell_length_c   7.38111592
+_cell_angle_alpha   86.37514845
+_cell_angle_beta   86.61263524
+_cell_angle_gamma   85.40715573
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba6HoPd4O15
+_chemical_formula_sum   'Ba6 Ho1 Pd4 O15'
+_cell_volume   412.26395074
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.32179576  0.67107470  0.99874492  1
+  Ba  Ba1  1  0.00543428  0.33171867  0.67062022  1
+  Ba  Ba2  1  0.66930775  0.99327432  0.32640300  1
+  Ba  Ba3  1  0.13791980  0.86109050  0.50452613  1
+  Ba  Ba4  1  0.50388108  0.13698719  0.86137507  1
+  Ba  Ba5  1  0.85149981  0.50005720  0.13359753  1
+  Ho  Ho6  1  0.50297475  0.49845321  0.49928915  1
+  Pd  Pd7  1  0.29375806  0.29464334  0.29499087  1
+  Pd  Pd8  1  0.70165563  0.70510363  0.70878332  1
+  Pd  Pd9  1  0.10150793  0.09890658  0.09518666  1
+  Pd  Pd10  1  0.90242824  0.90547842  0.90146596  1
+  O  O11  1  0.17604793  0.01028723  0.85036054  1
+  O  O12  1  0.85884441  0.15655288  0.99683836  1
+  O  O13  1  0.00569112  0.85570121  0.15194479  1
+  O  O14  1  0.03851145  0.20461308  0.34218804  1
+  O  O15  1  0.34021898  0.03696889  0.20511099  1
+  O  O16  1  0.19973374  0.34124371  0.03560085  1
+  O  O17  1  0.79054947  0.96158343  0.65721310  1
+  O  O18  1  0.63772974  0.78677547  0.96949601  1
+  O  O19  1  0.95870202  0.65773728  0.79887562  1
+  O  O20  1  0.37620443  0.23437854  0.54515251  1
+  O  O21  1  0.54184471  0.36722241  0.23103739  1
+  O  O22  1  0.23509954  0.54520241  0.37567939  1
+  O  O23  1  0.76489451  0.62632131  0.45346252  1
+  O  O24  1  0.45393320  0.76476651  0.62423087  1
+  O  O25  1  0.62983265  0.45385687  0.76782418  1

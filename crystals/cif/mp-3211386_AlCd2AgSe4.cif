@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_AlCd2AgSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.93633202
+_cell_length_b   7.24841012
+_cell_length_c   8.51450934
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlCd2AgSe4
+_chemical_formula_sum   'Al2 Cd4 Ag2 Se8'
+_cell_volume   428.08721435
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.49109177  0.67689172  0.50000000  1
+  Al  Al1  1  0.99109177  0.32310828  0.00000000  1
+  Cd  Cd2  1  0.48690232  0.17441067  0.25291161  1
+  Cd  Cd3  1  0.98690232  0.82558933  0.75291161  1
+  Cd  Cd4  1  0.48690232  0.17441067  0.74708839  1
+  Cd  Cd5  1  0.98690232  0.82558933  0.24708839  1
+  Ag  Ag6  1  0.99014868  0.34239792  0.50000000  1
+  Ag  Ag7  1  0.49014868  0.65760208  0.00000000  1
+  Se  Se8  1  0.10750218  0.63438832  0.00000000  1
+  Se  Se9  1  0.60750218  0.36561168  0.50000000  1
+  Se  Se10  1  0.14620885  0.67790185  0.50000000  1
+  Se  Se11  1  0.64620885  0.32209815  0.00000000  1
+  Se  Se12  1  0.60350244  0.82440515  0.26559444  1
+  Se  Se13  1  0.10350244  0.17559485  0.76559444  1
+  Se  Se14  1  0.10350244  0.17559485  0.23440556  1
+  Se  Se15  1  0.60350244  0.82440515  0.73440556  1

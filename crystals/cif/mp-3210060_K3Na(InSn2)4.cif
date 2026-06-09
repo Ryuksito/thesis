@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_K3Na(InSn2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.48861238
+_cell_length_b   6.67762808
+_cell_length_c   11.66480218
+_cell_angle_alpha   90.12107643
+_cell_angle_beta   90.87686401
+_cell_angle_gamma   89.30851297
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Na(InSn2)4
+_chemical_formula_sum   'K3 Na1 In4 Sn8'
+_cell_volume   505.32191968
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.88176460  0.62183320  0.06419546  1
+  K  K1  1  0.61551749  0.37702303  0.56103537  1
+  K  K2  1  0.38294729  0.88256960  0.93763525  1
+  Na  Na3  1  0.11773498  0.11155740  0.43087831  1
+  In  In4  1  0.60863665  0.90272814  0.38971364  1
+  In  In5  1  0.89298019  0.10196631  0.88692053  1
+  In  In6  1  0.10049765  0.60030224  0.61340483  1
+  In  In7  1  0.39969526  0.39944357  0.11474949  1
+  Sn  Sn8  1  0.77016413  0.73517999  0.76337840  1
+  Sn  Sn9  1  0.73658527  0.26306009  0.26698757  1
+  Sn  Sn10  1  0.27800475  0.76753662  0.23883579  1
+  Sn  Sn11  1  0.21746846  0.23333629  0.73324626  1
+  Sn  Sn12  1  0.94646494  0.61141075  0.37759432  1
+  Sn  Sn13  1  0.55579486  0.38870180  0.87541863  1
+  Sn  Sn14  1  0.42925205  0.88856715  0.62076958  1
+  Sn  Sn15  1  0.06649143  0.11478081  0.12523656  1

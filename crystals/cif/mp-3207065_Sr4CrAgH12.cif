@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sr4CrAgH12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.59854845
+_cell_length_b   7.59854808
+_cell_length_c   5.62231857
+_cell_angle_alpha   90.00153741
+_cell_angle_beta   90.00153212
+_cell_angle_gamma   136.59686600
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4CrAgH12
+_chemical_formula_sum   'Sr4 Cr1 Ag1 H12'
+_cell_volume   223.05598225
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.15027595  0.84972405  0.50000000  1
+  Sr  Sr1  1  0.65082666  0.34917334  0.00000000  1
+  Sr  Sr2  1  0.84972405  0.15027595  0.50000000  1
+  Sr  Sr3  1  0.34917334  0.65082666  1.00000000  1
+  Cr  Cr4  1  0.50000000  0.50000000  0.50000000  1
+  Ag  Ag5  1  0.00000000  0.00000000  0.00000000  1
+  H  H6  1  0.99996293  0.49998129  0.74949940  1
+  H  H7  1  0.50001871  0.00003707  0.25050060  1
+  H  H8  1  0.00003707  0.50001871  0.25050060  1
+  H  H9  1  0.49998129  0.99996293  0.74949940  1
+  H  H10  1  0.37827685  0.62172315  0.50000000  1
+  H  H11  1  0.87622292  0.12377708  1.00000000  1
+  H  H12  1  0.62172315  0.37827685  0.50000000  1
+  H  H13  1  0.12377708  0.87622292  0.00000000  1
+  H  H14  1  0.28116047  0.28116047  0.71949309  1
+  H  H15  1  0.71883953  0.71883953  0.28050691  1
+  H  H16  1  0.28020234  0.28020234  0.28144236  1
+  H  H17  1  0.71979766  0.71979766  0.71855764  1

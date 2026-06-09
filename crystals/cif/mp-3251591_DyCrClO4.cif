@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_DyCrClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08979019
+_cell_length_b   6.08978979
+_cell_length_c   6.59484155
+_cell_angle_alpha   102.41645741
+_cell_angle_beta   102.41646019
+_cell_angle_gamma   71.32887379
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCrClO4
+_chemical_formula_sum   'Dy2 Cr2 Cl2 O8'
+_cell_volume   223.44020030
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.77612030  0.77612030  0.38565460  1
+  Dy  Dy1  1  0.22387970  0.22387970  0.61434640  1
+  Cr  Cr2  1  0.36131400  0.36131400  0.23127883  1
+  Cr  Cr3  1  0.63868600  0.63868600  0.76872017  1
+  Cl  Cl4  1  0.01484173  0.01484173  0.25968882  1
+  Cl  Cl5  1  0.98515827  0.98515827  0.74031218  1
+  O  O6  1  0.71310754  0.71310754  0.01895858  1
+  O  O7  1  0.53049524  0.53049524  0.27213686  1
+  O  O8  1  0.49271644  0.12686995  0.35252436  1
+  O  O9  1  0.12686995  0.49271644  0.35252436  1
+  O  O10  1  0.87313005  0.50728356  0.64747564  1
+  O  O11  1  0.50728356  0.87313005  0.64747564  1
+  O  O12  1  0.46950476  0.46950476  0.72786314  1
+  O  O13  1  0.28689246  0.28689246  0.98104242  1

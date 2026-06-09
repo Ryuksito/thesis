@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmPuO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50534856
+_cell_length_b   6.50534908
+_cell_length_c   5.43013220
+_cell_angle_alpha   67.18085576
+_cell_angle_beta   67.18084932
+_cell_angle_gamma   110.65585051
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmPuO4
+_chemical_formula_sum   'Sm2 Pu2 O8'
+_cell_volume   157.31488181
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.87508295  0.12491705  0.75000000  1
+  Sm  Sm1  1  0.12491705  0.87508295  0.25000000  1
+  Pu  Pu2  1  0.62488237  0.37511763  0.25000000  1
+  Pu  Pu3  1  0.37511763  0.62488237  0.75000000  1
+  O  O4  1  0.47390934  0.97393193  0.75687558  1
+  O  O5  1  0.26951487  0.26894247  0.75608494  1
+  O  O6  1  0.73105753  0.73048513  0.74391506  1
+  O  O7  1  0.97393193  0.47390934  0.25687558  1
+  O  O8  1  0.02606807  0.52609066  0.74312442  1
+  O  O9  1  0.26894247  0.26951487  0.25608494  1
+  O  O10  1  0.73048513  0.73105753  0.24391506  1
+  O  O11  1  0.52609066  0.02606807  0.24312442  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Cs2Cu3PtF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.80463928
+_cell_length_b   7.80471350
+_cell_length_c   7.80468361
+_cell_angle_alpha   53.87008163
+_cell_angle_beta   53.87004825
+_cell_angle_gamma   53.87024433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Cu3PtF12
+_chemical_formula_sum   'Cs2 Cu3 Pt1 F12'
+_cell_volume   288.00889370
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.88867242  0.88867275  0.88867219  1
+  Cs  Cs1  1  0.11132758  0.11132725  0.11132781  1
+  Cu  Cu2  1  0.50000000  0.50000000  0.00000000  1
+  Cu  Cu3  1  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu4  1  0.50000000  0.00000000  0.50000000  1
+  Pt  Pt5  1  0.50000000  0.50000000  0.50000000  1
+  F  F6  1  0.81678192  0.42369867  0.81680295  1
+  F  F7  1  0.81679059  0.81680125  0.42369492  1
+  F  F8  1  0.42369756  0.81678913  0.81679717  1
+  F  F9  1  0.18321808  0.57630133  0.18319705  1
+  F  F10  1  0.18320941  0.18319875  0.57630508  1
+  F  F11  1  0.57630244  0.18321087  0.18320283  1
+  F  F12  1  0.42034535  0.82120837  0.42034468  1
+  F  F13  1  0.42033533  0.42033685  0.82123351  1
+  F  F14  1  0.82119587  0.42034086  0.42035004  1
+  F  F15  1  0.57965465  0.17879163  0.57965532  1
+  F  F16  1  0.57966467  0.57966315  0.17876649  1
+  F  F17  1  0.17880413  0.57965914  0.57964996  1

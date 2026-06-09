@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ca3AgBi2H
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.63650938
+_cell_length_b   12.42032253
+_cell_length_c   12.65696659
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3AgBi2H
+_chemical_formula_sum   'Ca12 Ag4 Bi8 H4'
+_cell_volume   728.87599966
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.25000000  0.06553974  0.62912855  1
+  Ca  Ca1  1  0.25000000  0.56553974  0.87087145  1
+  Ca  Ca2  1  0.75000000  0.93446026  0.37087145  1
+  Ca  Ca3  1  0.75000000  0.43446026  0.12912855  1
+  Ca  Ca4  1  0.25000000  0.35722022  0.55945137  1
+  Ca  Ca5  1  0.25000000  0.85722022  0.94054863  1
+  Ca  Ca6  1  0.75000000  0.64277978  0.44054863  1
+  Ca  Ca7  1  0.75000000  0.14277978  0.05945137  1
+  Ca  Ca8  1  0.25000000  0.23040719  0.28501880  1
+  Ca  Ca9  1  0.25000000  0.73040719  0.21498120  1
+  Ca  Ca10  1  0.75000000  0.76959281  0.71498120  1
+  Ca  Ca11  1  0.75000000  0.26959281  0.78501880  1
+  Ag  Ag12  1  0.25000000  0.11972622  0.88344939  1
+  Ag  Ag13  1  0.25000000  0.61972622  0.61655061  1
+  Ag  Ag14  1  0.75000000  0.88027378  0.11655061  1
+  Ag  Ag15  1  0.75000000  0.38027378  0.38344939  1
+  Bi  Bi16  1  0.25000000  0.49505590  0.31689140  1
+  Bi  Bi17  1  0.25000000  0.99505590  0.18310860  1
+  Bi  Bi18  1  0.75000000  0.50494410  0.68310860  1
+  Bi  Bi19  1  0.75000000  0.00494410  0.81689140  1
+  Bi  Bi20  1  0.25000000  0.32327074  0.98559794  1
+  Bi  Bi21  1  0.25000000  0.82327074  0.51440206  1
+  Bi  Bi22  1  0.75000000  0.67672926  0.01440206  1
+  Bi  Bi23  1  0.75000000  0.17672926  0.48559794  1
+  H  H24  1  0.25000000  0.24252010  0.70494948  1
+  H  H25  1  0.25000000  0.74252010  0.79505052  1
+  H  H26  1  0.75000000  0.75747990  0.29505052  1
+  H  H27  1  0.75000000  0.25747990  0.20494948  1

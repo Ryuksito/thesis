@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Na2Sr2IrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72184257
+_cell_length_b   6.72184276
+_cell_length_c   6.71021070
+_cell_angle_alpha   88.82699481
+_cell_angle_beta   88.82699460
+_cell_angle_gamma   90.36342467
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Sr2IrO6
+_chemical_formula_sum   'Na4 Sr4 Ir2 O12'
+_cell_volume   303.05458911
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.74426774  0.25573226  0.00000000  1
+  Na  Na1  1  0.25183763  0.74816237  0.50000000  1
+  Na  Na2  1  0.74484639  0.59840381  0.35200620  1
+  Na  Na3  1  0.40159619  0.25515361  0.64799380  1
+  Sr  Sr4  1  0.10831942  0.89168058  0.00000000  1
+  Sr  Sr5  1  0.60814114  0.74656122  0.85584896  1
+  Sr  Sr6  1  0.88991844  0.11008156  0.50000000  1
+  Sr  Sr7  1  0.25343878  0.39185886  0.14415104  1
+  Ir  Ir8  1  0.50058678  0.99868541  0.25534092  1
+  Ir  Ir9  1  0.00131459  0.49941322  0.74465908  1
+  O  O10  1  0.57486868  0.27092438  0.30705782  1
+  O  O11  1  0.44635921  0.07597256  0.97776958  1
+  O  O12  1  0.77552794  0.94418650  0.17403885  1
+  O  O13  1  0.27621896  0.57746626  0.80469565  1
+  O  O14  1  0.94808106  0.78105969  0.67841993  1
+  O  O15  1  0.07434329  0.45006084  0.47021389  1
+  O  O16  1  0.42253374  0.72378104  0.19530435  1
+  O  O17  1  0.54993916  0.92565671  0.52978611  1
+  O  O18  1  0.21894031  0.05191894  0.32158007  1
+  O  O19  1  0.72907562  0.42513132  0.69294218  1
+  O  O20  1  0.05581350  0.22447206  0.82596115  1
+  O  O21  1  0.92402744  0.55364079  0.02223042  1

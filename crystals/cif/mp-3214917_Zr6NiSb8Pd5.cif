@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Zr6NiSb8Pd5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.11908894
+_cell_length_b   8.11908910
+_cell_length_c   8.11908830
+_cell_angle_alpha   109.23432034
+_cell_angle_beta   109.23432185
+_cell_angle_gamma   109.94605911
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr6NiSb8Pd5
+_chemical_formula_sum   'Zr6 Ni1 Sb8 Pd5'
+_cell_volume   411.98141229
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.62500000  0.37500000  0.25000000  1
+  Zr  Zr1  1  0.36672396  0.24204589  0.61509015  1
+  Zr  Zr2  1  0.12695574  0.75163281  0.88490985  1
+  Zr  Zr3  1  0.75795411  0.87304426  0.12467807  1
+  Zr  Zr4  1  0.24836719  0.63327604  0.37532193  1
+  Zr  Zr5  1  0.87500000  0.12500000  0.75000000  1
+  Ni  Ni6  1  0.12500000  0.87500000  0.25000000  1
+  Sb  Sb7  1  0.49995135  0.00100524  0.82453175  1
+  Sb  Sb8  1  0.17351157  0.16456578  0.17651778  1
+  Sb  Sb9  1  0.83543422  0.51195201  0.00894579  1
+  Sb  Sb10  1  0.00300521  0.82648843  0.49105421  1
+  Sb  Sb11  1  0.32458040  0.50004865  0.00105289  1
+  Sb  Sb12  1  0.99899476  0.32352751  0.49894711  1
+  Sb  Sb13  1  0.48804799  0.99699479  0.32348222  1
+  Sb  Sb14  1  0.67647249  0.67541960  0.67546825  1
+  Pd  Pd15  1  0.87793063  0.25085207  0.12447966  1
+  Pd  Pd16  1  0.37500000  0.62500000  0.75000000  1
+  Pd  Pd17  1  0.62637241  0.75345097  0.37552034  1
+  Pd  Pd18  1  0.74914793  0.37362759  0.62707856  1
+  Pd  Pd19  1  0.24654903  0.12206937  0.87292144  1

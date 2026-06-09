@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Na5TcO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96608929
+_cell_length_b   5.96608811
+_cell_length_c   10.02816045
+_cell_angle_alpha   79.64781398
+_cell_angle_beta   79.64781691
+_cell_angle_gamma   117.37948042
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na5TcO5
+_chemical_formula_sum   'Na10 Tc2 O10'
+_cell_volume   297.40680534
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.75483405  0.93043396  0.58275740  1
+  Na  Na1  1  0.48864631  0.76825099  0.94887172  1
+  Na  Na2  1  0.58459525  0.41540475  0.75000000  1
+  Na  Na3  1  0.93043396  0.75483405  0.08275740  1
+  Na  Na4  1  0.76825099  0.48864631  0.44887172  1
+  Na  Na5  1  0.23174901  0.51135369  0.55112828  1
+  Na  Na6  1  0.06956604  0.24516595  0.91724260  1
+  Na  Na7  1  0.41540475  0.58459525  0.25000000  1
+  Na  Na8  1  0.51135369  0.23174901  0.05112828  1
+  Na  Na9  1  0.24516595  0.06956604  0.41724260  1
+  Tc  Tc10  1  0.15444866  0.84555134  0.75000000  1
+  Tc  Tc11  1  0.84555134  0.15444866  0.25000000  1
+  O  O12  1  0.81815570  0.67635786  0.87776253  1
+  O  O13  1  0.98898463  0.69919456  0.60164341  1
+  O  O14  1  0.67635786  0.81815570  0.37776253  1
+  O  O15  1  0.69919456  0.98898463  0.10164341  1
+  O  O16  1  0.33637882  0.66362118  0.75000000  1
+  O  O17  1  0.66362118  0.33637882  0.25000000  1
+  O  O18  1  0.30080544  0.01101537  0.89835659  1
+  O  O19  1  0.32364214  0.18184430  0.62223747  1
+  O  O20  1  0.01101537  0.30080544  0.39835659  1
+  O  O21  1  0.18184430  0.32364214  0.12223747  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K6ErAlAs4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.12795808
+_cell_length_b   9.12795851
+_cell_length_c   9.12795846
+_cell_angle_alpha   128.24720877
+_cell_angle_beta   69.89219027
+_cell_angle_gamma   136.44655889
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K6ErAlAs4
+_chemical_formula_sum   'K6 Er1 Al1 As4'
+_cell_volume   403.74752860
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.79114069  0.17464239  0.00402402  1
+  K  K1  1  0.70885931  0.71288233  0.38350071  1
+  K  K2  1  0.75000000  0.25000000  0.50000000  1
+  K  K3  1  0.25000000  0.75000100  0.50000100  1
+  K  K4  1  0.32938163  0.32535761  0.61649829  1
+  K  K5  1  0.17061837  0.78711567  0.99597498  1
+  Er  Er6  1  0.25000000  0.25000000  0.00000000  1
+  Al  Al7  1  0.75000000  0.75000000  0.00000000  1
+  As  As8  1  0.42482550  0.70716328  0.08982965  1
+  As  As9  1  0.07517450  0.16500415  0.28233778  1
+  As  As10  1  0.88266637  0.79283572  0.71766122  1
+  As  As11  1  0.61733363  0.33499585  0.91017135  1

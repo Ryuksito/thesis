@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Cs2Mn2BeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.52791932
+_cell_length_b   7.52791919
+_cell_length_c   5.80192995
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   134.38494985
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Mn2BeS4
+_chemical_formula_sum   'Cs2 Mn2 Be1 S4'
+_cell_volume   234.97393870
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.50000000  0.00000000  0.23752628  1
+  Cs  Cs1  1  0.00000000  0.50000000  0.76247372  1
+  Mn  Mn2  1  0.00000000  0.00000000  0.50000000  1
+  Mn  Mn3  1  0.50000000  0.50000000  0.00000000  1
+  Be  Be4  1  0.50000000  0.50000000  0.50000000  1
+  S  S5  1  0.19329962  0.37309643  0.28359599  1
+  S  S6  1  0.62690357  0.80670038  0.71640401  1
+  S  S7  1  0.80670038  0.62690357  0.28359599  1
+  S  S8  1  0.37309643  0.19329962  0.71640401  1

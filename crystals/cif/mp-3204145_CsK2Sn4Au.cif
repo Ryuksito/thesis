@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CsK2Sn4Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65949183
+_cell_length_b   7.43364159
+_cell_length_c   12.29918185
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsK2Sn4Au
+_chemical_formula_sum   'Cs2 K4 Sn8 Au2'
+_cell_volume   608.86208575
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.56549698  0.00000000  0.00000000  1
+  Cs  Cs1  1  0.43450302  0.50000000  0.50000000  1
+  K  K2  1  0.84321481  0.50000000  0.74022314  1
+  K  K3  1  0.84321481  0.50000000  0.25977686  1
+  K  K4  1  0.15678519  0.00000000  0.75977686  1
+  K  K5  1  0.15678519  0.00000000  0.24022314  1
+  Sn  Sn6  1  0.34310007  0.50000000  0.87363149  1
+  Sn  Sn7  1  0.34310007  0.50000000  0.12636851  1
+  Sn  Sn8  1  0.04843000  0.29112035  0.00000000  1
+  Sn  Sn9  1  0.04843000  0.70887965  0.00000000  1
+  Sn  Sn10  1  0.95157000  0.79112035  0.50000000  1
+  Sn  Sn11  1  0.95157000  0.20887965  0.50000000  1
+  Sn  Sn12  1  0.65689993  0.00000000  0.37363149  1
+  Sn  Sn13  1  0.65689993  0.00000000  0.62636851  1
+  Au  Au14  1  0.69411842  0.50000000  0.00000000  1
+  Au  Au15  1  0.30588158  0.00000000  0.50000000  1

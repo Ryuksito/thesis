@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NpZn(SeO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43764451
+_cell_length_b   5.87773529
+_cell_length_c   7.45985832
+_cell_angle_alpha   72.47163755
+_cell_angle_beta   75.16488253
+_cell_angle_gamma   100.83197252
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NpZn(SeO5)2
+_chemical_formula_sum   'Np1 Zn1 Se2 O10'
+_cell_volume   210.49482227
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Np  Np0  1  0.00000000  0.00000000  0.00000000  1
+  Zn  Zn1  1  0.00000000  0.00000000  0.50000000  1
+  Se  Se2  1  0.33217233  0.67465428  0.72185065  1
+  Se  Se3  1  0.66782767  0.32534572  0.27814935  1
+  O  O4  1  0.31015030  0.83022731  0.87778957  1
+  O  O5  1  0.68984970  0.16977269  0.12221043  1
+  O  O6  1  0.09217210  0.67996985  0.62670653  1
+  O  O7  1  0.90782790  0.32003015  0.37329347  1
+  O  O8  1  0.28972918  0.38350447  0.86832104  1
+  O  O9  1  0.71027082  0.61649553  0.13167896  1
+  O  O10  1  0.62623331  0.78006528  0.55154969  1
+  O  O11  1  0.37376669  0.21993472  0.44845031  1
+  O  O12  1  0.90957353  0.04780399  0.77862833  1
+  O  O13  1  0.09042647  0.95219601  0.22137167  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaTcH4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.54832190
+_cell_length_b   6.54832187
+_cell_length_c   5.22664857
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.45986119
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaTcH4
+_chemical_formula_sum   'La2 Tc2 H8'
+_cell_volume   123.83179059
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.13306920  0.86693080  0.28246163  1
+  La  La1  1  0.86693080  0.13306920  0.78246163  1
+  Tc  Tc2  1  0.40677074  0.59322926  0.28649464  1
+  Tc  Tc3  1  0.59322926  0.40677074  0.78649464  1
+  H  H4  1  0.31219555  0.68780445  0.04804763  1
+  H  H5  1  0.68780445  0.31219555  0.54804763  1
+  H  H6  1  0.30381899  0.69618101  0.50499138  1
+  H  H7  1  0.69618101  0.30381899  0.00499138  1
+  H  H8  1  0.08679474  0.91320526  0.78273994  1
+  H  H9  1  0.91320526  0.08679474  0.28273994  1
+  H  H10  1  0.52636241  0.47363759  0.09426277  1
+  H  H11  1  0.47363759  0.52636241  0.59426277  1

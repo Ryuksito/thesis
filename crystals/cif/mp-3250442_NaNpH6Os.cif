@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_NaNpH6Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06170555
+_cell_length_b   5.06170625
+_cell_length_c   5.06170740
+_cell_angle_alpha   59.99999896
+_cell_angle_beta   59.99999435
+_cell_angle_gamma   60.00000834
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaNpH6Os
+_chemical_formula_sum   'Na1 Np1 H6 Os1'
+_cell_volume   91.70137752
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.75000000  0.75000000  0.75000000  1
+  Np  Np1  1  0.25000000  0.25000000  0.25000000  1
+  H  H2  1  0.75999686  0.24000314  0.24000314  1
+  H  H3  1  0.24000314  0.75999686  0.75999686  1
+  H  H4  1  0.24000314  0.75999686  0.24000314  1
+  H  H5  1  0.75999686  0.24000314  0.75999686  1
+  H  H6  1  0.24000314  0.24000314  0.75999686  1
+  H  H7  1  0.75999686  0.75999686  0.24000314  1
+  Os  Os8  1  0.00000000  0.00000000  0.00000000  1

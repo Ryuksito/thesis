@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_TbPaTeN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.88862321
+_cell_length_b   6.88862186
+_cell_length_c   6.88862400
+_cell_angle_alpha   146.45422977
+_cell_angle_beta   146.45420680
+_cell_angle_gamma   48.17258494
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbPaTeN2
+_chemical_formula_sum   'Tb1 Pa1 Te1 N2'
+_cell_volume   99.40872262
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.33929098  0.33929098  1.00000000  1
+  Pa  Pa1  1  0.67016907  0.67016907  0.00000000  1
+  Te  Te2  1  0.00184783  0.00184783  1.00000000  1
+  N  N3  1  0.74434556  0.24434556  0.50000000  1
+  N  N4  1  0.24434556  0.74434556  0.50000000  1

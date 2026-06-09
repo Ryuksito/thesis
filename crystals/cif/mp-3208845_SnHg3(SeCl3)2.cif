@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SnHg3(SeCl3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.70986877
+_cell_length_b   6.81252188
+_cell_length_c   13.37831973
+_cell_angle_alpha   89.91127554
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnHg3(SeCl3)2
+_chemical_formula_sum   'Sn2 Hg6 Se4 Cl12'
+_cell_volume   702.67733646
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.00000000  0.50000000  0.00000000  1
+  Sn  Sn1  1  0.50000000  0.50000000  0.50000000  1
+  Hg  Hg2  1  0.26560456  0.00425990  0.74550218  1
+  Hg  Hg3  1  0.00000000  0.00000000  0.50000000  1
+  Hg  Hg4  1  0.76560456  0.99574010  0.75449782  1
+  Hg  Hg5  1  0.73439544  0.99574010  0.25449782  1
+  Hg  Hg6  1  0.23439544  0.00425990  0.24550218  1
+  Hg  Hg7  1  0.50000000  0.00000000  0.00000000  1
+  Se  Se8  1  0.98678315  0.17668842  0.33342729  1
+  Se  Se9  1  0.01321685  0.82331158  0.66657271  1
+  Se  Se10  1  0.51321685  0.17668842  0.83342729  1
+  Se  Se11  1  0.48678315  0.82331158  0.16657271  1
+  Cl  Cl12  1  0.21779660  0.71632449  0.92438118  1
+  Cl  Cl13  1  0.71779660  0.28367551  0.57561882  1
+  Cl  Cl14  1  0.23612119  0.31075302  0.07742410  1
+  Cl  Cl15  1  0.26387881  0.31075302  0.57742410  1
+  Cl  Cl16  1  0.51264983  0.70631159  0.65017108  1
+  Cl  Cl17  1  0.98735017  0.70631159  0.15017108  1
+  Cl  Cl18  1  0.48735017  0.29368841  0.34982892  1
+  Cl  Cl19  1  0.76387881  0.68924698  0.92257590  1
+  Cl  Cl20  1  0.28220340  0.71632449  0.42438118  1
+  Cl  Cl21  1  0.01264983  0.29368841  0.84982892  1
+  Cl  Cl22  1  0.78220340  0.28367551  0.07561882  1
+  Cl  Cl23  1  0.73612119  0.68924698  0.42257590  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Be4BIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08157810
+_cell_length_b   4.08157789
+_cell_length_c   4.08157780
+_cell_angle_alpha   60.98696273
+_cell_angle_beta   60.98696473
+_cell_angle_gamma   60.98696108
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be4BIr
+_chemical_formula_sum   'Be4 B1 Ir1'
+_cell_volume   49.14951673
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.87296183  0.37580576  0.37580576  1
+  Be  Be1  1  0.37580576  0.87296183  0.37580576  1
+  Be  Be2  1  0.74940440  0.74940440  0.74940440  1
+  Be  Be3  1  0.37580576  0.37580576  0.87296183  1
+  B  B4  1  0.37689544  0.37689544  0.37689544  1
+  Ir  Ir5  1  0.99912781  0.99912781  0.99912781  1

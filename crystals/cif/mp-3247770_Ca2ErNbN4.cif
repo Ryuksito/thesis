@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ca2ErNbN4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82973842
+_cell_length_b   5.85128486
+_cell_length_c   4.88019694
+_cell_angle_alpha   65.28532238
+_cell_angle_beta   65.53482117
+_cell_angle_gamma   49.38299127
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2ErNbN4
+_chemical_formula_sum   'Ca2 Er1 Nb1 N4'
+_cell_volume   112.33052264
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.25067767  0.24932492  0.24931486  1
+  Ca  Ca1  1  0.50586945  0.49412877  0.49413769  1
+  Er  Er2  1  0.75582665  0.74416428  0.74413345  1
+  Nb  Nb3  1  0.04384956  0.95616177  0.95616948  1
+  N  N4  1  0.99859251  0.98651890  0.56559020  1
+  N  N5  1  0.19881832  0.23838498  0.78981533  1
+  N  N6  1  0.44932850  0.56554726  0.98655863  1
+  N  N7  1  0.77297034  0.78983411  0.23834737  1

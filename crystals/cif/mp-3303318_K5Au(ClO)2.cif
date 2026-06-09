@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_K5Au(ClO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26349844
+_cell_length_b   7.06867597
+_cell_length_c   13.61296004
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K5Au(ClO)2
+_chemical_formula_sum   'K10 Au2 Cl4 O4'
+_cell_volume   506.48331441
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.31220501  0.60786851  1
+  K  K1  1  0.50000000  0.18779499  0.10786851  1
+  K  K2  1  0.00000000  0.61812854  0.73051792  1
+  K  K3  1  0.00000000  0.50000000  0.00000000  1
+  K  K4  1  0.50000000  0.68779499  0.39213149  1
+  K  K5  1  0.50000000  0.81220501  0.89213149  1
+  K  K6  1  0.00000000  0.88187146  0.23051792  1
+  K  K7  1  0.00000000  0.38187146  0.26948208  1
+  K  K8  1  0.00000000  0.11812854  0.76948208  1
+  K  K9  1  0.00000000  0.00000000  0.50000000  1
+  Au  Au10  1  0.00000000  0.50000000  0.50000000  1
+  Au  Au11  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl12  1  0.50000000  0.62689533  0.15324745  1
+  Cl  Cl13  1  0.50000000  0.37310467  0.84675255  1
+  Cl  Cl14  1  0.50000000  0.12689533  0.34675255  1
+  Cl  Cl15  1  0.50000000  0.87310467  0.65324745  1
+  O  O16  1  0.00000000  0.68456166  0.38743549  1
+  O  O17  1  0.00000000  0.81543834  0.88743549  1
+  O  O18  1  0.00000000  0.18456166  0.11256451  1
+  O  O19  1  0.00000000  0.31543834  0.61256451  1

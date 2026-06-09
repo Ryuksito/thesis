@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_BaSr11(ScAs3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.52847772
+_cell_length_b   12.93767863
+_cell_length_c   14.50703309
+_cell_angle_alpha   90.18257487
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSr11(ScAs3)4
+_chemical_formula_sum   'Ba1 Sr11 Sc4 As12'
+_cell_volume   849.93358689
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25000000  0.84497493  0.49552894  1
+  Sr  Sr1  1  0.25000000  0.35026793  0.99960649  1
+  Sr  Sr2  1  0.75000000  0.14890358  0.49915493  1
+  Sr  Sr3  1  0.75000000  0.23113253  0.20918403  1
+  Sr  Sr4  1  0.75000000  0.42796454  0.40160798  1
+  Sr  Sr5  1  0.25000000  0.57087260  0.60273500  1
+  Sr  Sr6  1  0.75000000  0.92941959  0.09959317  1
+  Sr  Sr7  1  0.25000000  0.07411979  0.90012195  1
+  Sr  Sr8  1  0.25000000  0.27040675  0.70978503  1
+  Sr  Sr9  1  0.75000000  0.72851944  0.28542592  1
+  Sr  Sr10  1  0.25000000  0.77029297  0.79599004  1
+  Sr  Sr11  1  0.75000000  0.64751723  0.00010070  1
+  Sc  Sc12  1  0.75000000  0.94973399  0.70679518  1
+  Sc  Sc13  1  0.25000000  0.05333022  0.29252152  1
+  Sc  Sc14  1  0.25000000  0.54828869  0.20329628  1
+  Sc  Sc15  1  0.75000000  0.45042857  0.79693960  1
+  As  As16  1  0.75000000  0.45934094  0.14508652  1
+  As  As17  1  0.25000000  0.54005377  0.85556121  1
+  As  As18  1  0.75000000  0.96214999  0.34537029  1
+  As  As19  1  0.25000000  0.04095262  0.64840734  1
+  As  As20  1  0.75000000  0.40128288  0.61838566  1
+  As  As21  1  0.25000000  0.59762458  0.38139713  1
+  As  As22  1  0.75000000  0.90369656  0.88477786  1
+  As  As23  1  0.25000000  0.10185094  0.11545370  1
+  As  As24  1  0.75000000  0.26234523  0.86925238  1
+  As  As25  1  0.25000000  0.73692013  0.12903735  1
+  As  As26  1  0.75000000  0.75785172  0.63901913  1
+  As  As27  1  0.25000000  0.23975628  0.36986267  1

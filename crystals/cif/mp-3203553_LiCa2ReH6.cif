@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiCa2ReH6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18643012
+_cell_length_b   5.18644403
+_cell_length_c   5.18644487
+_cell_angle_alpha   59.99960270
+_cell_angle_beta   60.00010278
+_cell_angle_gamma   89.99997330
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCa2ReH6
+_chemical_formula_sum   'Li1 Ca2 Re1 H6'
+_cell_volume   98.64865359
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000493  0.50000106  0.99999693  1
+  Ca  Ca1  1  0.25000155  0.74999897  0.50000160  1
+  Ca  Ca2  1  0.75000409  0.24999896  0.49999947  1
+  Re  Re3  1  0.99999060  0.00001431  0.99999077  1
+  H  H4  1  0.24218025  0.24217746  0.00000272  1
+  H  H5  1  0.75782105  0.24217781  0.00000276  1
+  H  H6  1  0.24218118  0.75782066  0.00000181  1
+  H  H7  1  0.75782228  0.75782048  0.00000179  1
+  H  H8  1  0.75782396  0.75782103  0.48435664  1
+  H  H9  1  0.24218110  0.24217827  0.51564050  1

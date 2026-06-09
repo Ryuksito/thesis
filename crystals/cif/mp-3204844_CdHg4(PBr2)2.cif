@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_CdHg4(PBr2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.42333505
+_cell_length_b   7.75998410
+_cell_length_c   7.85913468
+_cell_angle_alpha   62.29203005
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdHg4(PBr2)2
+_chemical_formula_sum   'Cd2 Hg8 P4 Br8'
+_cell_volume   670.77741200
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.82970095  0.99953697  0.00133360  1
+  Cd  Cd1  1  0.32970095  0.00046303  0.99866640  1
+  Hg  Hg2  1  0.79196909  0.67000549  0.66940368  1
+  Hg  Hg3  1  0.54855900  0.02315100  0.56522870  1
+  Hg  Hg4  1  0.04855900  0.97684900  0.43477130  1
+  Hg  Hg5  1  0.55717901  0.51516797  0.05326883  1
+  Hg  Hg6  1  0.29196909  0.32999451  0.33059632  1
+  Hg  Hg7  1  0.02320118  0.47779297  0.44789792  1
+  Hg  Hg8  1  0.52320118  0.52220703  0.55210208  1
+  Hg  Hg9  1  0.05717901  0.48483203  0.94673117  1
+  P  P10  1  0.48251699  0.34910476  0.37259113  1
+  P  P11  1  0.60177262  0.68678892  0.71681024  1
+  P  P12  1  0.98251699  0.65089524  0.62740887  1
+  P  P13  1  0.10177262  0.31321108  0.28318976  1
+  Br  Br14  1  0.24701676  0.33284511  0.75012267  1
+  Br  Br15  1  0.30837281  0.72194835  0.90430660  1
+  Br  Br16  1  0.03911770  0.90166774  0.06398632  1
+  Br  Br17  1  0.74701676  0.66715489  0.24987733  1
+  Br  Br18  1  0.53911770  0.09833226  0.93601368  1
+  Br  Br19  1  0.80837281  0.27805165  0.09569340  1
+  Br  Br20  1  0.80932288  0.12197418  0.63320708  1
+  Br  Br21  1  0.30932288  0.87802582  0.36679292  1

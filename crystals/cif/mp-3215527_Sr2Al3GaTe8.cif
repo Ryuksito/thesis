@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr2Al3GaTe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81957528
+_cell_length_b   6.82252612
+_cell_length_c   11.89383063
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.58101878
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Al3GaTe8
+_chemical_formula_sum   'Sr2 Al3 Ga1 Te8'
+_cell_volume   476.41162267
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50063720  0.50027414  0.25010669  1
+  Sr  Sr1  1  0.50063720  0.50027414  0.74989331  1
+  Al  Al2  1  0.24246265  0.75893701  0.50000000  1
+  Al  Al3  1  0.24137812  0.75683436  0.00000000  1
+  Al  Al4  1  0.75931383  0.24370640  0.00000000  1
+  Ga  Ga5  1  0.75696065  0.23959392  0.50000000  1
+  Te  Te6  1  0.65778758  0.81757205  0.00000000  1
+  Te  Te7  1  0.34297867  0.18303366  0.00000000  1
+  Te  Te8  1  0.81575924  0.65686898  0.50000000  1
+  Te  Te9  1  0.18439458  0.34367521  0.50000000  1
+  Te  Te10  1  0.49829903  0.99928749  0.67060863  1
+  Te  Te11  1  0.00054662  0.50032757  0.82939997  1
+  Te  Te12  1  0.49829903  0.99928749  0.32939137  1
+  Te  Te13  1  0.00054662  0.50032757  0.17060003  1
